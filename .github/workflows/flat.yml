@@ -20,6 +20,6 @@ jobs:
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
-          http_url: https://gbfs.capitalbikeshare.com/gbfs/en/rawstation_information.json
-          downloaded_filename: station_information.json
+          http_url: https://gbfs.capitalbikeshare.com/gbfs/en/station_information.json
+          downloaded_filename: raw_station_information.json
           postprocess: ./.github/workflows/postprocess.js
