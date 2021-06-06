@@ -10,9 +10,25 @@ console.log(json)
 // Step 2: Filter specific data we want to keep and write to a new JSON file
 const stations = Object.values(json.data.stations); // convert property values into an array
 
+// Restructure JSON as GeoJSON
+const geojson = {
+    'type': 'FeatureCollection',
+    'features': stations.map(station => {
+        return {
+            'type': 'Feature',
+            'properties': station,
+            'geometry': {
+                'type': 'Point',
+                'coordinates': [station.lon, station.lat]
+            }
+        }
+    })
+}
+
 // Step 3. Write a new JSON file with our filtered data
 const newFilename = `station_information.json` // name of a new file to be saved
 await Deno.writeTextFile(newFilename, JSON.stringify(stations, null, 4)) // create a new JSON file with just the stations
+await Deno.writeTextFile('station_information.geojson', JSON.stringify(geojson, null, 4)) // create a new JSON file with just the stations
 await writeCSV('station_information.csv', stations)
 console.log("Wrote a post process file")
 
