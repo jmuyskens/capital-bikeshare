@@ -11,7 +11,7 @@ console.log(json)
 const stations = Object.values(json.data.stations); // convert property values into an array
 
 // Step 3. Write a new JSON file with our filtered data
-const newFilename = `stations.json` // name of a new file to be saved
+const newFilename = `station_information.json` // name of a new file to be saved
 await Deno.writeTextFile(newFilename, JSON.stringify(stations, null, 4)) // create a new JSON file with just the stations
 await writeCSV('station_information.csv', stations)
 console.log("Wrote a post process file")
