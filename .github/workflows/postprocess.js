@@ -8,7 +8,10 @@ const json = await readJSON(filename)
 console.log(json)
 
 // Step 2: Filter specific data we want to keep and write to a new JSON file
-const stations = Object.values(json.data.stations); // convert property values into an array
+const stations = json.data.stations.map(station => {
+    station.rental_methods.sort()
+    return station
+})
 
 // Restructure JSON as GeoJSON
 const geojson = {
