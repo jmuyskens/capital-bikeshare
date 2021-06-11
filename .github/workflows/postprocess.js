@@ -1,7 +1,7 @@
 // Helper library written for useful postprocessing tasks with Flat Data
 // Has helper functions for manipulating csv, txt, json, excel, zip, and image files
 import { readJSON } from 'https://deno.land/x/flat@0.0.10/src/json.ts'
-import { writeCSV } from 'https://deno.land/x/flat@0.0.10/src/csv.ts'
+import { DataItem, stringify } from 'https://deno.land/std@0.92.0/encoding/csv.ts';
 
 // Step 1: Read the downloaded_filename JSON
 const filename = Deno.args[0] // Same name as downloaded_filename `const filename = 'btc-price.json';`
@@ -29,11 +29,28 @@ const geojson = {
     })
 }
 
+// Sort keys so JSON output will have keys in stable order
+sortedKeys = Object.keys(stations[0]).sort()
+
+// modified version of https://deno.land/x/flat@0.0.10/src/csv.ts
+async function writeStableCSV(path: string, data: Record<string, unknown>[] | string) {
+    if (typeof data === 'string') {
+        await Deno.writeTextFile(path, data);
+        return
+    }
+    // sort headers
+    const headers = Object.keys(data[0]).sort()
+    // we have to stringify the data with a row header
+    const dataString = await stringify(data as DataItem[], headers)
+
+    await Deno.writeTextFile(path, dataString);
+}
+
 // Step 3. Write a new JSON file with our filtered data
 const newFilename = `station_information.json` // name of a new file to be saved
-await Deno.writeTextFile(newFilename, JSON.stringify(stations, null, 4)) // create a new JSON file with just the stations
-await Deno.writeTextFile('station_information.geojson', JSON.stringify(geojson, null, 4)) // create a new JSON file with just the stations
-await writeCSV('station_information.csv', stations)
+await Deno.writeTextFile(newFilename, JSON.stringify(stations, sortedKeys, 4)) // create a new JSON file with just the stations
+await Deno.writeTextFile('station_information.geojson', JSON.stringify(geojson, sortedKeys, 4)) // create a new JSON file with just the stations
+await writeStableCSV('station_information.csv', stations)
 console.log("Wrote a post process file")
 
 // Optionally delete the original file
