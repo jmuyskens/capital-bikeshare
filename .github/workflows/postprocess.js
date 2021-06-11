@@ -29,9 +29,6 @@ const geojson = {
     })
 }
 
-// Sort keys so JSON output will have keys in stable order
-sortedKeys = Object.keys(stations[0]).sort()
-
 // modified version of https://deno.land/x/flat@0.0.10/src/csv.ts
 async function writeStableCSV(path, data, unknown) {
     if (typeof data === 'string') {
@@ -47,6 +44,9 @@ async function writeStableCSV(path, data, unknown) {
 }
 
 // Step 3. Write a new JSON file with our filtered data
+
+// Sort keys so JSON output will have keys in stable order
+const sortedKeys = Object.keys(stations[0]).sort()
 const newFilename = `station_information.json` // name of a new file to be saved
 await Deno.writeTextFile(newFilename, JSON.stringify(stations, sortedKeys, 4)) // create a new JSON file with just the stations
 await Deno.writeTextFile('station_information.geojson', JSON.stringify(geojson, sortedKeys, 4)) // create a new JSON file with just the stations
