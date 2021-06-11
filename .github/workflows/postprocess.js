@@ -20,7 +20,11 @@ const geojson = {
     'features': stations.map(station => {
         return {
             'type': 'Feature',
-            'properties': station,
+            'properties': {
+                'name': station.name,
+                'station_id': station.station_id,
+                'capacity': station.capacity
+            },
             'geometry': {
                 'type': 'Point',
                 'coordinates': [station.lon, station.lat]
@@ -49,7 +53,7 @@ async function writeStableCSV(path, data, unknown) {
 const sortedKeys = Object.keys(stations[0]).sort()
 const newFilename = `station_information.json` // name of a new file to be saved
 await Deno.writeTextFile(newFilename, JSON.stringify(stations, sortedKeys, 4)) // create a new JSON file with just the stations
-await Deno.writeTextFile('station_information.geojson', JSON.stringify(geojson, sortedKeys, 4)) // create a new JSON file with just the stations
+await Deno.writeTextFile('station_information.geojson', JSON.stringify(geojson, ['type', 'features', 'properties', 'name', 'station_id', 'capacity', 'geometry', 'type', 'coordinates'], 4)) // create a new JSON file with just the stations
 await writeStableCSV('station_information.csv', stations)
 console.log("Wrote a post process file")
 
