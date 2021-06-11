@@ -42,12 +42,12 @@
         "station_type": "classic"
     },
     {
-        "capacity": 0,
+        "capacity": 17,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
         "external_id": "08246c35-1f3f-11e7-bf6b-3863bb334450",
-        "has_kiosk": false,
+        "has_kiosk": true,
         "lat": 38.856425,
         "legacy_id": "3",
         "lon": -77.049232,
