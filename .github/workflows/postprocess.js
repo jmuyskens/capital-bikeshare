@@ -33,7 +33,7 @@ const geojson = {
 sortedKeys = Object.keys(stations[0]).sort()
 
 // modified version of https://deno.land/x/flat@0.0.10/src/csv.ts
-async function writeStableCSV(path: string, data: Record<string, unknown>[] | string) {
+async function writeStableCSV(path, data, unknown) {
     if (typeof data === 'string') {
         await Deno.writeTextFile(path, data);
         return
@@ -41,7 +41,7 @@ async function writeStableCSV(path: string, data: Record<string, unknown>[] | st
     // sort headers
     const headers = Object.keys(data[0]).sort()
     // we have to stringify the data with a row header
-    const dataString = await stringify(data as DataItem[], headers)
+    const dataString = await stringify(data, headers)
 
     await Deno.writeTextFile(path, dataString);
 }
