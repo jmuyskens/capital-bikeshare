@@ -16,7 +16,7 @@ const stations = json.data.stations.map(station => {
 
 const stationsCsvData = stations.map(station => {
     const select = {...station}
-    delete select.station_uris
+    delete select.rental_uris
     delete select.rental_methods
     delete select.eightd_station_services
     return select
