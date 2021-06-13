@@ -6726,7 +6726,7 @@
             "properties": {
                 "name": "Shady Grove Metro East",
                 "station_id": "472",
-                "capacity": 19
+                "capacity": 0
             },
             "geometry": {
                 "type": "Point",
