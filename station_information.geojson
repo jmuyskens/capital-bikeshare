@@ -6966,7 +6966,7 @@
             "properties": {
                 "name": "15th St & Constitution Ave NW",
                 "station_id": "488",
-                "capacity": 19
+                "capacity": 18
             },
             "geometry": {
                 "type": "Point",
@@ -8106,7 +8106,7 @@
             "properties": {
                 "name": "N Oak St & W Broad St",
                 "station_id": "573",
-                "capacity": 12
+                "capacity": 7
             },
             "geometry": {
                 "type": "Point",
