@@ -14,6 +14,14 @@ const stations = json.data.stations.map(station => {
     return station
 })
 
+const stationsCsvData = stations.map(station => {
+    const select = {...station}
+    delete select.station_uris
+    delete select.rental_methods
+    delete select.eightd_station_services
+    return select
+})
+
 // Restructure JSON as GeoJSON
 const geojson = {
     'type': 'FeatureCollection',
@@ -54,7 +62,7 @@ const sortedKeys = Object.keys(stations[0]).sort()
 const newFilename = `station_information.json` // name of a new file to be saved
 await Deno.writeTextFile(newFilename, JSON.stringify(stations, sortedKeys, 4)) // create a new JSON file with just the stations
 await Deno.writeTextFile('station_information.geojson', JSON.stringify(geojson, ['type', 'features', 'properties', 'name', 'station_id', 'capacity', 'geometry', 'type', 'coordinates'], 4)) // create a new JSON file with just the stations
-await writeStableCSV('station_information.csv', stations)
+await writeStableCSV('station_information.csv', stationsCsvData)
 console.log("Wrote a post process file")
 
 // Optionally delete the original file
