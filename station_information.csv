@@ -447,7 +447,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,0826540e-1f3f-11e7-bf6b-3863bb334450,true,38.968834,469,-77.016258,3rd & Underwood St NW,42,31413,469,classic
 19,false,false,0826547e-1f3f-11e7-bf6b-3863bb334450,true,38.93293,470,-76.979517,18th & Monroe St NE,42,31521,470,classic
 19,false,false,082654f4-1f3f-11e7-bf6b-3863bb334450,true,38.88345,471,-77.021741,7th & E St SW,42,31294,471,classic
-0,false,false,08265563-1f3f-11e7-bf6b-3863bb334450,true,39.121327,472,-77.164969,Shady Grove Metro East,43,32067,472,classic
+19,false,false,08265563-1f3f-11e7-bf6b-3863bb334450,true,39.121327,472,-77.164969,Shady Grove Metro East,43,32067,472,classic
 19,false,false,082655cc-1f3f-11e7-bf6b-3863bb334450,true,38.905368,473,-77.065149,Potomac & M St NW,42,31295,473,classic
 23,false,false,08265638-1f3f-11e7-bf6b-3863bb334450,true,38.924088,474,-77.040787,Columbia & Ontario Rd NW,42,31296,474,classic
 15,false,false,32a59636-02e5-4c53-a437-020986923dca,true,38.888282,475,-77.111066,Washington-Liberty High School / N Stafford St & Generals Way,41,31920,475,classic
@@ -463,7 +463,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,a2507ccc-aca1-48b2-a6a3-a3144ad92d21,true,38.912644,485,-77.04564,Connecticut Ave & R St NW,42,31299,485,classic
 15,false,false,d39e9b29-0ba7-453f-9f1e-b0a856d448b7,true,38.892556,486,-77.082089,Wilson Blvd & N Troy St,41,31924,486,classic
 19,false,false,ad6ec1ce-db22-47c1-acf3-507897d40725,true,38.936298,487,-77.087128,American University East Campus,42,31320,487,classic
-18,false,false,99e66f13-6f03-4872-9f34-bcd92fe519fd,true,38.892244,488,-77.033234,15th St & Constitution Ave NW,42,31321,488,classic
+19,false,false,99e66f13-6f03-4872-9f34-bcd92fe519fd,true,38.892244,488,-77.033234,15th St & Constitution Ave NW,42,31321,488,classic
 19,false,false,5b745524-d0d3-4197-8c69-0ad4e5761883,true,38.905303,490,-77.050264,23rd & M St NW,42,31128,490,classic
 15,false,false,58c07d78-f78e-4215-8548-7b0f37bafc73,true,39.106971,491,-77.192645,Corporate Blvd & Omega Dr,43,32071,491,classic
 11,false,false,fe1f5f98-892e-4c51-b842-3d32c9f0b4ab,true,39.106152,492,-77.202354,Key West Ave & Diamondback Dr,43,32072,492,classic
@@ -539,7 +539,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,bcb21167-85ed-4374-8807-d9409aaa01a5,true,38.9698,570,-76.9493,Hyattsville Library / Adelphi Rd & Toledo Rd,133,32417,570,classic
 12,false,false,37ea9197-6332-4bf7-8940-d3641f288869,true,38.895172,571,-77.190275,George Mason High School / Haycock Rd & Leesburg Pike,152,32600,571,classic
 12,false,false,a016ea6f-0d7f-45fb-b8ac-0cfe22cd972a,true,38.882746,572,-77.170032,State Theatre / Park Pl & N Washington St,152,32601,572,classic
-7,false,false,edb40673-8b68-4db1-b9bf-6cb7943fdb50,true,38.88837,573,-77.179832,N Oak St & W Broad St,152,32602,573,classic
+12,false,false,edb40673-8b68-4db1-b9bf-6cb7943fdb50,true,38.88837,573,-77.179832,N Oak St & W Broad St,152,32602,573,classic
 12,false,false,33ae16de-ca5b-4253-9096-35ccae7bb8dd,true,38.887403,574,-77.176992,Pennsylvania Ave & Park Ave,152,32603,574,classic
 12,false,false,6e652351-dad9-45e4-a0a7-dda0417973f4,true,38.880612,575,-77.171891,E Fairfax St & S Washington St,152,32604,575,classic
 12,false,false,5f19b359-6bc4-45f6-bdcf-31352690e6ee,true,38.878085,576,-77.153953,N Roosevelt St & Roosevelt Blvd,152,32606,576,classic
