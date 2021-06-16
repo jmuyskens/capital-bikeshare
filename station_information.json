@@ -105,27 +105,6 @@
         "station_type": "classic"
     },
     {
-        "capacity": 19,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "08246df5-1f3f-11e7-bf6b-3863bb334450",
-        "has_kiosk": true,
-        "lat": 38.862303,
-        "legacy_id": "6",
-        "lon": -77.059936,
-        "name": "Pentagon City Metro / 12th St & S Hayes St",
-        "region_id": "41",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "31005",
-        "station_id": "6",
-        "station_type": "classic"
-    },
-    {
         "capacity": 15,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -10689,7 +10668,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 12,
+        "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -13206,6 +13185,27 @@
         "rental_uris": {},
         "short_name": "32424",
         "station_id": "672",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 15,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "10d57c0d-6f3c-45d1-8a12-eda5665e213c",
+        "has_kiosk": true,
+        "lat": 39.006191,
+        "legacy_id": "673",
+        "lon": -76.891247,
+        "name": "Crescent Rd & Ridge Rd",
+        "region_id": "133",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32425",
+        "station_id": "673",
         "station_type": "classic"
     }
 ]
