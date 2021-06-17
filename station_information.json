@@ -105,6 +105,27 @@
         "station_type": "classic"
     },
     {
+        "capacity": 19,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "08246df5-1f3f-11e7-bf6b-3863bb334450",
+        "has_kiosk": true,
+        "lat": 38.862303,
+        "legacy_id": "6",
+        "lon": -77.059936,
+        "name": "Pentagon City Metro / 12th St & S Hayes St",
+        "region_id": "41",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31005",
+        "station_id": "6",
+        "station_type": "classic"
+    },
+    {
         "capacity": 15,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -1554,7 +1575,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 18,
+        "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
