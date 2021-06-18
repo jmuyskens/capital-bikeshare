@@ -105,7 +105,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 19,
+        "capacity": 18,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -132,9 +132,9 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "08246e8c-1f3f-11e7-bf6b-3863bb334450",
         "has_kiosk": true,
-        "lat": 38.8637,
+        "lat": 38.86331354301248,
         "legacy_id": "7",
-        "lon": -77.0633,
+        "lon": -77.06341624259947,
         "name": "Army Navy Dr & S Joyce St",
         "region_id": "41",
         "rental_methods": [
@@ -1581,9 +1581,9 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "08249e81-1f3f-11e7-bf6b-3863bb334450",
         "has_kiosk": true,
-        "lat": 38.884260087971725,
+        "lat": 38.88409514578027,
         "legacy_id": "78",
-        "lon": -76.99473559856415,
+        "lon": -76.99523448944092,
         "name": "Eastern Market Metro / Pennsylvania Ave & 8th St SE",
         "region_id": "42",
         "rental_methods": [
@@ -3360,7 +3360,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 23,
+        "capacity": 21,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -3381,7 +3381,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 35,
+        "capacity": 32,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -10857,7 +10857,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 19,
+        "capacity": 0,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -11067,7 +11067,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 19,
+        "capacity": 15,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -11886,7 +11886,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 15,
+        "capacity": 14,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,

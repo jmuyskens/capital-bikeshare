@@ -81,7 +81,7 @@
             "properties": {
                 "name": "Pentagon City Metro / 12th St & S Hayes St",
                 "station_id": "6",
-                "capacity": 19
+                "capacity": 18
             },
             "geometry": {
                 "type": "Point",
@@ -101,8 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.0633,
-                    38.8637
+                    -77.06341624259947,
+                    38.86331354301248
                 ]
             }
         },
@@ -1136,8 +1136,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.99473559856415,
-                    38.884260087971725
+                    -76.99523448944092,
+                    38.88409514578027
                 ]
             }
         },
@@ -2406,7 +2406,7 @@
             "properties": {
                 "name": "Jefferson Dr & 14th St SW",
                 "station_id": "168",
-                "capacity": 23
+                "capacity": 21
             },
             "geometry": {
                 "type": "Point",
@@ -2421,7 +2421,7 @@
             "properties": {
                 "name": "Smithsonian-National Mall / Jefferson Dr & 12th St SW",
                 "station_id": "169",
-                "capacity": 35
+                "capacity": 32
             },
             "geometry": {
                 "type": "Point",
@@ -7761,7 +7761,7 @@
             "properties": {
                 "name": "Maryland Ave & 17th St NE",
                 "station_id": "547",
-                "capacity": 19
+                "capacity": 0
             },
             "geometry": {
                 "type": "Point",
@@ -7911,7 +7911,7 @@
             "properties": {
                 "name": "Dunn Loring Metro",
                 "station_id": "560",
-                "capacity": 19
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
@@ -8496,7 +8496,7 @@
             "properties": {
                 "name": "Edgewood Rec Center",
                 "station_id": "599",
-                "capacity": 15
+                "capacity": 14
             },
             "geometry": {
                 "type": "Point",
