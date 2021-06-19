@@ -81,7 +81,7 @@
             "properties": {
                 "name": "Pentagon City Metro / 12th St & S Hayes St",
                 "station_id": "6",
-                "capacity": 18
+                "capacity": 17
             },
             "geometry": {
                 "type": "Point",
@@ -2406,7 +2406,7 @@
             "properties": {
                 "name": "Jefferson Dr & 14th St SW",
                 "station_id": "168",
-                "capacity": 21
+                "capacity": 23
             },
             "geometry": {
                 "type": "Point",
@@ -7761,7 +7761,7 @@
             "properties": {
                 "name": "Maryland Ave & 17th St NE",
                 "station_id": "547",
-                "capacity": 0
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -8496,7 +8496,7 @@
             "properties": {
                 "name": "Edgewood Rec Center",
                 "station_id": "599",
-                "capacity": 14
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
@@ -8661,7 +8661,7 @@
             "properties": {
                 "name": "Hardy Rec Center",
                 "station_id": "611",
-                "capacity": 17
+                "capacity": 8
             },
             "geometry": {
                 "type": "Point",

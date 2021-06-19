@@ -105,7 +105,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 18,
+        "capacity": 17,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -3360,7 +3360,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 21,
+        "capacity": 23,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -10857,7 +10857,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 0,
+        "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -11886,7 +11886,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 14,
+        "capacity": 15,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -12117,7 +12117,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 17,
+        "capacity": 8,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
