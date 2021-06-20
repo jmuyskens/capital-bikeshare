@@ -8166,7 +8166,7 @@
             "properties": {
                 "name": "W Broad St & Little Falls St",
                 "station_id": "577",
-                "capacity": 12
+                "capacity": 8
             },
             "geometry": {
                 "type": "Point",
