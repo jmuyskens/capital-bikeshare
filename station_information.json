@@ -966,27 +966,6 @@
         "station_type": "classic"
     },
     {
-        "capacity": 15,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "0824866e-1f3f-11e7-bf6b-3863bb334450",
-        "has_kiosk": true,
-        "lat": 38.85438051517749,
-        "legacy_id": "48",
-        "lon": -77.05341160297394,
-        "name": "Eads St & 22nd St S",
-        "region_id": "41",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "31013",
-        "station_id": "48",
-        "station_type": "classic"
-    },
-    {
         "capacity": 17,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -12114,27 +12093,6 @@
         "rental_uris": {},
         "short_name": "31661",
         "station_id": "610",
-        "station_type": "classic"
-    },
-    {
-        "capacity": 8,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "d8a01502-8d6c-449f-852d-d6b409e56e11",
-        "has_kiosk": true,
-        "lat": 38.90970086204467,
-        "legacy_id": "611",
-        "lon": -77.08564639091492,
-        "name": "Hardy Rec Center",
-        "region_id": "42",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "31326",
-        "station_id": "611",
         "station_type": "classic"
     },
     {

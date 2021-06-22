@@ -694,21 +694,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Eads St & 22nd St S",
-                "station_id": "48",
-                "capacity": 15
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.05341160297394,
-                    38.85438051517749
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "M St & New Jersey Ave SE",
                 "station_id": "49",
                 "capacity": 17
@@ -8653,21 +8638,6 @@
                 "coordinates": [
                     -76.99489653110504,
                     38.899941626884754
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Hardy Rec Center",
-                "station_id": "611",
-                "capacity": 8
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.08564639091492,
-                    38.90970086204467
                 ]
             }
         },
