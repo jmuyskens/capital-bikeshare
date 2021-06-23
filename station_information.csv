@@ -45,6 +45,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 39,false,false,082484cf-1f3f-11e7-bf6b-3863bb334450,true,38.8743,45,-77.0057,1st & N St  SE,42,31209,45,classic
 15,false,false,0824854e-1f3f-11e7-bf6b-3863bb334450,true,38.9154,46,-77.0446,20th St & Florida Ave NW,42,31110,46,classic
 15,false,false,082485e8-1f3f-11e7-bf6b-3863bb334450,true,38.9155,47,-77.0222,7th & T St NW,42,31109,47,classic
+15,false,false,0824866e-1f3f-11e7-bf6b-3863bb334450,true,38.85438051517749,48,-77.05341160297394,Eads St & 22nd St S,41,31013,48,classic
 17,false,false,082486f0-1f3f-11e7-bf6b-3863bb334450,true,38.8763,49,-77.0037,M St & New Jersey Ave SE,42,31208,49,classic
 45,false,false,0824920a-1f3f-11e7-bf6b-3863bb334450,true,38.9101,51,-77.0444,Massachusetts Ave & Dupont Circle NW,42,31200,51,classic
 15,false,false,0824927c-1f3f-11e7-bf6b-3863bb334450,true,38.905697,52,-77.005483,1st & M St NE,42,31603,52,classic
@@ -542,7 +543,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 12,false,false,33ae16de-ca5b-4253-9096-35ccae7bb8dd,true,38.887403,574,-77.176992,Pennsylvania Ave & Park Ave,152,32603,574,classic
 12,false,false,6e652351-dad9-45e4-a0a7-dda0417973f4,true,38.880612,575,-77.171891,E Fairfax St & S Washington St,152,32604,575,classic
 12,false,false,5f19b359-6bc4-45f6-bdcf-31352690e6ee,true,38.878085,576,-77.153953,N Roosevelt St & Roosevelt Blvd,152,32606,576,classic
-8,false,false,f4402219-23c9-43ce-8af4-62984ee9ab68,true,38.883601,577,-77.173438,W Broad St & Little Falls St,152,32605,577,classic
+12,false,false,f4402219-23c9-43ce-8af4-62984ee9ab68,true,38.883601,577,-77.173438,W Broad St & Little Falls St,152,32605,577,classic
 12,false,false,5e571279-84a3-4dd6-9ee5-6a834e4c624a,true,38.87972,578,-77.178408,S Maple Ave & S Washington St,152,32607,578,classic
 12,false,false,3735d025-7e82-467c-8844-29d08d66b0e4,true,38.885434,579,-77.173605,Falls Church City Hall / Park Ave & Little Falls St,152,32608,579,classic
 12,false,false,33efb11b-052f-437e-ab74-2e6b4661822d,true,38.885621,580,-77.166917,W Columbia St & N Washington St,152,32609,580,classic

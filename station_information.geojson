@@ -694,6 +694,21 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Eads St & 22nd St S",
+                "station_id": "48",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.05341160297394,
+                    38.85438051517749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "M St & New Jersey Ave SE",
                 "station_id": "49",
                 "capacity": 17
@@ -8151,7 +8166,7 @@
             "properties": {
                 "name": "W Broad St & Little Falls St",
                 "station_id": "577",
-                "capacity": 8
+                "capacity": 12
             },
             "geometry": {
                 "type": "Point",
