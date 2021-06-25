@@ -189,27 +189,6 @@
         "station_type": "classic"
     },
     {
-        "capacity": 11,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "08247269-1f3f-11e7-bf6b-3863bb334450",
-        "has_kiosk": true,
-        "lat": 38.8426,
-        "legacy_id": "11",
-        "lon": -77.0502,
-        "name": "S Glebe Rd & Potomac Ave",
-        "region_id": "41",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "31010",
-        "station_id": "11",
-        "station_type": "classic"
-    },
-    {
         "capacity": 17,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -13206,6 +13185,27 @@
         "rental_uris": {},
         "short_name": "32425",
         "station_id": "673",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 11,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "cec05512-b9d1-4671-bc76-8b168079db93",
+        "has_kiosk": true,
+        "lat": 39.002459,
+        "legacy_id": "674",
+        "lon": -76.916243,
+        "name": "Greenbelt Station Parkway",
+        "region_id": "133",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32426",
+        "station_id": "674",
         "station_type": "classic"
     }
 ]

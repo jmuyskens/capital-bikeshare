@@ -139,21 +139,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "S Glebe Rd & Potomac Ave",
-                "station_id": "11",
-                "capacity": 11
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.0502,
-                    38.8426
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Crystal Dr & 23rd St S",
                 "station_id": "12",
                 "capacity": 17
@@ -9433,6 +9418,21 @@
                 "coordinates": [
                     -76.891247,
                     39.006191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Greenbelt Station Parkway",
+                "station_id": "674",
+                "capacity": 11
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.916243,
+                    39.002459
                 ]
             }
         }
