@@ -139,6 +139,21 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "S Glebe Rd & Potomac Ave",
+                "station_id": "11",
+                "capacity": 11
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0502,
+                    38.8426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Crystal Dr & 23rd St S",
                 "station_id": "12",
                 "capacity": 17
