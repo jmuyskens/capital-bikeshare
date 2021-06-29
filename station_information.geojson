@@ -94,21 +94,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Army Navy Dr & S Joyce St",
-                "station_id": "7",
-                "capacity": 15
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.06341624259947,
-                    38.86331354301248
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Crystal City Metro / 18th St & S Bell St",
                 "station_id": "8",
                 "capacity": 19
