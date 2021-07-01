@@ -8659,6 +8659,21 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Hardy Rec Center",
+                "station_id": "611",
+                "capacity": 8
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.08564639091492,
+                    38.90970086204467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "The Shoppes @ Burnt Mills",
                 "station_id": "612",
                 "capacity": 19
