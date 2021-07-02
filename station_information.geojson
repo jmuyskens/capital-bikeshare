@@ -6321,7 +6321,7 @@
             "properties": {
                 "name": "Temporary Rd & Old Reston Ave",
                 "station_id": "445",
-                "capacity": 15
+                "capacity": 0
             },
             "geometry": {
                 "type": "Point",

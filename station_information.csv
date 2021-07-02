@@ -420,7 +420,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,08263bd6-1f3f-11e7-bf6b-3863bb334450,true,38.95534,442,-77.357611,Sunset Hills Rd & Discovery Square,104,32217,442,classic
 23,false,false,08263c43-1f3f-11e7-bf6b-3863bb334450,true,38.892441,443,-77.048947,22nd St & Constitution Ave NW,42,31292,443,classic
 19,false,false,08263cab-1f3f-11e7-bf6b-3863bb334450,true,38.891805,444,-76.913563,61st St & Banks Pl NE,42,31714,444,classic
-15,false,false,08263d19-1f3f-11e7-bf6b-3863bb334450,true,38.960084,445,-77.353414,Temporary Rd & Old Reston Ave,104,32218,445,classic
+0,false,false,08263d19-1f3f-11e7-bf6b-3863bb334450,true,38.960084,445,-77.353414,Temporary Rd & Old Reston Ave,104,32218,445,classic
 15,false,false,08263f4a-1f3f-11e7-bf6b-3863bb334450,true,38.955314,446,-77.368416,Reston YMCA,104,32219,446,classic
 11,false,false,08263fbd-1f3f-11e7-bf6b-3863bb334450,true,38.951443,447,-77.340377,Sunset Hills Rd & Isaac Newton Square,104,32220,447,classic
 15,false,false,0826402c-1f3f-11e7-bf6b-3863bb334450,true,38.89386,448,-77.070862,N Lynn St & Fairfax Dr,41,31917,448,classic
