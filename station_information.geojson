@@ -6321,7 +6321,7 @@
             "properties": {
                 "name": "Temporary Rd & Old Reston Ave",
                 "station_id": "445",
-                "capacity": 0
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
@@ -7581,7 +7581,7 @@
             "properties": {
                 "name": "1st & M St SE",
                 "station_id": "535",
-                "capacity": 19
+                "capacity": 17
             },
             "geometry": {
                 "type": "Point",

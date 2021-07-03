@@ -420,7 +420,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,08263bd6-1f3f-11e7-bf6b-3863bb334450,true,38.95534,442,-77.357611,Sunset Hills Rd & Discovery Square,104,32217,442,classic
 23,false,false,08263c43-1f3f-11e7-bf6b-3863bb334450,true,38.892441,443,-77.048947,22nd St & Constitution Ave NW,42,31292,443,classic
 19,false,false,08263cab-1f3f-11e7-bf6b-3863bb334450,true,38.891805,444,-76.913563,61st St & Banks Pl NE,42,31714,444,classic
-0,false,false,08263d19-1f3f-11e7-bf6b-3863bb334450,true,38.960084,445,-77.353414,Temporary Rd & Old Reston Ave,104,32218,445,classic
+15,false,false,08263d19-1f3f-11e7-bf6b-3863bb334450,true,38.960084,445,-77.353414,Temporary Rd & Old Reston Ave,104,32218,445,classic
 15,false,false,08263f4a-1f3f-11e7-bf6b-3863bb334450,true,38.955314,446,-77.368416,Reston YMCA,104,32219,446,classic
 11,false,false,08263fbd-1f3f-11e7-bf6b-3863bb334450,true,38.951443,447,-77.340377,Sunset Hills Rd & Isaac Newton Square,104,32220,447,classic
 15,false,false,0826402c-1f3f-11e7-bf6b-3863bb334450,true,38.89386,448,-77.070862,N Lynn St & Fairfax Dr,41,31917,448,classic
@@ -504,7 +504,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,e9030e46-31bf-4def-befb-2e685ad48180,true,38.931991,532,-77.032956,14th & Newton St NW,42,31649,532,classic
 19,false,false,e07eed7c-2d2a-4f13-aff7-2be6500958f7,true,38.9170363119413,533,-77.0957824587822,48th Pl & MacArthur Blvd NW,42,31322,533,classic
 19,false,false,eda09ed8-ca5e-4187-938c-3260cabdf82d,true,38.969489,534,-77.033509,14th & Luzon St NW,42,31416,534,classic
-19,false,false,5f71434d-dc5c-45ff-8219-708a3d9a0691,true,38.876893,535,-77.006072,1st & M St SE,42,31650,535,classic
+17,false,false,5f71434d-dc5c-45ff-8219-708a3d9a0691,true,38.876893,535,-77.006072,1st & M St SE,42,31650,535,classic
 15,false,false,d4e8307d-5fb2-4ece-a66a-1522b1ebf79c,true,38.782633,536,-77.016059,Fleet St & Waterfront St,133,32406,536,classic
 15,false,false,ccd82461-11b7-4553-b70b-6cb7e5e4f8c2,true,38.798749,537,-77.00103,Oxon Hill Park & Ride,133,32407,537,classic
 19,false,false,1e19ca16-ec12-48b9-bbbe-fe878745bb23,true,38.93132185874559,538,-77.02824711799622,11th & Park Rd NW,42,31651,538,classic
