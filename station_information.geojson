@@ -6321,7 +6321,7 @@
             "properties": {
                 "name": "Temporary Rd & Old Reston Ave",
                 "station_id": "445",
-                "capacity": 0
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
@@ -8256,7 +8256,7 @@
             "properties": {
                 "name": "Georgia Ave & Morton St NW",
                 "station_id": "583",
-                "capacity": 18
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
