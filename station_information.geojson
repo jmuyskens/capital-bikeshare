@@ -8106,7 +8106,7 @@
             "properties": {
                 "name": "N Oak St & W Broad St",
                 "station_id": "573",
-                "capacity": 10
+                "capacity": 12
             },
             "geometry": {
                 "type": "Point",
