@@ -8556,7 +8556,7 @@
             "properties": {
                 "name": "National Harbor Carousel",
                 "station_id": "604",
-                "capacity": 14
+                "capacity": 12
             },
             "geometry": {
                 "type": "Point",
@@ -9463,6 +9463,36 @@
                 "coordinates": [
                     -76.916243,
                     39.002459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Baron Cameron Ave & North Hampton Ave",
+                "station_id": "675",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.359341,
+                    38.966344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ridge Heights Rd & Seahawks Dr",
+                "station_id": "676",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.337775,
+                    38.936061
                 ]
             }
         }

@@ -569,7 +569,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,3d88e01e-e071-4638-829c-543410cded50,true,38.90273216425078,601,-76.99514991079923,8th & K St NE,42,31660,601,classic
 19,false,false,bed9b757-0df2-4a97-a6ac-415db00e82c8,true,38.89595455700754,602,-76.9678448436025,Kingman Island/The Fields at RFK,42,31716,602,classic
 19,false,false,07a453e5-2e14-4276-85df-49e0d6144e54,true,38.90046848783359,603,-76.9472873210907,Kenilworth Terrace & Hayes St. NE,42,31717,603,classic
-14,false,false,55d3b43f-4ad3-4d65-889a-560ebe6126bf,true,38.7859,604,-77.0167,National Harbor Carousel,133,32423,604,classic
+12,false,false,55d3b43f-4ad3-4d65-889a-560ebe6126bf,true,38.7859,604,-77.0167,National Harbor Carousel,133,32423,604,classic
 19,false,false,0cabc1c7-cf6f-4afd-9242-c011b77f6330,true,38.83664578175751,605,-76.99358886515256,Valley Ave & Wheeler Rd SE,42,31824,605,classic
 19,false,false,db81ad06-aad3-4e23-b2b9-05b39b41f8fc,true,38.876227445751475,606,-76.94098126958124,Ridge Rd Community Center,42,31718,606,classic
 19,false,false,7641069c-42a6-4e3e-9769-7df51da6978d,true,38.85736903758752,607,-76.97768801437633,Fort Stanton Rec Center,42,31825,607,classic
@@ -630,3 +630,5 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,6922a398-ec20-493d-a832-5e337cf335f5,true,39.00031,672,-76.878005,Roosevelt Center & Crescent Rd,133,32424,672,classic
 15,false,false,10d57c0d-6f3c-45d1-8a12-eda5665e213c,true,39.006191,673,-76.891247,Crescent Rd & Ridge Rd,133,32425,673,classic
 11,false,false,cec05512-b9d1-4671-bc76-8b168079db93,true,39.002459,674,-76.916243,Greenbelt Station Parkway,133,32426,674,classic
+12,false,false,8aa43882-2e93-41fb-b55d-a6a15b5b446b,true,38.966344,675,-77.359341,Baron Cameron Ave & North Hampton Ave,,32237,675,classic
+12,false,false,071dcbf5-3f1e-45e0-a4a5-8717adb8743f,true,38.936061,676,-77.337775,Ridge Heights Rd & Seahawks Dr,104,32238,676,classic
