@@ -8556,7 +8556,7 @@
             "properties": {
                 "name": "National Harbor Carousel",
                 "station_id": "604",
-                "capacity": 12
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
