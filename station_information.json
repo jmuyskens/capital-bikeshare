@@ -13261,6 +13261,7 @@
         "legacy_id": "675",
         "lon": -77.359341,
         "name": "Baron Cameron Ave & North Hampton Ave",
+        "region_id": "104",
         "rental_methods": [
             "CREDITCARD",
             "KEY"
