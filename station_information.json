@@ -13291,5 +13291,47 @@
         "short_name": "32238",
         "station_id": "676",
         "station_type": "classic"
+    },
+    {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "bc5c6cf3-1c33-457f-a13d-f358c9909dc2",
+        "has_kiosk": true,
+        "lat": 38.970807,
+        "legacy_id": "678",
+        "lon": -77.326761,
+        "name": "Ring Rd & North Shore Dr",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32240",
+        "station_id": "678",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "a0121df5-4df5-425f-afb8-77dc94dc6d1b",
+        "has_kiosk": true,
+        "lat": 38.973625,
+        "legacy_id": "679",
+        "lon": -77.351837,
+        "name": "Reston Pkwy & Bennington Woods Rd",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32241",
+        "station_id": "679",
+        "station_type": "classic"
     }
 ]

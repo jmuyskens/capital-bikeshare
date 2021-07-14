@@ -9495,6 +9495,36 @@
                     38.936061
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ring Rd & North Shore Dr",
+                "station_id": "678",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.326761,
+                    38.970807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Reston Pkwy & Bennington Woods Rd",
+                "station_id": "679",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.351837,
+                    38.973625
+                ]
+            }
         }
     ]
 }
