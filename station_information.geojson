@@ -9525,6 +9525,51 @@
                     38.973625
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Inlet Ct & Wiehle Dr",
+                "station_id": "680",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.334359,
+                    38.965979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fairway Dr & Hook Rd",
+                "station_id": "681",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.342546,
+                    38.963314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vantage Hill Rd & Wainwright Dr",
+                "station_id": "682",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.348487,
+                    38.9667
+                ]
+            }
         }
     ]
 }

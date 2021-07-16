@@ -13333,5 +13333,68 @@
         "short_name": "32241",
         "station_id": "679",
         "station_type": "classic"
+    },
+    {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "0136af02-2670-4042-b5cd-18b46c15c0c1",
+        "has_kiosk": true,
+        "lat": 38.965979,
+        "legacy_id": "680",
+        "lon": -77.334359,
+        "name": "Inlet Ct & Wiehle Dr",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32242",
+        "station_id": "680",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "e823318f-8406-4230-8072-1667f5de78d4",
+        "has_kiosk": true,
+        "lat": 38.963314,
+        "legacy_id": "681",
+        "lon": -77.342546,
+        "name": "Fairway Dr & Hook Rd",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32243",
+        "station_id": "681",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "8d68e4db-0bc9-440a-9b27-5d34ed1b93c9",
+        "has_kiosk": true,
+        "lat": 38.9667,
+        "legacy_id": "682",
+        "lon": -77.348487,
+        "name": "Vantage Hill Rd & Wainwright Dr",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32244",
+        "station_id": "682",
+        "station_type": "classic"
     }
 ]
