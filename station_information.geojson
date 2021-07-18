@@ -606,7 +606,7 @@
             "properties": {
                 "name": "4th & W St NE",
                 "station_id": "42",
-                "capacity": 14
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
