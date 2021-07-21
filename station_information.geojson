@@ -7911,7 +7911,7 @@
             "properties": {
                 "name": "Dunn Loring Metro",
                 "station_id": "560",
-                "capacity": 15
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -9568,6 +9568,51 @@
                 "coordinates": [
                     -77.348487,
                     38.9667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Links Dr & Wedge Dr",
+                "station_id": "684",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.339295,
+                    38.959025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Golf Course Sq and Golf Course Dr",
+                "station_id": "685",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.353552,
+                    38.944013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "South Lakes Dr and Reston Pkwy",
+                "station_id": "686",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.362304,
+                    38.94335
                 ]
             }
         }

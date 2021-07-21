@@ -11067,7 +11067,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 15,
+        "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -13395,6 +13395,69 @@
         "rental_uris": {},
         "short_name": "32244",
         "station_id": "682",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "9f03d90d-a7ff-433e-9718-b8066c82c5f1",
+        "has_kiosk": true,
+        "lat": 38.959025,
+        "legacy_id": "684",
+        "lon": -77.339295,
+        "name": "Links Dr & Wedge Dr",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32245",
+        "station_id": "684",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
+        "has_kiosk": true,
+        "lat": 38.944013,
+        "legacy_id": "685",
+        "lon": -77.353552,
+        "name": "Golf Course Sq and Golf Course Dr",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32246",
+        "station_id": "685",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "d3cf2811-ca2e-4d2c-9843-8a90049b7b80",
+        "has_kiosk": true,
+        "lat": 38.94335,
+        "legacy_id": "686",
+        "lon": -77.362304,
+        "name": "South Lakes Dr and Reston Pkwy",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32247",
+        "station_id": "686",
         "station_type": "classic"
     }
 ]
