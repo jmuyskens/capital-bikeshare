@@ -2479,7 +2479,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Lee Hwy & N Adams St",
+                "name": "Langston Blvd & N Adams St",
                 "station_id": "173",
                 "capacity": 19
             },
@@ -4744,7 +4744,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Lee Hwy & N Cleveland St",
+                "name": "Langston Blvd & N Cleveland St",
                 "station_id": "332",
                 "capacity": 15
             },
@@ -4789,7 +4789,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Lee Hwy & N Scott St",
+                "name": "Langston Blvd & N Scott St",
                 "station_id": "335",
                 "capacity": 15
             },
@@ -5074,7 +5074,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Lee Hwy & N Monroe St",
+                "name": "Langston Blvd & N Monroe St",
                 "station_id": "354",
                 "capacity": 15
             },
@@ -5104,7 +5104,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Lee Hwy & N Kirkwood Rd",
+                "name": "Langston Blvd & N Kirkwood St",
                 "station_id": "356",
                 "capacity": 15
             },
@@ -5359,7 +5359,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Lee Hwy & N Woodstock St",
+                "name": "Langston Blvd & N Woodstock St",
                 "station_id": "379",
                 "capacity": 19
             },
@@ -9613,6 +9613,66 @@
                 "coordinates": [
                     -77.362304,
                     38.94335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Olde Crafts Dr and Cartwright Pl",
+                "station_id": "687",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.354067,
+                    38.938797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Green Range Dr and Glade Dr",
+                "station_id": "688",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.366786,
+                    38.939617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "South Gate Community Center",
+                "station_id": "689",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.366499,
+                    38.941496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ridge Heights and Owl Cove Ln",
+                "station_id": "691",
+                "capacity": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.331653,
+                    38.933923
                 ]
             }
         }

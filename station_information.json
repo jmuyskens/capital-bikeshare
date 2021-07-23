@@ -3474,7 +3474,7 @@
         "lat": 38.89593,
         "legacy_id": "173",
         "lon": -77.089006,
-        "name": "Lee Hwy & N Adams St",
+        "name": "Langston Blvd & N Adams St",
         "region_id": "41",
         "rental_methods": [
             "CREDITCARD",
@@ -6645,7 +6645,7 @@
         "lat": 38.894941,
         "legacy_id": "332",
         "lon": -77.09169,
-        "name": "Lee Hwy & N Cleveland St",
+        "name": "Langston Blvd & N Cleveland St",
         "region_id": "41",
         "rental_methods": [
             "CREDITCARD",
@@ -6708,7 +6708,7 @@
         "lat": 38.897612,
         "legacy_id": "335",
         "lon": -77.080851,
-        "name": "Lee Hwy & N Scott St",
+        "name": "Langston Blvd & N Scott St",
         "region_id": "41",
         "rental_methods": [
             "CREDITCARD",
@@ -7107,7 +7107,7 @@
         "lat": 38.896456,
         "legacy_id": "354",
         "lon": -77.104562,
-        "name": "Lee Hwy & N Monroe St",
+        "name": "Langston Blvd & N Monroe St",
         "region_id": "41",
         "rental_methods": [
             "CREDITCARD",
@@ -7149,7 +7149,7 @@
         "lat": 38.895377,
         "legacy_id": "356",
         "lon": -77.09713,
-        "name": "Lee Hwy & N Kirkwood Rd",
+        "name": "Langston Blvd & N Kirkwood St",
         "region_id": "41",
         "rental_methods": [
             "CREDITCARD",
@@ -7506,7 +7506,7 @@
         "lat": 38.898301,
         "legacy_id": "379",
         "lon": -77.118009,
-        "name": "Lee Hwy & N Woodstock St",
+        "name": "Langston Blvd & N Woodstock St",
         "region_id": "41",
         "rental_methods": [
             "CREDITCARD",
@@ -13458,6 +13458,90 @@
         "rental_uris": {},
         "short_name": "32247",
         "station_id": "686",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "bc4fc3e2-2050-4571-851b-47f062319f95",
+        "has_kiosk": true,
+        "lat": 38.938797,
+        "legacy_id": "687",
+        "lon": -77.354067,
+        "name": "Olde Crafts Dr and Cartwright Pl",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32248",
+        "station_id": "687",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "0eae33bc-0b63-4120-ac4d-1e4ac729d524",
+        "has_kiosk": true,
+        "lat": 38.939617,
+        "legacy_id": "688",
+        "lon": -77.366786,
+        "name": "Green Range Dr and Glade Dr",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32249",
+        "station_id": "688",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "9c8b35b2-fcab-4142-957d-5bb845374685",
+        "has_kiosk": true,
+        "lat": 38.941496,
+        "legacy_id": "689",
+        "lon": -77.366499,
+        "name": "South Gate Community Center",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32250",
+        "station_id": "689",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "f75a76bb-34fc-4ee3-81d9-f23d9867017d",
+        "has_kiosk": false,
+        "lat": 38.933923,
+        "legacy_id": "691",
+        "lon": -77.331653,
+        "name": "Ridge Heights and Owl Cove Ln",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32252",
+        "station_id": "691",
         "station_type": "classic"
     }
 ]

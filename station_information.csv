@@ -164,7 +164,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,08252387-1f3f-11e7-bf6b-3863bb334450,true,38.87887,170,-77.1207,George Mason Dr & Wilson Blvd,41,31036,170,classic
 19,false,false,08252414-1f3f-11e7-bf6b-3863bb334450,true,38.894573,171,-77.01994,6th St & Indiana Ave NW,42,31264,171,classic
 11,false,false,082524a2-1f3f-11e7-bf6b-3863bb334450,true,38.893237,172,-77.086063,N Veitch St & Key Blvd,41,31028,172,classic
-19,false,false,08252530-1f3f-11e7-bf6b-3863bb334450,true,38.89593,173,-77.089006,Lee Hwy & N Adams St,41,31030,173,classic
+19,false,false,08252530-1f3f-11e7-bf6b-3863bb334450,true,38.89593,173,-77.089006,Langston Blvd & N Adams St,41,31030,173,classic
 11,false,false,082525bb-1f3f-11e7-bf6b-3863bb334450,true,38.89054,174,-77.08095,15th St & N Scott St,41,31031,174,classic
 11,false,false,08252645-1f3f-11e7-bf6b-3863bb334450,true,38.88081,175,-77.090792,Washington Blvd & 7th St N,41,31032,175,classic
 23,false,false,082526d1-1f3f-11e7-bf6b-3863bb334450,true,38.881044,176,-77.111768,Ballston Metro / Stuart St & 9th St N,41,31037,176,classic
@@ -315,10 +315,10 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,0825f344-1f3f-11e7-bf6b-3863bb334450,true,38.88992,329,-77.071301,Iwo Jima Memorial / Meade & 14th St N,41,31077,329,classic
 19,false,false,0825f3d4-1f3f-11e7-bf6b-3863bb334450,true,38.9037315,330,-77.0675285,34th & Water St NW,42,31314,330,classic
 15,false,false,0825f465-1f3f-11e7-bf6b-3863bb334450,true,38.804378,331,-77.060866,Duke St & John Carlyle St,40,31081,331,classic
-15,false,false,0825f4f2-1f3f-11e7-bf6b-3863bb334450,true,38.894941,332,-77.09169,Lee Hwy & N Cleveland St,41,31079,332,classic
+15,false,false,0825f4f2-1f3f-11e7-bf6b-3863bb334450,true,38.894941,332,-77.09169,Langston Blvd & N Cleveland St,41,31079,332,classic
 15,false,false,0825f58d-1f3f-11e7-bf6b-3863bb334450,true,38.869442,333,-77.104503,Arlington Blvd & S George Mason Dr,41,31078,333,classic
 23,false,false,0825f622-1f3f-11e7-bf6b-3863bb334450,true,38.89824328774852,334,-77.02623546123505,10th & G St NW,42,31274,334,classic
-15,false,false,0825f6b3-1f3f-11e7-bf6b-3863bb334450,true,38.897612,335,-77.080851,Lee Hwy & N Scott St,41,31080,335,classic
+15,false,false,0825f6b3-1f3f-11e7-bf6b-3863bb334450,true,38.897612,335,-77.080851,Langston Blvd & N Scott St,41,31080,335,classic
 19,false,false,0825f723-1f3f-11e7-bf6b-3863bb334450,true,38.901755,336,-77.051084,New Hampshire Ave & 24th St NW,42,31275,336,classic
 15,false,false,0825f794-1f3f-11e7-bf6b-3863bb334450,true,38.801111,337,-77.068952,Eisenhower Ave & Mill Race Ln,40,31082,337,classic
 11,false,false,0825f807-1f3f-11e7-bf6b-3863bb334450,true,38.82175,338,-77.047494,Potomac Greens Dr & Slaters Ln,40,31083,338,classic
@@ -337,9 +337,9 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,0825fd75-1f3f-11e7-bf6b-3863bb334450,true,38.912648,351,-77.041834,18th & R St NW,42,31278,351,classic
 15,false,false,0825fddc-1f3f-11e7-bf6b-3863bb334450,true,38.859254,352,-77.063275,Joyce St & 16th St S,41,31091,352,classic
 23,false,false,0825fe4c-1f3f-11e7-bf6b-3863bb334450,true,38.907908,353,-76.99707,Union Market,42,31517,353,classic
-15,false,false,0825feb6-1f3f-11e7-bf6b-3863bb334450,true,38.896456,354,-77.104562,Lee Hwy & N Monroe St,41,31092,354,classic
+15,false,false,0825feb6-1f3f-11e7-bf6b-3863bb334450,true,38.896456,354,-77.104562,Langston Blvd & N Monroe St,41,31092,354,classic
 15,false,false,0825ff20-1f3f-11e7-bf6b-3863bb334450,true,38.898984,355,-77.078317,21st St & N Pierce St,41,31093,355,classic
-15,false,false,0825ff8d-1f3f-11e7-bf6b-3863bb334450,true,38.895377,356,-77.09713,Lee Hwy & N Kirkwood Rd,41,31094,356,classic
+15,false,false,0825ff8d-1f3f-11e7-bf6b-3863bb334450,true,38.895377,356,-77.09713,Langston Blvd & N Kirkwood St,41,31094,356,classic
 23,false,false,0825fff6-1f3f-11e7-bf6b-3863bb334450,true,38.898412,357,-77.043182,19th & G St NW,42,31279,357,classic
 19,false,false,0826005e-1f3f-11e7-bf6b-3863bb334450,true,38.914751108831155,358,-77.00356006622314,2nd St & Seaton Pl NE,42,31522,358,classic
 15,false,false,082600d8-1f3f-11e7-bf6b-3863bb334450,true,38.876528,359,-77.12712,Wilson Blvd & N Illinois St ,41,31902,359,classic
@@ -356,7 +356,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,0826139b-1f3f-11e7-bf6b-3863bb334450,true,38.946182,376,-77.08059,Yuma St & Tenley Circle NW,42,31316,376,classic
 15,false,false,08261407-1f3f-11e7-bf6b-3863bb334450,true,38.994113,377,-77.076986,Connecticut Ave & Chevy Chase Lake Dr,44,32051,377,classic
 15,false,false,08261479-1f3f-11e7-bf6b-3863bb334450,true,39.105295,378,-77.194774,Key West Ave & Siesta Key Way,43,32052,378,classic
-19,false,false,082614e4-1f3f-11e7-bf6b-3863bb334450,true,38.898301,379,-77.118009,Lee Hwy & N Woodstock St,41,31900,379,classic
+19,false,false,082614e4-1f3f-11e7-bf6b-3863bb334450,true,38.898301,379,-77.118009,Langston Blvd & N Woodstock St,41,31900,379,classic
 15,false,false,0826154d-1f3f-11e7-bf6b-3863bb334450,true,38.812718,380,-77.044097,Saint Asaph St & Madison St,40,31097,380,classic
 15,false,false,082615b7-1f3f-11e7-bf6b-3863bb334450,true,38.80704,381,-77.059817,King St Metro North / Cameron St,40,31098,381,classic
 15,false,false,08261620-1f3f-11e7-bf6b-3863bb334450,true,38.813485,382,-77.049468,Madison St & N Henry St,40,31099,382,classic
@@ -640,3 +640,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 12,false,false,9f03d90d-a7ff-433e-9718-b8066c82c5f1,true,38.959025,684,-77.339295,Links Dr & Wedge Dr,104,32245,684,classic
 12,false,false,13c42471-96ab-441d-9a4c-bc57f7af6f9b,true,38.944013,685,-77.353552,Golf Course Sq and Golf Course Dr,104,32246,685,classic
 12,false,false,d3cf2811-ca2e-4d2c-9843-8a90049b7b80,true,38.94335,686,-77.362304,South Lakes Dr and Reston Pkwy,104,32247,686,classic
+12,false,false,bc4fc3e2-2050-4571-851b-47f062319f95,true,38.938797,687,-77.354067,Olde Crafts Dr and Cartwright Pl,104,32248,687,classic
+12,false,false,0eae33bc-0b63-4120-ac4d-1e4ac729d524,true,38.939617,688,-77.366786,Green Range Dr and Glade Dr,104,32249,688,classic
+12,false,false,9c8b35b2-fcab-4142-957d-5bb845374685,true,38.941496,689,-77.366499,South Gate Community Center,104,32250,689,classic
+0,false,false,f75a76bb-34fc-4ee3-81d9-f23d9867017d,false,38.933923,691,-77.331653,Ridge Heights and Owl Cove Ln,104,32252,691,classic
