@@ -7716,7 +7716,7 @@
             "properties": {
                 "name": "King Greenleaf Rec Center",
                 "station_id": "544",
-                "capacity": 19
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
