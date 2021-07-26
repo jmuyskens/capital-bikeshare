@@ -9660,21 +9660,6 @@
                     38.941496
                 ]
             }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Ridge Heights and Owl Cove Ln",
-                "station_id": "691",
-                "capacity": 0
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.331653,
-                    38.933923
-                ]
-            }
         }
     ]
 }

@@ -13522,26 +13522,5 @@
         "short_name": "32250",
         "station_id": "689",
         "station_type": "classic"
-    },
-    {
-        "capacity": 0,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "f75a76bb-34fc-4ee3-81d9-f23d9867017d",
-        "has_kiosk": false,
-        "lat": 38.933923,
-        "legacy_id": "691",
-        "lon": -77.331653,
-        "name": "Ridge Heights and Owl Cove Ln",
-        "region_id": "104",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "32252",
-        "station_id": "691",
-        "station_type": "classic"
     }
 ]
