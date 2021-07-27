@@ -2211,7 +2211,7 @@
             "properties": {
                 "name": "Congress Heights Metro",
                 "station_id": "155",
-                "capacity": 15
+                "capacity": 14
             },
             "geometry": {
                 "type": "Point",
