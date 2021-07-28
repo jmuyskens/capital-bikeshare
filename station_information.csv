@@ -537,7 +537,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,fc64c842-980f-40be-a4b6-7750a28ecc19,true,38.7968,568,-77.0026,Tanger Outlets,133,32415,568,classic
 15,false,false,fbd404e2-bd4c-464b-b0db-9eaa011a90ae,true,38.961737,569,-76.995922,Chillum Rd & Riggs Rd / Riggs Plaza,133,32416,569,classic
 15,false,false,bcb21167-85ed-4374-8807-d9409aaa01a5,true,38.9698,570,-76.9493,Hyattsville Library / Adelphi Rd & Toledo Rd,133,32417,570,classic
-12,false,false,37ea9197-6332-4bf7-8940-d3641f288869,true,38.895172,571,-77.190275,George Mason High School / Haycock Rd & Leesburg Pike,152,32600,571,classic
+12,false,false,37ea9197-6332-4bf7-8940-d3641f288869,true,38.895172,571,-77.190275,Meridian High School / Haycock Rd & Leesburg Pike,152,32600,571,classic
 12,false,false,a016ea6f-0d7f-45fb-b8ac-0cfe22cd972a,true,38.882746,572,-77.170032,State Theatre / Park Pl & N Washington St,152,32601,572,classic
 12,false,false,edb40673-8b68-4db1-b9bf-6cb7943fdb50,true,38.88837,573,-77.179832,N Oak St & W Broad St,152,32602,573,classic
 12,false,false,33ae16de-ca5b-4253-9096-35ccae7bb8dd,true,38.887403,574,-77.176992,Pennsylvania Ave & Park Ave,152,32603,574,classic
@@ -643,3 +643,6 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 12,false,false,bc4fc3e2-2050-4571-851b-47f062319f95,true,38.938797,687,-77.354067,Olde Crafts Dr and Cartwright Pl,104,32248,687,classic
 12,false,false,0eae33bc-0b63-4120-ac4d-1e4ac729d524,true,38.939617,688,-77.366786,Green Range Dr and Glade Dr,104,32249,688,classic
 12,false,false,9c8b35b2-fcab-4142-957d-5bb845374685,true,38.941496,689,-77.366499,South Gate Community Center,104,32250,689,classic
+12,false,false,29f174dd-e7bc-4329-a570-0220f0d1be84,true,38.93051,690,-77.345874,Lake Newport Rd and Autumn Ridge Cir,104,32251,690,classic
+12,false,false,f75a76bb-34fc-4ee3-81d9-f23d9867017d,true,38.933923,691,-77.331653,Ridge Heights and Owl Cove Ln,104,32252,691,classic
+12,false,false,85c2fb24-d241-4550-8968-2cdf85462af7,true,38.93051,692,-77.345874,Soapstone Dr Convenience Center,104,32253,692,classic

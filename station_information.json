@@ -11307,7 +11307,7 @@
         "lat": 38.895172,
         "legacy_id": "571",
         "lon": -77.190275,
-        "name": "George Mason High School / Haycock Rd & Leesburg Pike",
+        "name": "Meridian High School / Haycock Rd & Leesburg Pike",
         "region_id": "152",
         "rental_methods": [
             "CREDITCARD",
@@ -13521,6 +13521,69 @@
         "rental_uris": {},
         "short_name": "32250",
         "station_id": "689",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "29f174dd-e7bc-4329-a570-0220f0d1be84",
+        "has_kiosk": true,
+        "lat": 38.93051,
+        "legacy_id": "690",
+        "lon": -77.345874,
+        "name": "Lake Newport Rd and Autumn Ridge Cir",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32251",
+        "station_id": "690",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "f75a76bb-34fc-4ee3-81d9-f23d9867017d",
+        "has_kiosk": true,
+        "lat": 38.933923,
+        "legacy_id": "691",
+        "lon": -77.331653,
+        "name": "Ridge Heights and Owl Cove Ln",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32252",
+        "station_id": "691",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "85c2fb24-d241-4550-8968-2cdf85462af7",
+        "has_kiosk": true,
+        "lat": 38.93051,
+        "legacy_id": "692",
+        "lon": -77.345874,
+        "name": "Soapstone Dr Convenience Center",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32253",
+        "station_id": "692",
         "station_type": "classic"
     }
 ]

@@ -8074,7 +8074,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "George Mason High School / Haycock Rd & Leesburg Pike",
+                "name": "Meridian High School / Haycock Rd & Leesburg Pike",
                 "station_id": "571",
                 "capacity": 12
             },
@@ -9658,6 +9658,51 @@
                 "coordinates": [
                     -77.366499,
                     38.941496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lake Newport Rd and Autumn Ridge Cir",
+                "station_id": "690",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.345874,
+                    38.93051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ridge Heights and Owl Cove Ln",
+                "station_id": "691",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.331653,
+                    38.933923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Soapstone Dr Convenience Center",
+                "station_id": "692",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.345874,
+                    38.93051
                 ]
             }
         }
