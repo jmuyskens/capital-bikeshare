@@ -2211,7 +2211,7 @@
             "properties": {
                 "name": "Congress Heights Metro",
                 "station_id": "155",
-                "capacity": 14
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
@@ -7716,7 +7716,7 @@
             "properties": {
                 "name": "King Greenleaf Rec Center",
                 "station_id": "544",
-                "capacity": 15
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
