@@ -3259,21 +3259,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Roosevelt Island",
-                "station_id": "227",
-                "capacity": 13
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.06714,
-                    38.896553
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Connecticut & Nebraska Ave NW",
                 "station_id": "228",
                 "capacity": 23
@@ -9703,6 +9688,21 @@
                 "coordinates": [
                     -77.345874,
                     38.93051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Columbia Pike & S Scott St/12th St S",
+                "station_id": "693",
+                "capacity": 11
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.077201,
+                    38.863556
                 ]
             }
         }

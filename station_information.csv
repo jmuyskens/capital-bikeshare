@@ -216,7 +216,6 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 11,false,false,08254e55-1f3f-11e7-bf6b-3863bb334450,true,38.848454,224,-77.084918,Kenmore St & 24th St S,41,31061,224,classic
 15,false,false,08254ebb-1f3f-11e7-bf6b-3863bb334450,true,38.987,225,-77.029417,13th St & Eastern Ave,44,32006,225,classic
 19,false,false,08254f20-1f3f-11e7-bf6b-3863bb334450,true,38.90849,226,-77.063586,Wisconsin Ave & O St NW,42,31312,226,classic
-13,false,false,08254f8e-1f3f-11e7-bf6b-3863bb334450,true,38.896553,227,-77.06714,Roosevelt Island,41,31062,227,classic
 23,false,false,08254ffb-1f3f-11e7-bf6b-3863bb334450,true,38.955016,228,-77.069956,Connecticut & Nebraska Ave NW,42,31310,228,classic
 19,false,false,08255063-1f3f-11e7-bf6b-3863bb334450,true,38.908142,229,-77.038359,17th St & Massachusetts Ave NW,42,31267,229,classic
 15,false,false,0825525a-1f3f-11e7-bf6b-3863bb334450,true,38.92333,230,-77.0352,15th & Euclid St  NW,42,31117,230,classic
@@ -646,3 +645,4 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 12,false,false,29f174dd-e7bc-4329-a570-0220f0d1be84,true,38.93051,690,-77.345874,Lake Newport Rd and Autumn Ridge Cir,104,32251,690,classic
 12,false,false,f75a76bb-34fc-4ee3-81d9-f23d9867017d,true,38.933923,691,-77.331653,Ridge Heights and Owl Cove Ln,104,32252,691,classic
 12,false,false,85c2fb24-d241-4550-8968-2cdf85462af7,true,38.93051,692,-77.345874,Soapstone Dr Convenience Center,104,32253,692,classic
+11,false,false,8d485a67-09d5-4550-8438-f1fa2f463bc2,true,38.863556,693,-77.077201,Columbia Pike & S Scott St/12th St S,41,31949,693,classic
