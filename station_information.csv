@@ -216,6 +216,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 11,false,false,08254e55-1f3f-11e7-bf6b-3863bb334450,true,38.848454,224,-77.084918,Kenmore St & 24th St S,41,31061,224,classic
 15,false,false,08254ebb-1f3f-11e7-bf6b-3863bb334450,true,38.987,225,-77.029417,13th St & Eastern Ave,44,32006,225,classic
 19,false,false,08254f20-1f3f-11e7-bf6b-3863bb334450,true,38.90849,226,-77.063586,Wisconsin Ave & O St NW,42,31312,226,classic
+17,false,false,08254f8e-1f3f-11e7-bf6b-3863bb334450,true,38.896553,227,-77.06714,Roosevelt Island,41,31062,227,classic
 23,false,false,08254ffb-1f3f-11e7-bf6b-3863bb334450,true,38.955016,228,-77.069956,Connecticut & Nebraska Ave NW,42,31310,228,classic
 19,false,false,08255063-1f3f-11e7-bf6b-3863bb334450,true,38.908142,229,-77.038359,17th St & Massachusetts Ave NW,42,31267,229,classic
 15,false,false,0825525a-1f3f-11e7-bf6b-3863bb334450,true,38.92333,230,-77.0352,15th & Euclid St  NW,42,31117,230,classic
@@ -364,7 +365,6 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,0826176a-1f3f-11e7-bf6b-3863bb334450,true,38.958267,385,-77.084636,Wisconsin Ave & Ingomar St NW,42,31317,385,classic
 19,false,false,082617d2-1f3f-11e7-bf6b-3863bb334450,true,38.928893,386,-77.03625,16th & Irving St NW,42,31122,386,classic
 19,false,false,0826183f-1f3f-11e7-bf6b-3863bb334450,true,38.912652,387,-77.036278,16th & R St NW,42,31282,387,classic
-15,false,false,082618a7-1f3f-11e7-bf6b-3863bb334450,true,38.999679,388,-77.051168,Lyttonsville Rd & Lyttonsville Pl,44,32054,388,classic
 11,false,false,0826190f-1f3f-11e7-bf6b-3863bb334450,true,38.979875,389,-77.093522,Woodmont Ave & Strathmore St,44,32055,389,classic
 19,false,false,08261977-1f3f-11e7-bf6b-3863bb334450,true,38.903658,390,-77.031737,14th & L St NW,42,31283,390,classic
 15,false,false,082619e1-1f3f-11e7-bf6b-3863bb334450,true,38.908643,391,-77.012365,1st & O St NW,42,31519,391,classic

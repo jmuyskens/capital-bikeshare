@@ -3259,6 +3259,21 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Roosevelt Island",
+                "station_id": "227",
+                "capacity": 17
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.06714,
+                    38.896553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Connecticut & Nebraska Ave NW",
                 "station_id": "228",
                 "capacity": 23
@@ -5473,21 +5488,6 @@
                 "coordinates": [
                     -77.036278,
                     38.912652
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Lyttonsville Rd & Lyttonsville Pl",
-                "station_id": "388",
-                "capacity": 15
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.051168,
-                    38.999679
                 ]
             }
         },
