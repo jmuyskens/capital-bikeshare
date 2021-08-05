@@ -9720,6 +9720,21 @@
                     38.863556
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "St. Elizabeths West Campus/DHS ",
+                "station_id": "694",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.005174,
+                    38.853124
+                ]
+            }
         }
     ]
 }

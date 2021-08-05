@@ -13606,5 +13606,26 @@
         "short_name": "31949",
         "station_id": "693",
         "station_type": "classic"
+    },
+    {
+        "capacity": 19,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "8a10969e-9861-4926-bda6-f0b58a0c253d",
+        "has_kiosk": true,
+        "lat": 38.853124,
+        "legacy_id": "694",
+        "lon": -77.005174,
+        "name": "St. Elizabeths West Campus/DHS ",
+        "region_id": "42",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31827",
+        "station_id": "694",
+        "station_type": "classic"
     }
 ]
