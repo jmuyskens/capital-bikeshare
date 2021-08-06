@@ -383,6 +383,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 23,false,false,08261ee4-1f3f-11e7-bf6b-3863bb334450,true,38.828437,403,-77.086031,Radford St & Osage St,40,31908,403,classic
 19,false,false,08261f4b-1f3f-11e7-bf6b-3863bb334450,true,38.88532071975074,404,-77.15642720460892,East Falls Church Metro / Sycamore St & 19th St N,41,31904,404,classic
 15,false,false,08261fb3-1f3f-11e7-bf6b-3863bb334450,true,38.880992,405,-77.135271,Kennebec St & 11th St N,41,31905,405,classic
+15,false,false,08262027-1f3f-11e7-bf6b-3863bb334450,true,38.812711,406,-77.061715,Commonwealth Ave & Oak St,40,31906,406,classic
 15,false,false,08262094-1f3f-11e7-bf6b-3863bb334450,true,38.82005823354218,407,-77.06282079219818,Commonwealth Ave & E Monroe Ave,40,31913,407,classic
 31,false,false,082620fc-1f3f-11e7-bf6b-3863bb334450,true,38.8904955,408,-77.0172465,4th St & Madison Dr NW,42,31288,408,classic
 19,false,false,0826233f-1f3f-11e7-bf6b-3863bb334450,true,38.890539,409,-77.049383,Henry Bacon Dr & Lincoln Memorial Circle NW,42,31289,409,classic
@@ -604,7 +605,6 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,e9611824-0245-4482-bc8b-970c0eface40,true,38.88548252734069,639,-76.97718724608421,Stadium Armory Metro,42,31665,639,classic
 19,false,false,68eaf9f5-7b2d-4f60-9f02-9f5ba1103f80,true,38.96577499342219,640,-77.06862643361092,Broad Branch Rd & Northampton St NW,42,31422,640,classic
 15,false,false,1e196ee1-daa4-4fa6-b6f8-197b31e6d170,true,38.81403111409755,641,-77.04281687736511,N Pitt St & Montgomery St,40,31931,641,classic
-11,false,false,66fe4efd-f6de-4300-9b35-82e3aea013e5,true,38.801947,643,-77.040293,Duke St & Strand (Robinson Terminal),40,31933,643,classic
 19,false,false,8429af9f-3adc-4db6-b96a-7fd9c75fe3a3,true,38.89830173667249,645,-77.04691261053085,21st St & G st NW,42,31328,645,classic
 19,false,false,3f177fa3-6267-4138-82b3-6b528d71d3b2,true,38.881123,646,-77.017658,4th St & G St SW,42,31666,646,classic
 19,false,false,d1fd7121-67e3-46a9-b415-e84a565394f2,true,38.958098,647,-77.013821,Kansas Ave & Longfellow St NW,42,31423,647,classic

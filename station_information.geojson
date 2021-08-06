@@ -5764,6 +5764,21 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Commonwealth Ave & Oak St",
+                "station_id": "406",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.061715,
+                    38.812711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Commonwealth Ave & E Monroe Ave",
                 "station_id": "407",
                 "capacity": 15
@@ -9073,21 +9088,6 @@
                 "coordinates": [
                     -77.04281687736511,
                     38.81403111409755
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Duke St & Strand (Robinson Terminal)",
-                "station_id": "643",
-                "capacity": 11
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.040293,
-                    38.801947
                 ]
             }
         },

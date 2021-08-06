@@ -8068,6 +8068,27 @@
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
+        "external_id": "08262027-1f3f-11e7-bf6b-3863bb334450",
+        "has_kiosk": true,
+        "lat": 38.812711,
+        "legacy_id": "406",
+        "lon": -77.061715,
+        "name": "Commonwealth Ave & Oak St",
+        "region_id": "40",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31906",
+        "station_id": "406",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 15,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
         "external_id": "08262094-1f3f-11e7-bf6b-3863bb334450",
         "has_kiosk": true,
         "lat": 38.82005823354218,
@@ -12702,27 +12723,6 @@
         "rental_uris": {},
         "short_name": "31931",
         "station_id": "641",
-        "station_type": "classic"
-    },
-    {
-        "capacity": 11,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "66fe4efd-f6de-4300-9b35-82e3aea013e5",
-        "has_kiosk": true,
-        "lat": 38.801947,
-        "legacy_id": "643",
-        "lon": -77.040293,
-        "name": "Duke St & Strand (Robinson Terminal)",
-        "region_id": "40",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "31933",
-        "station_id": "643",
         "station_type": "classic"
     },
     {
