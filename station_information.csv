@@ -4,7 +4,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 17,false,false,08246c35-1f3f-11e7-bf6b-3863bb334450,true,38.856425,3,-77.049232,Crystal Dr & 20th St S,41,31002,3,classic
 16,false,false,08246cd5-1f3f-11e7-bf6b-3863bb334450,true,38.861056,4,-77.049417,Crystal Dr & 15th St S,41,31003,4,classic
 12,false,false,08246d68-1f3f-11e7-bf6b-3863bb334450,true,38.857866,5,-77.05949,Aurora Hills Cmty Ctr / 18th St & S Hayes St,41,31004,5,classic
-18,false,false,08246df5-1f3f-11e7-bf6b-3863bb334450,true,38.862303,6,-77.059936,Pentagon City Metro / 12th St & S Hayes St,41,31005,6,classic
+19,false,false,08246df5-1f3f-11e7-bf6b-3863bb334450,true,38.862303,6,-77.059936,Pentagon City Metro / 12th St & S Hayes St,41,31005,6,classic
 16,false,false,08246e8c-1f3f-11e7-bf6b-3863bb334450,true,38.86331354301248,7,-77.06341624259947,Army Navy Dr & S Joyce St,41,31006,7,classic
 19,false,false,08246f1f-1f3f-11e7-bf6b-3863bb334450,true,38.85778509815245,8,-77.05169767141342,Crystal City Metro / 18th St & S Bell St,41,31007,8,classic
 11,false,false,08247052-1f3f-11e7-bf6b-3863bb334450,true,38.848466,10,-77.051514,Crystal Dr & 27th St S,41,31009,10,classic
@@ -125,7 +125,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 12,false,false,0824eea3-1f3f-11e7-bf6b-3863bb334450,true,38.892164,131,-77.079375,Rhodes St & 16th St N,41,31018,131,classic
 15,false,false,0824f08b-1f3f-11e7-bf6b-3863bb334450,true,38.86559,132,-76.952103,Fairfax Village,42,31706,132,classic
 15,false,false,0824f16b-1f3f-11e7-bf6b-3863bb334450,true,38.892459,133,-77.046567,21st St & Constitution Ave NW,42,31261,133,classic
-15,false,false,0824f3d6-1f3f-11e7-bf6b-3863bb334450,true,38.889,134,-77.0925,Wilson Blvd & N Edgewood St,41,31019,134,classic
+15,false,false,0824f3d6-1f3f-11e7-bf6b-3863bb334450,true,38.889396070923496,134,-77.09186241030693,Wilson Blvd & N Edgewood St,41,31019,134,classic
 19,false,false,0824f461-1f3f-11e7-bf6b-3863bb334450,true,38.920669,135,-77.04368,Columbia Rd & Belmont St NW,42,31113,135,classic
 23,false,false,0824f644-1f3f-11e7-bf6b-3863bb334450,true,38.905995699991145,136,-77.03980207443237,Rhode Island & Connecticut Ave NW,42,31239,136,classic
 33,false,false,0824f8a2-1f3f-11e7-bf6b-3863bb334450,true,38.9059,137,-77.0325,Thomas Circle,42,31241,137,classic

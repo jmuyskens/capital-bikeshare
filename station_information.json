@@ -105,7 +105,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 18,
+        "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -2652,9 +2652,9 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "0824f3d6-1f3f-11e7-bf6b-3863bb334450",
         "has_kiosk": true,
-        "lat": 38.889,
+        "lat": 38.889396070923496,
         "legacy_id": "134",
-        "lon": -77.0925,
+        "lon": -77.09186241030693,
         "name": "Wilson Blvd & N Edgewood St",
         "region_id": "41",
         "rental_methods": [
