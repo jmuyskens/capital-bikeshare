@@ -81,7 +81,7 @@
             "properties": {
                 "name": "Pentagon City Metro / 12th St & S Hayes St",
                 "station_id": "6",
-                "capacity": 19
+                "capacity": 18
             },
             "geometry": {
                 "type": "Point",
@@ -7986,7 +7986,7 @@
             "properties": {
                 "name": "Northwestern High School",
                 "station_id": "564",
-                "capacity": 15
+                "capacity": 12
             },
             "geometry": {
                 "type": "Point",

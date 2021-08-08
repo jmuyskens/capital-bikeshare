@@ -4,7 +4,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 17,false,false,08246c35-1f3f-11e7-bf6b-3863bb334450,true,38.856425,3,-77.049232,Crystal Dr & 20th St S,41,31002,3,classic
 16,false,false,08246cd5-1f3f-11e7-bf6b-3863bb334450,true,38.861056,4,-77.049417,Crystal Dr & 15th St S,41,31003,4,classic
 12,false,false,08246d68-1f3f-11e7-bf6b-3863bb334450,true,38.857866,5,-77.05949,Aurora Hills Cmty Ctr / 18th St & S Hayes St,41,31004,5,classic
-19,false,false,08246df5-1f3f-11e7-bf6b-3863bb334450,true,38.862303,6,-77.059936,Pentagon City Metro / 12th St & S Hayes St,41,31005,6,classic
+18,false,false,08246df5-1f3f-11e7-bf6b-3863bb334450,true,38.862303,6,-77.059936,Pentagon City Metro / 12th St & S Hayes St,41,31005,6,classic
 16,false,false,08246e8c-1f3f-11e7-bf6b-3863bb334450,true,38.86331354301248,7,-77.06341624259947,Army Navy Dr & S Joyce St,41,31006,7,classic
 19,false,false,08246f1f-1f3f-11e7-bf6b-3863bb334450,true,38.85778509815245,8,-77.05169767141342,Crystal City Metro / 18th St & S Bell St,41,31007,8,classic
 11,false,false,08247052-1f3f-11e7-bf6b-3863bb334450,true,38.848466,10,-77.051514,Crystal Dr & 27th St S,41,31009,10,classic
@@ -531,7 +531,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,42ad2bc8-22b5-40f2-8a56-e562e4ecde07,true,38.959361,561,-76.946361,Oglethorpe St & 42nd Ave,133,32408,561,classic
 15,false,false,772ca14a-a964-4745-ab93-37cc472d8ff2,true,38.840107,562,-76.9753,Southern Ave Metro,133,32409,562,classic
 15,false,false,27d919c7-7fda-41d1-9c05-2f537d5c4ce2,true,38.9546,563,-76.9595,Queens Chapel & Hamilton St,133,32410,563,classic
-15,false,false,3dd9e864-a5fc-4c27-b18e-325226089293,true,38.975505,564,-76.952199,Northwestern High School,133,32411,564,classic
+12,false,false,3dd9e864-a5fc-4c27-b18e-325226089293,true,38.975505,564,-76.952199,Northwestern High School,133,32411,564,classic
 15,false,false,ae00650a-be2d-4912-8f0d-8338b3754eed,true,38.974205,565,-76.995227,New Hampshire Ave & East-West Hwy,133,32412,565,classic
 15,false,false,199df30f-328b-48af-8627-952bd9d6fe7c,true,38.939271,566,-76.955047,Rhode Island Ave & 39th St / Brentwood Arts Exchange,133,32413,566,classic
 17,false,false,f0d65475-a505-474b-a40f-2488459105ac,true,38.9725,567,-76.9807,Riggs Rd & East West Hwy,133,32414,567,classic
