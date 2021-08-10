@@ -912,7 +912,7 @@
         "lat": 38.8743,
         "legacy_id": "45",
         "lon": -77.0057,
-        "name": "1st & N St  SE",
+        "name": "1st & N St SE",
         "region_id": "42",
         "rental_methods": [
             "CREDITCARD",
@@ -4629,7 +4629,7 @@
         "lat": 38.92333,
         "legacy_id": "230",
         "lon": -77.0352,
-        "name": "15th & Euclid St  NW",
+        "name": "15th & Euclid St NW",
         "region_id": "42",
         "rental_methods": [
             "CREDITCARD",
@@ -10920,7 +10920,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 23,
+        "capacity": 15,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,

@@ -649,7 +649,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "1st & N St  SE",
+                "name": "1st & N St SE",
                 "station_id": "45",
                 "capacity": 39
             },
@@ -3304,7 +3304,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "15th & Euclid St  NW",
+                "name": "15th & Euclid St NW",
                 "station_id": "230",
                 "capacity": 15
             },
@@ -7806,7 +7806,7 @@
             "properties": {
                 "name": "Woodley Park Metro / Calvert St & Connecticut Ave NW",
                 "station_id": "549",
-                "capacity": 23
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
