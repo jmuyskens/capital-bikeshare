@@ -1804,7 +1804,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Rosslyn Metro / Wilson Blvd & Ft Myer Dr",
+                "name": "Wilson Blvd & Ft Myer Dr",
                 "station_id": "128",
                 "capacity": 19
             },
