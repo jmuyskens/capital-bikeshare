@@ -7656,7 +7656,7 @@
             "properties": {
                 "name": "4th & M St SE",
                 "station_id": "539",
-                "capacity": 19
+                "capacity": 11
             },
             "geometry": {
                 "type": "Point",
@@ -9733,6 +9733,21 @@
                 "coordinates": [
                     -77.005174,
                     38.853124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Long Bridge Aquatic ctr",
+                "station_id": "695",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.04409494996071,
+                    38.87056104566178
                 ]
             }
         }

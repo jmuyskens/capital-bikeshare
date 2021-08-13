@@ -10710,7 +10710,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 19,
+        "capacity": 11,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -13626,6 +13626,27 @@
         "rental_uris": {},
         "short_name": "31827",
         "station_id": "694",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "065defed-8e90-46b9-a106-28d590704cf8",
+        "has_kiosk": true,
+        "lat": 38.87056104566178,
+        "legacy_id": "695",
+        "lon": -77.04409494996071,
+        "name": "Long Bridge Aquatic ctr",
+        "region_id": "41",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31950",
+        "station_id": "695",
         "station_type": "classic"
     }
 ]
