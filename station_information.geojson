@@ -6814,15 +6814,15 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Columbia Pike & S Taylor St",
+                "name": "Columbia Pike & George Mason Dr",
                 "station_id": "477",
                 "capacity": 15
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.103728,
-                    38.858524
+                    -77.10201859474182,
+                    38.859305619982344
                 ]
             }
         },
@@ -7596,7 +7596,7 @@
             "properties": {
                 "name": "1st & M St SE",
                 "station_id": "535",
-                "capacity": 19
+                "capacity": 17
             },
             "geometry": {
                 "type": "Point",
@@ -7656,7 +7656,7 @@
             "properties": {
                 "name": "4th & M St SE",
                 "station_id": "539",
-                "capacity": 11
+                "capacity": 18
             },
             "geometry": {
                 "type": "Point",

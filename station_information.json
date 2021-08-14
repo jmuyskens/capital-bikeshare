@@ -9540,10 +9540,10 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "7a00f0f5-f757-4715-9e89-58253ac36de0",
         "has_kiosk": true,
-        "lat": 38.858524,
+        "lat": 38.859305619982344,
         "legacy_id": "477",
-        "lon": -77.103728,
-        "name": "Columbia Pike & S Taylor St",
+        "lon": -77.10201859474182,
+        "name": "Columbia Pike & George Mason Dr",
         "region_id": "41",
         "rental_methods": [
             "CREDITCARD",
@@ -10626,7 +10626,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 19,
+        "capacity": 17,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -10710,7 +10710,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 11,
+        "capacity": 18,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
