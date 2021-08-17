@@ -13530,9 +13530,9 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "29f174dd-e7bc-4329-a570-0220f0d1be84",
         "has_kiosk": true,
-        "lat": 38.93051,
+        "lat": 38.97850255151454,
         "legacy_id": "690",
-        "lon": -77.345874,
+        "lon": -77.35345423221588,
         "name": "Lake Newport Rd and Autumn Ridge Cir",
         "region_id": "104",
         "rental_methods": [
