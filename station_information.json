@@ -6474,10 +6474,10 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "0825e4d5-1f3f-11e7-bf6b-3863bb334450",
         "has_kiosk": true,
-        "lat": 38.839912,
+        "lat": 38.84065400672152,
         "legacy_id": "324",
-        "lon": -77.087083,
-        "name": "Shirlington Transit Center / Quincy St & Randolph St",
+        "lon": -77.08865851163864,
+        "name": "S Randolph St & Campbell Ave",
         "region_id": "41",
         "rental_methods": [
             "CREDITCARD",

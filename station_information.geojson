@@ -4624,15 +4624,15 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Shirlington Transit Center / Quincy St & Randolph St",
+                "name": "S Randolph St & Campbell Ave",
                 "station_id": "324",
                 "capacity": 15
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.087083,
-                    38.839912
+                    -77.08865851163864,
+                    38.84065400672152
                 ]
             }
         },
