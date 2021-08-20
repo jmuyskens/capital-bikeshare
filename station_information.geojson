@@ -9750,6 +9750,21 @@
                     38.87056104566178
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "8th Rd & S Frederick St",
+                "station_id": "696",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.116339,
+                    38.857049
+                ]
+            }
         }
     ]
 }
