@@ -10479,27 +10479,6 @@
         "station_type": "classic"
     },
     {
-        "capacity": 15,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "b053927b-0761-40d0-a3ff-8a63fa1c7141",
-        "has_kiosk": true,
-        "lat": 39.050539,
-        "legacy_id": "526",
-        "lon": -77.115212,
-        "name": "Rockville Pike & Meeting St",
-        "region_id": "43",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "32083",
-        "station_id": "526",
-        "station_type": "classic"
-    },
-    {
         "capacity": 23,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],

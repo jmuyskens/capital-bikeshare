@@ -7489,21 +7489,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Rockville Pike & Meeting St",
-                "station_id": "526",
-                "capacity": 15
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.115212,
-                    39.050539
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Potomac Ave & Half St SW",
                 "station_id": "527",
                 "capacity": 23
