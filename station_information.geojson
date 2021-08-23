@@ -2421,7 +2421,7 @@
             "properties": {
                 "name": "Smithsonian-National Mall / Jefferson Dr & 12th St SW",
                 "station_id": "169",
-                "capacity": 32
+                "capacity": 35
             },
             "geometry": {
                 "type": "Point",
@@ -7896,7 +7896,7 @@
             "properties": {
                 "name": "18th & New Hampshire Ave NW",
                 "station_id": "556",
-                "capacity": 19
+                "capacity": 10
             },
             "geometry": {
                 "type": "Point",
@@ -9396,7 +9396,7 @@
             "properties": {
                 "name": "Rosslyn Metro / Wilson Blvd & N Moore St",
                 "station_id": "670",
-                "capacity": 20
+                "capacity": 21
             },
             "geometry": {
                 "type": "Point",
