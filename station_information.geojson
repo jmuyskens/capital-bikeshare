@@ -7896,7 +7896,7 @@
             "properties": {
                 "name": "18th & New Hampshire Ave NW",
                 "station_id": "556",
-                "capacity": 10
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",

@@ -525,7 +525,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,3f1dfbbd-7b34-4efd-91a3-60acad4cf42f,true,38.885908,553,-76.991476,11th & C St SE,42,31659,553,classic
 19,false,false,89263cc9-13f6-4185-b315-5164c9bb930e,true,38.951596,554,-77.012808,New Hampshire & Gallatin St NW,42,31418,554,classic
 19,false,false,5f0f9566-90d4-431e-9b6d-994e26d20ec6,true,38.835737,555,-76.983144,United Medical Center,42,31823,555,classic
-10,false,false,101824b5-2dd0-464c-bc7e-30481e00e6d7,true,38.911268,556,-77.041829,18th & New Hampshire Ave NW,42,31324,556,classic
+19,false,false,101824b5-2dd0-464c-bc7e-30481e00e6d7,true,38.911268,556,-77.041829,18th & New Hampshire Ave NW,42,31324,556,classic
 19,false,false,48ca5477-32a2-485d-961d-5371f2d1d5e1,true,38.8828,560,-77.2283,Dunn Loring Metro,104,32231,560,classic
 15,false,false,42ad2bc8-22b5-40f2-8a56-e562e4ecde07,true,38.959361,561,-76.946361,Oglethorpe St & 42nd Ave,133,32408,561,classic
 15,false,false,772ca14a-a964-4745-ab93-37cc472d8ff2,true,38.840107,562,-76.9753,Southern Ave Metro,133,32409,562,classic
