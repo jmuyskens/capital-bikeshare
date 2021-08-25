@@ -653,7 +653,11 @@
     {
         "capacity": 19,
         "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
+        "eightd_station_services": [
+            {
+                "name": "Valet Service"
+            }
+        ],
         "electric_bike_surcharge_waiver": false,
         "external_id": "08247e59-1f3f-11e7-bf6b-3863bb334450",
         "has_kiosk": true,
@@ -6528,27 +6532,6 @@
         "rental_uris": {},
         "short_name": "32046",
         "station_id": "326",
-        "station_type": "classic"
-    },
-    {
-        "capacity": 19,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "0825f1f7-1f3f-11e7-bf6b-3863bb334450",
-        "has_kiosk": true,
-        "lat": 39.084379,
-        "legacy_id": "327",
-        "lon": -77.146866,
-        "name": "Rockville Metro West",
-        "region_id": "43",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "32047",
-        "station_id": "327",
         "station_type": "classic"
     },
     {
@@ -13647,6 +13630,26 @@
         "rental_uris": {},
         "short_name": "31951",
         "station_id": "696",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "0627dc3c-5c62-4ab1-a6f0-3635c6f80d23",
+        "has_kiosk": false,
+        "lat": 0,
+        "legacy_id": "697",
+        "lon": 0,
+        "name": "Bryant St NE",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31531",
+        "station_id": "697",
         "station_type": "classic"
     }
 ]

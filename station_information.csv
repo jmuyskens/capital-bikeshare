@@ -310,7 +310,6 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,0825e4d5-1f3f-11e7-bf6b-3863bb334450,true,38.84065400672152,324,-77.08865851163864,S Randolph St & Campbell Ave,41,31076,324,classic
 19,false,false,0825e56c-1f3f-11e7-bf6b-3863bb334450,true,39.119765,325,-77.166093,Shady Grove Metro West,43,32045,325,classic
 19,false,false,0825e5ff-1f3f-11e7-bf6b-3863bb334450,true,38.964992,326,-77.103381,River Rd & Landy Ln,44,32046,326,classic
-19,false,false,0825f1f7-1f3f-11e7-bf6b-3863bb334450,true,39.084379,327,-77.146866,Rockville Metro West,43,32047,327,classic
 12,false,false,0825f2b1-1f3f-11e7-bf6b-3863bb334450,true,38.984691,328,-77.094537,Bethesda Metro / Wisconsin Ave & Old Georgetown Rd,44,32048,328,classic
 19,false,false,0825f344-1f3f-11e7-bf6b-3863bb334450,true,38.88992,329,-77.071301,Iwo Jima Memorial / Meade & 14th St N,41,31077,329,classic
 19,false,false,0825f3d4-1f3f-11e7-bf6b-3863bb334450,true,38.9037315,330,-77.0675285,34th & Water St NW,42,31314,330,classic
@@ -649,3 +648,4 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,8a10969e-9861-4926-bda6-f0b58a0c253d,true,38.853124,694,-77.005174,St. Elizabeths West Campus/DHS ,42,31827,694,classic
 12,false,false,065defed-8e90-46b9-a106-28d590704cf8,true,38.87056104566178,695,-77.04409494996071,Long Bridge Aquatic ctr,41,31950,695,classic
 12,false,false,1cc6ee60-b82f-4264-a490-6c3e5e656ccd,true,38.857049,696,-77.116339,8th Rd & S Frederick St,41,31951,696,classic
+0,false,false,0627dc3c-5c62-4ab1-a6f0-3635c6f80d23,false,0,697,0,Bryant St NE,,31531,697,classic

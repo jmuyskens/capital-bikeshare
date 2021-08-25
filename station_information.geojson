@@ -4669,21 +4669,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Rockville Metro West",
-                "station_id": "327",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.146866,
-                    39.084379
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Bethesda Metro / Wisconsin Ave & Old Georgetown Rd",
                 "station_id": "328",
                 "capacity": 12
@@ -9748,6 +9733,21 @@
                 "coordinates": [
                     -77.116339,
                     38.857049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bryant St NE",
+                "station_id": "697",
+                "capacity": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
                 ]
             }
         }
