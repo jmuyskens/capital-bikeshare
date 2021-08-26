@@ -1,6 +1,5 @@
 capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has_kiosk,lat,legacy_id,lon,name,region_id,short_name,station_id,station_type
 15,false,false,082469cc-1f3f-11e7-bf6b-3863bb334450,true,38.858971,1,-77.05323,Eads St & 15th St S,41,31000,1,classic
-11,false,false,08246b69-1f3f-11e7-bf6b-3863bb334450,true,38.85725,2,-77.05332,18th St & S Eads St,41,31001,2,classic
 17,false,false,08246c35-1f3f-11e7-bf6b-3863bb334450,true,38.856425,3,-77.049232,Crystal Dr & 20th St S,41,31002,3,classic
 16,false,false,08246cd5-1f3f-11e7-bf6b-3863bb334450,true,38.861056,4,-77.049417,Crystal Dr & 15th St S,41,31003,4,classic
 12,false,false,08246d68-1f3f-11e7-bf6b-3863bb334450,true,38.857866,5,-77.05949,Aurora Hills Cmty Ctr / 18th St & S Hayes St,41,31004,5,classic
@@ -649,3 +648,4 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 12,false,false,065defed-8e90-46b9-a106-28d590704cf8,true,38.87056104566178,695,-77.04409494996071,Long Bridge Aquatic ctr,41,31950,695,classic
 12,false,false,1cc6ee60-b82f-4264-a490-6c3e5e656ccd,true,38.857049,696,-77.116339,8th Rd & S Frederick St,41,31951,696,classic
 0,false,false,0627dc3c-5c62-4ab1-a6f0-3635c6f80d23,false,0,697,0,Bryant St NE,,31531,697,classic
+15,false,false,5e229707-ae42-42f7-b31d-1a65af253027,true,38.818509,698,-77.105564,N Howard St & N Imboden St,40,31952,698,classic

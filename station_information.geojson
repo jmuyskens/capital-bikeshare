@@ -19,21 +19,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "18th St & S Eads St",
-                "station_id": "2",
-                "capacity": 11
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.05332,
-                    38.85725
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Crystal Dr & 20th St S",
                 "station_id": "3",
                 "capacity": 17
@@ -9748,6 +9733,21 @@
                 "coordinates": [
                     0,
                     0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "N Howard St & N Imboden St",
+                "station_id": "698",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.105564,
+                    38.818509
                 ]
             }
         }
