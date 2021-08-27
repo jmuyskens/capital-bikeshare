@@ -3381,7 +3381,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 15,
+        "capacity": 2,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -13605,26 +13605,6 @@
         "rental_uris": {},
         "short_name": "31951",
         "station_id": "696",
-        "station_type": "classic"
-    },
-    {
-        "capacity": 0,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "0627dc3c-5c62-4ab1-a6f0-3635c6f80d23",
-        "has_kiosk": false,
-        "lat": 0,
-        "legacy_id": "697",
-        "lon": 0,
-        "name": "Bryant St NE",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "31531",
-        "station_id": "697",
         "station_type": "classic"
     },
     {

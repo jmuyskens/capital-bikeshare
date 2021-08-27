@@ -2421,7 +2421,7 @@
             "properties": {
                 "name": "George Mason Dr & Wilson Blvd",
                 "station_id": "170",
-                "capacity": 15
+                "capacity": 2
             },
             "geometry": {
                 "type": "Point",
@@ -9718,21 +9718,6 @@
                 "coordinates": [
                     -77.116339,
                     38.857049
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Bryant St NE",
-                "station_id": "697",
-                "capacity": 0
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
                 ]
             }
         },
