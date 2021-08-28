@@ -2421,7 +2421,7 @@
             "properties": {
                 "name": "George Mason Dr & Wilson Blvd",
                 "station_id": "170",
-                "capacity": 2
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
