@@ -7611,7 +7611,7 @@
             "properties": {
                 "name": "4th & M St SE",
                 "station_id": "539",
-                "capacity": 19
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
