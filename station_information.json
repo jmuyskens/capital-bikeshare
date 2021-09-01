@@ -7308,7 +7308,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 19,
+        "capacity": 18,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -13605,6 +13605,27 @@
         "rental_uris": {},
         "short_name": "31951",
         "station_id": "696",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 19,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "0627dc3c-5c62-4ab1-a6f0-3635c6f80d23",
+        "has_kiosk": true,
+        "lat": 38.92240364115446,
+        "legacy_id": "697",
+        "lon": -76.9960230588913,
+        "name": "MBT & Bryant St NE",
+        "region_id": "42",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31531",
+        "station_id": "697",
         "station_type": "classic"
     },
     {

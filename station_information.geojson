@@ -5226,7 +5226,7 @@
             "properties": {
                 "name": "Georgia & Missouri Ave NW",
                 "station_id": "371",
-                "capacity": 19
+                "capacity": 18
             },
             "geometry": {
                 "type": "Point",
@@ -9718,6 +9718,21 @@
                 "coordinates": [
                     -77.116339,
                     38.857049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MBT & Bryant St NE",
+                "station_id": "697",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.9960230588913,
+                    38.92240364115446
                 ]
             }
         },

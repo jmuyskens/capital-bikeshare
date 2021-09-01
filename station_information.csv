@@ -347,7 +347,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,08260472-1f3f-11e7-bf6b-3863bb334450,true,38.86612,368,-77.08787,Walter Reed Dr & 8th St S,41,31096,368,classic
 23,false,false,082604dd-1f3f-11e7-bf6b-3863bb334450,true,38.89967,369,-77.003666,2nd & G St NE,42,31639,369,classic
 19,false,false,08260549-1f3f-11e7-bf6b-3863bb334450,true,38.90864,370,-77.02277,8th & O St NW,42,31281,370,classic
-19,false,false,082605b0-1f3f-11e7-bf6b-3863bb334450,true,38.961339,371,-77.027855,Georgia & Missouri Ave NW,42,31411,371,classic
+18,false,false,082605b0-1f3f-11e7-bf6b-3863bb334450,true,38.961339,371,-77.027855,Georgia & Missouri Ave NW,42,31411,371,classic
 19,false,false,08261245-1f3f-11e7-bf6b-3863bb334450,true,38.894474,373,-76.974828,Oklahoma Ave & D St NE,42,31712,373,classic
 19,false,false,082612c1-1f3f-11e7-bf6b-3863bb334450,true,38.8962260397813,374,-76.99278563261032,Maryland Ave & E St NE,42,31640,374,classic
 23,false,false,0826132d-1f3f-11e7-bf6b-3863bb334450,true,38.915604,375,-76.983683,New York Ave & Hecht Ave NE,42,31518,375,classic
@@ -647,4 +647,5 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,8a10969e-9861-4926-bda6-f0b58a0c253d,true,38.853124,694,-77.005174,St. Elizabeths West Campus/DHS ,42,31827,694,classic
 12,false,false,065defed-8e90-46b9-a106-28d590704cf8,true,38.87056104566178,695,-77.04409494996071,Long Bridge Aquatic ctr,41,31950,695,classic
 12,false,false,1cc6ee60-b82f-4264-a490-6c3e5e656ccd,true,38.857049,696,-77.116339,8th Rd & S Frederick St,41,31951,696,classic
+19,false,false,0627dc3c-5c62-4ab1-a6f0-3635c6f80d23,true,38.92240364115446,697,-76.9960230588913,MBT & Bryant St NE,42,31531,697,classic
 15,false,false,5e229707-ae42-42f7-b31d-1a65af253027,true,38.818509,698,-77.105564,N Howard St & N Imboden St,40,31952,698,classic
