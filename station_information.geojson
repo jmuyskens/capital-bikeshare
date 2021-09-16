@@ -7941,7 +7941,7 @@
             "properties": {
                 "name": "Northwestern High School",
                 "station_id": "564",
-                "capacity": 15
+                "capacity": 13
             },
             "geometry": {
                 "type": "Point",
