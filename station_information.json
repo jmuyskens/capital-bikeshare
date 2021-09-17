@@ -11109,7 +11109,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 13,
+        "capacity": 15,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -13575,7 +13575,7 @@
         "lat": 38.87056104566178,
         "legacy_id": "695",
         "lon": -77.04409494996071,
-        "name": "Long Bridge Aquatic ctr",
+        "name": "Long Bridge Aquatic Center",
         "region_id": "41",
         "rental_methods": [
             "CREDITCARD",
@@ -13647,6 +13647,27 @@
         "rental_uris": {},
         "short_name": "31952",
         "station_id": "698",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "c0ec45a3-ec59-4c82-9671-13d9c122be30",
+        "has_kiosk": true,
+        "lat": 38.983199,
+        "legacy_id": "702",
+        "lon": -77.341823,
+        "name": "North Village and Park Garden",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32256",
+        "station_id": "702",
         "station_type": "classic"
     }
 ]
