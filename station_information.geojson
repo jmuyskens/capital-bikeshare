@@ -7399,6 +7399,21 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Largo Town Center Metro",
+                "station_id": "522",
+                "capacity": 17
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.844604,
+                    38.899811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Baltimore Ave & Van Buren St / Riverdale Park Station",
                 "station_id": "523",
                 "capacity": 17

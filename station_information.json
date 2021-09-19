@@ -10357,6 +10357,27 @@
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
+        "external_id": "29b65d73-fc99-42e3-9007-2175402a5c56",
+        "has_kiosk": true,
+        "lat": 38.899811,
+        "legacy_id": "522",
+        "lon": -76.844604,
+        "name": "Largo Town Center Metro",
+        "region_id": "133",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32401",
+        "station_id": "522",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 17,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
         "external_id": "3c8cebaf-4155-47d8-8272-9d65831f33b8",
         "has_kiosk": true,
         "lat": 38.969581,
