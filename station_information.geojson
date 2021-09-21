@@ -7536,7 +7536,7 @@
             "properties": {
                 "name": "14th & Luzon St NW",
                 "station_id": "534",
-                "capacity": 19
+                "capacity": 10
             },
             "geometry": {
                 "type": "Point",
