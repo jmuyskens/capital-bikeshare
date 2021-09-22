@@ -511,7 +511,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 11,false,false,3c6a1bf0-3aac-4406-990d-966cc8edca52,true,38.944707,541,-77.335425,Campus Commons,104,32228,541,classic
 11,false,false,a826e5d0-8ee8-41a4-8c1d-1a2ad7212dec,true,38.92755,542,-77.226644,Park Run & Onyx Dr,104,32229,542,classic
 19,false,false,a0d0ec92-ebda-436a-b476-7ee9a7bdb67d,true,38.902674,543,-77.021392,7th & K St NW,42,31653,543,classic
-19,false,false,99ddcd49-1312-4d80-8030-9bc2732deb5c,true,38.876211,544,-77.012443,King Greenleaf Rec Center,42,31654,544,classic
+6,false,false,99ddcd49-1312-4d80-8030-9bc2732deb5c,true,38.876211,544,-77.012443,King Greenleaf Rec Center,42,31654,544,classic
 19,false,false,a07bd5e0-5136-4285-ae23-54a74124957e,true,38.907444,545,-76.986813,Montello Ave & Holbrook Terr NE,42,31524,545,classic
 33,false,false,96ce48cf-5d98-4dfb-86b1-f461230cd193,true,38.897108,546,-77.011616,New Jersey Ave & F St NW,42,31655,546,classic
 19,false,false,06a14329-dedb-4152-b237-e59afccd8d42,true,38.901935,547,-76.978627,Maryland Ave & 17th St NE,42,31656,547,classic
@@ -629,6 +629,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 11,false,false,cec05512-b9d1-4671-bc76-8b168079db93,true,39.002459,674,-76.916243,Greenbelt Station Parkway,133,32426,674,classic
 12,false,false,8aa43882-2e93-41fb-b55d-a6a15b5b446b,true,38.966344,675,-77.359341,Baron Cameron Ave & North Hampton Ave,104,32237,675,classic
 12,false,false,071dcbf5-3f1e-45e0-a4a5-8717adb8743f,true,38.936061,676,-77.337775,Ridge Heights Rd & Seahawks Dr,104,32238,676,classic
+12,false,false,e976c0ab-bc21-42b3-a2c2-b90def6f54f4,true,38.966848,677,-77.329282,Becontree Ln & Goldenrain Ct,104,32239,677,classic
 12,false,false,bc5c6cf3-1c33-457f-a13d-f358c9909dc2,true,38.970807,678,-77.326761,Ring Rd & North Shore Dr,104,32240,678,classic
 12,false,false,a0121df5-4df5-425f-afb8-77dc94dc6d1b,true,38.973625,679,-77.351837,Reston Pkwy & Bennington Woods Rd,104,32241,679,classic
 12,false,false,0136af02-2670-4042-b5cd-18b46c15c0c1,true,38.965979,680,-77.334359,Inlet Ct & Wiehle Dr,104,32242,680,classic
@@ -649,4 +650,5 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 12,false,false,1cc6ee60-b82f-4264-a490-6c3e5e656ccd,true,38.857049,696,-77.116339,8th Rd & S Frederick St,41,31951,696,classic
 19,false,false,0627dc3c-5c62-4ab1-a6f0-3635c6f80d23,true,38.92240364115446,697,-76.9960230588913,MBT & Bryant St NE,42,31531,697,classic
 15,false,false,5e229707-ae42-42f7-b31d-1a65af253027,true,38.818509,698,-77.105564,N Howard St & N Imboden St,40,31952,698,classic
+11,false,false,c271d265-76c8-49f9-9b3c-b9490fb97ac0,true,38.878601,701,-77.222808,Hartland Rd & Harte Pl,104,32255,701,classic
 12,false,false,c0ec45a3-ec59-4c82-9671-13d9c122be30,true,38.983199,702,-77.341823,North Village and Park Garden,104,32256,702,classic

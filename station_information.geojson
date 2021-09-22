@@ -7686,7 +7686,7 @@
             "properties": {
                 "name": "King Greenleaf Rec Center",
                 "station_id": "544",
-                "capacity": 19
+                "capacity": 6
             },
             "geometry": {
                 "type": "Point",
@@ -9454,6 +9454,21 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Becontree Ln & Goldenrain Ct",
+                "station_id": "677",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.329282,
+                    38.966848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Ring Rd & North Shore Dr",
                 "station_id": "678",
                 "capacity": 12
@@ -9748,6 +9763,21 @@
                 "coordinates": [
                     -77.105564,
                     38.818509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hartland Rd & Harte Pl",
+                "station_id": "701",
+                "capacity": 11
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.222808,
+                    38.878601
                 ]
             }
         },
