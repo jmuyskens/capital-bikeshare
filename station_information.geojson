@@ -7686,7 +7686,7 @@
             "properties": {
                 "name": "King Greenleaf Rec Center",
                 "station_id": "544",
-                "capacity": 11
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -7731,7 +7731,7 @@
             "properties": {
                 "name": "Maryland Ave & 17th St NE",
                 "station_id": "547",
-                "capacity": 9
+                "capacity": 0
             },
             "geometry": {
                 "type": "Point",
@@ -7821,7 +7821,7 @@
             "properties": {
                 "name": "11th & C St SE",
                 "station_id": "553",
-                "capacity": 17
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
