@@ -7731,7 +7731,7 @@
             "properties": {
                 "name": "Maryland Ave & 17th St NE",
                 "station_id": "547",
-                "capacity": 0
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
