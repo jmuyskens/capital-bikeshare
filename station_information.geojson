@@ -3469,21 +3469,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Gravelly Point",
-                "station_id": "244",
-                "capacity": 15
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.039511,
-                    38.865029
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Pershing Dr & Wayne St",
                 "station_id": "245",
                 "capacity": 11
@@ -6411,7 +6396,7 @@
             "properties": {
                 "name": "15th & W St NW",
                 "station_id": "453",
-                "capacity": 18
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -8316,7 +8301,7 @@
             "properties": {
                 "name": "Grant Circle",
                 "station_id": "590",
-                "capacity": 19
+                "capacity": 12
             },
             "geometry": {
                 "type": "Point",
@@ -9358,6 +9343,21 @@
                 "coordinates": [
                     -77.07145214080809,
                     38.896086906318665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "W&OD Trail & Langston Blvd",
+                "station_id": "671",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.16212,
+                    38.88715
                 ]
             }
         },

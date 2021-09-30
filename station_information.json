@@ -4851,27 +4851,6 @@
         "station_type": "classic"
     },
     {
-        "capacity": 15,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "08256742-1f3f-11e7-bf6b-3863bb334450",
-        "has_kiosk": true,
-        "lat": 38.865029,
-        "legacy_id": "244",
-        "lon": -77.039511,
-        "name": "Gravelly Point",
-        "region_id": "41",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "31064",
-        "station_id": "244",
-        "station_type": "classic"
-    },
-    {
         "capacity": 11,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -8967,7 +8946,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 18,
+        "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -11634,7 +11613,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 19,
+        "capacity": 12,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -13101,6 +13080,27 @@
         "rental_uris": {},
         "short_name": "31947",
         "station_id": "670",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 15,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "5982cdb9-2f4d-490f-8e7c-030adfac87be",
+        "has_kiosk": true,
+        "lat": 38.88715,
+        "legacy_id": "671",
+        "lon": -77.16212,
+        "name": "W&OD Trail & Langston Blvd",
+        "region_id": "41",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31948",
+        "station_id": "671",
         "station_type": "classic"
     },
     {

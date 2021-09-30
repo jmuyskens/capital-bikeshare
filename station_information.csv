@@ -230,7 +230,6 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,082565f9-1f3f-11e7-bf6b-3863bb334450,true,38.903732,241,-76.987211,Neal St & Trinidad Ave NE,42,31512,241,classic
 31,false,false,08256670-1f3f-11e7-bf6b-3863bb334450,true,38.916787,242,-77.028139,12th & U St NW,42,31268,242,classic
 11,false,false,082566d7-1f3f-11e7-bf6b-3863bb334450,true,38.852248,243,-77.105022,S George Mason & Four Mile Run Dr,41,31063,243,classic
-15,false,false,08256742-1f3f-11e7-bf6b-3863bb334450,true,38.865029,244,-77.039511,Gravelly Point,41,31064,244,classic
 11,false,false,0825697c-1f3f-11e7-bf6b-3863bb334450,true,38.880705,245,-77.08596,Pershing Dr & Wayne St,41,31065,245,classic
 11,false,false,082569e6-1f3f-11e7-bf6b-3863bb334450,true,38.867262,246,-77.072315,Columbia Pike & S Orme St,41,31066,246,classic
 15,false,false,08256a59-1f3f-11e7-bf6b-3863bb334450,true,38.887378,247,-77.001955,3rd St & Pennsylvania Ave SE,42,31269,247,classic
@@ -426,7 +425,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 11,false,false,0826410b-1f3f-11e7-bf6b-3863bb334450,true,38.923083,450,-77.227417,Greensboro & International Dr,104,32221,450,classic
 15,false,false,08264173-1f3f-11e7-bf6b-3863bb334450,true,38.812351,451,-77.040691,Madison St & Fairfax St,40,31918,451,classic
 15,false,false,082641e3-1f3f-11e7-bf6b-3863bb334450,true,38.990874,452,-77.016311,Sligo Ave & Carroll Ln,44,32058,452,classic
-18,false,false,08264250-1f3f-11e7-bf6b-3863bb334450,true,38.9190185,453,-77.034449,15th & W St NW,42,31125,453,classic
+19,false,false,08264250-1f3f-11e7-bf6b-3863bb334450,true,38.9190185,453,-77.034449,15th & W St NW,42,31125,453,classic
 19,false,false,082642bd-1f3f-11e7-bf6b-3863bb334450,true,38.882489,454,-76.990121,12th St & Pennsylvania Ave SE,42,31644,454,classic
 15,false,false,08264325-1f3f-11e7-bf6b-3863bb334450,true,38.957463,455,-77.002239,3rd St & Riggs Rd NE,42,31412,455,classic
 15,false,false,08264392-1f3f-11e7-bf6b-3863bb334450,true,38.876695,456,-77.112982,Carlin Springs Rd & N Thomas St,41,31919,456,classic
@@ -553,7 +552,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,4f9000ec-e47e-494e-9b49-61e95b5a6f03,true,38.9142043187298,587,-77.0221745967865,7th & S St NW,42,31130,587,classic
 15,false,false,2a76806e-32b4-4ec6-a851-f73ba7dafda1,true,38.912524,588,-77.008798,North Capitol & R St NE,42,31527,588,classic
 19,false,false,72e7c396-11ad-4e88-bf4b-e60584f748fc,true,38.942146,589,-77.038684,17th & Upshur St NW,42,31420,589,classic
-19,false,false,4ae62d55-b4b3-47d7-ada9-79185e2be3b9,true,38.942024743273045,590,-77.01822102069855,Grant Circle,42,31421,590,classic
+12,false,false,4ae62d55-b4b3-47d7-ada9-79185e2be3b9,true,38.942024743273045,590,-77.01822102069855,Grant Circle,42,31421,590,classic
 19,false,false,2a43f4e2-4102-482e-8879-245cf7555c6b,true,38.934405,591,-77.032687,14th & Otis Pl NW,42,31131,591,classic
 19,false,false,8bbafd08-edb1-426d-94f4-c7b7d9be34dd,true,38.938889,592,-76.997226,John McCormack Rd NE,42,31528,592,classic
 17,false,false,cdaa435b-2b99-442a-a274-d6682067ad88,true,38.955349,593,-76.968084,West Hyattsville Metro,133,32418,593,classic
@@ -623,6 +622,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,f0d7675e-2ce0-41e7-94f5-28ca712fa456,true,38.854019,668,-77.118106,Columbia Pike & S Greenbrier St,41,31945,668,classic
 11,false,false,347b72fa-4ae2-4017-a9bf-344a122cddeb,true,38.828887,669,-77.110588,Kenmore Ave & Seminary Rd,40,31946,669,classic
 21,false,false,472d3644-c8f4-4912-ad84-79f11cee2e49,true,38.896086906318665,670,-77.07145214080809,Rosslyn Metro / Wilson Blvd & N Moore St,41,31947,670,classic
+15,false,false,5982cdb9-2f4d-490f-8e7c-030adfac87be,true,38.88715,671,-77.16212,W&OD Trail & Langston Blvd,41,31948,671,classic
 15,false,false,6922a398-ec20-493d-a832-5e337cf335f5,true,39.00031,672,-76.878005,Roosevelt Center & Crescent Rd,133,32424,672,classic
 15,false,false,10d57c0d-6f3c-45d1-8a12-eda5665e213c,true,39.006191,673,-76.891247,Crescent Rd & Ridge Rd,133,32425,673,classic
 11,false,false,cec05512-b9d1-4671-bc76-8b168079db93,true,39.002459,674,-76.916243,Greenbelt Station Parkway,133,32426,674,classic
