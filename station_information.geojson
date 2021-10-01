@@ -3469,6 +3469,21 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Gravelly Point",
+                "station_id": "244",
+                "capacity": 17
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.039511,
+                    38.865029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Pershing Dr & Wayne St",
                 "station_id": "245",
                 "capacity": 11
@@ -8301,7 +8316,7 @@
             "properties": {
                 "name": "Grant Circle",
                 "station_id": "590",
-                "capacity": 12
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
