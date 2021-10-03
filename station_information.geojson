@@ -5661,7 +5661,7 @@
             "properties": {
                 "name": "2nd St & Massachusetts Ave NE",
                 "station_id": "402",
-                "capacity": 23
+                "capacity": 21
             },
             "geometry": {
                 "type": "Point",
