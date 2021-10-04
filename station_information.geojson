@@ -5661,7 +5661,7 @@
             "properties": {
                 "name": "2nd St & Massachusetts Ave NE",
                 "station_id": "402",
-                "capacity": 21
+                "capacity": 23
             },
             "geometry": {
                 "type": "Point",
@@ -7506,7 +7506,7 @@
             "properties": {
                 "name": "48th Pl & MacArthur Blvd NW",
                 "station_id": "533",
-                "capacity": 19
+                "capacity": 13
             },
             "geometry": {
                 "type": "Point",
