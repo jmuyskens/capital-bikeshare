@@ -10500,7 +10500,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 13,
+        "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -13710,6 +13710,48 @@
         "rental_uris": {},
         "short_name": "32256",
         "station_id": "702",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 19,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "3900eddf-b06d-4763-af70-1126603508d0",
+        "has_kiosk": true,
+        "lat": 38.917716,
+        "legacy_id": "704",
+        "lon": -77.022684,
+        "name": "8th & V St NW",
+        "region_id": "42",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31134",
+        "station_id": "704",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 19,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "5e828067-2fd6-4168-b150-5409754e734c",
+        "has_kiosk": true,
+        "lat": 38.909858,
+        "legacy_id": "705",
+        "lon": -77.038566,
+        "name": "17th & P St NW",
+        "region_id": "42",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31330",
+        "station_id": "705",
         "station_type": "classic"
     }
 ]

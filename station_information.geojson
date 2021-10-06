@@ -7506,7 +7506,7 @@
             "properties": {
                 "name": "48th Pl & MacArthur Blvd NW",
                 "station_id": "533",
-                "capacity": 13
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -9793,6 +9793,36 @@
                 "coordinates": [
                     -77.341823,
                     38.983199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "8th & V St NW",
+                "station_id": "704",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.022684,
+                    38.917716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "17th & P St NW",
+                "station_id": "705",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.038566,
+                    38.909858
                 ]
             }
         }

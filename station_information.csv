@@ -499,7 +499,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,5945c731-a300-46e6-8e51-3236ad1f65f2,true,38.88994,530,-76.825535,Largo Rd & Campus Way / Prince Georges's Comm Col,133,32405,530,classic
 19,false,false,eab74a15-a9dd-4813-a6a9-c445782f6920,true,38.855004,531,-76.984512,Stanton Square SE,42,31822,531,classic
 19,false,false,e9030e46-31bf-4def-befb-2e685ad48180,true,38.931991,532,-77.032956,14th & Newton St NW,42,31649,532,classic
-13,false,false,e07eed7c-2d2a-4f13-aff7-2be6500958f7,true,38.9170363119413,533,-77.0957824587822,48th Pl & MacArthur Blvd NW,42,31322,533,classic
+19,false,false,e07eed7c-2d2a-4f13-aff7-2be6500958f7,true,38.9170363119413,533,-77.0957824587822,48th Pl & MacArthur Blvd NW,42,31322,533,classic
 19,false,false,eda09ed8-ca5e-4187-938c-3260cabdf82d,true,38.969489,534,-77.033509,14th & Luzon St NW,42,31416,534,classic
 19,false,false,5f71434d-dc5c-45ff-8219-708a3d9a0691,true,38.876893,535,-77.006072,1st & M St SE,42,31650,535,classic
 15,false,false,d4e8307d-5fb2-4ece-a66a-1522b1ebf79c,true,38.782633,536,-77.016059,Fleet St & Waterfront St,133,32406,536,classic
@@ -652,3 +652,5 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,5e229707-ae42-42f7-b31d-1a65af253027,true,38.818509,698,-77.105564,N Howard St & N Imboden St,40,31952,698,classic
 11,false,false,c271d265-76c8-49f9-9b3c-b9490fb97ac0,true,38.878601,701,-77.222808,Hartland Rd & Harte Pl,104,32255,701,classic
 12,false,false,c0ec45a3-ec59-4c82-9671-13d9c122be30,true,38.983199,702,-77.341823,North Village and Park Garden,104,32256,702,classic
+19,false,false,3900eddf-b06d-4763-af70-1126603508d0,true,38.917716,704,-77.022684,8th & V St NW,42,31134,704,classic
+19,false,false,5e828067-2fd6-4168-b150-5409754e734c,true,38.909858,705,-77.038566,17th & P St NW,42,31330,705,classic
