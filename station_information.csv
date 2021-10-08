@@ -121,7 +121,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,0824eba7-1f3f-11e7-bf6b-3863bb334450,true,38.893438,129,-77.076389,Clarendon Blvd & Pierce St,41,31016,129,classic
 15,false,false,0824ee0d-1f3f-11e7-bf6b-3863bb334450,true,38.891696,130,-77.0846,Wilson Blvd & N Uhle St,41,31017,130,classic
 12,false,false,0824eea3-1f3f-11e7-bf6b-3863bb334450,true,38.892164,131,-77.079375,Rhodes St & 16th St N,41,31018,131,classic
-15,false,false,0824f08b-1f3f-11e7-bf6b-3863bb334450,true,38.86559,132,-76.952103,Fairfax Village,42,31706,132,classic
+14,false,false,0824f08b-1f3f-11e7-bf6b-3863bb334450,true,38.86559,132,-76.952103,Fairfax Village,42,31706,132,classic
 15,false,false,0824f16b-1f3f-11e7-bf6b-3863bb334450,true,38.892459,133,-77.046567,21st St & Constitution Ave NW,42,31261,133,classic
 15,false,false,0824f3d6-1f3f-11e7-bf6b-3863bb334450,true,38.889396070923496,134,-77.09186241030693,Wilson Blvd & N Edgewood St,41,31019,134,classic
 19,false,false,0824f461-1f3f-11e7-bf6b-3863bb334450,true,38.920669,135,-77.04368,Columbia Rd & Belmont St NW,42,31113,135,classic
@@ -492,12 +492,12 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 13,false,false,730f282a-2f5b-4fda-b82f-5c94b3d5a2a6,true,38.92245,520,-77.23034,Greensboro & Pinnacle Dr,104,32227,520,classic
 15,false,false,987decdd-577d-4614-a6eb-307944a634b4,true,38.908391,521,-76.843263,1301 McCormick Dr / Wayne K. Curry Admin Bldg,133,32400,521,classic
 17,false,false,29b65d73-fc99-42e3-9007-2175402a5c56,true,38.899811,522,-76.844604,Largo Town Center Metro,133,32401,522,classic
-17,false,false,3c8cebaf-4155-47d8-8272-9d65831f33b8,true,38.969581,523,-76.937349,Baltimore Ave & Van Buren St / Riverdale Park Station,133,32402,523,classic
-15,false,false,5efd5ecc-a734-4e7b-9142-a500a317df60,true,38.95548,524,-76.940133,Baltimore Ave & Jefferson St,133,32403,524,classic
+13,false,false,3c8cebaf-4155-47d8-8272-9d65831f33b8,true,38.969581,523,-76.937349,Baltimore Ave & Van Buren St / Riverdale Park Station,133,32402,523,classic
+11,false,false,5efd5ecc-a734-4e7b-9142-a500a317df60,true,38.95548,524,-76.940133,Baltimore Ave & Jefferson St,133,32403,524,classic
 15,false,false,068e6359-1741-4240-9ed1-07a9038bc319,true,38.936213,525,-76.960054,Perry & 35th St,133,32404,525,classic
 23,false,false,21858490-7495-4942-b0eb-5e956db26b16,true,38.86968314861632,527,-77.01081544160843,Potomac Ave & Half St SW,42,31648,527,classic
 15,false,false,5945c731-a300-46e6-8e51-3236ad1f65f2,true,38.88994,530,-76.825535,Largo Rd & Campus Way / Prince Georges's Comm Col,133,32405,530,classic
-19,false,false,eab74a15-a9dd-4813-a6a9-c445782f6920,true,38.855004,531,-76.984512,Stanton Square SE,42,31822,531,classic
+14,false,false,eab74a15-a9dd-4813-a6a9-c445782f6920,true,38.855004,531,-76.984512,Stanton Square SE,42,31822,531,classic
 19,false,false,e9030e46-31bf-4def-befb-2e685ad48180,true,38.931991,532,-77.032956,14th & Newton St NW,42,31649,532,classic
 19,false,false,e07eed7c-2d2a-4f13-aff7-2be6500958f7,true,38.9170363119413,533,-77.0957824587822,48th Pl & MacArthur Blvd NW,42,31322,533,classic
 19,false,false,eda09ed8-ca5e-4187-938c-3260cabdf82d,true,38.969489,534,-77.033509,14th & Luzon St NW,42,31416,534,classic
@@ -505,29 +505,29 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,d4e8307d-5fb2-4ece-a66a-1522b1ebf79c,true,38.782633,536,-77.016059,Fleet St & Waterfront St,133,32406,536,classic
 15,false,false,ccd82461-11b7-4553-b70b-6cb7e5e4f8c2,true,38.798749,537,-77.00103,Oxon Hill Park & Ride,133,32407,537,classic
 19,false,false,1e19ca16-ec12-48b9-bbbe-fe878745bb23,true,38.93132185874559,538,-77.02824711799622,11th & Park Rd NW,42,31651,538,classic
-19,false,false,9a93cdb5-bd4e-43b8-87f3-81dc9063999f,true,38.876751,539,-77.000736,4th & M St SE,42,31652,539,classic
+15,false,false,9a93cdb5-bd4e-43b8-87f3-81dc9063999f,true,38.876751,539,-77.000736,4th & M St SE,42,31652,539,classic
 19,false,false,c645ddde-0156-47ab-9616-3121f541a6f0,true,38.94796174822241,540,-77.02154964208603,Kansas Ave & Sherman Cr NW,42,31417,540,classic
 11,false,false,3c6a1bf0-3aac-4406-990d-966cc8edca52,true,38.944707,541,-77.335425,Campus Commons,104,32228,541,classic
 11,false,false,a826e5d0-8ee8-41a4-8c1d-1a2ad7212dec,true,38.92755,542,-77.226644,Park Run & Onyx Dr,104,32229,542,classic
-19,false,false,a0d0ec92-ebda-436a-b476-7ee9a7bdb67d,true,38.902674,543,-77.021392,7th & K St NW,42,31653,543,classic
-19,false,false,99ddcd49-1312-4d80-8030-9bc2732deb5c,true,38.876211,544,-77.012443,King Greenleaf Rec Center,42,31654,544,classic
+15,false,false,a0d0ec92-ebda-436a-b476-7ee9a7bdb67d,true,38.902674,543,-77.021392,7th & K St NW,42,31653,543,classic
+14,false,false,99ddcd49-1312-4d80-8030-9bc2732deb5c,true,38.876211,544,-77.012443,King Greenleaf Rec Center,42,31654,544,classic
 19,false,false,a07bd5e0-5136-4285-ae23-54a74124957e,true,38.907444,545,-76.986813,Montello Ave & Holbrook Terr NE,42,31524,545,classic
 33,false,false,96ce48cf-5d98-4dfb-86b1-f461230cd193,true,38.897108,546,-77.011616,New Jersey Ave & F St NW,42,31655,546,classic
 19,false,false,06a14329-dedb-4152-b237-e59afccd8d42,true,38.901935,547,-76.978627,Maryland Ave & 17th St NE,42,31656,547,classic
 19,false,false,880978b9-5084-4576-a206-8d94cdbf4427,true,38.892934,548,-76.998273,Massachusetts Ave & 6th St NE,42,31657,548,classic
-23,false,false,efe6a4e1-5900-46d6-9755-db074f87c5c2,true,38.923389,549,-77.051833,Woodley Park Metro / Calvert St & Connecticut Ave NW,42,31323,549,classic
+12,false,false,efe6a4e1-5900-46d6-9755-db074f87c5c2,true,38.923389,549,-77.051833,Woodley Park Metro / Calvert St & Connecticut Ave NW,42,31323,549,classic
 19,false,false,6ffb5d30-d3f4-462b-8182-c552bebc9310,true,38.92400207520182,550,-77.20812678337097,McLean Metro,104,32230,550,classic
 19,false,false,d0a82ee8-e718-4598-aa5e-dda9292c248c,true,38.906299,551,-76.983221,Trinidad Rec Center,42,31525,551,classic
 19,false,false,92dd5072-b877-45d6-ba24-c5acbe66733b,true,38.897808,552,-76.979634,Rosedale Rec Center,42,31658,552,classic
 19,false,false,3f1dfbbd-7b34-4efd-91a3-60acad4cf42f,true,38.885908,553,-76.991476,11th & C St SE,42,31659,553,classic
 19,false,false,89263cc9-13f6-4185-b315-5164c9bb930e,true,38.951596,554,-77.012808,New Hampshire & Gallatin St NW,42,31418,554,classic
 19,false,false,5f0f9566-90d4-431e-9b6d-994e26d20ec6,true,38.835737,555,-76.983144,United Medical Center,42,31823,555,classic
-19,false,false,101824b5-2dd0-464c-bc7e-30481e00e6d7,true,38.911268,556,-77.041829,18th & New Hampshire Ave NW,42,31324,556,classic
+17,false,false,101824b5-2dd0-464c-bc7e-30481e00e6d7,true,38.911268,556,-77.041829,18th & New Hampshire Ave NW,42,31324,556,classic
 19,false,false,48ca5477-32a2-485d-961d-5371f2d1d5e1,true,38.8828,560,-77.2283,Dunn Loring Metro,104,32231,560,classic
-15,false,false,42ad2bc8-22b5-40f2-8a56-e562e4ecde07,true,38.959361,561,-76.946361,Oglethorpe St & 42nd Ave,133,32408,561,classic
+14,false,false,42ad2bc8-22b5-40f2-8a56-e562e4ecde07,true,38.959361,561,-76.946361,Oglethorpe St & 42nd Ave,133,32408,561,classic
 15,false,false,772ca14a-a964-4745-ab93-37cc472d8ff2,true,38.840107,562,-76.9753,Southern Ave Metro,133,32409,562,classic
 15,false,false,27d919c7-7fda-41d1-9c05-2f537d5c4ce2,true,38.9546,563,-76.9595,Queens Chapel & Hamilton St,133,32410,563,classic
-15,false,false,3dd9e864-a5fc-4c27-b18e-325226089293,true,38.975505,564,-76.952199,Northwestern High School,133,32411,564,classic
+13,false,false,3dd9e864-a5fc-4c27-b18e-325226089293,true,38.975505,564,-76.952199,Northwestern High School,133,32411,564,classic
 15,false,false,ae00650a-be2d-4912-8f0d-8338b3754eed,true,38.974205,565,-76.995227,New Hampshire Ave & East-West Hwy,133,32412,565,classic
 15,false,false,199df30f-328b-48af-8627-952bd9d6fe7c,true,38.939271,566,-76.955047,Rhode Island Ave & 39th St / Brentwood Arts Exchange,133,32413,566,classic
 17,false,false,f0d65475-a505-474b-a40f-2488459105ac,true,38.9725,567,-76.9807,Riggs Rd & East West Hwy,133,32414,567,classic
@@ -551,7 +551,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 11,false,false,65c9578a-8bda-4908-b626-06371c09338b,true,38.870093,585,-77.22997,Merrifield Cinema & Merrifield Town Center,104,32235,585,classic
 19,false,false,30c5787e-6fdb-421d-8eaf-32e652dbeae2,true,38.9243,586,-76.9859,Rhode Island & Montana Ave NE,42,31526,586,classic
 19,false,false,4f9000ec-e47e-494e-9b49-61e95b5a6f03,true,38.9142043187298,587,-77.0221745967865,7th & S St NW,42,31130,587,classic
-15,false,false,2a76806e-32b4-4ec6-a851-f73ba7dafda1,true,38.912524,588,-77.008798,North Capitol & R St NE,42,31527,588,classic
+7,false,false,2a76806e-32b4-4ec6-a851-f73ba7dafda1,true,38.912524,588,-77.008798,North Capitol & R St NE,42,31527,588,classic
 19,false,false,72e7c396-11ad-4e88-bf4b-e60584f748fc,true,38.942146,589,-77.038684,17th & Upshur St NW,42,31420,589,classic
 19,false,false,4ae62d55-b4b3-47d7-ada9-79185e2be3b9,true,38.942024743273045,590,-77.01822102069855,Grant Circle,42,31421,590,classic
 19,false,false,2a43f4e2-4102-482e-8879-245cf7555c6b,true,38.934405,591,-77.032687,14th & Otis Pl NW,42,31131,591,classic
@@ -562,13 +562,13 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 17,false,false,d8f65b11-57ec-4a9f-9b52-f5696e129f02,true,38.962119,596,-76.935578,Riverdale Park Town Center,133,32421,596,classic
 17,false,false,d34d2639-ee43-4892-818f-f01116813744,true,38.968842,597,-76.954171,The Mall at Prince Georges,133,32422,597,classic
 11,false,false,2f12b7e0-a0f1-49ed-92d8-784133ea9168,true,39.0473228,598,-77.0510969,Wheaton Library & Community Rec Center,44,32084,598,classic
-15,false,false,ed8f70f3-15e3-448c-86c5-d27d87402ad3,true,38.924144,599,-77.002098,Edgewood Rec Center,42,31529,599,classic
-15,false,false,3d88e01e-e071-4638-829c-543410cded50,true,38.90273216425078,601,-76.99514991079923,8th & K St NE,42,31660,601,classic
-19,false,false,bed9b757-0df2-4a97-a6ac-415db00e82c8,true,38.89595455700754,602,-76.9678448436025,Kingman Island/The Fields at RFK,42,31716,602,classic
+10,false,false,ed8f70f3-15e3-448c-86c5-d27d87402ad3,true,38.924144,599,-77.002098,Edgewood Rec Center,42,31529,599,classic
+14,false,false,3d88e01e-e071-4638-829c-543410cded50,true,38.90273216425078,601,-76.99514991079923,8th & K St NE,42,31660,601,classic
+11,false,false,bed9b757-0df2-4a97-a6ac-415db00e82c8,true,38.89595455700754,602,-76.9678448436025,Kingman Island/The Fields at RFK,42,31716,602,classic
 19,false,false,07a453e5-2e14-4276-85df-49e0d6144e54,true,38.90046848783359,603,-76.9472873210907,Kenilworth Terrace & Hayes St. NE,42,31717,603,classic
-15,false,false,55d3b43f-4ad3-4d65-889a-560ebe6126bf,true,38.7859,604,-77.0167,National Harbor Carousel,133,32423,604,classic
+12,false,false,55d3b43f-4ad3-4d65-889a-560ebe6126bf,true,38.7859,604,-77.0167,National Harbor Carousel,133,32423,604,classic
 19,false,false,0cabc1c7-cf6f-4afd-9242-c011b77f6330,true,38.83664578175751,605,-76.99358886515256,Valley Ave & Wheeler Rd SE,42,31824,605,classic
-19,false,false,db81ad06-aad3-4e23-b2b9-05b39b41f8fc,true,38.876227445751475,606,-76.94098126958124,Ridge Rd Community Center,42,31718,606,classic
+9,false,false,db81ad06-aad3-4e23-b2b9-05b39b41f8fc,true,38.876227445751475,606,-76.94098126958124,Ridge Rd Community Center,42,31718,606,classic
 19,false,false,7641069c-42a6-4e3e-9769-7df51da6978d,true,38.85736903758752,607,-76.97768801437633,Fort Stanton Rec Center,42,31825,607,classic
 19,false,false,7a19d0e7-2b3c-4805-b843-1aec84a05bfe,true,38.91261359469192,608,-77.07432264076488,Reservoir Rd & 38th St NW,42,31325,608,classic
 17,false,false,d325a449-32d7-488d-b746-9455ad003834,true,38.89892546716842,609,-77.04885238395946,22nd & H St NW,42,31127,609,classic
@@ -654,3 +654,5 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 12,false,false,c0ec45a3-ec59-4c82-9671-13d9c122be30,true,38.983199,702,-77.341823,North Village and Park Garden,104,32256,702,classic
 19,false,false,3900eddf-b06d-4763-af70-1126603508d0,true,38.917716,704,-77.022684,8th & V St NW,42,31134,704,classic
 19,false,false,5e828067-2fd6-4168-b150-5409754e734c,true,38.909858,705,-77.038566,17th & P St NW,42,31330,705,classic
+19,false,false,1b1fd2f7-bcbd-43a2-bed1-ddf8e3cc4614,true,38.927294,706,-77.103662,Arizona & McArthur NW,42,31331,706,classic
+19,false,false,c361d993-ebd8-4110-b10e-6bd2055fbe05,true,38.918199,707,-77.027171,11th & V st NW,42,31332,707,classic
