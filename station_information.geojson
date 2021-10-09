@@ -7416,7 +7416,7 @@
             "properties": {
                 "name": "Baltimore Ave & Jefferson St",
                 "station_id": "524",
-                "capacity": 11
+                "capacity": 12
             },
             "geometry": {
                 "type": "Point",
@@ -7521,7 +7521,7 @@
             "properties": {
                 "name": "14th & Luzon St NW",
                 "station_id": "534",
-                "capacity": 19
+                "capacity": 10
             },
             "geometry": {
                 "type": "Point",
@@ -7596,7 +7596,7 @@
             "properties": {
                 "name": "4th & M St SE",
                 "station_id": "539",
-                "capacity": 15
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -7656,7 +7656,7 @@
             "properties": {
                 "name": "7th & K St NW",
                 "station_id": "543",
-                "capacity": 15
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -7851,7 +7851,7 @@
             "properties": {
                 "name": "18th & New Hampshire Ave NW",
                 "station_id": "556",
-                "capacity": 17
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -7881,7 +7881,7 @@
             "properties": {
                 "name": "Oglethorpe St & 42nd Ave",
                 "station_id": "561",
-                "capacity": 14
+                "capacity": 12
             },
             "geometry": {
                 "type": "Point",
@@ -8286,7 +8286,7 @@
             "properties": {
                 "name": "North Capitol & R St NE",
                 "station_id": "588",
-                "capacity": 7
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
@@ -8466,7 +8466,7 @@
             "properties": {
                 "name": "8th & K St NE",
                 "station_id": "601",
-                "capacity": 14
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
@@ -8481,7 +8481,7 @@
             "properties": {
                 "name": "Kingman Island/The Fields at RFK",
                 "station_id": "602",
-                "capacity": 11
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
@@ -8511,7 +8511,7 @@
             "properties": {
                 "name": "National Harbor Carousel",
                 "station_id": "604",
-                "capacity": 12
+                "capacity": 7
             },
             "geometry": {
                 "type": "Point",
@@ -8541,7 +8541,7 @@
             "properties": {
                 "name": "Ridge Rd Community Center",
                 "station_id": "606",
-                "capacity": 9
+                "capacity": 12
             },
             "geometry": {
                 "type": "Point",
