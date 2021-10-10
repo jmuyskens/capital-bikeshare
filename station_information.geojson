@@ -1836,7 +1836,7 @@
             "properties": {
                 "name": "Fairfax Village",
                 "station_id": "132",
-                "capacity": 14
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
@@ -7401,7 +7401,7 @@
             "properties": {
                 "name": "Baltimore Ave & Van Buren St / Riverdale Park Station",
                 "station_id": "523",
-                "capacity": 13
+                "capacity": 11
             },
             "geometry": {
                 "type": "Point",
@@ -7416,7 +7416,7 @@
             "properties": {
                 "name": "Baltimore Ave & Jefferson St",
                 "station_id": "524",
-                "capacity": 12
+                "capacity": 8
             },
             "geometry": {
                 "type": "Point",
@@ -7476,7 +7476,7 @@
             "properties": {
                 "name": "Stanton Square SE",
                 "station_id": "531",
-                "capacity": 14
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -7521,7 +7521,7 @@
             "properties": {
                 "name": "14th & Luzon St NW",
                 "station_id": "534",
-                "capacity": 10
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -7671,7 +7671,7 @@
             "properties": {
                 "name": "King Greenleaf Rec Center",
                 "station_id": "544",
-                "capacity": 14
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -7716,7 +7716,7 @@
             "properties": {
                 "name": "Maryland Ave & 17th St NE",
                 "station_id": "547",
-                "capacity": 19
+                "capacity": 0
             },
             "geometry": {
                 "type": "Point",
@@ -7746,7 +7746,7 @@
             "properties": {
                 "name": "Woodley Park Metro / Calvert St & Connecticut Ave NW",
                 "station_id": "549",
-                "capacity": 12
+                "capacity": 23
             },
             "geometry": {
                 "type": "Point",
@@ -8481,7 +8481,7 @@
             "properties": {
                 "name": "Kingman Island/The Fields at RFK",
                 "station_id": "602",
-                "capacity": 15
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -8511,7 +8511,7 @@
             "properties": {
                 "name": "National Harbor Carousel",
                 "station_id": "604",
-                "capacity": 7
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
@@ -8541,7 +8541,7 @@
             "properties": {
                 "name": "Ridge Rd Community Center",
                 "station_id": "606",
-                "capacity": 12
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
