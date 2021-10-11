@@ -7401,7 +7401,7 @@
             "properties": {
                 "name": "Baltimore Ave & Van Buren St / Riverdale Park Station",
                 "station_id": "523",
-                "capacity": 11
+                "capacity": 17
             },
             "geometry": {
                 "type": "Point",
@@ -7416,7 +7416,7 @@
             "properties": {
                 "name": "Baltimore Ave & Jefferson St",
                 "station_id": "524",
-                "capacity": 8
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
@@ -7716,7 +7716,7 @@
             "properties": {
                 "name": "Maryland Ave & 17th St NE",
                 "station_id": "547",
-                "capacity": 0
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -7881,7 +7881,7 @@
             "properties": {
                 "name": "Oglethorpe St & 42nd Ave",
                 "station_id": "561",
-                "capacity": 12
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
@@ -7926,7 +7926,7 @@
             "properties": {
                 "name": "Northwestern High School",
                 "station_id": "564",
-                "capacity": 13
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
@@ -8451,7 +8451,7 @@
             "properties": {
                 "name": "Edgewood Rec Center",
                 "station_id": "599",
-                "capacity": 10
+                "capacity": 9
             },
             "geometry": {
                 "type": "Point",
