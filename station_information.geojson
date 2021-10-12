@@ -8451,7 +8451,7 @@
             "properties": {
                 "name": "Edgewood Rec Center",
                 "station_id": "599",
-                "capacity": 9
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
