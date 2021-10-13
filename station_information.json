@@ -126,6 +126,27 @@
         "station_type": "classic"
     },
     {
+        "capacity": 18,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "08246f1f-1f3f-11e7-bf6b-3863bb334450",
+        "has_kiosk": true,
+        "lat": 38.85778509815245,
+        "legacy_id": "8",
+        "lon": -77.05169767141342,
+        "name": "Crystal City Metro / 18th St & S Bell St",
+        "region_id": "41",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31007",
+        "station_id": "8",
+        "station_type": "classic"
+    },
+    {
         "capacity": 11,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -732,27 +753,6 @@
         "rental_uris": {},
         "short_name": "31704",
         "station_id": "38",
-        "station_type": "classic"
-    },
-    {
-        "capacity": 11,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "08248172-1f3f-11e7-bf6b-3863bb334450",
-        "has_kiosk": true,
-        "lat": 38.862669,
-        "legacy_id": "39",
-        "lon": -76.994637,
-        "name": "Anacostia Metro",
-        "region_id": "42",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "31801",
-        "station_id": "39",
         "station_type": "classic"
     },
     {

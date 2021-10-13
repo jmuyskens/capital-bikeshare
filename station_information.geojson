@@ -94,6 +94,21 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Crystal City Metro / 18th St & S Bell St",
+                "station_id": "8",
+                "capacity": 18
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.05169767141342,
+                    38.85778509815245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Crystal Dr & 27th St S",
                 "station_id": "10",
                 "capacity": 11
@@ -523,21 +538,6 @@
                 "coordinates": [
                     -76.941877,
                     38.901385
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Anacostia Metro",
-                "station_id": "39",
-                "capacity": 11
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.994637,
-                    38.862669
                 ]
             }
         },
