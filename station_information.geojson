@@ -96,7 +96,7 @@
             "properties": {
                 "name": "Crystal City Metro / 18th St & S Bell St",
                 "station_id": "8",
-                "capacity": 18
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -7536,7 +7536,7 @@
             "properties": {
                 "name": "1st & M St SE",
                 "station_id": "535",
-                "capacity": 19
+                "capacity": 6
             },
             "geometry": {
                 "type": "Point",
@@ -9853,6 +9853,21 @@
                 "coordinates": [
                     -77.027171,
                     38.918199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "4th & Florida Ave NE",
+                "station_id": "708",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.00069814920425,
+                    38.90731645057457
                 ]
             }
         }

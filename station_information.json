@@ -126,7 +126,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 18,
+        "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -10542,7 +10542,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 19,
+        "capacity": 6,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -13794,6 +13794,26 @@
         "rental_uris": {},
         "short_name": "31332",
         "station_id": "707",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 19,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "21cdfe0d-71ad-4302-a003-3cfc0d355af9",
+        "has_kiosk": true,
+        "lat": 38.90731645057457,
+        "legacy_id": "708",
+        "lon": -77.00069814920425,
+        "name": "4th & Florida Ave NE",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31532",
+        "station_id": "708",
         "station_type": "classic"
     }
 ]

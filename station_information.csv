@@ -5,7 +5,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 12,false,false,08246d68-1f3f-11e7-bf6b-3863bb334450,true,38.857866,5,-77.05949,Aurora Hills Cmty Ctr / 18th St & S Hayes St,41,31004,5,classic
 18,false,false,08246df5-1f3f-11e7-bf6b-3863bb334450,true,38.862303,6,-77.059936,Pentagon City Metro / 12th St & S Hayes St,41,31005,6,classic
 16,false,false,08246e8c-1f3f-11e7-bf6b-3863bb334450,true,38.86331354301248,7,-77.06341624259947,Army Navy Dr & S Joyce St,41,31006,7,classic
-18,false,false,08246f1f-1f3f-11e7-bf6b-3863bb334450,true,38.85778509815245,8,-77.05169767141342,Crystal City Metro / 18th St & S Bell St,41,31007,8,classic
+19,false,false,08246f1f-1f3f-11e7-bf6b-3863bb334450,true,38.85778509815245,8,-77.05169767141342,Crystal City Metro / 18th St & S Bell St,41,31007,8,classic
 11,false,false,08247052-1f3f-11e7-bf6b-3863bb334450,true,38.848466,10,-77.051514,Crystal Dr & 27th St S,41,31009,10,classic
 11,false,false,08247269-1f3f-11e7-bf6b-3863bb334450,true,38.8426,11,-77.0502,S Glebe Rd & Potomac Ave,41,31010,11,classic
 17,false,false,08247310-1f3f-11e7-bf6b-3863bb334450,true,38.852929,12,-77.049723,Crystal Dr & 23rd St S,41,31011,12,classic
@@ -501,7 +501,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,e9030e46-31bf-4def-befb-2e685ad48180,true,38.931991,532,-77.032956,14th & Newton St NW,42,31649,532,classic
 19,false,false,e07eed7c-2d2a-4f13-aff7-2be6500958f7,true,38.9170363119413,533,-77.0957824587822,48th Pl & MacArthur Blvd NW,42,31322,533,classic
 19,false,false,eda09ed8-ca5e-4187-938c-3260cabdf82d,true,38.969489,534,-77.033509,14th & Luzon St NW,42,31416,534,classic
-19,false,false,5f71434d-dc5c-45ff-8219-708a3d9a0691,true,38.876893,535,-77.006072,1st & M St SE,42,31650,535,classic
+6,false,false,5f71434d-dc5c-45ff-8219-708a3d9a0691,true,38.876893,535,-77.006072,1st & M St SE,42,31650,535,classic
 15,false,false,d4e8307d-5fb2-4ece-a66a-1522b1ebf79c,true,38.782633,536,-77.016059,Fleet St & Waterfront St,133,32406,536,classic
 15,false,false,ccd82461-11b7-4553-b70b-6cb7e5e4f8c2,true,38.798749,537,-77.00103,Oxon Hill Park & Ride,133,32407,537,classic
 19,false,false,1e19ca16-ec12-48b9-bbbe-fe878745bb23,true,38.93132185874559,538,-77.02824711799622,11th & Park Rd NW,42,31651,538,classic
@@ -656,3 +656,4 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,5e828067-2fd6-4168-b150-5409754e734c,true,38.909858,705,-77.038566,17th & P St NW,42,31330,705,classic
 19,false,false,1b1fd2f7-bcbd-43a2-bed1-ddf8e3cc4614,true,38.927294,706,-77.103662,Arizona & McArthur NW,42,31331,706,classic
 19,false,false,c361d993-ebd8-4110-b10e-6bd2055fbe05,true,38.918199,707,-77.027171,11th & V st NW,42,31332,707,classic
+19,false,false,21cdfe0d-71ad-4302-a003-3cfc0d355af9,true,38.90731645057457,708,-77.00069814920425,4th & Florida Ave NE,,31532,708,classic
