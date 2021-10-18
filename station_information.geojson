@@ -696,7 +696,7 @@
             "properties": {
                 "name": "Massachusetts Ave & Dupont Circle NW",
                 "station_id": "51",
-                "capacity": 0
+                "capacity": 45
             },
             "geometry": {
                 "type": "Point",
@@ -7806,7 +7806,7 @@
             "properties": {
                 "name": "11th & C St SE",
                 "station_id": "553",
-                "capacity": 13
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
