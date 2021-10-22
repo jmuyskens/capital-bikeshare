@@ -8331,7 +8331,7 @@
             "properties": {
                 "name": "14th & Otis Pl NW",
                 "station_id": "591",
-                "capacity": 19
+                "capacity": 27
             },
             "geometry": {
                 "type": "Point",
