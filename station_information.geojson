@@ -199,21 +199,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "11th & Kenyon St NW",
-                "station_id": "16",
-                "capacity": 27
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.027822,
-                    38.929464
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "15th & Harvard St NW",
                 "station_id": "17",
                 "capacity": 23
@@ -1731,7 +1716,7 @@
             "properties": {
                 "name": "11th & F St NW",
                 "station_id": "125",
-                "capacity": 15
+                "capacity": 13
             },
             "geometry": {
                 "type": "Point",
