@@ -576,7 +576,7 @@
             "properties": {
                 "name": "4th & W St NE",
                 "station_id": "42",
-                "capacity": 14
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
@@ -1671,7 +1671,7 @@
             "properties": {
                 "name": "36th & Calvert St NW / Glover Park",
                 "station_id": "116",
-                "capacity": 15
+                "capacity": 8
             },
             "geometry": {
                 "type": "Point",
@@ -8301,7 +8301,7 @@
             "properties": {
                 "name": "17th & Upshur St NW",
                 "station_id": "589",
-                "capacity": 17
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
