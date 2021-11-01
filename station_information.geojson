@@ -1671,7 +1671,7 @@
             "properties": {
                 "name": "36th & Calvert St NW / Glover Park",
                 "station_id": "116",
-                "capacity": 8
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
