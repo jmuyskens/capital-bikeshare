@@ -456,7 +456,7 @@
             "properties": {
                 "name": "Park Rd & Holmead Pl NW",
                 "station_id": "33",
-                "capacity": 19
+                "capacity": 35
             },
             "geometry": {
                 "type": "Point",
@@ -538,6 +538,21 @@
                 "coordinates": [
                     -76.941877,
                     38.901385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Anacostia Metro",
+                "station_id": "39",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.994637,
+                    38.862669
                 ]
             }
         },

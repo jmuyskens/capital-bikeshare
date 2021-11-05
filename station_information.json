@@ -630,7 +630,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 19,
+        "capacity": 35,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -753,6 +753,27 @@
         "rental_uris": {},
         "short_name": "31704",
         "station_id": "38",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 19,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "08248172-1f3f-11e7-bf6b-3863bb334450",
+        "has_kiosk": true,
+        "lat": 38.862669,
+        "legacy_id": "39",
+        "lon": -76.994637,
+        "name": "Anacostia Metro",
+        "region_id": "42",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31801",
+        "station_id": "39",
         "station_type": "classic"
     },
     {
