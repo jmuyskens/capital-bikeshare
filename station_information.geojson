@@ -9366,7 +9366,7 @@
             "properties": {
                 "name": "Rosslyn Metro / Wilson Blvd & N Moore St",
                 "station_id": "670",
-                "capacity": 21
+                "capacity": 20
             },
             "geometry": {
                 "type": "Point",
