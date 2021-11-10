@@ -6426,7 +6426,7 @@
             "properties": {
                 "name": "15th & W St NW",
                 "station_id": "453",
-                "capacity": 18
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
