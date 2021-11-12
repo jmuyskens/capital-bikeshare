@@ -9885,6 +9885,21 @@
                     38.90731645057457
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Pickett St & Shillings St",
+                "station_id": "709",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.132334,
+                    38.804486
+                ]
+            }
         }
     ]
 }

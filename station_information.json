@@ -13836,5 +13836,25 @@
         "short_name": "31532",
         "station_id": "708",
         "station_type": "classic"
+    },
+    {
+        "capacity": 15,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "2260574d-dbc6-4416-9f8c-3e1fcc0d9f5b",
+        "has_kiosk": true,
+        "lat": 38.804486,
+        "legacy_id": "709",
+        "lon": -77.132334,
+        "name": "S Pickett St & Shillings St",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31953",
+        "station_id": "709",
+        "station_type": "classic"
     }
 ]
