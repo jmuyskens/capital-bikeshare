@@ -3051,7 +3051,7 @@
             "properties": {
                 "name": "18th St & Wyoming Ave NW",
                 "station_id": "214",
-                "capacity": 23
+                "capacity": 22
             },
             "geometry": {
                 "type": "Point",
