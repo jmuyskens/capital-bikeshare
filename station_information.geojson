@@ -9366,7 +9366,7 @@
             "properties": {
                 "name": "Rosslyn Metro / Wilson Blvd & N Moore St",
                 "station_id": "670",
-                "capacity": 21
+                "capacity": 20
             },
             "geometry": {
                 "type": "Point",
@@ -9898,6 +9898,36 @@
                 "coordinates": [
                     -77.132334,
                     38.804486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Jordan St & Venable St",
+                "station_id": "710",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.109975,
+                    38.811361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "King St & Peyton St",
+                "station_id": "711",
+                "capacity": 16
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.055911,
+                    38.806002
                 ]
             }
         }

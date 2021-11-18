@@ -13104,7 +13104,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 21,
+        "capacity": 20,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -13855,6 +13855,46 @@
         "rental_uris": {},
         "short_name": "31953",
         "station_id": "709",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 15,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "599f7a69-823e-419a-b70e-8f9666dd4bd1",
+        "has_kiosk": true,
+        "lat": 38.811361,
+        "legacy_id": "710",
+        "lon": -77.109975,
+        "name": "S Jordan St & Venable St",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31954",
+        "station_id": "710",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 16,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "8321ef62-caa3-45ea-95b2-4a4a97964625",
+        "has_kiosk": true,
+        "lat": 38.806002,
+        "legacy_id": "711",
+        "lon": -77.055911,
+        "name": "King St & Peyton St",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31955",
+        "station_id": "711",
         "station_type": "classic"
     }
 ]

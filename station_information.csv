@@ -623,7 +623,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 11,false,false,e2a96f4c-801e-4cf8-be0f-f767a5d8ca1b,true,38.845028,667,-77.051956,S Clark St & 33rd St,41,31944,667,classic
 15,false,false,f0d7675e-2ce0-41e7-94f5-28ca712fa456,true,38.854019,668,-77.118106,Columbia Pike & S Greenbrier St,41,31945,668,classic
 11,false,false,347b72fa-4ae2-4017-a9bf-344a122cddeb,true,38.828887,669,-77.110588,Kenmore Ave & Seminary Rd,40,31946,669,classic
-21,false,false,472d3644-c8f4-4912-ad84-79f11cee2e49,true,38.896086906318665,670,-77.07145214080809,Rosslyn Metro / Wilson Blvd & N Moore St,41,31947,670,classic
+20,false,false,472d3644-c8f4-4912-ad84-79f11cee2e49,true,38.896086906318665,670,-77.07145214080809,Rosslyn Metro / Wilson Blvd & N Moore St,41,31947,670,classic
 15,false,false,5982cdb9-2f4d-490f-8e7c-030adfac87be,true,38.88715,671,-77.16212,W&OD Trail & Langston Blvd,41,31948,671,classic
 15,false,false,6922a398-ec20-493d-a832-5e337cf335f5,true,39.00031,672,-76.878005,Roosevelt Center & Crescent Rd,133,32424,672,classic
 15,false,false,10d57c0d-6f3c-45d1-8a12-eda5665e213c,true,39.006191,673,-76.891247,Crescent Rd & Ridge Rd,133,32425,673,classic
@@ -659,3 +659,5 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,c361d993-ebd8-4110-b10e-6bd2055fbe05,true,38.918199,707,-77.027171,11th & V st NW,42,31332,707,classic
 19,false,false,21cdfe0d-71ad-4302-a003-3cfc0d355af9,true,38.90731645057457,708,-77.00069814920425,4th & Florida Ave NE,,31532,708,classic
 15,false,false,2260574d-dbc6-4416-9f8c-3e1fcc0d9f5b,true,38.804486,709,-77.132334,S Pickett St & Shillings St,,31953,709,classic
+15,false,false,599f7a69-823e-419a-b70e-8f9666dd4bd1,true,38.811361,710,-77.109975,S Jordan St & Venable St,,31954,710,classic
+16,false,false,8321ef62-caa3-45ea-95b2-4a4a97964625,true,38.806002,711,-77.055911,King St & Peyton St,,31955,711,classic
