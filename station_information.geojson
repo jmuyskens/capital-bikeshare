@@ -1341,13 +1341,13 @@
             "properties": {
                 "name": "10th & Monroe St NE",
                 "station_id": "93",
-                "capacity": 15
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.992889,
-                    38.932514
+                    -76.99353396892548,
+                    38.932456900063606
                 ]
             }
         },
