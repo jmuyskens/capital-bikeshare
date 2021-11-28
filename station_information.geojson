@@ -6876,7 +6876,7 @@
             "properties": {
                 "name": "15th & M St NW",
                 "station_id": "483",
-                "capacity": 19
+                "capacity": 0
             },
             "geometry": {
                 "type": "Point",
