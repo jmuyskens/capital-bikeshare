@@ -2247,27 +2247,6 @@
         "station_type": "classic"
     },
     {
-        "capacity": 19,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "0824ce14-1f3f-11e7-bf6b-3863bb334450",
-        "has_kiosk": true,
-        "lat": 38.899983,
-        "legacy_id": "111",
-        "lon": -76.991383,
-        "name": "11th & H St NE",
-        "region_id": "42",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "31614",
-        "station_id": "111",
-        "station_type": "classic"
-    },
-    {
         "capacity": 15,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -6846,7 +6825,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 21,
+        "capacity": 17,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -13895,6 +13874,26 @@
         "rental_uris": {},
         "short_name": "31955",
         "station_id": "711",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 19,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "fe755eaf-7f1f-48df-bc40-f51d2af775d1",
+        "has_kiosk": true,
+        "lat": 38.899984,
+        "legacy_id": "712",
+        "lon": -76.992725,
+        "name": "10th & H St NE",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31672",
+        "station_id": "712",
         "station_type": "classic"
     }
 ]

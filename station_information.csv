@@ -106,7 +106,6 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,0824cb9b-1f3f-11e7-bf6b-3863bb334450,true,38.895344,108,-77.016106,4th & D St NW / Judiciary Square,42,31621,108,classic
 35,false,false,0824cd3d-1f3f-11e7-bf6b-3863bb334450,true,38.8923,109,-77.0436,19th St & Constitution Ave NW,42,31235,109,classic
 23,false,false,0824cdb0-1f3f-11e7-bf6b-3863bb334450,true,38.90774,110,-77.071652,37th & O St NW / Georgetown University,42,31236,110,classic
-19,false,false,0824ce14-1f3f-11e7-bf6b-3863bb334450,true,38.899983,111,-76.991383,11th & H St NE,42,31614,111,classic
 15,false,false,0824cfe7-1f3f-11e7-bf6b-3863bb334450,true,38.903827,112,-77.053485,25th St & Pennsylvania Ave NW,42,31237,112,classic
 55,false,false,0824d0c6-1f3f-11e7-bf6b-3863bb334450,true,38.89696,113,-77.00493,Columbus Circle / Union Station,42,31623,113,classic
 23,false,false,0824d140-1f3f-11e7-bf6b-3863bb334450,true,38.897446,114,-77.009888,North Capitol St & F St NW,42,31624,114,classic
@@ -325,7 +324,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,0825f946-1f3f-11e7-bf6b-3863bb334450,true,38.82595,341,-77.058541,Mount Vernon Ave & E Del Ray Ave,40,31086,341,classic
 15,false,false,0825f9b6-1f3f-11e7-bf6b-3863bb334450,true,38.820932,342,-77.053096,Monroe Ave & Leslie Ave,40,31087,342,classic
 15,false,false,0825fa22-1f3f-11e7-bf6b-3863bb334450,true,38.833077,343,-77.059821,Mount Vernon Ave & Kennedy St,40,31088,343,classic
-21,false,false,0825fa8b-1f3f-11e7-bf6b-3863bb334450,true,38.890612,344,-77.084801,Court House Metro / 15th St & N Uhle St,41,31089,344,classic
+17,false,false,0825fa8b-1f3f-11e7-bf6b-3863bb334450,true,38.890612,344,-77.084801,Court House Metro / 15th St & N Uhle St,41,31089,344,classic
 15,false,false,0825faf6-1f3f-11e7-bf6b-3863bb334450,true,38.986743,345,-77.000035,WAU / Flower Ave & Division St,44,32049,345,classic
 15,false,false,0825fb66-1f3f-11e7-bf6b-3863bb334450,true,38.865553,346,-77.05003,Long Bridge Park / Long Bridge Dr & 6th St S,41,31090,346,classic
 19,false,false,0825fbd3-1f3f-11e7-bf6b-3863bb334450,true,38.96454350924588,347,-77.07513481378555,Connecticut Ave & McKinley St NW,42,31315,347,classic
@@ -661,3 +660,4 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,2260574d-dbc6-4416-9f8c-3e1fcc0d9f5b,true,38.804486,709,-77.132334,S Pickett St & Shillings St,,31953,709,classic
 15,false,false,599f7a69-823e-419a-b70e-8f9666dd4bd1,true,38.811361,710,-77.109975,S Jordan St & Venable St,,31954,710,classic
 16,false,false,8321ef62-caa3-45ea-95b2-4a4a97964625,true,38.806002,711,-77.055911,King St & Peyton St,,31955,711,classic
+19,false,false,fe755eaf-7f1f-48df-bc40-f51d2af775d1,true,38.899984,712,-76.992725,10th & H St NE,,31672,712,classic

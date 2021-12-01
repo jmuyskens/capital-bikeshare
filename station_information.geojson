@@ -1609,21 +1609,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "11th & H St NE",
-                "station_id": "111",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.991383,
-                    38.899983
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "25th St & Pennsylvania Ave NW",
                 "station_id": "112",
                 "capacity": 15
@@ -4896,7 +4881,7 @@
             "properties": {
                 "name": "Court House Metro / 15th St & N Uhle St",
                 "station_id": "344",
-                "capacity": 21
+                "capacity": 17
             },
             "geometry": {
                 "type": "Point",
@@ -9928,6 +9913,21 @@
                 "coordinates": [
                     -77.055911,
                     38.806002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "10th & H St NE",
+                "station_id": "712",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.992725,
+                    38.899984
                 ]
             }
         }
