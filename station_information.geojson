@@ -4881,7 +4881,7 @@
             "properties": {
                 "name": "Court House Metro / 15th St & N Uhle St",
                 "station_id": "344",
-                "capacity": 17
+                "capacity": 21
             },
             "geometry": {
                 "type": "Point",
