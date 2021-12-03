@@ -3,7 +3,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 17,false,false,08246c35-1f3f-11e7-bf6b-3863bb334450,true,38.856425,3,-77.049232,Crystal Dr & 20th St S,41,31002,3,classic
 16,false,false,08246cd5-1f3f-11e7-bf6b-3863bb334450,true,38.861056,4,-77.049417,Crystal Dr & 15th St S,41,31003,4,classic
 12,false,false,08246d68-1f3f-11e7-bf6b-3863bb334450,true,38.857866,5,-77.05949,Aurora Hills Cmty Ctr / 18th St & S Hayes St,41,31004,5,classic
-18,false,false,08246df5-1f3f-11e7-bf6b-3863bb334450,true,38.862303,6,-77.059936,Pentagon City Metro / 12th St & S Hayes St,41,31005,6,classic
+19,false,false,08246df5-1f3f-11e7-bf6b-3863bb334450,true,38.862303,6,-77.059936,Pentagon City Metro / 12th St & S Hayes St,41,31005,6,classic
 16,false,false,08246e8c-1f3f-11e7-bf6b-3863bb334450,true,38.86331354301248,7,-77.06341624259947,Army Navy Dr & S Joyce St,41,31006,7,classic
 19,false,false,08246f1f-1f3f-11e7-bf6b-3863bb334450,true,38.85778509815245,8,-77.05169767141342,Crystal City Metro / 18th St & S Bell St,41,31007,8,classic
 11,false,false,08247052-1f3f-11e7-bf6b-3863bb334450,true,38.848466,10,-77.051514,Crystal Dr & 27th St S,41,31009,10,classic
@@ -119,7 +119,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 27,false,false,0824ea2c-1f3f-11e7-bf6b-3863bb334450,true,38.897315,127,-77.070993,Lynn St & 19th St North,41,31014,127,classic
 19,false,false,0824eb1b-1f3f-11e7-bf6b-3863bb334450,true,38.8946,128,-77.072305,Wilson Blvd & Ft Myer Dr,41,31015,128,classic
 15,false,false,0824eba7-1f3f-11e7-bf6b-3863bb334450,true,38.893438,129,-77.076389,Clarendon Blvd & Pierce St,41,31016,129,classic
-15,false,false,0824ee0d-1f3f-11e7-bf6b-3863bb334450,true,38.891696,130,-77.0846,Wilson Blvd & N Uhle St,41,31017,130,classic
+2,false,false,0824ee0d-1f3f-11e7-bf6b-3863bb334450,true,38.891696,130,-77.0846,Wilson Blvd & N Uhle St,41,31017,130,classic
 12,false,false,0824eea3-1f3f-11e7-bf6b-3863bb334450,true,38.892164,131,-77.079375,Rhodes St & 16th St N,41,31018,131,classic
 15,false,false,0824f08b-1f3f-11e7-bf6b-3863bb334450,true,38.86559,132,-76.952103,Fairfax Village,42,31706,132,classic
 15,false,false,0824f16b-1f3f-11e7-bf6b-3863bb334450,true,38.892459,133,-77.046567,21st St & Constitution Ave NW,42,31261,133,classic
