@@ -2520,7 +2520,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 2,
+        "capacity": 15,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -13894,6 +13894,27 @@
         "rental_uris": {},
         "short_name": "31672",
         "station_id": "712",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 11,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "febec658-2bcd-473e-8ba8-f84f016da7cd",
+        "has_kiosk": true,
+        "lat": 38.83728,
+        "legacy_id": "713",
+        "lon": -77.060899,
+        "name": "Reed and Edison",
+        "region_id": "40",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31956",
+        "station_id": "713",
         "station_type": "classic"
     }
 ]

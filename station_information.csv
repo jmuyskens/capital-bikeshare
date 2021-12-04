@@ -119,7 +119,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 27,false,false,0824ea2c-1f3f-11e7-bf6b-3863bb334450,true,38.897315,127,-77.070993,Lynn St & 19th St North,41,31014,127,classic
 19,false,false,0824eb1b-1f3f-11e7-bf6b-3863bb334450,true,38.8946,128,-77.072305,Wilson Blvd & Ft Myer Dr,41,31015,128,classic
 15,false,false,0824eba7-1f3f-11e7-bf6b-3863bb334450,true,38.893438,129,-77.076389,Clarendon Blvd & Pierce St,41,31016,129,classic
-2,false,false,0824ee0d-1f3f-11e7-bf6b-3863bb334450,true,38.891696,130,-77.0846,Wilson Blvd & N Uhle St,41,31017,130,classic
+15,false,false,0824ee0d-1f3f-11e7-bf6b-3863bb334450,true,38.891696,130,-77.0846,Wilson Blvd & N Uhle St,41,31017,130,classic
 12,false,false,0824eea3-1f3f-11e7-bf6b-3863bb334450,true,38.892164,131,-77.079375,Rhodes St & 16th St N,41,31018,131,classic
 15,false,false,0824f08b-1f3f-11e7-bf6b-3863bb334450,true,38.86559,132,-76.952103,Fairfax Village,42,31706,132,classic
 15,false,false,0824f16b-1f3f-11e7-bf6b-3863bb334450,true,38.892459,133,-77.046567,21st St & Constitution Ave NW,42,31261,133,classic
@@ -661,3 +661,4 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,599f7a69-823e-419a-b70e-8f9666dd4bd1,true,38.811361,710,-77.109975,S Jordan St & Venable St,,31954,710,classic
 16,false,false,8321ef62-caa3-45ea-95b2-4a4a97964625,true,38.806002,711,-77.055911,King St & Peyton St,,31955,711,classic
 19,false,false,fe755eaf-7f1f-48df-bc40-f51d2af775d1,true,38.899984,712,-76.992725,10th & H St NE,,31672,712,classic
+11,false,false,febec658-2bcd-473e-8ba8-f84f016da7cd,true,38.83728,713,-77.060899,Reed and Edison,40,31956,713,classic
