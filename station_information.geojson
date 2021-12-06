@@ -1491,7 +1491,7 @@
             "properties": {
                 "name": "Metro Center / 12th & G St NW",
                 "station_id": "103",
-                "capacity": 39
+                "capacity": 38
             },
             "geometry": {
                 "type": "Point",
