@@ -1491,7 +1491,7 @@
             "properties": {
                 "name": "Metro Center / 12th & G St NW",
                 "station_id": "103",
-                "capacity": 38
+                "capacity": 39
             },
             "geometry": {
                 "type": "Point",
@@ -9943,6 +9943,21 @@
                 "coordinates": [
                     -77.060899,
                     38.83728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Main Line Blvd & E Glebe",
+                "station_id": "717",
+                "capacity": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.049772,
+                    38.832431
                 ]
             }
         }
