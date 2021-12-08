@@ -662,4 +662,5 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 16,false,false,8321ef62-caa3-45ea-95b2-4a4a97964625,true,38.806002,711,-77.055911,King St & Peyton St,,31955,711,classic
 19,false,false,fe755eaf-7f1f-48df-bc40-f51d2af775d1,true,38.899984,712,-76.992725,10th & H St NE,,31672,712,classic
 11,false,false,febec658-2bcd-473e-8ba8-f84f016da7cd,true,38.83728,713,-77.060899,Reed and Edison,40,31956,713,classic
-0,false,false,1b02c95b-63f9-41cd-8c0d-90334a29c7ce,false,38.832431,717,-77.049772,Main Line Blvd & E Glebe,,31959,717,classic
+16,false,false,bc1a59ac-f82d-44bd-9f2d-b5801f8bbb8d,true,38.824793,715,-77.085066,King St & Kenwood Ave,40,31957,715,classic
+0,false,false,1b02c95b-63f9-41cd-8c0d-90334a29c7ce,false,38.832431,717,-77.049772,Main Line Blvd & E Glebe,40,31959,717,classic

@@ -13918,6 +13918,27 @@
         "station_type": "classic"
     },
     {
+        "capacity": 16,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "bc1a59ac-f82d-44bd-9f2d-b5801f8bbb8d",
+        "has_kiosk": true,
+        "lat": 38.824793,
+        "legacy_id": "715",
+        "lon": -77.085066,
+        "name": "King St & Kenwood Ave",
+        "region_id": "40",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31957",
+        "station_id": "715",
+        "station_type": "classic"
+    },
+    {
         "capacity": 0,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -13928,6 +13949,7 @@
         "legacy_id": "717",
         "lon": -77.049772,
         "name": "Main Line Blvd & E Glebe",
+        "region_id": "40",
         "rental_methods": [
             "CREDITCARD",
             "KEY"

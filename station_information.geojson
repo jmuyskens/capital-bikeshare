@@ -9949,6 +9949,21 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "King St & Kenwood Ave",
+                "station_id": "715",
+                "capacity": 16
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.085066,
+                    38.824793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Main Line Blvd & E Glebe",
                 "station_id": "717",
                 "capacity": 0
