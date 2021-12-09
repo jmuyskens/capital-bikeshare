@@ -13939,24 +13939,24 @@
         "station_type": "classic"
     },
     {
-        "capacity": 0,
+        "capacity": 12,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
-        "external_id": "1b02c95b-63f9-41cd-8c0d-90334a29c7ce",
-        "has_kiosk": false,
-        "lat": 38.832431,
-        "legacy_id": "717",
-        "lon": -77.049772,
-        "name": "Main Line Blvd & E Glebe",
+        "external_id": "472dee60-f045-4f2e-9807-193e3ae9b661",
+        "has_kiosk": true,
+        "lat": 38.800703,
+        "legacy_id": "716",
+        "lon": -77.048043,
+        "name": "S Washington St & Wilkes St",
         "region_id": "40",
         "rental_methods": [
             "CREDITCARD",
             "KEY"
         ],
         "rental_uris": {},
-        "short_name": "31959",
-        "station_id": "717",
+        "short_name": "31958",
+        "station_id": "716",
         "station_type": "classic"
     }
 ]

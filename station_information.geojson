@@ -9964,15 +9964,15 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Main Line Blvd & E Glebe",
-                "station_id": "717",
-                "capacity": 0
+                "name": "S Washington St & Wilkes St",
+                "station_id": "716",
+                "capacity": 12
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.049772,
-                    38.832431
+                    -77.048043,
+                    38.800703
                 ]
             }
         }
