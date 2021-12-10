@@ -9975,6 +9975,36 @@
                     38.800703
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Main Line Blvd & E Glebe",
+                "station_id": "717",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.049772,
+                    38.832431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Commonwealth and Reed",
+                "station_id": "718",
+                "capacity": 16
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.05727398395538,
+                    38.8368376462948
+                ]
+            }
         }
     ]
 }

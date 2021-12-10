@@ -13958,5 +13958,47 @@
         "short_name": "31958",
         "station_id": "716",
         "station_type": "classic"
+    },
+    {
+        "capacity": 19,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "1b02c95b-63f9-41cd-8c0d-90334a29c7ce",
+        "has_kiosk": true,
+        "lat": 38.832431,
+        "legacy_id": "717",
+        "lon": -77.049772,
+        "name": "Main Line Blvd & E Glebe",
+        "region_id": "40",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31959",
+        "station_id": "717",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 16,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "3af8c81c-b8d8-4af7-afe9-332a2cac4672",
+        "has_kiosk": true,
+        "lat": 38.8368376462948,
+        "legacy_id": "718",
+        "lon": -77.05727398395538,
+        "name": "Commonwealth and Reed",
+        "region_id": "40",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31960",
+        "station_id": "718",
+        "station_type": "classic"
     }
 ]
