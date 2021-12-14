@@ -656,11 +656,11 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,5e828067-2fd6-4168-b150-5409754e734c,true,38.909858,705,-77.038566,17th & P St NW,42,31330,705,classic
 19,false,false,1b1fd2f7-bcbd-43a2-bed1-ddf8e3cc4614,true,38.927294,706,-77.103662,Arizona Ave & MacArthur Blvd NW,42,31331,706,classic
 19,false,false,c361d993-ebd8-4110-b10e-6bd2055fbe05,true,38.918199,707,-77.027171,11th & V st NW,42,31332,707,classic
-19,false,false,21cdfe0d-71ad-4302-a003-3cfc0d355af9,true,38.90731645057457,708,-77.00069814920425,4th & Florida Ave NE,,31532,708,classic
-15,false,false,2260574d-dbc6-4416-9f8c-3e1fcc0d9f5b,true,38.804486,709,-77.132334,S Pickett St & Shillings St,,31953,709,classic
-15,false,false,599f7a69-823e-419a-b70e-8f9666dd4bd1,true,38.811361,710,-77.109975,S Jordan St & Venable St,,31954,710,classic
-16,false,false,8321ef62-caa3-45ea-95b2-4a4a97964625,true,38.806002,711,-77.055911,King St & Peyton St,,31955,711,classic
-19,false,false,fe755eaf-7f1f-48df-bc40-f51d2af775d1,true,38.899984,712,-76.992725,10th & H St NE,,31672,712,classic
+19,false,false,21cdfe0d-71ad-4302-a003-3cfc0d355af9,true,38.90731645057457,708,-77.00069814920425,4th & Florida Ave NE,42,31532,708,classic
+15,false,false,2260574d-dbc6-4416-9f8c-3e1fcc0d9f5b,true,38.804486,709,-77.132334,S Pickett St & Shillings St,40,31953,709,classic
+15,false,false,599f7a69-823e-419a-b70e-8f9666dd4bd1,true,38.811361,710,-77.109975,S Jordan St & Venable St,40,31954,710,classic
+16,false,false,8321ef62-caa3-45ea-95b2-4a4a97964625,true,38.806002,711,-77.055911,King St & Peyton St,40,31955,711,classic
+19,false,false,fe755eaf-7f1f-48df-bc40-f51d2af775d1,true,38.899984,712,-76.992725,10th & H St NE,42,31672,712,classic
 11,false,false,febec658-2bcd-473e-8ba8-f84f016da7cd,true,38.83728,713,-77.060899,Reed and Edison,40,31956,713,classic
 16,false,false,bc1a59ac-f82d-44bd-9f2d-b5801f8bbb8d,true,38.824793,715,-77.085066,King St & Kenwood Ave,40,31957,715,classic
 12,false,false,472dee60-f045-4f2e-9807-193e3ae9b661,true,38.800703,716,-77.048043,S Washington St & Wilkes St,40,31958,716,classic

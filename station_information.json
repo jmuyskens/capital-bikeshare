@@ -13807,6 +13807,7 @@
         "legacy_id": "708",
         "lon": -77.00069814920425,
         "name": "4th & Florida Ave NE",
+        "region_id": "42",
         "rental_methods": [
             "CREDITCARD",
             "KEY"
@@ -13827,6 +13828,7 @@
         "legacy_id": "709",
         "lon": -77.132334,
         "name": "S Pickett St & Shillings St",
+        "region_id": "40",
         "rental_methods": [
             "CREDITCARD",
             "KEY"
@@ -13847,6 +13849,7 @@
         "legacy_id": "710",
         "lon": -77.109975,
         "name": "S Jordan St & Venable St",
+        "region_id": "40",
         "rental_methods": [
             "CREDITCARD",
             "KEY"
@@ -13867,6 +13870,7 @@
         "legacy_id": "711",
         "lon": -77.055911,
         "name": "King St & Peyton St",
+        "region_id": "40",
         "rental_methods": [
             "CREDITCARD",
             "KEY"
@@ -13887,6 +13891,7 @@
         "legacy_id": "712",
         "lon": -76.992725,
         "name": "10th & H St NE",
+        "region_id": "42",
         "rental_methods": [
             "CREDITCARD",
             "KEY"
