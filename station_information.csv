@@ -9,7 +9,6 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 11,false,false,08247052-1f3f-11e7-bf6b-3863bb334450,true,38.848466,10,-77.051514,Crystal Dr & 27th St S,41,31009,10,classic
 11,false,false,08247269-1f3f-11e7-bf6b-3863bb334450,true,38.8426,11,-77.0502,S Glebe Rd & Potomac Ave,41,31010,11,classic
 17,false,false,08247310-1f3f-11e7-bf6b-3863bb334450,true,38.852929,12,-77.049723,Crystal Dr & 23rd St S,41,31011,12,classic
-11,false,false,0824739d-1f3f-11e7-bf6b-3863bb334450,true,38.850688,13,-77.05152,Clark St & 26th St S,41,31012,13,classic
 15,false,false,0824741d-1f3f-11e7-bf6b-3863bb334450,true,38.9003,14,-77.0429,19th St & Pennsylvania Ave NW,42,31100,14,classic
 31,false,false,0824749f-1f3f-11e7-bf6b-3863bb334450,true,38.9177645,15,-77.032096,14th & V St NW,42,31101,15,classic
 39,false,false,08247522-1f3f-11e7-bf6b-3863bb334450,true,38.929464,16,-77.027822,11th & Kenyon St NW,42,31102,16,classic
@@ -666,3 +665,4 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 12,false,false,472dee60-f045-4f2e-9807-193e3ae9b661,true,38.800703,716,-77.048043,S Washington St & Wilkes St,40,31958,716,classic
 19,false,false,1b02c95b-63f9-41cd-8c0d-90334a29c7ce,true,38.832431,717,-77.049772,Main Line Blvd & E Glebe,40,31959,717,classic
 16,false,false,3af8c81c-b8d8-4af7-afe9-332a2cac4672,true,38.8368376462948,718,-77.05727398395538,Commonwealth and Reed,40,31960,718,classic
+11,false,false,a8ffa826-a14d-4bb0-ab33-de6b8c34d190,true,38.83863,719,-77.116206,Fillmore & Bisdorf,40,31961,719,classic
