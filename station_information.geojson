@@ -154,6 +154,21 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Clark St & 26th St S",
+                "station_id": "13",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.05152,
+                    38.850688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "19th St & Pennsylvania Ave NW",
                 "station_id": "14",
                 "capacity": 15
