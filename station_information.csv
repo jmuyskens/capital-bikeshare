@@ -86,7 +86,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,0824a68f-1f3f-11e7-bf6b-3863bb334450,true,38.878693599396954,88,-77.02305436134338,Maine Ave & 7th St SW,42,31609,88,classic
 23,false,false,0824a703-1f3f-11e7-bf6b-3863bb334450,true,38.89484064247075,89,-76.99591577053069,D St & Maryland Ave NE,42,31612,89,classic
 11,false,false,0824a988-1f3f-11e7-bf6b-3863bb334450,true,38.916442,90,-77.0682,34th St & Wisconsin Ave NW,42,31226,90,classic
-23,false,false,0824aa39-1f3f-11e7-bf6b-3863bb334450,true,38.900283,91,-77.029822,13th St & New York Ave NW,42,31227,91,classic
+6,false,false,0824aa39-1f3f-11e7-bf6b-3863bb334450,true,38.900283,91,-77.029822,13th St & New York Ave NW,42,31227,91,classic
 33,false,false,0824b9cc-1f3f-11e7-bf6b-3863bb334450,true,38.8997,92,-77.023086,8th & H St NW,42,31228,92,classic
 19,false,false,0824bb59-1f3f-11e7-bf6b-3863bb334450,true,38.932456900063606,93,-76.99353396892548,10th & Monroe St NE,42,31504,93,classic
 23,false,false,0824bc00-1f3f-11e7-bf6b-3863bb334450,true,38.910972,94,-77.00495,Eckington Pl & Q St NE,42,31505,94,classic
@@ -410,7 +410,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,08263885-1f3f-11e7-bf6b-3863bb334450,true,38.962524,434,-77.361902,Town Center Pkwy & Bowman Towne Dr,104,32210,434,classic
 15,false,false,082638f2-1f3f-11e7-bf6b-3863bb334450,true,38.962095,435,-77.358815,Reston Regional Library,104,32211,435,classic
 15,false,false,08263959-1f3f-11e7-bf6b-3863bb334450,true,38.960574,436,-77.356324,New Dominion Pkwy & Fountain Dr,104,32212,436,classic
-15,false,false,082639c8-1f3f-11e7-bf6b-3863bb334450,true,38.955079,437,-77.351649,Sunset Hills & Old Reston Ave,104,32213,437,classic
+0,false,false,082639c8-1f3f-11e7-bf6b-3863bb334450,true,38.955079,437,-77.351649,Sunset Hills & Old Reston Ave,104,32213,437,classic
 17,false,false,08263a37-1f3f-11e7-bf6b-3863bb334450,true,38.957037,438,-77.359718,Reston Town Center Transit Station,104,32214,438,classic
 19,false,false,08263aa1-1f3f-11e7-bf6b-3863bb334450,true,38.884916,439,-77.005965,1st & D St SE,42,31643,439,classic
 19,false,false,08263b08-1f3f-11e7-bf6b-3863bb334450,true,38.946607921214984,440,-77.3393914103508,Wiehle Ave & Reston Station Blvd,104,32215,440,classic

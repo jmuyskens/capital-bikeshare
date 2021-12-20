@@ -1311,7 +1311,7 @@
             "properties": {
                 "name": "13th St & New York Ave NW",
                 "station_id": "91",
-                "capacity": 23
+                "capacity": 6
             },
             "geometry": {
                 "type": "Point",
@@ -6171,7 +6171,7 @@
             "properties": {
                 "name": "Sunset Hills & Old Reston Ave",
                 "station_id": "437",
-                "capacity": 15
+                "capacity": 0
             },
             "geometry": {
                 "type": "Point",
