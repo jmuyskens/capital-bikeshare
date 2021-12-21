@@ -1311,7 +1311,7 @@
             "properties": {
                 "name": "13th St & New York Ave NW",
                 "station_id": "91",
-                "capacity": 6
+                "capacity": 23
             },
             "geometry": {
                 "type": "Point",
