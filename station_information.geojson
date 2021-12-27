@@ -8586,7 +8586,7 @@
             "properties": {
                 "name": "22nd & H St NW",
                 "station_id": "609",
-                "capacity": 0
+                "capacity": 17
             },
             "geometry": {
                 "type": "Point",
