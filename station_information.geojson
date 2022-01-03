@@ -6936,7 +6936,7 @@
             "properties": {
                 "name": "15th St & Constitution Ave NW",
                 "station_id": "488",
-                "capacity": 18
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
