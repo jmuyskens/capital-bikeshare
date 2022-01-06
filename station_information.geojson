@@ -4536,7 +4536,7 @@
             "properties": {
                 "name": "Fort Totten Metro",
                 "station_id": "320",
-                "capacity": 18
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
