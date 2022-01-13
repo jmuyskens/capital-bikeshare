@@ -14026,5 +14026,26 @@
         "short_name": "31961",
         "station_id": "719",
         "station_type": "classic"
+    },
+    {
+        "capacity": 15,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "50cce12f-505a-414c-8b58-5bd4204a385e",
+        "has_kiosk": true,
+        "lat": 38.827674,
+        "legacy_id": "720",
+        "lon": -77.088985,
+        "name": "King St & W Braddock Rd",
+        "region_id": "40",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31962",
+        "station_id": "720",
+        "station_type": "classic"
     }
 ]

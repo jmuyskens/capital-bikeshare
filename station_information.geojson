@@ -10020,6 +10020,21 @@
                     38.83863
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "King St & W Braddock Rd",
+                "station_id": "720",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.088985,
+                    38.827674
+                ]
+            }
         }
     ]
 }
