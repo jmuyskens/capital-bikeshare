@@ -10035,6 +10035,21 @@
                     38.827674
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Holmes Run Pkwy & N Pickett St",
+                "station_id": "721",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.11893,
+                    38.814305
+                ]
+            }
         }
     ]
 }

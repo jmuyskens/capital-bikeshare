@@ -14047,5 +14047,26 @@
         "short_name": "31962",
         "station_id": "720",
         "station_type": "classic"
+    },
+    {
+        "capacity": 15,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "fe33785a-90bb-40e0-9dce-91968006a5c6",
+        "has_kiosk": true,
+        "lat": 38.814305,
+        "legacy_id": "721",
+        "lon": -77.11893,
+        "name": "Holmes Run Pkwy & N Pickett St",
+        "region_id": "40",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31963",
+        "station_id": "721",
+        "station_type": "classic"
     }
 ]
