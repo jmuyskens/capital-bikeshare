@@ -485,7 +485,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,97506e92-1d23-4396-8ec8-e1901ccc22fa,true,39.049,513,-77.10933,Citadel Ave & McGrath Blvd,43,32076,513,classic
 15,false,false,68bb0313-ccdb-4930-98ba-96d77ec986ef,true,39.049765,514,-77.11368,Rockville Pike & Old Georgetown Rd,43,32077,514,classic
 16,false,false,f69c2ab2-8d2b-493a-9da4-3a76d0e34753,true,39.04317,515,-77.1135,Woodglen Dr & Executive Blvd,43,32078,515,classic
-15,false,false,3ced143d-294e-4050-80a7-b40d76c42c0d,true,39.04873,516,-77.1257,Executive Blvd & E Jefferson St,43,32079,516,classic
+0,false,false,3ced143d-294e-4050-80a7-b40d76c42c0d,true,39.04873,516,-77.1257,Executive Blvd & E Jefferson St,43,32079,516,classic
 15,false,false,66cac629-904e-4186-8431-44983be40985,true,39.0629,517,-77.113454,Fishers Ln & Rock Creek Mill Rd,43,32080,517,classic
 15,false,false,305ce636-23c1-42f3-a28b-8be4feca2e05,true,39.06219,518,-77.129235,Congressional Ln & E Jefferson St,43,32081,518,classic
 15,false,false,a3761e59-db36-4b61-8bb3-8d523af69b96,true,39.00048,519,-77.00077,Garland Ave & Walden Rd,44,32082,519,classic

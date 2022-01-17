@@ -7296,7 +7296,7 @@
             "properties": {
                 "name": "Executive Blvd & E Jefferson St",
                 "station_id": "516",
-                "capacity": 15
+                "capacity": 0
             },
             "geometry": {
                 "type": "Point",
