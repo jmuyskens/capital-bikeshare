@@ -201,7 +201,7 @@
             "properties": {
                 "name": "11th & Kenyon St NW",
                 "station_id": "16",
-                "capacity": 39
+                "capacity": 0
             },
             "geometry": {
                 "type": "Point",
@@ -7296,7 +7296,7 @@
             "properties": {
                 "name": "Executive Blvd & E Jefferson St",
                 "station_id": "516",
-                "capacity": 0
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
