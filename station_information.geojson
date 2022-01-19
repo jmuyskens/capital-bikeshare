@@ -109,21 +109,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Crystal Dr & 27th St S",
-                "station_id": "10",
-                "capacity": 11
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.051514,
-                    38.848466
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "S Glebe Rd & Potomac Ave",
                 "station_id": "11",
                 "capacity": 11
@@ -201,28 +186,13 @@
             "properties": {
                 "name": "11th & Kenyon St NW",
                 "station_id": "16",
-                "capacity": 0
+                "capacity": 39
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     -77.027822,
                     38.929464
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "15th & Harvard St NW",
-                "station_id": "17",
-                "capacity": 23
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.03542068600655,
-                    38.92612422246211
                 ]
             }
         },
@@ -10048,6 +10018,21 @@
                 "coordinates": [
                     -77.11893,
                     38.814305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Virginia Theological Seminary",
+                "station_id": "722",
+                "capacity": 11
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.093879,
+                    38.820152
                 ]
             }
         }
