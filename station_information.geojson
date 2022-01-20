@@ -109,6 +109,21 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Crystal Dr & 27th St S",
+                "station_id": "10",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.051514,
+                    38.848466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "S Glebe Rd & Potomac Ave",
                 "station_id": "11",
                 "capacity": 11

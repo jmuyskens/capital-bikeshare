@@ -147,6 +147,27 @@
         "station_type": "classic"
     },
     {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "08247052-1f3f-11e7-bf6b-3863bb334450",
+        "has_kiosk": true,
+        "lat": 38.848466,
+        "legacy_id": "10",
+        "lon": -77.051514,
+        "name": "Crystal Dr & 27th St S",
+        "region_id": "41",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31009",
+        "station_id": "10",
+        "station_type": "classic"
+    },
+    {
         "capacity": 11,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
