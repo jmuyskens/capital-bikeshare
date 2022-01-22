@@ -14067,5 +14067,25 @@
         "short_name": "31964",
         "station_id": "722",
         "station_type": "classic"
+    },
+    {
+        "capacity": 16,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "a44778cc-274f-49d5-80dc-6e031113a7e3",
+        "has_kiosk": true,
+        "lat": 38.812187,
+        "legacy_id": "724",
+        "lon": -77.10994,
+        "name": "Duke St & Jordan St",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31966",
+        "station_id": "724",
+        "station_type": "classic"
     }
 ]

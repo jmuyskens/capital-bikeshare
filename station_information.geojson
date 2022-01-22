@@ -10050,6 +10050,21 @@
                     38.820152
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Duke St & Jordan St",
+                "station_id": "724",
+                "capacity": 16
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.10994,
+                    38.812187
+                ]
+            }
         }
     ]
 }
