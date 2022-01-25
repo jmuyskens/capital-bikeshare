@@ -14079,6 +14079,7 @@
         "legacy_id": "724",
         "lon": -77.10994,
         "name": "Duke St & Jordan St",
+        "region_id": "40",
         "rental_methods": [
             "CREDITCARD",
             "KEY"
