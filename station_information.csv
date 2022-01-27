@@ -480,7 +480,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,7814989b-dc73-4a7e-bd23-f716b9abbbfe,true,38.89222,509,-76.99602,7th St & Massachusetts Ave NE,42,31647,509,classic
 19,false,false,5fdaa766-383e-4a92-b1bd-0e71138c6844,true,38.87335,510,-76.9834,Anacostia Park,42,31820,510,classic
 14,false,false,e581e0b6-51ea-416a-9ae7-6fe5219d7156,true,39.062041,511,-77.120776,Twinbrook Metro,43,32074,511,classic
-24,false,false,eda4c5ee-faf7-4dae-b135-3065deb46ffe,true,39.04753,512,-77.11287,White Flint Metro,43,32075,512,classic
+25,false,false,eda4c5ee-faf7-4dae-b135-3065deb46ffe,true,39.04753,512,-77.11287,White Flint Metro,43,32075,512,classic
 15,false,false,97506e92-1d23-4396-8ec8-e1901ccc22fa,true,39.049,513,-77.10933,Citadel Ave & McGrath Blvd,43,32076,513,classic
 15,false,false,68bb0313-ccdb-4930-98ba-96d77ec986ef,true,39.049765,514,-77.11368,Rockville Pike & Old Georgetown Rd,43,32077,514,classic
 16,false,false,f69c2ab2-8d2b-493a-9da4-3a76d0e34753,true,39.04317,515,-77.1135,Woodglen Dr & Executive Blvd,43,32078,515,classic
