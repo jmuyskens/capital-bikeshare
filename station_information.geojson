@@ -10065,6 +10065,36 @@
                     38.812187
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Reynolds St & Edsall Rd",
+                "station_id": "725",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.128908,
+                    38.809607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "King St & N Pitt St",
+                "station_id": "726",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.044973,
+                    38.804768
+                ]
+            }
         }
     ]
 }

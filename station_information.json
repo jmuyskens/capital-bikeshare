@@ -14088,5 +14088,47 @@
         "short_name": "31966",
         "station_id": "724",
         "station_type": "classic"
+    },
+    {
+        "capacity": 15,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "41b8e956-0341-4752-89a4-659f7b9eabb8",
+        "has_kiosk": true,
+        "lat": 38.809607,
+        "legacy_id": "725",
+        "lon": -77.128908,
+        "name": "S Reynolds St & Edsall Rd",
+        "region_id": "40",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31967",
+        "station_id": "725",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 15,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "e84a9c46-89ce-45dc-866f-fe8cbc50e88e",
+        "has_kiosk": true,
+        "lat": 38.804768,
+        "legacy_id": "726",
+        "lon": -77.044973,
+        "name": "King St & N Pitt St",
+        "region_id": "40",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31968",
+        "station_id": "726",
+        "station_type": "classic"
     }
 ]
