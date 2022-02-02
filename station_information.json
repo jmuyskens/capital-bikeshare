@@ -14117,9 +14117,9 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "e84a9c46-89ce-45dc-866f-fe8cbc50e88e",
         "has_kiosk": true,
-        "lat": 38.804768,
+        "lat": 38.8048011316311,
         "legacy_id": "726",
-        "lon": -77.044973,
+        "lon": -77.04467564821243,
         "name": "King St & N Pitt St",
         "region_id": "40",
         "rental_methods": [
