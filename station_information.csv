@@ -37,7 +37,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,08248172-1f3f-11e7-bf6b-3863bb334450,true,38.862669,39,-76.994637,Anacostia Metro,42,31801,39,classic
 11,false,false,0824821f-1f3f-11e7-bf6b-3863bb334450,true,38.867373,40,-76.988039,Good Hope Rd & MLK Ave SE,42,31802,40,classic
 11,false,false,082482b3-1f3f-11e7-bf6b-3863bb334450,true,38.8952,41,-77.0436,19th & E Street NW,42,31206,41,classic
-15,false,false,0824833c-1f3f-11e7-bf6b-3863bb334450,true,38.919077,42,-77.000648,4th & W St NE,42,31500,42,classic
+14,false,false,0824833c-1f3f-11e7-bf6b-3863bb334450,true,38.919077,42,-77.000648,4th & W St NE,42,31500,42,classic
 15,false,false,082483c2-1f3f-11e7-bf6b-3863bb334450,true,38.9172,43,-77.0259,10th & U St NW,42,31111,43,classic
 11,false,false,0824844b-1f3f-11e7-bf6b-3863bb334450,true,38.9249,44,-77.0222,Georgia Ave and Fairmont St NW,42,31207,44,classic
 39,false,false,082484cf-1f3f-11e7-bf6b-3863bb334450,true,38.8743,45,-77.0057,1st & N St SE,42,31209,45,classic
@@ -600,6 +600,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,e9611824-0245-4482-bc8b-970c0eface40,true,38.88548252734069,639,-76.97718724608421,Stadium Armory Metro,42,31665,639,classic
 19,false,false,68eaf9f5-7b2d-4f60-9f02-9f5ba1103f80,true,38.96577499342219,640,-77.06862643361092,Broad Branch Rd & Northampton St NW,42,31422,640,classic
 15,false,false,1e196ee1-daa4-4fa6-b6f8-197b31e6d170,true,38.81403111409755,641,-77.04281687736511,N Pitt St & Montgomery St,40,31931,641,classic
+19,false,false,dfa896d9-9209-413d-b494-e255ef513d2c,true,38.8000766,642,-77.1299434,Van Dorn Metro,40,31932,642,classic
 19,false,false,8429af9f-3adc-4db6-b96a-7fd9c75fe3a3,true,38.89830173667249,645,-77.04691261053085,21st St & G st NW,42,31328,645,classic
 19,false,false,3f177fa3-6267-4138-82b3-6b528d71d3b2,true,38.881123,646,-77.017658,4th St & G St SW,42,31666,646,classic
 19,false,false,d1fd7121-67e3-46a9-b415-e84a565394f2,true,38.958098,647,-77.013821,Kansas Ave & Longfellow St NW,42,31423,647,classic
@@ -672,3 +673,4 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 16,false,false,a44778cc-274f-49d5-80dc-6e031113a7e3,true,38.812187,724,-77.10994,Duke St & Jordan St,40,31966,724,classic
 15,false,false,41b8e956-0341-4752-89a4-659f7b9eabb8,true,38.809607,725,-77.128908,S Reynolds St & Edsall Rd,40,31967,725,classic
 15,false,false,e84a9c46-89ce-45dc-866f-fe8cbc50e88e,true,38.8048011316311,726,-77.04467564821243,King St & N Pitt St,40,31968,726,classic
+19,false,false,c139589c-fe21-4834-a2a1-5528f7dd2152,true,38.813474,727,-77.053734,Braddock Rd Metro South,40,31969,727,classic

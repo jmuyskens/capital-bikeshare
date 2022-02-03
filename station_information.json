@@ -798,7 +798,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 15,
+        "capacity": 14,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -12625,6 +12625,27 @@
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
+        "external_id": "dfa896d9-9209-413d-b494-e255ef513d2c",
+        "has_kiosk": true,
+        "lat": 38.8000766,
+        "legacy_id": "642",
+        "lon": -77.1299434,
+        "name": "Van Dorn Metro",
+        "region_id": "40",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31932",
+        "station_id": "642",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 19,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
         "external_id": "8429af9f-3adc-4db6-b96a-7fd9c75fe3a3",
         "has_kiosk": true,
         "lat": 38.89830173667249,
@@ -14129,6 +14150,27 @@
         "rental_uris": {},
         "short_name": "31968",
         "station_id": "726",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 19,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "c139589c-fe21-4834-a2a1-5528f7dd2152",
+        "has_kiosk": true,
+        "lat": 38.813474,
+        "legacy_id": "727",
+        "lon": -77.053734,
+        "name": "Braddock Rd Metro South",
+        "region_id": "40",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31969",
+        "station_id": "727",
         "station_type": "classic"
     }
 ]

@@ -576,7 +576,7 @@
             "properties": {
                 "name": "4th & W St NE",
                 "station_id": "42",
-                "capacity": 15
+                "capacity": 14
             },
             "geometry": {
                 "type": "Point",
@@ -9019,6 +9019,21 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Van Dorn Metro",
+                "station_id": "642",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.1299434,
+                    38.8000766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "21st St & G st NW",
                 "station_id": "645",
                 "capacity": 19
@@ -10093,6 +10108,21 @@
                 "coordinates": [
                     -77.04467564821243,
                     38.8048011316311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Braddock Rd Metro South",
+                "station_id": "727",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.053734,
+                    38.813474
                 ]
             }
         }
