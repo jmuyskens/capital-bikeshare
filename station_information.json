@@ -945,7 +945,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 17,
+        "capacity": 15,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -12639,6 +12639,27 @@
         "rental_uris": {},
         "short_name": "31932",
         "station_id": "642",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 11,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "66fe4efd-f6de-4300-9b35-82e3aea013e5",
+        "has_kiosk": true,
+        "lat": 38.801947,
+        "legacy_id": "643",
+        "lon": -77.040293,
+        "name": "Duke St & Strand (Robinson Terminal)",
+        "region_id": "40",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31933",
+        "station_id": "643",
         "station_type": "classic"
     },
     {

@@ -681,7 +681,7 @@
             "properties": {
                 "name": "M St & New Jersey Ave SE",
                 "station_id": "49",
-                "capacity": 17
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
@@ -9028,6 +9028,21 @@
                 "coordinates": [
                     -77.1299434,
                     38.8000766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Duke St & Strand (Robinson Terminal)",
+                "station_id": "643",
+                "capacity": 11
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.040293,
+                    38.801947
                 ]
             }
         },
