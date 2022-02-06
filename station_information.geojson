@@ -681,7 +681,7 @@
             "properties": {
                 "name": "M St & New Jersey Ave SE",
                 "station_id": "49",
-                "capacity": 15
+                "capacity": 17
             },
             "geometry": {
                 "type": "Point",
