@@ -861,15 +861,15 @@
         "station_type": "classic"
     },
     {
-        "capacity": 39,
+        "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
         "external_id": "082484cf-1f3f-11e7-bf6b-3863bb334450",
         "has_kiosk": true,
-        "lat": 38.8743,
+        "lat": 38.874101857715736,
         "legacy_id": "45",
-        "lon": -77.0057,
+        "lon": -77.00579434633255,
         "name": "1st & N St SE",
         "region_id": "42",
         "rental_methods": [

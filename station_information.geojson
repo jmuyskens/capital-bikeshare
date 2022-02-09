@@ -621,13 +621,13 @@
             "properties": {
                 "name": "1st & N St SE",
                 "station_id": "45",
-                "capacity": 39
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.0057,
-                    38.8743
+                    -77.00579434633255,
+                    38.874101857715736
                 ]
             }
         },
