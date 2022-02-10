@@ -621,7 +621,7 @@
             "properties": {
                 "name": "1st & N St SE",
                 "station_id": "45",
-                "capacity": 19
+                "capacity": 39
             },
             "geometry": {
                 "type": "Point",
@@ -5991,7 +5991,7 @@
             "properties": {
                 "name": "Westpark Dr & Leesburg Pike",
                 "station_id": "425",
-                "capacity": 11
+                "capacity": 10
             },
             "geometry": {
                 "type": "Point",

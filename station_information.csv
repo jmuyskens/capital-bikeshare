@@ -40,7 +40,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,0824833c-1f3f-11e7-bf6b-3863bb334450,true,38.919077,42,-77.000648,4th & W St NE,42,31500,42,classic
 15,false,false,082483c2-1f3f-11e7-bf6b-3863bb334450,true,38.9172,43,-77.0259,10th & U St NW,42,31111,43,classic
 11,false,false,0824844b-1f3f-11e7-bf6b-3863bb334450,true,38.9249,44,-77.0222,Georgia Ave and Fairmont St NW,42,31207,44,classic
-19,false,false,082484cf-1f3f-11e7-bf6b-3863bb334450,true,38.874101857715736,45,-77.00579434633255,1st & N St SE,42,31209,45,classic
+39,false,false,082484cf-1f3f-11e7-bf6b-3863bb334450,true,38.874101857715736,45,-77.00579434633255,1st & N St SE,42,31209,45,classic
 15,false,false,0824854e-1f3f-11e7-bf6b-3863bb334450,true,38.9154,46,-77.0446,20th St & Florida Ave NW,42,31110,46,classic
 15,false,false,082485e8-1f3f-11e7-bf6b-3863bb334450,true,38.9155,47,-77.0222,7th & T St NW,42,31109,47,classic
 15,false,false,0824866e-1f3f-11e7-bf6b-3863bb334450,true,38.85438051517749,48,-77.05341160297394,Eads St & 22nd St S,41,31013,48,classic
@@ -398,7 +398,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,0826337e-1f3f-11e7-bf6b-3863bb334450,true,38.897407,422,-76.925907,Division Ave & Foote St NE,42,31713,422,classic
 23,false,false,082633ec-1f3f-11e7-bf6b-3863bb334450,true,38.870695,423,-76.982359,16th & Q St SE / Anacostia HS,42,31812,423,classic
 15,false,false,0826345e-1f3f-11e7-bf6b-3863bb334450,true,38.929261,424,-77.240654,Spring Hill Metro,104,32200,424,classic
-11,false,false,082634c6-1f3f-11e7-bf6b-3863bb334450,true,38.92403,425,-77.235955,Westpark Dr & Leesburg Pike,104,32201,425,classic
+10,false,false,082634c6-1f3f-11e7-bf6b-3863bb334450,true,38.92403,425,-77.235955,Westpark Dr & Leesburg Pike,104,32201,425,classic
 11,false,false,0826359a-1f3f-11e7-bf6b-3863bb334450,true,38.919475,427,-77.221179,Tysons One Pl & Chain Bridge Rd,104,32203,427,classic
 11,false,false,08263601-1f3f-11e7-bf6b-3863bb334450,true,38.920939,428,-77.222115,Tysons Corner Station,104,32204,428,classic
 11,false,false,0826366d-1f3f-11e7-bf6b-3863bb334450,true,38.924437,429,-77.217664,Westpark & Jones Branch Dr,104,32205,429,classic
