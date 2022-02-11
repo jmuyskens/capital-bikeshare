@@ -5991,7 +5991,7 @@
             "properties": {
                 "name": "Westpark Dr & Leesburg Pike",
                 "station_id": "425",
-                "capacity": 10
+                "capacity": 11
             },
             "geometry": {
                 "type": "Point",
@@ -10138,6 +10138,21 @@
                 "coordinates": [
                     -77.053734,
                     38.813474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16th & Columbia Rd NW",
+                "station_id": "728",
+                "capacity": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
                 ]
             }
         }

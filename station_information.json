@@ -8379,7 +8379,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 10,
+        "capacity": 11,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -14192,6 +14192,26 @@
         "rental_uris": {},
         "short_name": "31969",
         "station_id": "727",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 3,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "ae007456-14ad-4619-a92e-e3a40f93a412",
+        "has_kiosk": true,
+        "lat": 0,
+        "legacy_id": "728",
+        "lon": 0,
+        "name": "16th & Columbia Rd NW",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "16th & Columbia Rd NW",
+        "station_id": "728",
         "station_type": "classic"
     }
 ]

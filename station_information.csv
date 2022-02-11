@@ -398,7 +398,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,0826337e-1f3f-11e7-bf6b-3863bb334450,true,38.897407,422,-76.925907,Division Ave & Foote St NE,42,31713,422,classic
 23,false,false,082633ec-1f3f-11e7-bf6b-3863bb334450,true,38.870695,423,-76.982359,16th & Q St SE / Anacostia HS,42,31812,423,classic
 15,false,false,0826345e-1f3f-11e7-bf6b-3863bb334450,true,38.929261,424,-77.240654,Spring Hill Metro,104,32200,424,classic
-10,false,false,082634c6-1f3f-11e7-bf6b-3863bb334450,true,38.92403,425,-77.235955,Westpark Dr & Leesburg Pike,104,32201,425,classic
+11,false,false,082634c6-1f3f-11e7-bf6b-3863bb334450,true,38.92403,425,-77.235955,Westpark Dr & Leesburg Pike,104,32201,425,classic
 11,false,false,0826359a-1f3f-11e7-bf6b-3863bb334450,true,38.919475,427,-77.221179,Tysons One Pl & Chain Bridge Rd,104,32203,427,classic
 11,false,false,08263601-1f3f-11e7-bf6b-3863bb334450,true,38.920939,428,-77.222115,Tysons Corner Station,104,32204,428,classic
 11,false,false,0826366d-1f3f-11e7-bf6b-3863bb334450,true,38.924437,429,-77.217664,Westpark & Jones Branch Dr,104,32205,429,classic
@@ -675,3 +675,4 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,41b8e956-0341-4752-89a4-659f7b9eabb8,true,38.809607,725,-77.128908,S Reynolds St & Edsall Rd,40,31967,725,classic
 15,false,false,e84a9c46-89ce-45dc-866f-fe8cbc50e88e,true,38.8048011316311,726,-77.04467564821243,King St & N Pitt St,40,31968,726,classic
 19,false,false,c139589c-fe21-4834-a2a1-5528f7dd2152,true,38.813474,727,-77.053734,Braddock Rd Metro South,40,31969,727,classic
+3,false,false,ae007456-14ad-4619-a92e-e3a40f93a412,true,0,728,0,16th & Columbia Rd NW,,16th & Columbia Rd NW,728,classic
