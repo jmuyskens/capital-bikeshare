@@ -10144,15 +10144,15 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "16th & Columbia Rd NW",
+                "name": "16th & Harvard St NW",
                 "station_id": "728",
-                "capacity": 3
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0,
-                    0
+                    -77.03665,
+                    38.926102
                 ]
             }
         }

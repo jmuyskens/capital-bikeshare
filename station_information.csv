@@ -675,4 +675,4 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,41b8e956-0341-4752-89a4-659f7b9eabb8,true,38.809607,725,-77.128908,S Reynolds St & Edsall Rd,40,31967,725,classic
 15,false,false,e84a9c46-89ce-45dc-866f-fe8cbc50e88e,true,38.8048011316311,726,-77.04467564821243,King St & N Pitt St,40,31968,726,classic
 19,false,false,c139589c-fe21-4834-a2a1-5528f7dd2152,true,38.813474,727,-77.053734,Braddock Rd Metro South,40,31969,727,classic
-3,false,false,ae007456-14ad-4619-a92e-e3a40f93a412,true,0,728,0,16th & Columbia Rd NW,,16th & Columbia Rd NW,728,classic
+19,false,false,ae007456-14ad-4619-a92e-e3a40f93a412,true,38.926102,728,-77.03665,16th & Harvard St NW,42,31135,728,classic
