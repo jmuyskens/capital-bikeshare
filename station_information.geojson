@@ -186,7 +186,7 @@
             "properties": {
                 "name": "14th & V St NW",
                 "station_id": "15",
-                "capacity": 19
+                "capacity": 31
             },
             "geometry": {
                 "type": "Point",
@@ -3276,7 +3276,7 @@
             "properties": {
                 "name": "8th & East Capitol St NE",
                 "station_id": "231",
-                "capacity": 11
+                "capacity": 10
             },
             "geometry": {
                 "type": "Point",
