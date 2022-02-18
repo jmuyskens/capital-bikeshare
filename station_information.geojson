@@ -3276,7 +3276,7 @@
             "properties": {
                 "name": "8th & East Capitol St NE",
                 "station_id": "231",
-                "capacity": 10
+                "capacity": 11
             },
             "geometry": {
                 "type": "Point",
