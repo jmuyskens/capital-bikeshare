@@ -1459,21 +1459,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "New Hampshire Ave & T St NW",
-                "station_id": "102",
-                "capacity": 23
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.038252,
-                    38.915544
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Metro Center / 12th & G St NW",
                 "station_id": "103",
                 "capacity": 39
@@ -9366,7 +9351,7 @@
             "properties": {
                 "name": "Rosslyn Metro / Wilson Blvd & N Moore St",
                 "station_id": "670",
-                "capacity": 21
+                "capacity": 20
             },
             "geometry": {
                 "type": "Point",
