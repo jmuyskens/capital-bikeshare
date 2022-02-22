@@ -2037,6 +2037,27 @@
         "station_type": "classic"
     },
     {
+        "capacity": 23,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "0824c376-1f3f-11e7-bf6b-3863bb334450",
+        "has_kiosk": true,
+        "lat": 38.915544,
+        "legacy_id": "102",
+        "lon": -77.038252,
+        "name": "New Hampshire Ave & T St NW",
+        "region_id": "42",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31229",
+        "station_id": "102",
+        "station_type": "classic"
+    },
+    {
         "capacity": 39,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
