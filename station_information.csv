@@ -39,7 +39,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 11,false,false,082482b3-1f3f-11e7-bf6b-3863bb334450,true,38.8952,41,-77.0436,19th & E Street NW,42,31206,41,classic
 15,false,false,0824833c-1f3f-11e7-bf6b-3863bb334450,true,38.919077,42,-77.000648,4th & W St NE,42,31500,42,classic
 15,false,false,082483c2-1f3f-11e7-bf6b-3863bb334450,true,38.9172,43,-77.0259,10th & U St NW,42,31111,43,classic
-11,false,false,0824844b-1f3f-11e7-bf6b-3863bb334450,true,38.9249,44,-77.0222,Georgia Ave and Fairmont St NW,42,31207,44,classic
+15,false,false,0824844b-1f3f-11e7-bf6b-3863bb334450,true,38.9249,44,-77.0222,Georgia Ave & Fairmont St NW,42,31207,44,classic
 39,false,false,082484cf-1f3f-11e7-bf6b-3863bb334450,true,38.874101857715736,45,-77.00579434633255,1st & N St SE,42,31209,45,classic
 15,false,false,0824854e-1f3f-11e7-bf6b-3863bb334450,true,38.9154,46,-77.0446,20th St & Florida Ave NW,42,31110,46,classic
 15,false,false,082485e8-1f3f-11e7-bf6b-3863bb334450,true,38.9155,47,-77.0222,7th & T St NW,42,31109,47,classic
@@ -500,7 +500,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,e9030e46-31bf-4def-befb-2e685ad48180,true,38.931991,532,-77.032956,14th & Newton St NW,42,31649,532,classic
 19,false,false,e07eed7c-2d2a-4f13-aff7-2be6500958f7,true,38.9170363119413,533,-77.0957824587822,48th Pl & MacArthur Blvd NW,42,31322,533,classic
 19,false,false,eda09ed8-ca5e-4187-938c-3260cabdf82d,true,38.969489,534,-77.033509,14th & Luzon St NW,42,31416,534,classic
-19,false,false,5f71434d-dc5c-45ff-8219-708a3d9a0691,true,38.876893,535,-77.006072,1st & M St SE,42,31650,535,classic
+0,false,false,5f71434d-dc5c-45ff-8219-708a3d9a0691,true,38.876893,535,-77.006072,1st & M St SE,42,31650,535,classic
 15,false,false,d4e8307d-5fb2-4ece-a66a-1522b1ebf79c,true,38.782633,536,-77.016059,Fleet St & Waterfront St,133,32406,536,classic
 15,false,false,ccd82461-11b7-4553-b70b-6cb7e5e4f8c2,true,38.798749,537,-77.00103,Oxon Hill Park & Ride,133,32407,537,classic
 19,false,false,1e19ca16-ec12-48b9-bbbe-fe878745bb23,true,38.93132185874559,538,-77.02824711799622,11th & Park Rd NW,42,31651,538,classic

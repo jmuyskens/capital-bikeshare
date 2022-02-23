@@ -840,7 +840,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 11,
+        "capacity": 15,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -849,7 +849,7 @@
         "lat": 38.9249,
         "legacy_id": "44",
         "lon": -77.0222,
-        "name": "Georgia Ave and Fairmont St NW",
+        "name": "Georgia Ave & Fairmont St NW",
         "region_id": "42",
         "rental_methods": [
             "CREDITCARD",
@@ -10521,7 +10521,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 19,
+        "capacity": 0,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,

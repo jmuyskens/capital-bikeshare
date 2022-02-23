@@ -604,9 +604,9 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Georgia Ave and Fairmont St NW",
+                "name": "Georgia Ave & Fairmont St NW",
                 "station_id": "44",
-                "capacity": 11
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
@@ -7521,7 +7521,7 @@
             "properties": {
                 "name": "1st & M St SE",
                 "station_id": "535",
-                "capacity": 19
+                "capacity": 0
             },
             "geometry": {
                 "type": "Point",
