@@ -7521,7 +7521,7 @@
             "properties": {
                 "name": "1st & M St SE",
                 "station_id": "535",
-                "capacity": 0
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -8021,8 +8021,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.190275,
-                    38.895172
+                    -77.19268798828125,
+                    38.89641882214797
                 ]
             }
         },

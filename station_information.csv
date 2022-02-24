@@ -500,7 +500,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,e9030e46-31bf-4def-befb-2e685ad48180,true,38.931991,532,-77.032956,14th & Newton St NW,42,31649,532,classic
 19,false,false,e07eed7c-2d2a-4f13-aff7-2be6500958f7,true,38.9170363119413,533,-77.0957824587822,48th Pl & MacArthur Blvd NW,42,31322,533,classic
 19,false,false,eda09ed8-ca5e-4187-938c-3260cabdf82d,true,38.969489,534,-77.033509,14th & Luzon St NW,42,31416,534,classic
-0,false,false,5f71434d-dc5c-45ff-8219-708a3d9a0691,true,38.876893,535,-77.006072,1st & M St SE,42,31650,535,classic
+19,false,false,5f71434d-dc5c-45ff-8219-708a3d9a0691,true,38.876893,535,-77.006072,1st & M St SE,42,31650,535,classic
 15,false,false,d4e8307d-5fb2-4ece-a66a-1522b1ebf79c,true,38.782633,536,-77.016059,Fleet St & Waterfront St,133,32406,536,classic
 15,false,false,ccd82461-11b7-4553-b70b-6cb7e5e4f8c2,true,38.798749,537,-77.00103,Oxon Hill Park & Ride,133,32407,537,classic
 19,false,false,1e19ca16-ec12-48b9-bbbe-fe878745bb23,true,38.93132185874559,538,-77.02824711799622,11th & Park Rd NW,42,31651,538,classic
@@ -533,7 +533,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,fc64c842-980f-40be-a4b6-7750a28ecc19,true,38.7968,568,-77.0026,Tanger Outlets,133,32415,568,classic
 15,false,false,fbd404e2-bd4c-464b-b0db-9eaa011a90ae,true,38.961737,569,-76.995922,Chillum Rd & Riggs Rd / Riggs Plaza,133,32416,569,classic
 15,false,false,bcb21167-85ed-4374-8807-d9409aaa01a5,true,38.9698,570,-76.9493,Hyattsville Library / Adelphi Rd & Toledo Rd,133,32417,570,classic
-12,false,false,37ea9197-6332-4bf7-8940-d3641f288869,true,38.895172,571,-77.190275,Meridian High School / Haycock Rd & Leesburg Pike,152,32600,571,classic
+12,false,false,37ea9197-6332-4bf7-8940-d3641f288869,true,38.89641882214797,571,-77.19268798828125,Meridian High School / Haycock Rd & Leesburg Pike,152,32600,571,classic
 12,false,false,a016ea6f-0d7f-45fb-b8ac-0cfe22cd972a,true,38.882746,572,-77.170032,State Theatre / Park Pl & N Washington St,152,32601,572,classic
 12,false,false,edb40673-8b68-4db1-b9bf-6cb7943fdb50,true,38.88837,573,-77.179832,N Oak St & W Broad St,152,32602,573,classic
 12,false,false,33ae16de-ca5b-4253-9096-35ccae7bb8dd,true,38.887403,574,-77.176992,Pennsylvania Ave & Park Ave,152,32603,574,classic
