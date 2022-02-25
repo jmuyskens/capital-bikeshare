@@ -1971,7 +1971,7 @@
             "properties": {
                 "name": "4th & C St SW",
                 "station_id": "142",
-                "capacity": 39
+                "capacity": 38
             },
             "geometry": {
                 "type": "Point",
