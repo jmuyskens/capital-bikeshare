@@ -1716,7 +1716,7 @@
             "properties": {
                 "name": "11th & F St NW",
                 "station_id": "125",
-                "capacity": 2
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
