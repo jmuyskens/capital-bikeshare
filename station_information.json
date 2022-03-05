@@ -657,10 +657,10 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "08247f59-1f3f-11e7-bf6b-3863bb334450",
         "has_kiosk": true,
-        "lat": 38.934267,
+        "lat": 38.93362634918731,
         "legacy_id": "35",
-        "lon": -77.057979,
-        "name": "Connecticut Ave & Newark St NW / Cleveland Park",
+        "lon": -77.0575301349163,
+        "name": "Connecticut Ave & Macomb St NW / Cleveland Park",
         "region_id": "42",
         "rental_methods": [
             "CREDITCARD",

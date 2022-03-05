@@ -469,15 +469,15 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Connecticut Ave & Newark St NW / Cleveland Park",
+                "name": "Connecticut Ave & Macomb St NW / Cleveland Park",
                 "station_id": "35",
                 "capacity": 11
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.057979,
-                    38.934267
+                    -77.0575301349163,
+                    38.93362634918731
                 ]
             }
         },
