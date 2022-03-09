@@ -5434,6 +5434,21 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Lyttonsville Rd & Lyttonsville Pl",
+                "station_id": "388",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.051168,
+                    38.999679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Woodmont Ave & Strathmore St",
                 "station_id": "389",
                 "capacity": 11
