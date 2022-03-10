@@ -2254,21 +2254,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Wilson Blvd & N Quinn St",
-                "station_id": "161",
-                "capacity": 11
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.07857,
-                    38.893993
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "1st & K St SE",
                 "station_id": "162",
                 "capacity": 15
