@@ -2254,6 +2254,21 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Wilson Blvd & N Quinn St",
+                "station_id": "161",
+                "capacity": 17
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.07857,
+                    38.893993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "1st & K St SE",
                 "station_id": "162",
                 "capacity": 15
@@ -4603,6 +4618,21 @@
                 "coordinates": [
                     -77.103381,
                     38.964992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rockville Metro West",
+                "station_id": "327",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.146866,
+                    39.084379
                 ]
             }
         },
