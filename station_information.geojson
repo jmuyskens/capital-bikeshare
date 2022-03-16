@@ -2451,7 +2451,7 @@
             "properties": {
                 "name": "15th St & N Scott St",
                 "station_id": "174",
-                "capacity": 11
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
@@ -8286,7 +8286,7 @@
             "properties": {
                 "name": "North Capitol & R St NE",
                 "station_id": "588",
-                "capacity": 15
+                "capacity": 14
             },
             "geometry": {
                 "type": "Point",
