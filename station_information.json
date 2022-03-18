@@ -11592,7 +11592,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 14,
+        "capacity": 15,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -14234,6 +14234,26 @@
         "rental_uris": {},
         "short_name": "31135",
         "station_id": "728",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 16,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "889571f8-5774-4097-a31f-4b6e3f5b4381",
+        "has_kiosk": true,
+        "lat": 38.817019,
+        "legacy_id": "729",
+        "lon": -77.050105,
+        "name": "First and Fayette",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31970",
+        "station_id": "729",
         "station_type": "classic"
     }
 ]

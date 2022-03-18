@@ -8286,7 +8286,7 @@
             "properties": {
                 "name": "North Capitol & R St NE",
                 "station_id": "588",
-                "capacity": 14
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
@@ -10168,6 +10168,21 @@
                 "coordinates": [
                     -77.03665,
                     38.926102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "First and Fayette",
+                "station_id": "729",
+                "capacity": 16
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.050105,
+                    38.817019
                 ]
             }
         }
