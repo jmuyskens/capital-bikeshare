@@ -1029,7 +1029,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 23,
+        "capacity": 17,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -14254,6 +14254,26 @@
         "rental_uris": {},
         "short_name": "31970",
         "station_id": "729",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 15,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "71686e8c-9f47-4a65-8840-c7276be3786e",
+        "has_kiosk": true,
+        "lat": 38.863508,
+        "legacy_id": "730",
+        "lon": -77.084259,
+        "name": "S Barton St & Columbia Pike/Penrose Sq",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31971",
+        "station_id": "730",
         "station_type": "classic"
     }
 ]

@@ -741,7 +741,7 @@
             "properties": {
                 "name": "17th & K St NW",
                 "station_id": "54",
-                "capacity": 23
+                "capacity": 17
             },
             "geometry": {
                 "type": "Point",
@@ -10183,6 +10183,21 @@
                 "coordinates": [
                     -77.050105,
                     38.817019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Barton St & Columbia Pike/Penrose Sq",
+                "station_id": "730",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.084259,
+                    38.863508
                 ]
             }
         }
