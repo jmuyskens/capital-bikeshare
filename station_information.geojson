@@ -741,7 +741,7 @@
             "properties": {
                 "name": "17th & K St NW",
                 "station_id": "54",
-                "capacity": 17
+                "capacity": 23
             },
             "geometry": {
                 "type": "Point",
@@ -5211,7 +5211,7 @@
             "properties": {
                 "name": "Georgia & Missouri Ave NW",
                 "station_id": "371",
-                "capacity": 19
+                "capacity": 7
             },
             "geometry": {
                 "type": "Point",
@@ -10189,7 +10189,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "S Barton St & Columbia Pike/Penrose Sq",
+                "name": "Penrose Sq/Columbia Pike & S Barton St",
                 "station_id": "730",
                 "capacity": 15
             },
