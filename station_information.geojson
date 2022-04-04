@@ -951,7 +951,7 @@
             "properties": {
                 "name": "Eastern Market / 7th & North Carolina Ave SE",
                 "station_id": "68",
-                "capacity": 15
+                "capacity": 14
             },
             "geometry": {
                 "type": "Point",
