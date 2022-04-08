@@ -144,7 +144,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,08251984-1f3f-11e7-bf6b-3863bb334450,true,38.905126,153,-77.056887,M St & Pennsylvania Ave NW,42,31246,153,classic
 15,false,false,08251a1b-1f3f-11e7-bf6b-3863bb334450,true,38.88732,154,-76.983569,15th St & Massachusetts Ave SE,42,31626,154,classic
 15,false,false,08251aba-1f3f-11e7-bf6b-3863bb334450,true,38.844711,155,-76.987823,Congress Heights Metro,42,31806,155,classic
-11,false,false,08251bba-1f3f-11e7-bf6b-3863bb334450,true,38.876393,156,-77.107735,N Quincy St & Glebe Rd,41,31035,156,classic
+12,false,false,08251bba-1f3f-11e7-bf6b-3863bb334450,true,38.876393,156,-77.107735,N Quincy St & Glebe Rd,41,31035,156,classic
 11,false,false,08251c45-1f3f-11e7-bf6b-3863bb334450,true,38.85033657788445,157,-77.1009886264801,Barcroft Community Center,41,31033,157,classic
 15,false,false,08251cd1-1f3f-11e7-bf6b-3863bb334450,true,38.896923,158,-77.086502,N Veitch St & 20th St N,41,31029,158,classic
 23,false,false,08251d5a-1f3f-11e7-bf6b-3863bb334450,true,38.9024,159,-77.02622,10th & K St NW,42,31263,159,classic
@@ -456,7 +456,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,686c82c2-23fe-4c15-9c75-708f61de98c7,true,38.964207741006206,480,-77.35428035259247,Reston Pkwy & Spectrum Dr,104,32225,480,classic
 11,false,false,1b55b8fa-73d6-4076-98e5-9f177d22958e,true,39.105642,481,-77.20386,Key West Ave & Great Seneca Hwy,43,32070,481,classic
 19,false,false,bce02846-6f5e-466a-a643-50534a119533,true,38.8995,482,-77.054155,Virginia Ave & 25th St NW,42,31297,482,classic
-19,false,false,7fcbf92d-a257-4973-828b-181d5602eee5,true,38.905424,483,-77.034674,15th & M St NW,42,31298,483,classic
+17,false,false,7fcbf92d-a257-4973-828b-181d5602eee5,true,38.905424,483,-77.034674,15th & M St NW,42,31298,483,classic
 19,false,false,cd1394fa-9d06-4665-bd1c-d7580d97a550,true,38.925636,484,-77.027112,11th & Girard St NW,42,31126,484,classic
 19,false,false,a2507ccc-aca1-48b2-a6a3-a3144ad92d21,true,38.912644,485,-77.04564,Connecticut Ave & R St NW,42,31299,485,classic
 15,false,false,d39e9b29-0ba7-453f-9f1e-b0a856d448b7,true,38.892556,486,-77.082089,Wilson Blvd & N Troy St,41,31924,486,classic

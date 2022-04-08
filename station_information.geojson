@@ -2181,7 +2181,7 @@
             "properties": {
                 "name": "N Quincy St & Glebe Rd",
                 "station_id": "156",
-                "capacity": 11
+                "capacity": 12
             },
             "geometry": {
                 "type": "Point",
@@ -6861,7 +6861,7 @@
             "properties": {
                 "name": "15th & M St NW",
                 "station_id": "483",
-                "capacity": 19
+                "capacity": 17
             },
             "geometry": {
                 "type": "Point",
