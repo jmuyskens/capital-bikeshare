@@ -12,7 +12,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 12,false,false,0824739d-1f3f-11e7-bf6b-3863bb334450,true,38.850688,13,-77.05152,Clark St & 26th St S,41,31012,13,classic
 15,false,false,0824741d-1f3f-11e7-bf6b-3863bb334450,true,38.9003,14,-77.0429,19th St & Pennsylvania Ave NW,42,31100,14,classic
 31,false,false,0824749f-1f3f-11e7-bf6b-3863bb334450,true,38.9177645,15,-77.032096,14th & V St NW,42,31101,15,classic
-39,false,false,08247522-1f3f-11e7-bf6b-3863bb334450,true,38.929464,16,-77.027822,11th & Kenyon St NW,42,31102,16,classic
+37,false,false,08247522-1f3f-11e7-bf6b-3863bb334450,true,38.929464,16,-77.027822,11th & Kenyon St NW,42,31102,16,classic
 15,false,false,08247632-1f3f-11e7-bf6b-3863bb334450,true,38.922925,18,-77.042581,Adams Mill & Columbia Rd NW,42,31104,18,classic
 19,false,false,082476ba-1f3f-11e7-bf6b-3863bb334450,true,38.9268,19,-77.0322,14th & Harvard St NW,42,31105,19,classic
 23,false,false,0824773f-1f3f-11e7-bf6b-3863bb334450,true,38.923203,20,-77.047637,Calvert & Biltmore St NW,42,31106,20,classic
@@ -76,7 +76,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 27,false,false,08249ef2-1f3f-11e7-bf6b-3863bb334450,true,38.90506687455313,79,-77.04177886247635,18th & M St NW,42,31221,79,classic
 15,false,false,08249f58-1f3f-11e7-bf6b-3863bb334450,true,38.947607,80,-77.079382,Tenleytown / Wisconsin Ave & Albemarle St NW,42,31303,80,classic
 27,false,false,08249fbc-1f3f-11e7-bf6b-3863bb334450,true,38.90042673988099,81,-76.98825001716614,13th & H St NE,42,31611,81,classic
-31,false,false,0824a28b-1f3f-11e7-bf6b-3863bb334450,true,38.897222,82,-77.019347,5th & F St NW,42,31620,82,classic
+30,false,false,0824a28b-1f3f-11e7-bf6b-3863bb334450,true,38.897222,82,-77.019347,5th & F St NW,42,31620,82,classic
 19,false,false,0824a43b-1f3f-11e7-bf6b-3863bb334450,true,38.89903234416315,83,-77.03335404396057,New York Ave & 15th St NW,42,31222,83,classic
 23,false,false,0824a4ce-1f3f-11e7-bf6b-3863bb334450,true,38.905737,84,-77.02227,Convention Center / 7th & M St NW,42,31223,84,classic
 15,false,false,0824a53f-1f3f-11e7-bf6b-3863bb334450,true,38.927872,85,-77.043358,Harvard St & Adams Mill Rd NW,42,31112,85,classic
@@ -456,7 +456,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,686c82c2-23fe-4c15-9c75-708f61de98c7,true,38.964207741006206,480,-77.35428035259247,Reston Pkwy & Spectrum Dr,104,32225,480,classic
 11,false,false,1b55b8fa-73d6-4076-98e5-9f177d22958e,true,39.105642,481,-77.20386,Key West Ave & Great Seneca Hwy,43,32070,481,classic
 19,false,false,bce02846-6f5e-466a-a643-50534a119533,true,38.8995,482,-77.054155,Virginia Ave & 25th St NW,42,31297,482,classic
-17,false,false,7fcbf92d-a257-4973-828b-181d5602eee5,true,38.905424,483,-77.034674,15th & M St NW,42,31298,483,classic
+18,false,false,7fcbf92d-a257-4973-828b-181d5602eee5,true,38.905424,483,-77.034674,15th & M St NW,42,31298,483,classic
 19,false,false,cd1394fa-9d06-4665-bd1c-d7580d97a550,true,38.925636,484,-77.027112,11th & Girard St NW,42,31126,484,classic
 19,false,false,a2507ccc-aca1-48b2-a6a3-a3144ad92d21,true,38.912644,485,-77.04564,Connecticut Ave & R St NW,42,31299,485,classic
 15,false,false,d39e9b29-0ba7-453f-9f1e-b0a856d448b7,true,38.892556,486,-77.082089,Wilson Blvd & N Troy St,41,31924,486,classic
@@ -624,7 +624,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 11,false,false,e2a96f4c-801e-4cf8-be0f-f767a5d8ca1b,true,38.845028,667,-77.051956,S Clark St & 33rd St,41,31944,667,classic
 15,false,false,f0d7675e-2ce0-41e7-94f5-28ca712fa456,true,38.854019,668,-77.118106,Columbia Pike & S Greenbrier St,41,31945,668,classic
 11,false,false,347b72fa-4ae2-4017-a9bf-344a122cddeb,true,38.828887,669,-77.110588,Kenmore Ave & Seminary Rd,40,31946,669,classic
-21,false,false,472d3644-c8f4-4912-ad84-79f11cee2e49,true,38.896086906318665,670,-77.07145214080809,Rosslyn Metro / Wilson Blvd & N Moore St,41,31947,670,classic
+19,false,false,472d3644-c8f4-4912-ad84-79f11cee2e49,true,38.896086906318665,670,-77.07145214080809,Rosslyn Metro / Wilson Blvd & N Moore St,41,31947,670,classic
 15,false,false,5982cdb9-2f4d-490f-8e7c-030adfac87be,true,38.88715,671,-77.16212,W&OD Trail & Langston Blvd,41,31948,671,classic
 15,false,false,6922a398-ec20-493d-a832-5e337cf335f5,true,39.00031,672,-76.878005,Roosevelt Center & Crescent Rd,133,32424,672,classic
 15,false,false,10d57c0d-6f3c-45d1-8a12-eda5665e213c,true,39.006191,673,-76.891247,Crescent Rd & Ridge Rd,133,32425,673,classic

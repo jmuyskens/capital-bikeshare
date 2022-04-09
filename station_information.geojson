@@ -201,7 +201,7 @@
             "properties": {
                 "name": "11th & Kenyon St NW",
                 "station_id": "16",
-                "capacity": 39
+                "capacity": 37
             },
             "geometry": {
                 "type": "Point",
@@ -1161,7 +1161,7 @@
             "properties": {
                 "name": "5th & F St NW",
                 "station_id": "82",
-                "capacity": 31
+                "capacity": 30
             },
             "geometry": {
                 "type": "Point",
@@ -6861,7 +6861,7 @@
             "properties": {
                 "name": "15th & M St NW",
                 "station_id": "483",
-                "capacity": 17
+                "capacity": 18
             },
             "geometry": {
                 "type": "Point",
@@ -9381,7 +9381,7 @@
             "properties": {
                 "name": "Rosslyn Metro / Wilson Blvd & N Moore St",
                 "station_id": "670",
-                "capacity": 21
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
