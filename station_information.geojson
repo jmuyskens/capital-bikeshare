@@ -1191,7 +1191,7 @@
             "properties": {
                 "name": "Convention Center / 7th & M St NW",
                 "station_id": "84",
-                "capacity": 23
+                "capacity": 0
             },
             "geometry": {
                 "type": "Point",

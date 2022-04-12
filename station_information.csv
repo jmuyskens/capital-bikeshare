@@ -78,7 +78,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 27,false,false,08249fbc-1f3f-11e7-bf6b-3863bb334450,true,38.90042673988099,81,-76.98825001716614,13th & H St NE,42,31611,81,classic
 30,false,false,0824a28b-1f3f-11e7-bf6b-3863bb334450,true,38.897222,82,-77.019347,5th & F St NW,42,31620,82,classic
 19,false,false,0824a43b-1f3f-11e7-bf6b-3863bb334450,true,38.89903234416315,83,-77.03335404396057,New York Ave & 15th St NW,42,31222,83,classic
-23,false,false,0824a4ce-1f3f-11e7-bf6b-3863bb334450,true,38.905737,84,-77.02227,Convention Center / 7th & M St NW,42,31223,84,classic
+0,false,false,0824a4ce-1f3f-11e7-bf6b-3863bb334450,true,38.905737,84,-77.02227,Convention Center / 7th & M St NW,42,31223,84,classic
 15,false,false,0824a53f-1f3f-11e7-bf6b-3863bb334450,true,38.927872,85,-77.043358,Harvard St & Adams Mill Rd NW,42,31112,85,classic
 19,false,false,0824a5b0-1f3f-11e7-bf6b-3863bb334450,true,38.903741450919384,86,-77.04245209693909,18th & L St NW,42,31224,86,classic
 23,false,false,0824a623-1f3f-11e7-bf6b-3863bb334450,true,38.90375,87,-77.06269,C & O Canal & Wisconsin Ave NW,42,31225,87,classic
