@@ -201,7 +201,7 @@
             "properties": {
                 "name": "11th & Kenyon St NW",
                 "station_id": "16",
-                "capacity": 37
+                "capacity": 39
             },
             "geometry": {
                 "type": "Point",
@@ -1161,7 +1161,7 @@
             "properties": {
                 "name": "5th & F St NW",
                 "station_id": "82",
-                "capacity": 30
+                "capacity": 31
             },
             "geometry": {
                 "type": "Point",
@@ -1191,7 +1191,7 @@
             "properties": {
                 "name": "Convention Center / 7th & M St NW",
                 "station_id": "84",
-                "capacity": 0
+                "capacity": 23
             },
             "geometry": {
                 "type": "Point",
@@ -2436,7 +2436,7 @@
             "properties": {
                 "name": "Langston Blvd & N Adams St",
                 "station_id": "173",
-                "capacity": 19
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
@@ -9381,7 +9381,7 @@
             "properties": {
                 "name": "Rosslyn Metro / Wilson Blvd & N Moore St",
                 "station_id": "670",
-                "capacity": 19
+                "capacity": 21
             },
             "geometry": {
                 "type": "Point",
