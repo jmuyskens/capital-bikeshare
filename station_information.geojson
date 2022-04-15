@@ -2211,7 +2211,7 @@
             "properties": {
                 "name": "N Veitch St & 20th St N",
                 "station_id": "158",
-                "capacity": 15
+                "capacity": 16
             },
             "geometry": {
                 "type": "Point",
