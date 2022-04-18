@@ -2511,7 +2511,7 @@
             "properties": {
                 "name": "Jefferson Memorial",
                 "station_id": "178",
-                "capacity": 23
+                "capacity": 22
             },
             "geometry": {
                 "type": "Point",
