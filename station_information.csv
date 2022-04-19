@@ -166,7 +166,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 11,false,false,08252645-1f3f-11e7-bf6b-3863bb334450,true,38.88081,175,-77.090792,Washington Blvd & 7th St N,41,31032,175,classic
 23,false,false,082526d1-1f3f-11e7-bf6b-3863bb334450,true,38.881044,176,-77.111768,Ballston Metro / Stuart St & 9th St N,41,31037,176,classic
 15,false,false,0825275b-1f3f-11e7-bf6b-3863bb334450,true,38.882629,177,-77.109366,Fairfax Dr & N Randolph St,41,31034,177,classic
-22,false,false,082527e7-1f3f-11e7-bf6b-3863bb334450,true,38.879819,178,-77.037413,Jefferson Memorial,42,31249,178,classic
+23,false,false,082527e7-1f3f-11e7-bf6b-3863bb334450,true,38.879819,178,-77.037413,Jefferson Memorial,42,31249,178,classic
 15,false,false,08252874-1f3f-11e7-bf6b-3863bb334450,true,38.866611,179,-76.985238,Good Hope Rd & 14th St SE,42,31803,179,classic
 11,false,false,082528fb-1f3f-11e7-bf6b-3863bb334450,true,38.883921,180,-77.116817,Glebe Rd & 11th St N,41,31038,180,classic
 15,false,false,08252a00-1f3f-11e7-bf6b-3863bb334450,true,38.880012,181,-77.107854,Wilson Blvd & N Quincy St,41,31039,181,classic
@@ -441,7 +441,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,08265262-1f3f-11e7-bf6b-3863bb334450,true,39.043272,465,-77.053085,Grandview & Blueridge Ave,44,32065,465,classic
 15,false,false,082652d2-1f3f-11e7-bf6b-3863bb334450,true,39.032029,466,-77.04735,Windham Ln & Amherst Ave,44,32066,466,classic
 11,false,false,0826533b-1f3f-11e7-bf6b-3863bb334450,true,38.970412,467,-77.340787,North Shore Dr & Village Rd,104,32223,467,classic
-11,false,false,082653a6-1f3f-11e7-bf6b-3863bb334450,true,38.955170598044894,468,-77.3630940914154,Town Center Pkwy & Sunset Hills Rd,104,32224,468,classic
+0,false,false,082653a6-1f3f-11e7-bf6b-3863bb334450,true,38.955170598044894,468,-77.3630940914154,Town Center Pkwy & Sunset Hills Rd,104,32224,468,classic
 19,false,false,0826540e-1f3f-11e7-bf6b-3863bb334450,true,38.968834,469,-77.016258,3rd & Underwood St NW,42,31413,469,classic
 19,false,false,0826547e-1f3f-11e7-bf6b-3863bb334450,true,38.93293,470,-76.979517,18th & Monroe St NE,42,31521,470,classic
 19,false,false,082654f4-1f3f-11e7-bf6b-3863bb334450,true,38.88345,471,-77.021741,7th & E St SW,42,31294,471,classic

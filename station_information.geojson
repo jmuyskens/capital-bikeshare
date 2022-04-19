@@ -2511,7 +2511,7 @@
             "properties": {
                 "name": "Jefferson Memorial",
                 "station_id": "178",
-                "capacity": 22
+                "capacity": 23
             },
             "geometry": {
                 "type": "Point",
@@ -6636,7 +6636,7 @@
             "properties": {
                 "name": "Town Center Pkwy & Sunset Hills Rd",
                 "station_id": "468",
-                "capacity": 11
+                "capacity": 0
             },
             "geometry": {
                 "type": "Point",
