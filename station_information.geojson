@@ -2241,7 +2241,7 @@
             "properties": {
                 "name": "Fairfax Dr & Wilson Blvd",
                 "station_id": "160",
-                "capacity": 11
+                "capacity": 12
             },
             "geometry": {
                 "type": "Point",
@@ -6636,7 +6636,7 @@
             "properties": {
                 "name": "Town Center Pkwy & Sunset Hills Rd",
                 "station_id": "468",
-                "capacity": 0
+                "capacity": 11
             },
             "geometry": {
                 "type": "Point",
