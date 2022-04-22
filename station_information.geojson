@@ -366,7 +366,7 @@
             "properties": {
                 "name": "Georgia & New Hampshire Ave NW",
                 "station_id": "28",
-                "capacity": 17
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
