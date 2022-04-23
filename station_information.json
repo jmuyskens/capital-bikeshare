@@ -9393,9 +9393,9 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "082655cc-1f3f-11e7-bf6b-3863bb334450",
         "has_kiosk": true,
-        "lat": 38.905368,
+        "lat": 38.905509,
         "legacy_id": "473",
-        "lon": -77.065149,
+        "lon": -77.065246,
         "name": "Potomac & M St NW",
         "region_id": "42",
         "rental_methods": [
