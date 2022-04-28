@@ -3681,7 +3681,7 @@
             "properties": {
                 "name": "Bethesda Ave & Arlington Rd",
                 "station_id": "259",
-                "capacity": 19
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
@@ -9381,7 +9381,7 @@
             "properties": {
                 "name": "Rosslyn Metro / Wilson Blvd & N Moore St",
                 "station_id": "670",
-                "capacity": 21
+                "capacity": 20
             },
             "geometry": {
                 "type": "Point",
