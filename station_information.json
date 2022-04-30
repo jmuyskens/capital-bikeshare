@@ -11577,9 +11577,9 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "4f9000ec-e47e-494e-9b49-61e95b5a6f03",
         "has_kiosk": true,
-        "lat": 38.9142043187298,
+        "lat": 38.914173639930105,
         "legacy_id": "587",
-        "lon": -77.0221745967865,
+        "lon": -77.02159523963928,
         "name": "7th & S St NW",
         "region_id": "42",
         "rental_methods": [
