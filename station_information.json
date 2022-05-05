@@ -4374,10 +4374,10 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "08254c82-1f3f-11e7-bf6b-3863bb334450",
         "has_kiosk": true,
-        "lat": 38.860789,
+        "lat": 38.860343910937175,
         "legacy_id": "221",
-        "lon": -77.09586,
-        "name": "Columbia Pike & S Oakland St",
+        "lon": -77.09367156028748,
+        "name": "Columbia Pike & Monroe St",
         "region_id": "41",
         "rental_methods": [
             "CREDITCARD",

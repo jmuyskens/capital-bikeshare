@@ -3124,15 +3124,15 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Columbia Pike & S Oakland St",
+                "name": "Columbia Pike & Monroe St",
                 "station_id": "221",
                 "capacity": 11
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.09586,
-                    38.860789
+                    -77.09367156028748,
+                    38.860343910937175
                 ]
             }
         },
