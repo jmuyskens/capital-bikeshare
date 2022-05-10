@@ -14122,6 +14122,7 @@
         "legacy_id": "722",
         "lon": -77.093879,
         "name": "Virginia Theological Seminary",
+        "region_id": "40",
         "rental_methods": [
             "CREDITCARD",
             "KEY"
@@ -14247,6 +14248,7 @@
         "legacy_id": "729",
         "lon": -77.050105,
         "name": "First St & Fayette St",
+        "region_id": "40",
         "rental_methods": [
             "CREDITCARD",
             "KEY"
@@ -14267,6 +14269,7 @@
         "legacy_id": "730",
         "lon": -77.084259,
         "name": "Penrose Sq/Columbia Pike & S Barton St",
+        "region_id": "41",
         "rental_methods": [
             "CREDITCARD",
             "KEY"

@@ -671,11 +671,11 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 11,false,false,a8ffa826-a14d-4bb0-ab33-de6b8c34d190,true,38.83863,719,-77.116206,Fillmore & Bisdorf,40,31961,719,classic
 15,false,false,50cce12f-505a-414c-8b58-5bd4204a385e,true,38.827674,720,-77.088985,King St & W Braddock Rd,40,31962,720,classic
 15,false,false,fe33785a-90bb-40e0-9dce-91968006a5c6,true,38.814305,721,-77.11893,Holmes Run Pkwy & N Pickett St,40,31963,721,classic
-11,false,false,b0cdb0b4-a4e5-47f2-90fd-f3f8266b809f,true,38.820152,722,-77.093879,Virginia Theological Seminary,,31964,722,classic
+11,false,false,b0cdb0b4-a4e5-47f2-90fd-f3f8266b809f,true,38.820152,722,-77.093879,Virginia Theological Seminary,40,31964,722,classic
 16,false,false,a44778cc-274f-49d5-80dc-6e031113a7e3,true,38.812187,724,-77.10994,Duke St & Jordan St,40,31966,724,classic
 15,false,false,41b8e956-0341-4752-89a4-659f7b9eabb8,true,38.809607,725,-77.128908,S Reynolds St & Edsall Rd,40,31967,725,classic
 15,false,false,e84a9c46-89ce-45dc-866f-fe8cbc50e88e,true,38.8048011316311,726,-77.04467564821243,King St & N Pitt St,40,31968,726,classic
 19,false,false,c139589c-fe21-4834-a2a1-5528f7dd2152,true,38.813474,727,-77.053734,Braddock Rd Metro South,40,31969,727,classic
 19,false,false,ae007456-14ad-4619-a92e-e3a40f93a412,true,38.926102,728,-77.03665,16th & Harvard St NW,42,31135,728,classic
-16,false,false,889571f8-5774-4097-a31f-4b6e3f5b4381,true,38.817019,729,-77.050105,First St & Fayette St,,31970,729,classic
-15,false,false,71686e8c-9f47-4a65-8840-c7276be3786e,true,38.863508,730,-77.084259,Penrose Sq/Columbia Pike & S Barton St,,31971,730,classic
+16,false,false,889571f8-5774-4097-a31f-4b6e3f5b4381,true,38.817019,729,-77.050105,First St & Fayette St,40,31970,729,classic
+15,false,false,71686e8c-9f47-4a65-8840-c7276be3786e,true,38.863508,730,-77.084259,Penrose Sq/Columbia Pike & S Barton St,41,31971,730,classic
