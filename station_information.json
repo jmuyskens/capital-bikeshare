@@ -14278,5 +14278,26 @@
         "short_name": "31971",
         "station_id": "730",
         "station_type": "classic"
+    },
+    {
+        "capacity": 15,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "7af26d39-a3b4-4fb3-b5b2-3acd415b9bea",
+        "has_kiosk": true,
+        "lat": 38.84404,
+        "legacy_id": "731",
+        "lon": -77.098093,
+        "name": "S Wakefield St & 28th Rd S",
+        "region_id": "41",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31972",
+        "station_id": "731",
+        "station_type": "classic"
     }
 ]

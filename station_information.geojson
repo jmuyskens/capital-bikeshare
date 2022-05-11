@@ -10200,6 +10200,21 @@
                     38.863508
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Wakefield St & 28th Rd S",
+                "station_id": "731",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.098093,
+                    38.84404
+                ]
+            }
         }
     ]
 }
