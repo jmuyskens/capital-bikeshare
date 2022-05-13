@@ -2331,7 +2331,7 @@
             "properties": {
                 "name": "Central Library / Quincy St & 10th St N",
                 "station_id": "166",
-                "capacity": 11
+                "capacity": 12
             },
             "geometry": {
                 "type": "Point",
@@ -5766,7 +5766,7 @@
             "properties": {
                 "name": "Henry Bacon Dr & Lincoln Memorial Circle NW",
                 "station_id": "409",
-                "capacity": 19
+                "capacity": 3
             },
             "geometry": {
                 "type": "Point",
