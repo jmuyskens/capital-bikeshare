@@ -95,7 +95,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 11,false,false,0824c1a1-1f3f-11e7-bf6b-3863bb334450,true,38.889955,98,-77.000349,4th & East Capitol St NE,42,31618,98,classic
 25,false,false,0824c229-1f3f-11e7-bf6b-3863bb334450,true,38.890461,99,-76.988355,Lincoln Park / 13th & East Capitol St NE ,42,31619,99,classic
 11,false,false,0824c29d-1f3f-11e7-bf6b-3863bb334450,true,38.8692,100,-76.9599,Branch & Pennsylvania Ave SE,42,31701,100,classic
-31,false,false,0824c309-1f3f-11e7-bf6b-3863bb334450,true,38.894832,101,-76.987633,13th & D St NE,42,31622,101,classic
+30,false,false,0824c309-1f3f-11e7-bf6b-3863bb334450,true,38.894832,101,-76.987633,13th & D St NE,42,31622,101,classic
 23,false,false,0824c376-1f3f-11e7-bf6b-3863bb334450,true,38.915544,102,-77.038252,New Hampshire Ave & T St NW,42,31229,102,classic
 39,false,false,0824c604-1f3f-11e7-bf6b-3863bb334450,true,38.898364,103,-77.027869,Metro Center / 12th & G St NW,42,31230,103,classic
 25,false,false,0824c69b-1f3f-11e7-bf6b-3863bb334450,true,38.894514,104,-77.031617,14th & D St NW / Ronald Reagan Building,42,31231,104,classic
@@ -383,7 +383,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,08262027-1f3f-11e7-bf6b-3863bb334450,true,38.812711,406,-77.061715,Commonwealth Ave & Oak St,40,31906,406,classic
 15,false,false,08262094-1f3f-11e7-bf6b-3863bb334450,true,38.82005823354218,407,-77.06282079219818,Commonwealth Ave & E Monroe Ave,40,31913,407,classic
 31,false,false,082620fc-1f3f-11e7-bf6b-3863bb334450,true,38.8904955,408,-77.0172465,4th St & Madison Dr NW,42,31288,408,classic
-3,false,false,0826233f-1f3f-11e7-bf6b-3863bb334450,true,38.890539,409,-77.049383,Henry Bacon Dr & Lincoln Memorial Circle NW,42,31289,409,classic
+19,false,false,0826233f-1f3f-11e7-bf6b-3863bb334450,true,38.890539,409,-77.049383,Henry Bacon Dr & Lincoln Memorial Circle NW,42,31289,409,classic
 19,false,false,082623bf-1f3f-11e7-bf6b-3863bb334450,true,38.888097,410,-77.038325,17th St & Independence Ave SW,42,31290,410,classic
 19,false,false,0826242b-1f3f-11e7-bf6b-3863bb334450,true,38.798133,411,-77.0487,Franklin St & S Washington St,40,31907,411,classic
 15,false,false,08262494-1f3f-11e7-bf6b-3863bb334450,true,38.843422,412,-77.064016,Mount Vernon Ave & Four Mile Run Park,40,31909,412,classic
@@ -663,7 +663,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,599f7a69-823e-419a-b70e-8f9666dd4bd1,true,38.811361,710,-77.109975,S Jordan St & Venable St,40,31954,710,classic
 16,false,false,8321ef62-caa3-45ea-95b2-4a4a97964625,true,38.806002,711,-77.055911,King St & Peyton St,40,31955,711,classic
 19,false,false,fe755eaf-7f1f-48df-bc40-f51d2af775d1,true,38.899984,712,-76.992725,10th & H St NE,42,31672,712,classic
-11,false,false,febec658-2bcd-473e-8ba8-f84f016da7cd,true,38.83728,713,-77.060899,Reed and Edison,40,31956,713,classic
+11,false,false,febec658-2bcd-473e-8ba8-f84f016da7cd,true,38.83728,713,-77.060899,Reed & Edison,40,31956,713,classic
 16,false,false,bc1a59ac-f82d-44bd-9f2d-b5801f8bbb8d,true,38.824793,715,-77.085066,King St & Kenwood Ave,40,31957,715,classic
 12,false,false,472dee60-f045-4f2e-9807-193e3ae9b661,true,38.800703,716,-77.048043,S Washington St & Wilkes St,40,31958,716,classic
 19,false,false,1b02c95b-63f9-41cd-8c0d-90334a29c7ce,true,38.832431,717,-77.049772,Main Line Blvd & E Glebe,40,31959,717,classic

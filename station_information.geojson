@@ -1446,7 +1446,7 @@
             "properties": {
                 "name": "13th & D St NE",
                 "station_id": "101",
-                "capacity": 31
+                "capacity": 30
             },
             "geometry": {
                 "type": "Point",
@@ -5766,7 +5766,7 @@
             "properties": {
                 "name": "Henry Bacon Dr & Lincoln Memorial Circle NW",
                 "station_id": "409",
-                "capacity": 3
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -9964,7 +9964,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Reed and Edison",
+                "name": "Reed & Edison",
                 "station_id": "713",
                 "capacity": 11
             },
