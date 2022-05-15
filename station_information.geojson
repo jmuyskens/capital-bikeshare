@@ -1446,7 +1446,7 @@
             "properties": {
                 "name": "13th & D St NE",
                 "station_id": "101",
-                "capacity": 30
+                "capacity": 31
             },
             "geometry": {
                 "type": "Point",
