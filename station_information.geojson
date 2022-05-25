@@ -2269,9 +2269,9 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "1st & K St SE",
+                "name": "1st & I St SE",
                 "station_id": "162",
-                "capacity": 15
+                "capacity": 23
             },
             "geometry": {
                 "type": "Point",
@@ -6851,8 +6851,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.054155,
-                    38.8995
+                    -77.05305218696594,
+                    38.89846038350939
                 ]
             }
         },

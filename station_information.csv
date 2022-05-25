@@ -150,7 +150,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 23,false,false,08251d5a-1f3f-11e7-bf6b-3863bb334450,true,38.9024,159,-77.02622,10th & K St NW,42,31263,159,classic
 12,false,false,08251ded-1f3f-11e7-bf6b-3863bb334450,true,38.885801,160,-77.097745,Fairfax Dr & Wilson Blvd,41,31023,160,classic
 17,false,false,08251e7d-1f3f-11e7-bf6b-3863bb334450,true,38.893993,161,-77.07857,Wilson Blvd & N Quinn St,41,31027,161,classic
-15,false,false,08251f03-1f3f-11e7-bf6b-3863bb334450,true,38.878854378063295,162,-77.00572729110718,1st & K St SE,42,31628,162,classic
+23,false,false,08251f03-1f3f-11e7-bf6b-3863bb334450,true,38.878854378063295,162,-77.00572729110718,1st & I St SE,42,31628,162,classic
 19,false,false,08251f93-1f3f-11e7-bf6b-3863bb334450,true,38.922649,163,-77.077271,39th & Calvert St NW / Stoddert,42,31306,163,classic
 15,false,false,0825201c-1f3f-11e7-bf6b-3863bb334450,true,38.928743,164,-77.012457,1st & Washington Hospital Center NW,42,31507,164,classic
 19,false,false,082520aa-1f3f-11e7-bf6b-3863bb334450,true,38.882788,165,-77.103148,Virginia Square Metro / Monroe St & 9th St N,41,31024,165,classic
@@ -455,7 +455,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 11,false,false,de5bd592-0f48-4c6a-b7fc-8ff687c6e1a5,true,39.12333,479,-77.16486,Columbus Ave & Gramercy Blvd,43,32069,479,classic
 15,false,false,686c82c2-23fe-4c15-9c75-708f61de98c7,true,38.964207741006206,480,-77.35428035259247,Reston Pkwy & Spectrum Dr,104,32225,480,classic
 11,false,false,1b55b8fa-73d6-4076-98e5-9f177d22958e,true,39.105642,481,-77.20386,Key West Ave & Great Seneca Hwy,43,32070,481,classic
-19,false,false,bce02846-6f5e-466a-a643-50534a119533,true,38.8995,482,-77.054155,Virginia Ave & 25th St NW,42,31297,482,classic
+19,false,false,bce02846-6f5e-466a-a643-50534a119533,true,38.89846038350939,482,-77.05305218696594,Virginia Ave & 25th St NW,42,31297,482,classic
 19,false,false,7fcbf92d-a257-4973-828b-181d5602eee5,true,38.905424,483,-77.034674,15th & M St NW,42,31298,483,classic
 19,false,false,cd1394fa-9d06-4665-bd1c-d7580d97a550,true,38.925636,484,-77.027112,11th & Girard St NW,42,31126,484,classic
 19,false,false,a2507ccc-aca1-48b2-a6a3-a3144ad92d21,true,38.912644,485,-77.04564,Connecticut Ave & R St NW,42,31299,485,classic

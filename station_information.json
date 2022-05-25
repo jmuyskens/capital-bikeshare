@@ -3171,7 +3171,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 15,
+        "capacity": 23,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -3180,7 +3180,7 @@
         "lat": 38.878854378063295,
         "legacy_id": "162",
         "lon": -77.00572729110718,
-        "name": "1st & K St SE",
+        "name": "1st & I St SE",
         "region_id": "42",
         "rental_methods": [
             "CREDITCARD",
@@ -9582,9 +9582,9 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "bce02846-6f5e-466a-a643-50534a119533",
         "has_kiosk": true,
-        "lat": 38.8995,
+        "lat": 38.89846038350939,
         "legacy_id": "482",
-        "lon": -77.054155,
+        "lon": -77.05305218696594,
         "name": "Virginia Ave & 25th St NW",
         "region_id": "42",
         "rental_methods": [
