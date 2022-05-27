@@ -550,7 +550,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,30c5787e-6fdb-421d-8eaf-32e652dbeae2,true,38.9243,586,-76.9859,Rhode Island & Montana Ave NE,42,31526,586,classic
 19,false,false,4f9000ec-e47e-494e-9b49-61e95b5a6f03,true,38.914173639930105,587,-77.02159523963928,7th & S St NW,42,31130,587,classic
 15,false,false,2a76806e-32b4-4ec6-a851-f73ba7dafda1,true,38.912524,588,-77.008798,North Capitol & R St NE,42,31527,588,classic
-19,false,false,72e7c396-11ad-4e88-bf4b-e60584f748fc,true,38.942146,589,-77.038684,17th & Upshur St NW,42,31420,589,classic
+18,false,false,72e7c396-11ad-4e88-bf4b-e60584f748fc,true,38.942146,589,-77.038684,17th & Upshur St NW,42,31420,589,classic
 19,false,false,4ae62d55-b4b3-47d7-ada9-79185e2be3b9,true,38.942024743273045,590,-77.01822102069855,Grant Circle,42,31421,590,classic
 27,false,false,2a43f4e2-4102-482e-8879-245cf7555c6b,true,38.934405,591,-77.032687,14th & Otis Pl NW,42,31131,591,classic
 19,false,false,8bbafd08-edb1-426d-94f4-c7b7d9be34dd,true,38.938889,592,-76.997226,John McCormack Rd NE,42,31528,592,classic
@@ -678,3 +678,4 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 16,false,false,889571f8-5774-4097-a31f-4b6e3f5b4381,true,38.817019,729,-77.050105,First St & Fayette St,40,31970,729,classic
 15,false,false,71686e8c-9f47-4a65-8840-c7276be3786e,true,38.863508,730,-77.084259,Penrose Sq/Columbia Pike & S Barton St,41,31971,730,classic
 15,false,false,7af26d39-a3b4-4fb3-b5b2-3acd415b9bea,true,38.84404,731,-77.098093,S Wakefield St & 28th Rd S,41,31972,731,classic
+15,false,false,174fc644-1a5a-4923-a8b5-373e0ad04525,true,38.874248,732,-77.104784,N Pershing Dr & Quebec St,,31973,732,classic

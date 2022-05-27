@@ -11571,7 +11571,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 19,
+        "capacity": 18,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -14256,6 +14256,26 @@
         "rental_uris": {},
         "short_name": "31972",
         "station_id": "731",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 15,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "174fc644-1a5a-4923-a8b5-373e0ad04525",
+        "has_kiosk": true,
+        "lat": 38.874248,
+        "legacy_id": "732",
+        "lon": -77.104784,
+        "name": "N Pershing Dr & Quebec St",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31973",
+        "station_id": "732",
         "station_type": "classic"
     }
 ]

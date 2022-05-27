@@ -8271,7 +8271,7 @@
             "properties": {
                 "name": "17th & Upshur St NW",
                 "station_id": "589",
-                "capacity": 19
+                "capacity": 18
             },
             "geometry": {
                 "type": "Point",
@@ -10183,6 +10183,21 @@
                 "coordinates": [
                     -77.098093,
                     38.84404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "N Pershing Dr & Quebec St",
+                "station_id": "732",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.104784,
+                    38.874248
                 ]
             }
         }
