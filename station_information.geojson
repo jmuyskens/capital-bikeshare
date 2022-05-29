@@ -8271,7 +8271,7 @@
             "properties": {
                 "name": "17th & Upshur St NW",
                 "station_id": "589",
-                "capacity": 18
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
