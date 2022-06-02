@@ -4684,6 +4684,21 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Duke St & John Carlyle St",
+                "station_id": "331",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.060866,
+                    38.804378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Langston Blvd & N Cleveland St",
                 "station_id": "332",
                 "capacity": 15
@@ -4783,6 +4798,21 @@
                 "coordinates": [
                     -77.047494,
                     38.82175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ballenger Ave & Dulaney St",
+                "station_id": "339",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.063562,
+                    38.802677
                 ]
             }
         },

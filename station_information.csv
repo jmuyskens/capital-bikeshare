@@ -311,6 +311,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 12,false,false,0825f2b1-1f3f-11e7-bf6b-3863bb334450,true,38.984691,328,-77.094537,Bethesda Metro / Wisconsin Ave & Old Georgetown Rd,44,32048,328,classic
 19,false,false,0825f344-1f3f-11e7-bf6b-3863bb334450,true,38.88992,329,-77.071301,Iwo Jima Memorial / Meade & 14th St N,41,31077,329,classic
 19,false,false,0825f3d4-1f3f-11e7-bf6b-3863bb334450,true,38.9037315,330,-77.0675285,34th & Water St NW,42,31314,330,classic
+15,false,false,0825f465-1f3f-11e7-bf6b-3863bb334450,true,38.804378,331,-77.060866,Duke St & John Carlyle St,40,31081,331,classic
 15,false,false,0825f4f2-1f3f-11e7-bf6b-3863bb334450,true,38.894941,332,-77.09169,Langston Blvd & N Cleveland St,41,31079,332,classic
 15,false,false,0825f58d-1f3f-11e7-bf6b-3863bb334450,true,38.869442,333,-77.104503,Arlington Blvd & S George Mason Dr,41,31078,333,classic
 23,false,false,0825f622-1f3f-11e7-bf6b-3863bb334450,true,38.89824328774852,334,-77.02623546123505,10th & G St NW,42,31274,334,classic
@@ -318,6 +319,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,0825f723-1f3f-11e7-bf6b-3863bb334450,true,38.901755,336,-77.051084,New Hampshire Ave & 24th St NW,42,31275,336,classic
 15,false,false,0825f794-1f3f-11e7-bf6b-3863bb334450,true,38.801111,337,-77.068952,Eisenhower Ave & Mill Race Ln,40,31082,337,classic
 11,false,false,0825f807-1f3f-11e7-bf6b-3863bb334450,true,38.82175,338,-77.047494,Potomac Greens Dr & Slaters Ln,40,31083,338,classic
+19,false,false,0825f872-1f3f-11e7-bf6b-3863bb334450,true,38.802677,339,-77.063562,Ballenger Ave & Dulaney St,40,31084,339,classic
 11,false,false,0825f8da-1f3f-11e7-bf6b-3863bb334450,true,38.820064,340,-77.057619,Mount Vernon Ave & E Nelson Ave,40,31085,340,classic
 15,false,false,0825f946-1f3f-11e7-bf6b-3863bb334450,true,38.82595,341,-77.058541,Mount Vernon Ave & E Del Ray Ave,40,31086,341,classic
 15,false,false,0825f9b6-1f3f-11e7-bf6b-3863bb334450,true,38.820932,342,-77.053096,Monroe Ave & Leslie Ave,40,31087,342,classic
