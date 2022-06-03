@@ -110,7 +110,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 23,false,false,0824d140-1f3f-11e7-bf6b-3863bb334450,true,38.897446,114,-77.009888,North Capitol St & F St NW,42,31624,114,classic
 19,false,false,0824de05-1f3f-11e7-bf6b-3863bb334450,true,38.9055785,115,-77.027313,11th & M St NW,42,31266,115,classic
 15,false,false,0824e189-1f3f-11e7-bf6b-3863bb334450,true,38.922581,116,-77.070334,36th & Calvert St NW / Glover Park,42,31304,116,classic
-23,false,false,0824e24c-1f3f-11e7-bf6b-3863bb334450,true,38.898409,117,-77.032278,14th & G St NW,42,31238,117,classic
+23,false,false,0824e24c-1f3f-11e7-bf6b-3863bb334450,true,38.89813891455032,117,-77.03203439712524,14th & G St NW,42,31238,117,classic
 15,false,false,0824e2e3-1f3f-11e7-bf6b-3863bb334450,true,38.844015,118,-77.050537,Potomac Ave & 35th St S,41,31052,118,classic
 31,false,false,0824e68d-1f3f-11e7-bf6b-3863bb334450,true,38.88412,124,-77.04657,Ohio Dr & West Basin Dr SW / MLK & FDR Memorials,42,31240,124,classic
 15,false,false,0824e72a-1f3f-11e7-bf6b-3863bb334450,true,38.897857,125,-77.026975,11th & F St NW,42,31262,125,classic
@@ -392,7 +392,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,082625d9-1f3f-11e7-bf6b-3863bb334450,true,38.797557,415,-77.053766,Lee Center,40,31914,415,classic
 15,false,false,082630e2-1f3f-11e7-bf6b-3863bb334450,true,38.818748,416,-77.047783,Powhatan St & Bashford Ln,40,31915,416,classic
 19,false,false,0826315d-1f3f-11e7-bf6b-3863bb334450,true,38.829545,417,-77.047844,Potomac Ave & Swann Ave,40,31916,417,classic
-31,false,false,082631cd-1f3f-11e7-bf6b-3863bb334450,true,38.928552,418,-77.032224,14th & Irving St NW,42,31124,418,classic
+27,false,false,082631cd-1f3f-11e7-bf6b-3863bb334450,true,38.928552,418,-77.032224,14th & Irving St NW,42,31124,418,classic
 25,false,false,08263241-1f3f-11e7-bf6b-3863bb334450,true,38.901136451737045,419,-77.03445106744766,Vermont Ave & I St NW,42,31291,419,classic
 25,false,false,082632a8-1f3f-11e7-bf6b-3863bb334450,true,38.949813,420,-77.080217,Wisconsin Ave & Brandywine St NW,42,31319,420,classic
 19,false,false,08263311-1f3f-11e7-bf6b-3863bb334450,true,38.91263,421,-76.971923,24th & R St NE / National Arboretum,42,31520,421,classic

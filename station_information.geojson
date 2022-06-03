@@ -1676,8 +1676,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.032278,
-                    38.898409
+                    -77.03203439712524,
+                    38.89813891455032
                 ]
             }
         },
@@ -5901,7 +5901,7 @@
             "properties": {
                 "name": "14th & Irving St NW",
                 "station_id": "418",
-                "capacity": 31
+                "capacity": 27
             },
             "geometry": {
                 "type": "Point",

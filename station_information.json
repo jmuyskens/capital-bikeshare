@@ -2337,9 +2337,9 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "0824e24c-1f3f-11e7-bf6b-3863bb334450",
         "has_kiosk": true,
-        "lat": 38.898409,
+        "lat": 38.89813891455032,
         "legacy_id": "117",
-        "lon": -77.032278,
+        "lon": -77.03203439712524,
         "name": "14th & G St NW",
         "region_id": "42",
         "rental_methods": [
@@ -8253,7 +8253,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 31,
+        "capacity": 27,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
