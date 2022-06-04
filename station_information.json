@@ -909,9 +909,9 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "082485e8-1f3f-11e7-bf6b-3863bb334450",
         "has_kiosk": true,
-        "lat": 38.9155,
+        "lat": 38.9156578945794,
         "legacy_id": "47",
-        "lon": -77.0222,
+        "lon": -77.02221751213074,
         "name": "7th & T St NW",
         "region_id": "42",
         "rental_methods": [
@@ -2337,9 +2337,9 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "0824e24c-1f3f-11e7-bf6b-3863bb334450",
         "has_kiosk": true,
-        "lat": 38.89813891455032,
+        "lat": 38.89816396413188,
         "legacy_id": "117",
-        "lon": -77.03203439712524,
+        "lon": -77.03189760446548,
         "name": "14th & G St NW",
         "region_id": "42",
         "rental_methods": [
@@ -8253,7 +8253,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 27,
+        "capacity": 31,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -10521,7 +10521,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 19,
+        "capacity": 16,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,

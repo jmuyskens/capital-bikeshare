@@ -656,8 +656,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.0222,
-                    38.9155
+                    -77.02221751213074,
+                    38.9156578945794
                 ]
             }
         },
@@ -1676,8 +1676,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.03203439712524,
-                    38.89813891455032
+                    -77.03189760446548,
+                    38.89816396413188
                 ]
             }
         },
@@ -5901,7 +5901,7 @@
             "properties": {
                 "name": "14th & Irving St NW",
                 "station_id": "418",
-                "capacity": 27
+                "capacity": 31
             },
             "geometry": {
                 "type": "Point",
@@ -7521,7 +7521,7 @@
             "properties": {
                 "name": "14th & Luzon St NW",
                 "station_id": "534",
-                "capacity": 19
+                "capacity": 16
             },
             "geometry": {
                 "type": "Point",
