@@ -5211,7 +5211,7 @@
             "properties": {
                 "name": "Georgia & Missouri Ave NW",
                 "station_id": "371",
-                "capacity": 19
+                "capacity": 7
             },
             "geometry": {
                 "type": "Point",
