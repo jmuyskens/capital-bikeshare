@@ -5211,7 +5211,7 @@
             "properties": {
                 "name": "Georgia & Missouri Ave NW",
                 "station_id": "371",
-                "capacity": 7
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -9079,7 +9079,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "4th St & G St SW",
+                "name": "4th & G St SW",
                 "station_id": "646",
                 "capacity": 19
             },
@@ -9381,7 +9381,7 @@
             "properties": {
                 "name": "Rosslyn Metro / Wilson Blvd & N Moore St",
                 "station_id": "670",
-                "capacity": 21
+                "capacity": 20
             },
             "geometry": {
                 "type": "Point",
