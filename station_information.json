@@ -12715,9 +12715,9 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "3f177fa3-6267-4138-82b3-6b528d71d3b2",
         "has_kiosk": true,
-        "lat": 38.881123,
+        "lat": 38.881116725009335,
         "legacy_id": "646",
-        "lon": -77.017658,
+        "lon": -77.01769933104515,
         "name": "4th & G St SW",
         "region_id": "42",
         "rental_methods": [
@@ -13129,7 +13129,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 20,
+        "capacity": 21,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,

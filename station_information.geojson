@@ -9086,8 +9086,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.017658,
-                    38.881123
+                    -77.01769933104515,
+                    38.881116725009335
                 ]
             }
         },
@@ -9381,7 +9381,7 @@
             "properties": {
                 "name": "Rosslyn Metro / Wilson Blvd & N Moore St",
                 "station_id": "670",
-                "capacity": 20
+                "capacity": 21
             },
             "geometry": {
                 "type": "Point",
