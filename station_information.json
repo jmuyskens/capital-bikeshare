@@ -294,15 +294,15 @@
         "station_type": "classic"
     },
     {
-        "capacity": 15,
+        "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
         "external_id": "08247632-1f3f-11e7-bf6b-3863bb334450",
         "has_kiosk": true,
-        "lat": 38.922925,
+        "lat": 38.9228491613136,
         "legacy_id": "18",
-        "lon": -77.042581,
+        "lon": -77.04252451658249,
         "name": "Adams Mill & Columbia Rd NW",
         "region_id": "42",
         "rental_methods": [
@@ -1724,7 +1724,11 @@
     {
         "capacity": 23,
         "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
+        "eightd_station_services": [
+            {
+                "name": "Valet Service"
+            }
+        ],
         "electric_bike_surcharge_waiver": false,
         "external_id": "0824a623-1f3f-11e7-bf6b-3863bb334450",
         "has_kiosk": true,

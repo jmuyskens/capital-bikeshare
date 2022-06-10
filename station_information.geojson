@@ -216,13 +216,13 @@
             "properties": {
                 "name": "Adams Mill & Columbia Rd NW",
                 "station_id": "18",
-                "capacity": 15
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.042581,
-                    38.922925
+                    -77.04252451658249,
+                    38.9228491613136
                 ]
             }
         },
