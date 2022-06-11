@@ -4911,7 +4911,7 @@
             "properties": {
                 "name": "Long Bridge Park / Long Bridge Dr & 6th St S",
                 "station_id": "346",
-                "capacity": 15
+                "capacity": 14
             },
             "geometry": {
                 "type": "Point",
