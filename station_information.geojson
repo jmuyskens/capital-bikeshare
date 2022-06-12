@@ -1746,7 +1746,7 @@
             "properties": {
                 "name": "Lynn St & 19th St North",
                 "station_id": "127",
-                "capacity": 27
+                "capacity": 26
             },
             "geometry": {
                 "type": "Point",
@@ -1971,7 +1971,7 @@
             "properties": {
                 "name": "4th & C St SW",
                 "station_id": "142",
-                "capacity": 39
+                "capacity": 38
             },
             "geometry": {
                 "type": "Point",
@@ -4911,7 +4911,7 @@
             "properties": {
                 "name": "Long Bridge Park / Long Bridge Dr & 6th St S",
                 "station_id": "346",
-                "capacity": 14
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
@@ -7596,7 +7596,7 @@
             "properties": {
                 "name": "4th & M St SE",
                 "station_id": "539",
-                "capacity": 19
+                "capacity": 13
             },
             "geometry": {
                 "type": "Point",
