@@ -1746,7 +1746,7 @@
             "properties": {
                 "name": "Lynn St & 19th St North",
                 "station_id": "127",
-                "capacity": 26
+                "capacity": 27
             },
             "geometry": {
                 "type": "Point",
@@ -1971,7 +1971,7 @@
             "properties": {
                 "name": "4th & C St SW",
                 "station_id": "142",
-                "capacity": 38
+                "capacity": 39
             },
             "geometry": {
                 "type": "Point",
@@ -7596,7 +7596,7 @@
             "properties": {
                 "name": "4th & M St SE",
                 "station_id": "539",
-                "capacity": 13
+                "capacity": 9
             },
             "geometry": {
                 "type": "Point",

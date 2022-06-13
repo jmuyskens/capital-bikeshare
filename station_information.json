@@ -1724,7 +1724,11 @@
     {
         "capacity": 23,
         "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
+        "eightd_station_services": [
+            {
+                "name": "Valet Service"
+            }
+        ],
         "electric_bike_surcharge_waiver": false,
         "external_id": "0824a623-1f3f-11e7-bf6b-3863bb334450",
         "has_kiosk": true,
@@ -2436,7 +2440,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 26,
+        "capacity": 27,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -2751,7 +2755,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 38,
+        "capacity": 39,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -10626,7 +10630,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 13,
+        "capacity": 9,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
