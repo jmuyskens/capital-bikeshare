@@ -8044,15 +8044,15 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "State Theatre / Park Pl & N Washington St",
+                "name": "Eden Center",
                 "station_id": "572",
                 "capacity": 12
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.170032,
-                    38.882746
+                    -77.15284913778305,
+                    38.87380771851765
                 ]
             }
         },

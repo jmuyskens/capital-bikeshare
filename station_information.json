@@ -11262,10 +11262,10 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "a016ea6f-0d7f-45fb-b8ac-0cfe22cd972a",
         "has_kiosk": true,
-        "lat": 38.882746,
+        "lat": 38.87380771851765,
         "legacy_id": "572",
-        "lon": -77.170032,
-        "name": "State Theatre / Park Pl & N Washington St",
+        "lon": -77.15284913778305,
+        "name": "Eden Center",
         "region_id": "152",
         "rental_methods": [
             "CREDITCARD",
