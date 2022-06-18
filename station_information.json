@@ -2755,27 +2755,6 @@
         "station_type": "classic"
     },
     {
-        "capacity": 39,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "08250371-1f3f-11e7-bf6b-3863bb334450",
-        "has_kiosk": true,
-        "lat": 38.88637194054526,
-        "legacy_id": "142",
-        "lon": -77.01770067214966,
-        "name": "4th & C St SW",
-        "region_id": "42",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "31243",
-        "station_id": "142",
-        "station_type": "classic"
-    },
-    {
         "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -3303,7 +3282,11 @@
     {
         "capacity": 23,
         "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
+        "eightd_station_services": [
+            {
+                "name": "Valet Service"
+            }
+        ],
         "electric_bike_surcharge_waiver": false,
         "external_id": "08252260-1f3f-11e7-bf6b-3863bb334450",
         "has_kiosk": true,
@@ -10525,7 +10508,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 16,
+        "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -10840,7 +10823,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 23,
+        "capacity": 20,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,

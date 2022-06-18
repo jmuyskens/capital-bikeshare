@@ -1969,21 +1969,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "4th & C St SW",
-                "station_id": "142",
-                "capacity": 39
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.01770067214966,
-                    38.88637194054526
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "4th & E St SW",
                 "station_id": "143",
                 "capacity": 19
@@ -7521,7 +7506,7 @@
             "properties": {
                 "name": "14th & Luzon St NW",
                 "station_id": "534",
-                "capacity": 16
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -7746,7 +7731,7 @@
             "properties": {
                 "name": "Woodley Park Metro / Calvert St & Connecticut Ave NW",
                 "station_id": "549",
-                "capacity": 23
+                "capacity": 20
             },
             "geometry": {
                 "type": "Point",
