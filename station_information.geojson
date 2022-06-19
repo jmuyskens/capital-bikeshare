@@ -7731,7 +7731,7 @@
             "properties": {
                 "name": "Woodley Park Metro / Calvert St & Connecticut Ave NW",
                 "station_id": "549",
-                "capacity": 20
+                "capacity": 22
             },
             "geometry": {
                 "type": "Point",
