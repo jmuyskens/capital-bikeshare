@@ -1969,6 +1969,21 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "4th & C St SW",
+                "station_id": "142",
+                "capacity": 39
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.01770067214966,
+                    38.88637194054526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "4th & E St SW",
                 "station_id": "143",
                 "capacity": 19
@@ -7581,7 +7596,7 @@
             "properties": {
                 "name": "4th & M St SE",
                 "station_id": "539",
-                "capacity": 19
+                "capacity": 9
             },
             "geometry": {
                 "type": "Point",
