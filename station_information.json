@@ -1724,7 +1724,11 @@
     {
         "capacity": 23,
         "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
+        "eightd_station_services": [
+            {
+                "name": "Valet Service"
+            }
+        ],
         "electric_bike_surcharge_waiver": false,
         "external_id": "0824a623-1f3f-11e7-bf6b-3863bb334450",
         "has_kiosk": true,
@@ -2064,9 +2068,9 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "0824c604-1f3f-11e7-bf6b-3863bb334450",
         "has_kiosk": true,
-        "lat": 38.898364,
+        "lat": 38.89832574246664,
         "legacy_id": "103",
-        "lon": -77.027869,
+        "lon": -77.02795878052711,
         "name": "Metro Center / 12th & G St NW",
         "region_id": "42",
         "rental_methods": [
@@ -10626,7 +10630,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 9,
+        "capacity": 15,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,

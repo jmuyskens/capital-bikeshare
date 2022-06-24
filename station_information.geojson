@@ -1481,8 +1481,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.027869,
-                    38.898364
+                    -77.02795878052711,
+                    38.89832574246664
                 ]
             }
         },
@@ -7596,7 +7596,7 @@
             "properties": {
                 "name": "4th & M St SE",
                 "station_id": "539",
-                "capacity": 9
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
