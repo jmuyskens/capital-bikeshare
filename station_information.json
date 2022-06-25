@@ -10630,7 +10630,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 15,
+        "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -12421,9 +12421,9 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "9f86df22-57d4-498a-ab35-2d3fb76e4723",
         "has_kiosk": true,
-        "lat": 38.840797,
+        "lat": 38.84154815912996,
         "legacy_id": "629",
-        "lon": -77.108938,
+        "lon": -77.10773438215256,
         "name": "N. Beauregard St. & Berkley St.",
         "region_id": "40",
         "rental_methods": [

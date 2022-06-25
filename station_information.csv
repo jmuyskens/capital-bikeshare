@@ -505,7 +505,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,d4e8307d-5fb2-4ece-a66a-1522b1ebf79c,true,38.782633,536,-77.016059,Fleet St & Waterfront St,133,32406,536,classic
 15,false,false,ccd82461-11b7-4553-b70b-6cb7e5e4f8c2,true,38.798749,537,-77.00103,Oxon Hill Park & Ride,133,32407,537,classic
 19,false,false,1e19ca16-ec12-48b9-bbbe-fe878745bb23,true,38.93132185874559,538,-77.02824711799622,11th & Park Rd NW,42,31651,538,classic
-15,false,false,9a93cdb5-bd4e-43b8-87f3-81dc9063999f,true,38.876751,539,-77.000736,4th & M St SE,42,31652,539,classic
+19,false,false,9a93cdb5-bd4e-43b8-87f3-81dc9063999f,true,38.876751,539,-77.000736,4th & M St SE,42,31652,539,classic
 19,false,false,c645ddde-0156-47ab-9616-3121f541a6f0,true,38.94796174822241,540,-77.02154964208603,Kansas Ave & Sherman Cr NW,42,31417,540,classic
 11,false,false,3c6a1bf0-3aac-4406-990d-966cc8edca52,true,38.944707,541,-77.335425,Campus Commons,104,32228,541,classic
 11,false,false,a826e5d0-8ee8-41a4-8c1d-1a2ad7212dec,true,38.92755,542,-77.226644,Park Run & Onyx Dr,104,32229,542,classic
@@ -590,7 +590,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 11,false,false,84223eb6-9964-4bd7-85f0-2b6a316c3ba1,true,38.949008,625,-77.355299,Vy Reston Heights,104,32236,625,classic
 17,false,false,b8b6903d-fabc-48aa-af9b-2c5fb29344b9,true,38.902386,626,-77.005649,1st & K St NE,42,31662,626,classic
 12,false,false,8e3245e2-f310-4173-9c2d-9ad00587a23c,true,38.808161,628,-77.100796,Wheeler Ave & S. Floyd St.,40,31927,628,classic
-19,false,false,9f86df22-57d4-498a-ab35-2d3fb76e4723,true,38.840797,629,-77.108938,N. Beauregard St. & Berkley St.,40,31928,629,classic
+19,false,false,9f86df22-57d4-498a-ab35-2d3fb76e4723,true,38.84154815912996,629,-77.10773438215256,N. Beauregard St. & Berkley St.,40,31928,629,classic
 15,false,false,8d8a3add-40b4-41ba-bffe-5a754ebc1625,true,38.7930647,630,-77.049436,Mt Vernon Trail & S. Washington St.,40,31929,630,classic
 15,false,false,b8ba3b0d-9efa-4093-8baa-bb3e7d384c46,true,38.802738,632,-77.0824626,Eisenhower Ave & Ike Dr,40,31930,632,classic
 19,false,false,336a1fe2-8e92-49ad-ab6a-c6c392d3edcd,true,38.910993,633,-76.985854,Capitol Ave & Kendall St NE,42,31530,633,classic
