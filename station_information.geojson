@@ -1671,7 +1671,7 @@
             "properties": {
                 "name": "14th & G St NW",
                 "station_id": "117",
-                "capacity": 23
+                "capacity": 22
             },
             "geometry": {
                 "type": "Point",
