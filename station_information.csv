@@ -110,7 +110,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 23,false,false,0824d140-1f3f-11e7-bf6b-3863bb334450,true,38.897446,114,-77.009888,North Capitol St & F St NW,42,31624,114,classic
 19,false,false,0824de05-1f3f-11e7-bf6b-3863bb334450,true,38.9055785,115,-77.027313,11th & M St NW,42,31266,115,classic
 15,false,false,0824e189-1f3f-11e7-bf6b-3863bb334450,true,38.922581,116,-77.070334,36th & Calvert St NW / Glover Park,42,31304,116,classic
-22,false,false,0824e24c-1f3f-11e7-bf6b-3863bb334450,true,38.89816396413188,117,-77.03189760446548,14th & G St NW,42,31238,117,classic
+23,false,false,0824e24c-1f3f-11e7-bf6b-3863bb334450,true,38.89816396413188,117,-77.03189760446548,14th & G St NW,42,31238,117,classic
 15,false,false,0824e2e3-1f3f-11e7-bf6b-3863bb334450,true,38.844015,118,-77.050537,Potomac Ave & 35th St S,41,31052,118,classic
 31,false,false,0824e68d-1f3f-11e7-bf6b-3863bb334450,true,38.88412,124,-77.04657,Ohio Dr & West Basin Dr SW / MLK & FDR Memorials,42,31240,124,classic
 15,false,false,0824e72a-1f3f-11e7-bf6b-3863bb334450,true,38.897857,125,-77.026975,11th & F St NW,42,31262,125,classic
@@ -519,7 +519,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,6ffb5d30-d3f4-462b-8182-c552bebc9310,true,38.92400207520182,550,-77.20812678337097,McLean Metro,104,32230,550,classic
 19,false,false,d0a82ee8-e718-4598-aa5e-dda9292c248c,true,38.906299,551,-76.983221,Trinidad Rec Center,42,31525,551,classic
 19,false,false,92dd5072-b877-45d6-ba24-c5acbe66733b,true,38.897808,552,-76.979634,Rosedale Rec Center,42,31658,552,classic
-19,false,false,3f1dfbbd-7b34-4efd-91a3-60acad4cf42f,true,38.885908,553,-76.991476,11th & C St SE,42,31659,553,classic
+17,false,false,3f1dfbbd-7b34-4efd-91a3-60acad4cf42f,true,38.885908,553,-76.991476,11th & C St SE,42,31659,553,classic
 19,false,false,89263cc9-13f6-4185-b315-5164c9bb930e,true,38.951596,554,-77.012808,New Hampshire & Gallatin St NW,42,31418,554,classic
 19,false,false,5f0f9566-90d4-431e-9b6d-994e26d20ec6,true,38.835737,555,-76.983144,United Medical Center,42,31823,555,classic
 19,false,false,101824b5-2dd0-464c-bc7e-30481e00e6d7,true,38.911268,556,-77.041829,18th & New Hampshire Ave NW,42,31324,556,classic
