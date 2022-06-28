@@ -115,7 +115,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 31,false,false,0824e68d-1f3f-11e7-bf6b-3863bb334450,true,38.88412,124,-77.04657,Ohio Dr & West Basin Dr SW / MLK & FDR Memorials,42,31240,124,classic
 15,false,false,0824e72a-1f3f-11e7-bf6b-3863bb334450,true,38.897857,125,-77.026975,11th & F St NW,42,31262,125,classic
 19,false,false,0824e7c1-1f3f-11e7-bf6b-3863bb334450,true,38.896104,126,-77.049882,23rd & E St NW ,42,31260,126,classic
-27,false,false,0824ea2c-1f3f-11e7-bf6b-3863bb334450,true,38.897315,127,-77.070993,Lynn St & 19th St North,41,31014,127,classic
+26,false,false,0824ea2c-1f3f-11e7-bf6b-3863bb334450,true,38.897315,127,-77.070993,Lynn St & 19th St North,41,31014,127,classic
 19,false,false,0824eb1b-1f3f-11e7-bf6b-3863bb334450,true,38.8946,128,-77.072305,Wilson Blvd & Ft Myer Dr,41,31015,128,classic
 15,false,false,0824eba7-1f3f-11e7-bf6b-3863bb334450,true,38.893438,129,-77.076389,Clarendon Blvd & Pierce St,41,31016,129,classic
 15,false,false,0824ee0d-1f3f-11e7-bf6b-3863bb334450,true,38.891696,130,-77.0846,Wilson Blvd & N Uhle St,41,31017,130,classic
@@ -515,11 +515,11 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 33,false,false,96ce48cf-5d98-4dfb-86b1-f461230cd193,true,38.897108,546,-77.011616,New Jersey Ave & F St NW,42,31655,546,classic
 19,false,false,06a14329-dedb-4152-b237-e59afccd8d42,true,38.901935,547,-76.978627,Maryland Ave & 17th St NE,42,31656,547,classic
 19,false,false,880978b9-5084-4576-a206-8d94cdbf4427,true,38.892934,548,-76.998273,Massachusetts Ave & 6th St NE,42,31657,548,classic
-23,false,false,efe6a4e1-5900-46d6-9755-db074f87c5c2,true,38.923389,549,-77.051833,Woodley Park Metro / Calvert St & Connecticut Ave NW,42,31323,549,classic
+18,false,false,efe6a4e1-5900-46d6-9755-db074f87c5c2,true,38.923389,549,-77.051833,Woodley Park Metro / Calvert St & Connecticut Ave NW,42,31323,549,classic
 19,false,false,6ffb5d30-d3f4-462b-8182-c552bebc9310,true,38.92400207520182,550,-77.20812678337097,McLean Metro,104,32230,550,classic
 19,false,false,d0a82ee8-e718-4598-aa5e-dda9292c248c,true,38.906299,551,-76.983221,Trinidad Rec Center,42,31525,551,classic
 19,false,false,92dd5072-b877-45d6-ba24-c5acbe66733b,true,38.897808,552,-76.979634,Rosedale Rec Center,42,31658,552,classic
-17,false,false,3f1dfbbd-7b34-4efd-91a3-60acad4cf42f,true,38.885908,553,-76.991476,11th & C St SE,42,31659,553,classic
+19,false,false,3f1dfbbd-7b34-4efd-91a3-60acad4cf42f,true,38.885908,553,-76.991476,11th & C St SE,42,31659,553,classic
 19,false,false,89263cc9-13f6-4185-b315-5164c9bb930e,true,38.951596,554,-77.012808,New Hampshire & Gallatin St NW,42,31418,554,classic
 19,false,false,5f0f9566-90d4-431e-9b6d-994e26d20ec6,true,38.835737,555,-76.983144,United Medical Center,42,31823,555,classic
 19,false,false,101824b5-2dd0-464c-bc7e-30481e00e6d7,true,38.911268,556,-77.041829,18th & New Hampshire Ave NW,42,31324,556,classic
