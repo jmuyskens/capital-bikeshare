@@ -2376,7 +2376,7 @@
             "properties": {
                 "name": "Smithsonian-National Mall / Jefferson Dr & 12th St SW",
                 "station_id": "169",
-                "capacity": 23
+                "capacity": 35
             },
             "geometry": {
                 "type": "Point",
@@ -7671,7 +7671,7 @@
             "properties": {
                 "name": "King Greenleaf Rec Center",
                 "station_id": "544",
-                "capacity": 19
+                "capacity": 12
             },
             "geometry": {
                 "type": "Point",

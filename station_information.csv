@@ -157,7 +157,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 12,false,false,0825213e-1f3f-11e7-bf6b-3863bb334450,true,38.88397,166,-77.10783,Central Library / Quincy St & 10th St N,41,31025,166,classic
 15,false,false,082521d3-1f3f-11e7-bf6b-3863bb334450,true,38.884734,167,-77.093485,Washington Blvd & 10th St N,41,31026,167,classic
 23,false,false,08252260-1f3f-11e7-bf6b-3863bb334450,true,38.8885525,168,-77.032427,Jefferson Dr & 14th St SW,42,31247,168,classic
-23,false,false,082522f0-1f3f-11e7-bf6b-3863bb334450,true,38.888774,169,-77.028694,Smithsonian-National Mall / Jefferson Dr & 12th St SW,42,31248,169,classic
+35,false,false,082522f0-1f3f-11e7-bf6b-3863bb334450,true,38.888774,169,-77.028694,Smithsonian-National Mall / Jefferson Dr & 12th St SW,42,31248,169,classic
 15,false,false,08252387-1f3f-11e7-bf6b-3863bb334450,true,38.87887,170,-77.1207,George Mason Dr & Wilson Blvd,41,31036,170,classic
 19,false,false,08252414-1f3f-11e7-bf6b-3863bb334450,true,38.894573,171,-77.01994,6th St & Indiana Ave NW,42,31264,171,classic
 11,false,false,082524a2-1f3f-11e7-bf6b-3863bb334450,true,38.893237,172,-77.086063,N Veitch St & Key Blvd,41,31028,172,classic
@@ -510,7 +510,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 11,false,false,3c6a1bf0-3aac-4406-990d-966cc8edca52,true,38.944707,541,-77.335425,Campus Commons,104,32228,541,classic
 11,false,false,a826e5d0-8ee8-41a4-8c1d-1a2ad7212dec,true,38.92755,542,-77.226644,Park Run & Onyx Dr,104,32229,542,classic
 19,false,false,a0d0ec92-ebda-436a-b476-7ee9a7bdb67d,true,38.902674,543,-77.021392,7th & K St NW,42,31653,543,classic
-19,false,false,99ddcd49-1312-4d80-8030-9bc2732deb5c,true,38.876211,544,-77.012443,King Greenleaf Rec Center,42,31654,544,classic
+12,false,false,99ddcd49-1312-4d80-8030-9bc2732deb5c,true,38.876211,544,-77.012443,King Greenleaf Rec Center,42,31654,544,classic
 19,false,false,a07bd5e0-5136-4285-ae23-54a74124957e,true,38.907444,545,-76.986813,Montello Ave & Holbrook Terr NE,42,31524,545,classic
 33,false,false,96ce48cf-5d98-4dfb-86b1-f461230cd193,true,38.897108,546,-77.011616,New Jersey Ave & F St NW,42,31655,546,classic
 19,false,false,06a14329-dedb-4152-b237-e59afccd8d42,true,38.901935,547,-76.978627,Maryland Ave & 17th St NE,42,31656,547,classic
