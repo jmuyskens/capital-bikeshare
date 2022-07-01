@@ -163,7 +163,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 11,false,false,082524a2-1f3f-11e7-bf6b-3863bb334450,true,38.893237,172,-77.086063,N Veitch St & Key Blvd,41,31028,172,classic
 15,false,false,08252530-1f3f-11e7-bf6b-3863bb334450,true,38.89593,173,-77.089006,Langston Blvd & N Adams St,41,31030,173,classic
 15,false,false,082525bb-1f3f-11e7-bf6b-3863bb334450,true,38.89054,174,-77.08095,15th St & N Scott St,41,31031,174,classic
-11,false,false,08252645-1f3f-11e7-bf6b-3863bb334450,true,38.88081,175,-77.090792,Washington Blvd & 7th St N,41,31032,175,classic
+12,false,false,08252645-1f3f-11e7-bf6b-3863bb334450,true,38.88081,175,-77.090792,Washington Blvd & 7th St N,41,31032,175,classic
 23,false,false,082526d1-1f3f-11e7-bf6b-3863bb334450,true,38.881044,176,-77.111768,Ballston Metro / Stuart St & 9th St N,41,31037,176,classic
 15,false,false,0825275b-1f3f-11e7-bf6b-3863bb334450,true,38.882629,177,-77.109366,Fairfax Dr & N Randolph St,41,31034,177,classic
 23,false,false,082527e7-1f3f-11e7-bf6b-3863bb334450,true,38.879819,178,-77.037413,Jefferson Memorial,42,31249,178,classic
@@ -510,7 +510,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 11,false,false,3c6a1bf0-3aac-4406-990d-966cc8edca52,true,38.944707,541,-77.335425,Campus Commons,104,32228,541,classic
 11,false,false,a826e5d0-8ee8-41a4-8c1d-1a2ad7212dec,true,38.92755,542,-77.226644,Park Run & Onyx Dr,104,32229,542,classic
 19,false,false,a0d0ec92-ebda-436a-b476-7ee9a7bdb67d,true,38.902674,543,-77.021392,7th & K St NW,42,31653,543,classic
-12,false,false,99ddcd49-1312-4d80-8030-9bc2732deb5c,true,38.876211,544,-77.012443,King Greenleaf Rec Center,42,31654,544,classic
+19,false,false,99ddcd49-1312-4d80-8030-9bc2732deb5c,true,38.876211,544,-77.012443,King Greenleaf Rec Center,42,31654,544,classic
 19,false,false,a07bd5e0-5136-4285-ae23-54a74124957e,true,38.907444,545,-76.986813,Montello Ave & Holbrook Terr NE,42,31524,545,classic
 33,false,false,96ce48cf-5d98-4dfb-86b1-f461230cd193,true,38.897108,546,-77.011616,New Jersey Ave & F St NW,42,31655,546,classic
 19,false,false,06a14329-dedb-4152-b237-e59afccd8d42,true,38.901935,547,-76.978627,Maryland Ave & 17th St NE,42,31656,547,classic
@@ -615,7 +615,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,4784f152-5012-49fc-b1bb-723a6d73aa09,true,38.863743,654,-77.013814,2nd & V St SW / James Creek Marina,42,31667,654,classic
 19,false,false,66c82803-70e3-496f-9942-30e0936de3f5,true,38.871841,655,-77.00591,1st St & Potomac Ave SE,42,31668,655,classic
 19,false,false,7346145e-f487-4f07-acb8-ed3e0b8b56bb,true,38.918036,656,-77.045487,20th & Columbia Rd NW,42,31133,656,classic
-23,false,false,60e5f9b2-611b-4713-b34a-8ce2c2ee8ac8,true,38.876823,657,-77.002161,3rd & M st SE,42,31669,657,classic
+23,false,false,60e5f9b2-611b-4713-b34a-8ce2c2ee8ac8,true,38.876823,657,-77.002161,3rd & M St SE,42,31669,657,classic
 19,false,false,12b1c990-90e7-4fef-a5b9-c78d4c81af96,true,38.883318,659,-76.925315,53rd & D St SE/C.W. Harris Elementary,42,31671,659,classic
 11,false,false,e456b38d-7f5e-4d06-b2bc-022b42097a06,true,38.837306,662,-77.106111,N Hampton Dr & Ford Ave,40,31941,662,classic
 15,false,false,5ac39643-b36d-415f-bbb4-1a5e2c61d98d,true,38.809709,663,-77.135788,Whiting & Lane Dr,40,31942,663,classic

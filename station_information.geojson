@@ -2466,7 +2466,7 @@
             "properties": {
                 "name": "Washington Blvd & 7th St N",
                 "station_id": "175",
-                "capacity": 11
+                "capacity": 12
             },
             "geometry": {
                 "type": "Point",
@@ -7671,7 +7671,7 @@
             "properties": {
                 "name": "King Greenleaf Rec Center",
                 "station_id": "544",
-                "capacity": 12
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -9244,7 +9244,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "3rd & M st SE",
+                "name": "3rd & M St SE",
                 "station_id": "657",
                 "capacity": 23
             },

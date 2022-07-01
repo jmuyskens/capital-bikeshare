@@ -3444,7 +3444,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 11,
+        "capacity": 12,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -10731,7 +10731,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 12,
+        "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -12945,7 +12945,7 @@
         "lat": 38.876823,
         "legacy_id": "657",
         "lon": -77.002161,
-        "name": "3rd & M st SE",
+        "name": "3rd & M St SE",
         "region_id": "42",
         "rental_methods": [
             "CREDITCARD",
