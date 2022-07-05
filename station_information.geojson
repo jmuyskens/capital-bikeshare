@@ -7476,7 +7476,7 @@
             "properties": {
                 "name": "Stanton Square SE",
                 "station_id": "531",
-                "capacity": 19
+                "capacity": 16
             },
             "geometry": {
                 "type": "Point",
@@ -7596,7 +7596,7 @@
             "properties": {
                 "name": "4th & M St SE",
                 "station_id": "539",
-                "capacity": 19
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
@@ -8451,7 +8451,7 @@
             "properties": {
                 "name": "Edgewood Rec Center",
                 "station_id": "599",
-                "capacity": 5
+                "capacity": 10
             },
             "geometry": {
                 "type": "Point",

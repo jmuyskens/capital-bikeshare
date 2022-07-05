@@ -497,7 +497,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,068e6359-1741-4240-9ed1-07a9038bc319,true,38.936213,525,-76.960054,Perry & 35th St,133,32404,525,classic
 23,false,false,21858490-7495-4942-b0eb-5e956db26b16,true,38.86968314861632,527,-77.01081544160843,Potomac Ave & Half St SW,42,31648,527,classic
 15,false,false,5945c731-a300-46e6-8e51-3236ad1f65f2,true,38.88994,530,-76.825535,Largo Rd & Campus Way / Prince Georges's Comm Col,133,32405,530,classic
-19,false,false,eab74a15-a9dd-4813-a6a9-c445782f6920,true,38.855004,531,-76.984512,Stanton Square SE,42,31822,531,classic
+16,false,false,eab74a15-a9dd-4813-a6a9-c445782f6920,true,38.855004,531,-76.984512,Stanton Square SE,42,31822,531,classic
 19,false,false,e9030e46-31bf-4def-befb-2e685ad48180,true,38.931991,532,-77.032956,14th & Newton St NW,42,31649,532,classic
 19,false,false,e07eed7c-2d2a-4f13-aff7-2be6500958f7,true,38.9170363119413,533,-77.0957824587822,48th Pl & MacArthur Blvd NW,42,31322,533,classic
 19,false,false,eda09ed8-ca5e-4187-938c-3260cabdf82d,true,38.969489,534,-77.033509,14th & Luzon St NW,42,31416,534,classic
@@ -505,7 +505,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,d4e8307d-5fb2-4ece-a66a-1522b1ebf79c,true,38.782633,536,-77.016059,Fleet St & Waterfront St,133,32406,536,classic
 15,false,false,ccd82461-11b7-4553-b70b-6cb7e5e4f8c2,true,38.798749,537,-77.00103,Oxon Hill Park & Ride,133,32407,537,classic
 19,false,false,1e19ca16-ec12-48b9-bbbe-fe878745bb23,true,38.93132185874559,538,-77.02824711799622,11th & Park Rd NW,42,31651,538,classic
-19,false,false,9a93cdb5-bd4e-43b8-87f3-81dc9063999f,true,38.876751,539,-77.000736,4th & M St SE,42,31652,539,classic
+15,false,false,9a93cdb5-bd4e-43b8-87f3-81dc9063999f,true,38.876751,539,-77.000736,4th & M St SE,42,31652,539,classic
 19,false,false,c645ddde-0156-47ab-9616-3121f541a6f0,true,38.94796174822241,540,-77.02154964208603,Kansas Ave & Sherman Cr NW,42,31417,540,classic
 11,false,false,3c6a1bf0-3aac-4406-990d-966cc8edca52,true,38.944707,541,-77.335425,Campus Commons,104,32228,541,classic
 11,false,false,a826e5d0-8ee8-41a4-8c1d-1a2ad7212dec,true,38.92755,542,-77.226644,Park Run & Onyx Dr,104,32229,542,classic
@@ -562,7 +562,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 17,false,false,d8f65b11-57ec-4a9f-9b52-f5696e129f02,true,38.962119,596,-76.935578,Riverdale Park Town Center,133,32421,596,classic
 17,false,false,d34d2639-ee43-4892-818f-f01116813744,true,38.968842,597,-76.954171,The Mall at Prince Georges,133,32422,597,classic
 11,false,false,2f12b7e0-a0f1-49ed-92d8-784133ea9168,true,39.0473228,598,-77.0510969,Wheaton Library & Community Rec Center,44,32084,598,classic
-5,false,false,ed8f70f3-15e3-448c-86c5-d27d87402ad3,true,38.924144,599,-77.002098,Edgewood Rec Center,42,31529,599,classic
+10,false,false,ed8f70f3-15e3-448c-86c5-d27d87402ad3,true,38.924144,599,-77.002098,Edgewood Rec Center,42,31529,599,classic
 15,false,false,3d88e01e-e071-4638-829c-543410cded50,true,38.90273216425078,601,-76.99514991079923,8th & K St NE,42,31660,601,classic
 19,false,false,bed9b757-0df2-4a97-a6ac-415db00e82c8,true,38.89595455700754,602,-76.9678448436025,Kingman Island/The Fields at RFK,42,31716,602,classic
 19,false,false,07a453e5-2e14-4276-85df-49e0d6144e54,true,38.90046848783359,603,-76.9472873210907,Kenilworth Terrace & Hayes St. NE,42,31717,603,classic
