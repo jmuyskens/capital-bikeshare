@@ -7476,7 +7476,7 @@
             "properties": {
                 "name": "Stanton Square SE",
                 "station_id": "531",
-                "capacity": 16
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -7521,7 +7521,7 @@
             "properties": {
                 "name": "14th & Luzon St NW",
                 "station_id": "534",
-                "capacity": 19
+                "capacity": 16
             },
             "geometry": {
                 "type": "Point",
