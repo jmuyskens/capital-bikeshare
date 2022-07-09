@@ -7521,7 +7521,7 @@
             "properties": {
                 "name": "14th & Luzon St NW",
                 "station_id": "534",
-                "capacity": 16
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -7746,7 +7746,7 @@
             "properties": {
                 "name": "Woodley Park Metro / Calvert St & Connecticut Ave NW",
                 "station_id": "549",
-                "capacity": 21
+                "capacity": 0
             },
             "geometry": {
                 "type": "Point",
@@ -8286,7 +8286,7 @@
             "properties": {
                 "name": "North Capitol & R St NE",
                 "station_id": "588",
-                "capacity": 12
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",

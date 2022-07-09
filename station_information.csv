@@ -500,7 +500,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,eab74a15-a9dd-4813-a6a9-c445782f6920,true,38.855004,531,-76.984512,Stanton Square SE,42,31822,531,classic
 19,false,false,e9030e46-31bf-4def-befb-2e685ad48180,true,38.931991,532,-77.032956,14th & Newton St NW,42,31649,532,classic
 19,false,false,e07eed7c-2d2a-4f13-aff7-2be6500958f7,true,38.9170363119413,533,-77.0957824587822,48th Pl & MacArthur Blvd NW,42,31322,533,classic
-16,false,false,eda09ed8-ca5e-4187-938c-3260cabdf82d,true,38.969489,534,-77.033509,14th & Luzon St NW,42,31416,534,classic
+19,false,false,eda09ed8-ca5e-4187-938c-3260cabdf82d,true,38.969489,534,-77.033509,14th & Luzon St NW,42,31416,534,classic
 19,false,false,5f71434d-dc5c-45ff-8219-708a3d9a0691,true,38.876893,535,-77.006072,1st & M St SE,42,31650,535,classic
 15,false,false,d4e8307d-5fb2-4ece-a66a-1522b1ebf79c,true,38.782633,536,-77.016059,Fleet St & Waterfront St,133,32406,536,classic
 15,false,false,ccd82461-11b7-4553-b70b-6cb7e5e4f8c2,true,38.798749,537,-77.00103,Oxon Hill Park & Ride,133,32407,537,classic
@@ -515,7 +515,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 33,false,false,96ce48cf-5d98-4dfb-86b1-f461230cd193,true,38.897108,546,-77.011616,New Jersey Ave & F St NW,42,31655,546,classic
 19,false,false,06a14329-dedb-4152-b237-e59afccd8d42,true,38.901935,547,-76.978627,Maryland Ave & 17th St NE,42,31656,547,classic
 19,false,false,880978b9-5084-4576-a206-8d94cdbf4427,true,38.892934,548,-76.998273,Massachusetts Ave & 6th St NE,42,31657,548,classic
-21,false,false,efe6a4e1-5900-46d6-9755-db074f87c5c2,true,38.923389,549,-77.051833,Woodley Park Metro / Calvert St & Connecticut Ave NW,42,31323,549,classic
+0,false,false,efe6a4e1-5900-46d6-9755-db074f87c5c2,true,38.923389,549,-77.051833,Woodley Park Metro / Calvert St & Connecticut Ave NW,42,31323,549,classic
 19,false,false,6ffb5d30-d3f4-462b-8182-c552bebc9310,true,38.92400207520182,550,-77.20812678337097,McLean Metro,104,32230,550,classic
 19,false,false,d0a82ee8-e718-4598-aa5e-dda9292c248c,true,38.906299,551,-76.983221,Trinidad Rec Center,42,31525,551,classic
 19,false,false,92dd5072-b877-45d6-ba24-c5acbe66733b,true,38.897808,552,-76.979634,Rosedale Rec Center,42,31658,552,classic
@@ -551,7 +551,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 11,false,false,65c9578a-8bda-4908-b626-06371c09338b,true,38.870093,585,-77.22997,Merrifield Cinema & Merrifield Town Center,104,32235,585,classic
 19,false,false,30c5787e-6fdb-421d-8eaf-32e652dbeae2,true,38.9243,586,-76.9859,Rhode Island & Montana Ave NE,42,31526,586,classic
 19,false,false,4f9000ec-e47e-494e-9b49-61e95b5a6f03,true,38.914173639930105,587,-77.02159523963928,7th & S St NW,42,31130,587,classic
-12,false,false,2a76806e-32b4-4ec6-a851-f73ba7dafda1,true,38.912524,588,-77.008798,North Capitol & R St NE,42,31527,588,classic
+15,false,false,2a76806e-32b4-4ec6-a851-f73ba7dafda1,true,38.912524,588,-77.008798,North Capitol & R St NE,42,31527,588,classic
 19,false,false,72e7c396-11ad-4e88-bf4b-e60584f748fc,true,38.942146,589,-77.038684,17th & Upshur St NW,42,31420,589,classic
 19,false,false,4ae62d55-b4b3-47d7-ada9-79185e2be3b9,true,38.942024743273045,590,-77.01822102069855,Grant Circle,42,31421,590,classic
 27,false,false,2a43f4e2-4102-482e-8879-245cf7555c6b,true,38.934405,591,-77.032687,14th & Otis Pl NW,42,31131,591,classic
