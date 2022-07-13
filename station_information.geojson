@@ -1101,7 +1101,7 @@
             "properties": {
                 "name": "Eastern Market Metro / Pennsylvania Ave & 8th St SE",
                 "station_id": "78",
-                "capacity": 19
+                "capacity": 18
             },
             "geometry": {
                 "type": "Point",
@@ -2856,7 +2856,7 @@
             "properties": {
                 "name": "Barton St & 10th St N",
                 "station_id": "202",
-                "capacity": 11
+                "capacity": 12
             },
             "geometry": {
                 "type": "Point",

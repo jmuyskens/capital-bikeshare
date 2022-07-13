@@ -72,7 +72,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,08249d44-1f3f-11e7-bf6b-3863bb334450,true,38.886266,75,-77.022241,L'Enfant Plaza / 7th & C St SW,42,31218,75,classic
 31,false,false,08249dad-1f3f-11e7-bf6b-3863bb334450,true,38.893028,76,-77.026013,10th St & Constitution Ave NW,42,31219,76,classic
 19,false,false,08249e19-1f3f-11e7-bf6b-3863bb334450,true,38.897293,77,-77.05557,Kennedy Center,42,31211,77,classic
-19,false,false,08249e81-1f3f-11e7-bf6b-3863bb334450,true,38.88409514578027,78,-76.99523448944092,Eastern Market Metro / Pennsylvania Ave & 8th St SE,42,31613,78,classic
+18,false,false,08249e81-1f3f-11e7-bf6b-3863bb334450,true,38.88409514578027,78,-76.99523448944092,Eastern Market Metro / Pennsylvania Ave & 8th St SE,42,31613,78,classic
 27,false,false,08249ef2-1f3f-11e7-bf6b-3863bb334450,true,38.90506687455313,79,-77.04177886247635,18th & M St NW,42,31221,79,classic
 15,false,false,08249f58-1f3f-11e7-bf6b-3863bb334450,true,38.947607,80,-77.079382,Tenleytown / Wisconsin Ave & Albemarle St NW,42,31303,80,classic
 27,false,false,08249fbc-1f3f-11e7-bf6b-3863bb334450,true,38.90042673988099,81,-76.98825001716614,13th & H St NE,42,31611,81,classic
@@ -189,7 +189,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,08253e7e-1f3f-11e7-bf6b-3863bb334450,true,38.895914,199,-77.026064,10th & E St NW,42,31256,199,classic
 15,false,false,08254037-1f3f-11e7-bf6b-3863bb334450,true,38.90088,200,-77.048911,22nd & I St NW / Foggy Bottom,42,31257,200,classic
 11,false,false,082540b2-1f3f-11e7-bf6b-3863bb334450,true,38.883669,201,-77.113905,Utah St & 11th St N,41,31049,201,classic
-11,false,false,08254123-1f3f-11e7-bf6b-3863bb334450,true,38.884961,202,-77.08777,Barton St & 10th St N,41,31050,202,classic
+12,false,false,08254123-1f3f-11e7-bf6b-3863bb334450,true,38.884961,202,-77.08777,Barton St & 10th St N,41,31050,202,classic
 11,false,false,08254215-1f3f-11e7-bf6b-3863bb334450,true,38.889365,203,-77.077294,Arlington Blvd & N Queen St,41,31051,203,classic
 25,false,false,08254284-1f3f-11e7-bf6b-3863bb334450,true,38.888255,204,-77.0494365,Lincoln Memorial,42,31258,204,classic
 15,false,false,082543d4-1f3f-11e7-bf6b-3863bb334450,true,38.894722,206,-77.045128,20th St & Virginia Ave NW,42,31259,206,classic
