@@ -7536,7 +7536,7 @@
             "properties": {
                 "name": "1st & M St SE",
                 "station_id": "535",
-                "capacity": 19
+                "capacity": 18
             },
             "geometry": {
                 "type": "Point",
