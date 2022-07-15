@@ -1101,7 +1101,7 @@
             "properties": {
                 "name": "Eastern Market Metro / Pennsylvania Ave & 8th St SE",
                 "station_id": "78",
-                "capacity": 18
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -7536,7 +7536,7 @@
             "properties": {
                 "name": "1st & M St SE",
                 "station_id": "535",
-                "capacity": 18
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -9336,7 +9336,7 @@
             "properties": {
                 "name": "S Clark St & 33rd St",
                 "station_id": "667",
-                "capacity": 11
+                "capacity": 12
             },
             "geometry": {
                 "type": "Point",

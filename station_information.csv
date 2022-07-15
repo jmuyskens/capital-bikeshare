@@ -72,7 +72,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,08249d44-1f3f-11e7-bf6b-3863bb334450,true,38.886266,75,-77.022241,L'Enfant Plaza / 7th & C St SW,42,31218,75,classic
 31,false,false,08249dad-1f3f-11e7-bf6b-3863bb334450,true,38.893028,76,-77.026013,10th St & Constitution Ave NW,42,31219,76,classic
 19,false,false,08249e19-1f3f-11e7-bf6b-3863bb334450,true,38.897293,77,-77.05557,Kennedy Center,42,31211,77,classic
-18,false,false,08249e81-1f3f-11e7-bf6b-3863bb334450,true,38.88409514578027,78,-76.99523448944092,Eastern Market Metro / Pennsylvania Ave & 8th St SE,42,31613,78,classic
+19,false,false,08249e81-1f3f-11e7-bf6b-3863bb334450,true,38.88409514578027,78,-76.99523448944092,Eastern Market Metro / Pennsylvania Ave & 8th St SE,42,31613,78,classic
 27,false,false,08249ef2-1f3f-11e7-bf6b-3863bb334450,true,38.90506687455313,79,-77.04177886247635,18th & M St NW,42,31221,79,classic
 15,false,false,08249f58-1f3f-11e7-bf6b-3863bb334450,true,38.947607,80,-77.079382,Tenleytown / Wisconsin Ave & Albemarle St NW,42,31303,80,classic
 27,false,false,08249fbc-1f3f-11e7-bf6b-3863bb334450,true,38.90042673988099,81,-76.98825001716614,13th & H St NE,42,31611,81,classic
@@ -501,7 +501,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,e9030e46-31bf-4def-befb-2e685ad48180,true,38.931991,532,-77.032956,14th & Newton St NW,42,31649,532,classic
 19,false,false,e07eed7c-2d2a-4f13-aff7-2be6500958f7,true,38.9170363119413,533,-77.0957824587822,48th Pl & MacArthur Blvd NW,42,31322,533,classic
 19,false,false,eda09ed8-ca5e-4187-938c-3260cabdf82d,true,38.969489,534,-77.033509,14th & Luzon St NW,42,31416,534,classic
-18,false,false,5f71434d-dc5c-45ff-8219-708a3d9a0691,true,38.876893,535,-77.006072,1st & M St SE,42,31650,535,classic
+19,false,false,5f71434d-dc5c-45ff-8219-708a3d9a0691,true,38.876893,535,-77.006072,1st & M St SE,42,31650,535,classic
 15,false,false,d4e8307d-5fb2-4ece-a66a-1522b1ebf79c,true,38.782633,536,-77.016059,Fleet St & Waterfront St,133,32406,536,classic
 15,false,false,ccd82461-11b7-4553-b70b-6cb7e5e4f8c2,true,38.798749,537,-77.00103,Oxon Hill Park & Ride,133,32407,537,classic
 19,false,false,1e19ca16-ec12-48b9-bbbe-fe878745bb23,true,38.93132185874559,538,-77.02824711799622,11th & Park Rd NW,42,31651,538,classic
@@ -621,7 +621,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,5ac39643-b36d-415f-bbb4-1a5e2c61d98d,true,38.809709,663,-77.135788,Whiting & Lane Dr,40,31942,663,classic
 15,false,false,cdeeb133-ccd7-418f-a8d7-0b5c5380a8ae,true,38.815842,664,-77.110014,N Howard St & Taney Ave,40,31943,664,classic
 19,false,false,d2a6b8ef-0d6d-4037-84e4-b905142031fa,true,38.878771,665,-76.97093,Anacostia Roller Skating Pavillion,42,31720,665,classic
-11,false,false,e2a96f4c-801e-4cf8-be0f-f767a5d8ca1b,true,38.845028,667,-77.051956,S Clark St & 33rd St,41,31944,667,classic
+12,false,false,e2a96f4c-801e-4cf8-be0f-f767a5d8ca1b,true,38.845028,667,-77.051956,S Clark St & 33rd St,41,31944,667,classic
 15,false,false,f0d7675e-2ce0-41e7-94f5-28ca712fa456,true,38.854019,668,-77.118106,Columbia Pike & S Greenbrier St,41,31945,668,classic
 11,false,false,347b72fa-4ae2-4017-a9bf-344a122cddeb,true,38.828887,669,-77.110588,Kenmore Ave & Seminary Rd,40,31946,669,classic
 21,false,false,472d3644-c8f4-4912-ad84-79f11cee2e49,true,38.896086906318665,670,-77.07145214080809,Rosslyn Metro / Wilson Blvd & N Moore St,41,31947,670,classic
