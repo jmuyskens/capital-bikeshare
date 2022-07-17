@@ -7806,7 +7806,7 @@
             "properties": {
                 "name": "11th & C St SE",
                 "station_id": "553",
-                "capacity": 9
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
