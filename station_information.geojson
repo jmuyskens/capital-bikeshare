@@ -1746,7 +1746,7 @@
             "properties": {
                 "name": "Lynn St & 19th St North",
                 "station_id": "127",
-                "capacity": 26
+                "capacity": 27
             },
             "geometry": {
                 "type": "Point",
@@ -7476,7 +7476,7 @@
             "properties": {
                 "name": "Stanton Square SE",
                 "station_id": "531",
-                "capacity": 14
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -7806,7 +7806,7 @@
             "properties": {
                 "name": "11th & C St SE",
                 "station_id": "553",
-                "capacity": 19
+                "capacity": 7
             },
             "geometry": {
                 "type": "Point",
@@ -8316,7 +8316,7 @@
             "properties": {
                 "name": "Grant Circle",
                 "station_id": "590",
-                "capacity": 17
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
