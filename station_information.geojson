@@ -7806,7 +7806,7 @@
             "properties": {
                 "name": "11th & C St SE",
                 "station_id": "553",
-                "capacity": 7
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -7941,7 +7941,7 @@
             "properties": {
                 "name": "New Hampshire Ave & East-West Hwy",
                 "station_id": "565",
-                "capacity": 15
+                "capacity": 12
             },
             "geometry": {
                 "type": "Point",
