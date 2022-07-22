@@ -2541,7 +2541,7 @@
             "properties": {
                 "name": "Glebe Rd & 11th St N",
                 "station_id": "180",
-                "capacity": 11
+                "capacity": 12
             },
             "geometry": {
                 "type": "Point",
@@ -7941,7 +7941,7 @@
             "properties": {
                 "name": "New Hampshire Ave & East-West Hwy",
                 "station_id": "565",
-                "capacity": 12
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
@@ -8481,7 +8481,7 @@
             "properties": {
                 "name": "Kingman Island/The Fields at RFK",
                 "station_id": "602",
-                "capacity": 19
+                "capacity": 17
             },
             "geometry": {
                 "type": "Point",
