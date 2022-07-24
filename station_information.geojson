@@ -7596,7 +7596,7 @@
             "properties": {
                 "name": "4th & M St SE",
                 "station_id": "539",
-                "capacity": 10
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -7806,7 +7806,7 @@
             "properties": {
                 "name": "11th & C St SE",
                 "station_id": "553",
-                "capacity": 14
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -8481,7 +8481,7 @@
             "properties": {
                 "name": "Kingman Island/The Fields at RFK",
                 "station_id": "602",
-                "capacity": 17
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
