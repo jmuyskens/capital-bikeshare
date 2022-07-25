@@ -1866,7 +1866,7 @@
             "properties": {
                 "name": "Columbia Rd & Belmont St NW",
                 "station_id": "135",
-                "capacity": 18
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -6711,7 +6711,7 @@
             "properties": {
                 "name": "Potomac & M St NW",
                 "station_id": "473",
-                "capacity": 0
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -7926,7 +7926,7 @@
             "properties": {
                 "name": "Northwestern High School",
                 "station_id": "564",
-                "capacity": 0
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
