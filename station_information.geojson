@@ -1866,7 +1866,7 @@
             "properties": {
                 "name": "Columbia Rd & Belmont St NW",
                 "station_id": "135",
-                "capacity": 19
+                "capacity": 18
             },
             "geometry": {
                 "type": "Point",
