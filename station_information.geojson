@@ -1866,7 +1866,7 @@
             "properties": {
                 "name": "Columbia Rd & Belmont St NW",
                 "station_id": "135",
-                "capacity": 18
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -2833,21 +2833,6 @@
                 "coordinates": [
                     -77.048911,
                     38.90088
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Utah St & 11th St N",
-                "station_id": "201",
-                "capacity": 11
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.113905,
-                    38.883669
                 ]
             }
         },
@@ -10228,6 +10213,21 @@
                 "coordinates": [
                     -77.104784,
                     38.874248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fairfax Dr & N Taylor St",
+                "station_id": "734",
+                "capacity": 8
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.112754,
+                    38.882425
                 ]
             }
         }

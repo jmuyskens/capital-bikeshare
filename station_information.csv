@@ -123,7 +123,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,0824f08b-1f3f-11e7-bf6b-3863bb334450,true,38.86559,132,-76.952103,Fairfax Village,42,31706,132,classic
 15,false,false,0824f16b-1f3f-11e7-bf6b-3863bb334450,true,38.892459,133,-77.046567,21st St & Constitution Ave NW,42,31261,133,classic
 15,false,false,0824f3d6-1f3f-11e7-bf6b-3863bb334450,true,38.889396070923496,134,-77.09186241030693,Wilson Blvd & N Edgewood St,41,31019,134,classic
-18,false,false,0824f461-1f3f-11e7-bf6b-3863bb334450,true,38.920669,135,-77.04368,Columbia Rd & Belmont St NW,42,31113,135,classic
+19,false,false,0824f461-1f3f-11e7-bf6b-3863bb334450,true,38.920669,135,-77.04368,Columbia Rd & Belmont St NW,42,31113,135,classic
 23,false,false,0824f644-1f3f-11e7-bf6b-3863bb334450,true,38.905995699991145,136,-77.03980207443237,Rhode Island & Connecticut Ave NW,42,31239,136,classic
 33,false,false,0824f8a2-1f3f-11e7-bf6b-3863bb334450,true,38.9059,137,-77.0325,Thomas Circle,42,31241,137,classic
 12,false,false,0824fb6c-1f3f-11e7-bf6b-3863bb334450,true,38.8904,138,-77.0889,Wilson Blvd & N Franklin Rd,41,31020,138,classic
@@ -188,7 +188,6 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,08253e02-1f3f-11e7-bf6b-3863bb334450,true,38.9066,198,-77.05152,24th & N St NW,42,31255,198,classic
 15,false,false,08253e7e-1f3f-11e7-bf6b-3863bb334450,true,38.895914,199,-77.026064,10th & E St NW,42,31256,199,classic
 15,false,false,08254037-1f3f-11e7-bf6b-3863bb334450,true,38.90088,200,-77.048911,22nd & I St NW / Foggy Bottom,42,31257,200,classic
-11,false,false,082540b2-1f3f-11e7-bf6b-3863bb334450,true,38.883669,201,-77.113905,Utah St & 11th St N,41,31049,201,classic
 12,false,false,08254123-1f3f-11e7-bf6b-3863bb334450,true,38.884961,202,-77.08777,Barton St & 10th St N,41,31050,202,classic
 11,false,false,08254215-1f3f-11e7-bf6b-3863bb334450,true,38.889365,203,-77.077294,Arlington Blvd & N Queen St,41,31051,203,classic
 25,false,false,08254284-1f3f-11e7-bf6b-3863bb334450,true,38.888255,204,-77.0494365,Lincoln Memorial,42,31258,204,classic
@@ -681,3 +680,4 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,71686e8c-9f47-4a65-8840-c7276be3786e,true,38.863508,730,-77.084259,Penrose Sq/Columbia Pike & S Barton St,41,31971,730,classic
 15,false,false,7af26d39-a3b4-4fb3-b5b2-3acd415b9bea,true,38.84404,731,-77.098093,S Wakefield St & 28th Rd S,41,31972,731,classic
 15,false,false,174fc644-1a5a-4923-a8b5-373e0ad04525,true,38.874248,732,-77.104784,N Pershing Dr & Quebec St,,31973,732,classic
+8,false,false,8dfb34e2-7f75-4359-a374-5bf5e86c4793,true,38.882425,734,-77.112754,Fairfax Dr & N Taylor St,,31974,734,classic
