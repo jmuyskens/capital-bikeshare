@@ -7401,7 +7401,7 @@
             "properties": {
                 "name": "Baltimore Ave & Jefferson St",
                 "station_id": "524",
-                "capacity": 15
+                "capacity": 14
             },
             "geometry": {
                 "type": "Point",
@@ -7461,7 +7461,7 @@
             "properties": {
                 "name": "Stanton Square SE",
                 "station_id": "531",
-                "capacity": 19
+                "capacity": 17
             },
             "geometry": {
                 "type": "Point",
@@ -7476,7 +7476,7 @@
             "properties": {
                 "name": "14th & Newton St NW",
                 "station_id": "532",
-                "capacity": 19
+                "capacity": 9
             },
             "geometry": {
                 "type": "Point",
@@ -7791,7 +7791,7 @@
             "properties": {
                 "name": "11th & C St SE",
                 "station_id": "553",
-                "capacity": 18
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -8301,7 +8301,7 @@
             "properties": {
                 "name": "Grant Circle",
                 "station_id": "590",
-                "capacity": 19
+                "capacity": 18
             },
             "geometry": {
                 "type": "Point",
