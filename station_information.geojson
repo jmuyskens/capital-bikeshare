@@ -7476,7 +7476,7 @@
             "properties": {
                 "name": "14th & Newton St NW",
                 "station_id": "532",
-                "capacity": 9
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
