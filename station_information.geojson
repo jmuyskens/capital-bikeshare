@@ -1101,7 +1101,7 @@
             "properties": {
                 "name": "Eastern Market Metro / Pennsylvania Ave & 8th St SE",
                 "station_id": "78",
-                "capacity": 19
+                "capacity": 18
             },
             "geometry": {
                 "type": "Point",
@@ -7656,7 +7656,7 @@
             "properties": {
                 "name": "King Greenleaf Rec Center",
                 "station_id": "544",
-                "capacity": 19
+                "capacity": 11
             },
             "geometry": {
                 "type": "Point",
