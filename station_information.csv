@@ -72,7 +72,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,08249d44-1f3f-11e7-bf6b-3863bb334450,true,38.886266,75,-77.022241,L'Enfant Plaza / 7th & C St SW,42,31218,75,classic
 31,false,false,08249dad-1f3f-11e7-bf6b-3863bb334450,true,38.893028,76,-77.026013,10th St & Constitution Ave NW,42,31219,76,classic
 19,false,false,08249e19-1f3f-11e7-bf6b-3863bb334450,true,38.897293,77,-77.05557,Kennedy Center,42,31211,77,classic
-18,false,false,08249e81-1f3f-11e7-bf6b-3863bb334450,true,38.88409514578027,78,-76.99523448944092,Eastern Market Metro / Pennsylvania Ave & 8th St SE,42,31613,78,classic
+19,false,false,08249e81-1f3f-11e7-bf6b-3863bb334450,true,38.88409514578027,78,-76.99523448944092,Eastern Market Metro / Pennsylvania Ave & 8th St SE,42,31613,78,classic
 27,false,false,08249ef2-1f3f-11e7-bf6b-3863bb334450,true,38.90506687455313,79,-77.04177886247635,18th & M St NW,42,31221,79,classic
 15,false,false,08249f58-1f3f-11e7-bf6b-3863bb334450,true,38.947607,80,-77.079382,Tenleytown / Wisconsin Ave & Albemarle St NW,42,31303,80,classic
 27,false,false,08249fbc-1f3f-11e7-bf6b-3863bb334450,true,38.90042673988099,81,-76.98825001716614,13th & H St NE,42,31611,81,classic
@@ -159,7 +159,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 23,false,false,08252260-1f3f-11e7-bf6b-3863bb334450,true,38.8885525,168,-77.032427,Jefferson Dr & 14th St SW,42,31247,168,classic
 35,false,false,082522f0-1f3f-11e7-bf6b-3863bb334450,true,38.888774,169,-77.028694,Smithsonian-National Mall / Jefferson Dr & 12th St SW,42,31248,169,classic
 15,false,false,08252387-1f3f-11e7-bf6b-3863bb334450,true,38.87887,170,-77.1207,George Mason Dr & Wilson Blvd,41,31036,170,classic
-19,false,false,08252414-1f3f-11e7-bf6b-3863bb334450,true,38.894573,171,-77.01994,6th St & Indiana Ave NW,42,31264,171,classic
+16,false,false,08252414-1f3f-11e7-bf6b-3863bb334450,true,38.894573,171,-77.01994,6th St & Indiana Ave NW,42,31264,171,classic
 11,false,false,082524a2-1f3f-11e7-bf6b-3863bb334450,true,38.893237,172,-77.086063,N Veitch St & Key Blvd,41,31028,172,classic
 15,false,false,08252530-1f3f-11e7-bf6b-3863bb334450,true,38.89593,173,-77.089006,Langston Blvd & N Adams St,41,31030,173,classic
 15,false,false,082525bb-1f3f-11e7-bf6b-3863bb334450,true,38.89054,174,-77.08095,15th St & N Scott St,41,31031,174,classic
@@ -320,7 +320,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 11,false,false,0825f807-1f3f-11e7-bf6b-3863bb334450,true,38.82175,338,-77.047494,Potomac Greens Dr & Slaters Ln,40,31083,338,classic
 19,false,false,0825f872-1f3f-11e7-bf6b-3863bb334450,true,38.802677,339,-77.063562,Ballenger Ave & Dulaney St,40,31084,339,classic
 11,false,false,0825f8da-1f3f-11e7-bf6b-3863bb334450,true,38.820064,340,-77.057619,Mount Vernon Ave & E Nelson Ave,40,31085,340,classic
-15,false,false,0825f946-1f3f-11e7-bf6b-3863bb334450,true,38.82595,341,-77.058541,Mount Vernon Ave & E Del Ray Ave,40,31086,341,classic
+14,false,false,0825f946-1f3f-11e7-bf6b-3863bb334450,true,38.82595,341,-77.058541,Mount Vernon Ave & E Del Ray Ave,40,31086,341,classic
 15,false,false,0825f9b6-1f3f-11e7-bf6b-3863bb334450,true,38.820932,342,-77.053096,Monroe Ave & Leslie Ave,40,31087,342,classic
 15,false,false,0825fa22-1f3f-11e7-bf6b-3863bb334450,true,38.833077,343,-77.059821,Mount Vernon Ave & Kennedy St,40,31088,343,classic
 21,false,false,0825fa8b-1f3f-11e7-bf6b-3863bb334450,true,38.890612,344,-77.084801,Court House Metro / 15th St & N Uhle St,41,31089,344,classic
@@ -336,7 +336,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,0825feb6-1f3f-11e7-bf6b-3863bb334450,true,38.896456,354,-77.104562,Langston Blvd & N Monroe St,41,31092,354,classic
 15,false,false,0825ff20-1f3f-11e7-bf6b-3863bb334450,true,38.898984,355,-77.078317,21st St & N Pierce St,41,31093,355,classic
 15,false,false,0825ff8d-1f3f-11e7-bf6b-3863bb334450,true,38.895377,356,-77.09713,Langston Blvd & N Kirkwood St,41,31094,356,classic
-23,false,false,0825fff6-1f3f-11e7-bf6b-3863bb334450,true,38.898412,357,-77.043182,19th & G St NW,42,31279,357,classic
+22,false,false,0825fff6-1f3f-11e7-bf6b-3863bb334450,true,38.898412,357,-77.043182,19th & G St NW,42,31279,357,classic
 19,false,false,0826005e-1f3f-11e7-bf6b-3863bb334450,true,38.914751108831155,358,-77.00356006622314,2nd St & Seaton Pl NE,42,31522,358,classic
 15,false,false,082600d8-1f3f-11e7-bf6b-3863bb334450,true,38.876528,359,-77.12712,Wilson Blvd & N Illinois St ,41,31902,359,classic
 11,false,false,0826029e-1f3f-11e7-bf6b-3863bb334450,true,38.86215024521491,364,-77.06812083721161,Army Navy Dr & S Nash St,41,31095,364,classic
@@ -509,7 +509,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 11,false,false,3c6a1bf0-3aac-4406-990d-966cc8edca52,true,38.944707,541,-77.335425,Campus Commons,104,32228,541,classic
 11,false,false,a826e5d0-8ee8-41a4-8c1d-1a2ad7212dec,true,38.92755,542,-77.226644,Park Run & Onyx Dr,104,32229,542,classic
 19,false,false,a0d0ec92-ebda-436a-b476-7ee9a7bdb67d,true,38.902674,543,-77.021392,7th & K St NW,42,31653,543,classic
-11,false,false,99ddcd49-1312-4d80-8030-9bc2732deb5c,true,38.876211,544,-77.012443,King Greenleaf Rec Center,42,31654,544,classic
+19,false,false,99ddcd49-1312-4d80-8030-9bc2732deb5c,true,38.876211,544,-77.012443,King Greenleaf Rec Center,42,31654,544,classic
 19,false,false,a07bd5e0-5136-4285-ae23-54a74124957e,true,38.907444,545,-76.986813,Montello Ave & Holbrook Terr NE,42,31524,545,classic
 33,false,false,96ce48cf-5d98-4dfb-86b1-f461230cd193,true,38.897108,546,-77.011616,New Jersey Ave & F St NW,42,31655,546,classic
 19,false,false,06a14329-dedb-4152-b237-e59afccd8d42,true,38.901935,547,-76.978627,Maryland Ave & 17th St NE,42,31656,547,classic
@@ -681,3 +681,4 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,7af26d39-a3b4-4fb3-b5b2-3acd415b9bea,true,38.84404,731,-77.098093,S Wakefield St & 28th Rd S,41,31972,731,classic
 15,false,false,174fc644-1a5a-4923-a8b5-373e0ad04525,true,38.874248,732,-77.104784,N Pershing Dr & Quebec St,,31973,732,classic
 8,false,false,8dfb34e2-7f75-4359-a374-5bf5e86c4793,true,38.882425,734,-77.112754,Fairfax Dr & N Taylor St,,31974,734,classic
+19,false,false,94b1507c-7f76-483c-b06a-a4131e0b5970,true,38.874820772513424,735,-77.0207878947258,Waterfront Park,,31673,735,classic

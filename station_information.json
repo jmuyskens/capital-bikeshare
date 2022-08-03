@@ -1533,7 +1533,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 18,
+        "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -3360,7 +3360,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 19,
+        "capacity": 16,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -6741,7 +6741,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 15,
+        "capacity": 14,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -7077,7 +7077,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 23,
+        "capacity": 22,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -10710,7 +10710,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 11,
+        "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -14317,6 +14317,26 @@
         "rental_uris": {},
         "short_name": "31974",
         "station_id": "734",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 19,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "94b1507c-7f76-483c-b06a-a4131e0b5970",
+        "has_kiosk": true,
+        "lat": 38.874820772513424,
+        "legacy_id": "735",
+        "lon": -77.0207878947258,
+        "name": "Waterfront Park",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31673",
+        "station_id": "735",
         "station_type": "classic"
     }
 ]
