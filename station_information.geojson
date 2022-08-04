@@ -2406,7 +2406,7 @@
             "properties": {
                 "name": "6th St & Indiana Ave NW",
                 "station_id": "171",
-                "capacity": 16
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -4821,7 +4821,7 @@
             "properties": {
                 "name": "Mount Vernon Ave & E Del Ray Ave",
                 "station_id": "341",
-                "capacity": 14
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
@@ -5061,7 +5061,7 @@
             "properties": {
                 "name": "19th & G St NW",
                 "station_id": "357",
-                "capacity": 22
+                "capacity": 23
             },
             "geometry": {
                 "type": "Point",
@@ -7461,7 +7461,7 @@
             "properties": {
                 "name": "Stanton Square SE",
                 "station_id": "531",
-                "capacity": 17
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -9711,7 +9711,7 @@
             "properties": {
                 "name": "St. Elizabeths West Campus/DHS ",
                 "station_id": "694",
-                "capacity": 19
+                "capacity": 0
             },
             "geometry": {
                 "type": "Point",
@@ -10243,6 +10243,21 @@
                 "coordinates": [
                     -77.0207878947258,
                     38.874820772513424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Maine Ave & Water St SW",
+                "station_id": "736",
+                "capacity": 18
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.02094480395317,
+                    38.87674677186661
                 ]
             }
         }

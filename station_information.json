@@ -3360,7 +3360,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 16,
+        "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -6741,7 +6741,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 14,
+        "capacity": 15,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -7077,7 +7077,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 22,
+        "capacity": 23,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -10437,7 +10437,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 17,
+        "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -13587,7 +13587,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 19,
+        "capacity": 0,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -14337,6 +14337,27 @@
         "rental_uris": {},
         "short_name": "31673",
         "station_id": "735",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 18,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "a41e5bd2-b599-4c47-a36f-31ffa2e2dd0b",
+        "has_kiosk": true,
+        "lat": 38.87674677186661,
+        "legacy_id": "736",
+        "lon": -77.02094480395317,
+        "name": "Maine Ave & Water St SW",
+        "region_id": "42",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31674",
+        "station_id": "736",
         "station_type": "classic"
     }
 ]
