@@ -6258,27 +6258,6 @@
         "station_type": "classic"
     },
     {
-        "capacity": 13,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "0825e147-1f3f-11e7-bf6b-3863bb334450",
-        "has_kiosk": true,
-        "lat": 39.085394,
-        "legacy_id": "318",
-        "lon": -77.145803,
-        "name": "Rockville Metro East",
-        "region_id": "43",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "32044",
-        "station_id": "318",
-        "station_type": "classic"
-    },
-    {
         "capacity": 15,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -10437,7 +10416,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 19,
+        "capacity": 9,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -13587,7 +13566,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 0,
+        "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,

@@ -297,7 +297,6 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,0825df01-1f3f-11e7-bf6b-3863bb334450,true,39.103091,315,-77.196442,Medical Center Dr & Key West Ave,43,32041,315,classic
 19,false,false,0825dffc-1f3f-11e7-bf6b-3863bb334450,true,39.097636,316,-77.196636,Shady Grove Hospital,43,32042,316,classic
 11,false,false,0825e0a1-1f3f-11e7-bf6b-3863bb334450,true,38.997445,317,-77.023894,Veterans Pl & Pershing Dr ,44,32043,317,classic
-13,false,false,0825e147-1f3f-11e7-bf6b-3863bb334450,true,39.085394,318,-77.145803,Rockville Metro East,43,32044,318,classic
 15,false,false,0825e1e5-1f3f-11e7-bf6b-3863bb334450,true,38.900358,319,-77.012108,1st & H St NW,42,31638,319,classic
 19,false,false,0825e27a-1f3f-11e7-bf6b-3863bb334450,true,38.952369,320,-77.002721,Fort Totten Metro,42,31515,320,classic
 19,false,false,0825e31a-1f3f-11e7-bf6b-3863bb334450,true,38.975219,321,-77.016855,Takoma Metro,42,31408,321,classic
@@ -496,7 +495,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,068e6359-1741-4240-9ed1-07a9038bc319,true,38.936213,525,-76.960054,Perry & 35th St,133,32404,525,classic
 23,false,false,21858490-7495-4942-b0eb-5e956db26b16,true,38.86968314861632,527,-77.01081544160843,Potomac Ave & Half St SW,42,31648,527,classic
 15,false,false,5945c731-a300-46e6-8e51-3236ad1f65f2,true,38.88994,530,-76.825535,Largo Rd & Campus Way / Prince Georges's Comm Col,133,32405,530,classic
-19,false,false,eab74a15-a9dd-4813-a6a9-c445782f6920,true,38.855004,531,-76.984512,Stanton Square SE,42,31822,531,classic
+9,false,false,eab74a15-a9dd-4813-a6a9-c445782f6920,true,38.855004,531,-76.984512,Stanton Square SE,42,31822,531,classic
 19,false,false,e9030e46-31bf-4def-befb-2e685ad48180,true,38.931991,532,-77.032956,14th & Newton St NW,42,31649,532,classic
 19,false,false,e07eed7c-2d2a-4f13-aff7-2be6500958f7,true,38.9170363119413,533,-77.0957824587822,48th Pl & MacArthur Blvd NW,42,31322,533,classic
 19,false,false,eda09ed8-ca5e-4187-938c-3260cabdf82d,true,38.969489,534,-77.033509,14th & Luzon St NW,42,31416,534,classic
@@ -646,7 +645,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 12,false,false,f75a76bb-34fc-4ee3-81d9-f23d9867017d,true,38.933923,691,-77.331653,Ridge Heights and Owl Cove Ln,104,32252,691,classic
 12,false,false,85c2fb24-d241-4550-8968-2cdf85462af7,true,38.93051,692,-77.345874,Soapstone Dr Convenience Center,104,32253,692,classic
 11,false,false,8d485a67-09d5-4550-8438-f1fa2f463bc2,true,38.863556,693,-77.077201,Columbia Pike & S Scott St/12th St S,41,31949,693,classic
-0,false,false,8a10969e-9861-4926-bda6-f0b58a0c253d,true,38.853124,694,-77.005174,St. Elizabeths West Campus/DHS ,42,31827,694,classic
+19,false,false,8a10969e-9861-4926-bda6-f0b58a0c253d,true,38.853124,694,-77.005174,St. Elizabeths West Campus/DHS ,42,31827,694,classic
 12,false,false,065defed-8e90-46b9-a106-28d590704cf8,true,38.87056104566178,695,-77.04409494996071,Long Bridge Aquatic Center,41,31950,695,classic
 12,false,false,1cc6ee60-b82f-4264-a490-6c3e5e656ccd,true,38.857049,696,-77.116339,8th Rd & S Frederick St,41,31951,696,classic
 19,false,false,0627dc3c-5c62-4ab1-a6f0-3635c6f80d23,true,38.92240364115446,697,-76.9960230588913,MBT & Bryant St NE,42,31531,697,classic

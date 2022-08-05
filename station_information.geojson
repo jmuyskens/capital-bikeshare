@@ -4474,21 +4474,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Rockville Metro East",
-                "station_id": "318",
-                "capacity": 13
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.145803,
-                    39.085394
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "1st & H St NW",
                 "station_id": "319",
                 "capacity": 15
@@ -7461,7 +7446,7 @@
             "properties": {
                 "name": "Stanton Square SE",
                 "station_id": "531",
-                "capacity": 19
+                "capacity": 9
             },
             "geometry": {
                 "type": "Point",
@@ -9711,7 +9696,7 @@
             "properties": {
                 "name": "St. Elizabeths West Campus/DHS ",
                 "station_id": "694",
-                "capacity": 0
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
