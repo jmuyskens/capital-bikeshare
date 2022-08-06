@@ -8736,7 +8736,7 @@
             "properties": {
                 "name": "White Oak Transit Center",
                 "station_id": "621",
-                "capacity": 19
+                "capacity": 9
             },
             "geometry": {
                 "type": "Point",
