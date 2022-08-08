@@ -8466,7 +8466,7 @@
             "properties": {
                 "name": "Kenilworth Terrace & Hayes St. NE",
                 "station_id": "603",
-                "capacity": 19
+                "capacity": 8
             },
             "geometry": {
                 "type": "Point",
@@ -8736,7 +8736,7 @@
             "properties": {
                 "name": "White Oak Transit Center",
                 "station_id": "621",
-                "capacity": 9
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
