@@ -5991,7 +5991,7 @@
             "properties": {
                 "name": "Tysons One Pl & Chain Bridge Rd",
                 "station_id": "427",
-                "capacity": 11
+                "capacity": 10
             },
             "geometry": {
                 "type": "Point",
@@ -7731,7 +7731,7 @@
             "properties": {
                 "name": "McLean Metro",
                 "station_id": "550",
-                "capacity": 19
+                "capacity": 17
             },
             "geometry": {
                 "type": "Point",
@@ -8421,7 +8421,7 @@
             "properties": {
                 "name": "Edgewood Rec Center",
                 "station_id": "599",
-                "capacity": 15
+                "capacity": 10
             },
             "geometry": {
                 "type": "Point",
@@ -8466,7 +8466,7 @@
             "properties": {
                 "name": "Kenilworth Terrace & Hayes St. NE",
                 "station_id": "603",
-                "capacity": 8
+                "capacity": 18
             },
             "geometry": {
                 "type": "Point",
