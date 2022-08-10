@@ -8379,7 +8379,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 10,
+        "capacity": 11,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -10815,7 +10815,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 17,
+        "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -11781,7 +11781,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 10,
+        "capacity": 15,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -11844,7 +11844,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 18,
+        "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -14280,7 +14280,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 8,
+        "capacity": 11,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -14321,7 +14321,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 18,
+        "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -14339,6 +14339,27 @@
         "rental_uris": {},
         "short_name": "31674",
         "station_id": "736",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 19,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "177f7198-8814-4068-b809-b6074346d2e9",
+        "has_kiosk": true,
+        "lat": 38.911213594521456,
+        "legacy_id": "737",
+        "lon": -77.0022565126419,
+        "name": "Tanner Park",
+        "region_id": "42",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31533",
+        "station_id": "737",
         "station_type": "classic"
     }
 ]

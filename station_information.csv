@@ -398,7 +398,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 23,false,false,082633ec-1f3f-11e7-bf6b-3863bb334450,true,38.870695,423,-76.982359,16th & Q St SE / Anacostia HS,42,31812,423,classic
 15,false,false,0826345e-1f3f-11e7-bf6b-3863bb334450,true,38.929261,424,-77.240654,Spring Hill Metro,104,32200,424,classic
 11,false,false,082634c6-1f3f-11e7-bf6b-3863bb334450,true,38.92403,425,-77.235955,Westpark Dr & Leesburg Pike,104,32201,425,classic
-10,false,false,0826359a-1f3f-11e7-bf6b-3863bb334450,true,38.919475,427,-77.221179,Tysons One Pl & Chain Bridge Rd,104,32203,427,classic
+11,false,false,0826359a-1f3f-11e7-bf6b-3863bb334450,true,38.919475,427,-77.221179,Tysons One Pl & Chain Bridge Rd,104,32203,427,classic
 11,false,false,08263601-1f3f-11e7-bf6b-3863bb334450,true,38.920939,428,-77.222115,Tysons Corner Station,104,32204,428,classic
 11,false,false,0826366d-1f3f-11e7-bf6b-3863bb334450,true,38.924437,429,-77.217664,Westpark & Jones Branch Dr,104,32205,429,classic
 13,false,false,082636d5-1f3f-11e7-bf6b-3863bb334450,true,38.931911,430,-77.219261,Jones Branch & Westbranch Dr,104,32206,430,classic
@@ -514,7 +514,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,06a14329-dedb-4152-b237-e59afccd8d42,true,38.901935,547,-76.978627,Maryland Ave & 17th St NE,42,31656,547,classic
 19,false,false,880978b9-5084-4576-a206-8d94cdbf4427,true,38.892934,548,-76.998273,Massachusetts Ave & 6th St NE,42,31657,548,classic
 23,false,false,efe6a4e1-5900-46d6-9755-db074f87c5c2,true,38.923389,549,-77.051833,Woodley Park Metro / Calvert St & Connecticut Ave NW,42,31323,549,classic
-17,false,false,6ffb5d30-d3f4-462b-8182-c552bebc9310,true,38.92400207520182,550,-77.20812678337097,McLean Metro,104,32230,550,classic
+19,false,false,6ffb5d30-d3f4-462b-8182-c552bebc9310,true,38.92400207520182,550,-77.20812678337097,McLean Metro,104,32230,550,classic
 19,false,false,d0a82ee8-e718-4598-aa5e-dda9292c248c,true,38.906299,551,-76.983221,Trinidad Rec Center,42,31525,551,classic
 19,false,false,92dd5072-b877-45d6-ba24-c5acbe66733b,true,38.897808,552,-76.979634,Rosedale Rec Center,42,31658,552,classic
 19,false,false,3f1dfbbd-7b34-4efd-91a3-60acad4cf42f,true,38.885908,553,-76.991476,11th & C St SE,42,31659,553,classic
@@ -560,10 +560,10 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 17,false,false,d8f65b11-57ec-4a9f-9b52-f5696e129f02,true,38.962119,596,-76.935578,Riverdale Park Town Center,133,32421,596,classic
 17,false,false,d34d2639-ee43-4892-818f-f01116813744,true,38.968842,597,-76.954171,The Mall at Prince Georges,133,32422,597,classic
 11,false,false,2f12b7e0-a0f1-49ed-92d8-784133ea9168,true,39.0473228,598,-77.0510969,Wheaton Library & Community Rec Center,44,32084,598,classic
-10,false,false,ed8f70f3-15e3-448c-86c5-d27d87402ad3,true,38.924144,599,-77.002098,Edgewood Rec Center,42,31529,599,classic
+15,false,false,ed8f70f3-15e3-448c-86c5-d27d87402ad3,true,38.924144,599,-77.002098,Edgewood Rec Center,42,31529,599,classic
 15,false,false,3d88e01e-e071-4638-829c-543410cded50,true,38.90273216425078,601,-76.99514991079923,8th & K St NE,42,31660,601,classic
 19,false,false,bed9b757-0df2-4a97-a6ac-415db00e82c8,true,38.89595455700754,602,-76.9678448436025,Kingman Island/The Fields at RFK,42,31716,602,classic
-18,false,false,07a453e5-2e14-4276-85df-49e0d6144e54,true,38.90046848783359,603,-76.9472873210907,Kenilworth Terrace & Hayes St. NE,42,31717,603,classic
+19,false,false,07a453e5-2e14-4276-85df-49e0d6144e54,true,38.90046848783359,603,-76.9472873210907,Kenilworth Terrace & Hayes St. NE,42,31717,603,classic
 15,false,false,55d3b43f-4ad3-4d65-889a-560ebe6126bf,true,38.7859,604,-77.0167,National Harbor Carousel,133,32423,604,classic
 19,false,false,0cabc1c7-cf6f-4afd-9242-c011b77f6330,true,38.83664578175751,605,-76.99358886515256,Valley Ave & Wheeler Rd SE,42,31824,605,classic
 19,false,false,db81ad06-aad3-4e23-b2b9-05b39b41f8fc,true,38.876227445751475,606,-76.94098126958124,Ridge Rd Community Center,42,31718,606,classic
@@ -679,6 +679,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,71686e8c-9f47-4a65-8840-c7276be3786e,true,38.863508,730,-77.084259,Penrose Sq/Columbia Pike & S Barton St,41,31971,730,classic
 15,false,false,7af26d39-a3b4-4fb3-b5b2-3acd415b9bea,true,38.84404,731,-77.098093,S Wakefield St & 28th Rd S,41,31972,731,classic
 15,false,false,174fc644-1a5a-4923-a8b5-373e0ad04525,true,38.874248,732,-77.104784,N Pershing Dr & Quebec St,41,31973,732,classic
-8,false,false,8dfb34e2-7f75-4359-a374-5bf5e86c4793,true,38.882425,734,-77.112754,Fairfax Dr & N Taylor St,41,31974,734,classic
+11,false,false,8dfb34e2-7f75-4359-a374-5bf5e86c4793,true,38.882425,734,-77.112754,Fairfax Dr & N Taylor St,41,31974,734,classic
 19,false,false,94b1507c-7f76-483c-b06a-a4131e0b5970,true,38.874820772513424,735,-77.0207878947258,Waterfront Park,,31673,735,classic
-18,false,false,a41e5bd2-b599-4c47-a36f-31ffa2e2dd0b,true,38.87674677186661,736,-77.02094480395317,Maine Ave & Water St SW,42,31674,736,classic
+19,false,false,a41e5bd2-b599-4c47-a36f-31ffa2e2dd0b,true,38.87674677186661,736,-77.02094480395317,Maine Ave & Water St SW,42,31674,736,classic
+19,false,false,177f7198-8814-4068-b809-b6074346d2e9,true,38.911213594521456,737,-77.0022565126419,Tanner Park,42,31533,737,classic

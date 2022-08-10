@@ -5991,7 +5991,7 @@
             "properties": {
                 "name": "Tysons One Pl & Chain Bridge Rd",
                 "station_id": "427",
-                "capacity": 10
+                "capacity": 11
             },
             "geometry": {
                 "type": "Point",
@@ -7731,7 +7731,7 @@
             "properties": {
                 "name": "McLean Metro",
                 "station_id": "550",
-                "capacity": 17
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -8421,7 +8421,7 @@
             "properties": {
                 "name": "Edgewood Rec Center",
                 "station_id": "599",
-                "capacity": 10
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
@@ -8466,7 +8466,7 @@
             "properties": {
                 "name": "Kenilworth Terrace & Hayes St. NE",
                 "station_id": "603",
-                "capacity": 18
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -10206,7 +10206,7 @@
             "properties": {
                 "name": "Fairfax Dr & N Taylor St",
                 "station_id": "734",
-                "capacity": 8
+                "capacity": 11
             },
             "geometry": {
                 "type": "Point",
@@ -10236,13 +10236,28 @@
             "properties": {
                 "name": "Maine Ave & Water St SW",
                 "station_id": "736",
-                "capacity": 18
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     -77.02094480395317,
                     38.87674677186661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tanner Park",
+                "station_id": "737",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0022565126419,
+                    38.911213594521456
                 ]
             }
         }
