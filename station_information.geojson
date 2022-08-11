@@ -2376,7 +2376,7 @@
             "properties": {
                 "name": "Smithsonian-National Mall / Jefferson Dr & 12th St SW",
                 "station_id": "169",
-                "capacity": 35
+                "capacity": 23
             },
             "geometry": {
                 "type": "Point",
@@ -10258,6 +10258,21 @@
                 "coordinates": [
                     -77.0022565126419,
                     38.911213594521456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wisconsin Ave & Rodman St NW",
+                "station_id": "738",
+                "capacity": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.07527697086334,
+                    38.939674172021654
                 ]
             }
         }

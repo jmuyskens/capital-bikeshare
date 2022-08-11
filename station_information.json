@@ -3318,7 +3318,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 35,
+        "capacity": 23,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -14360,6 +14360,27 @@
         "rental_uris": {},
         "short_name": "31533",
         "station_id": "737",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 23,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "c7402dc0-b498-47b0-8977-2b9d671a62bb",
+        "has_kiosk": true,
+        "lat": 38.939674172021654,
+        "legacy_id": "738",
+        "lon": -77.07527697086334,
+        "name": "Wisconsin Ave & Rodman St NW",
+        "region_id": "42",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31333",
+        "station_id": "738",
         "station_type": "classic"
     }
 ]
