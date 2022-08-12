@@ -157,7 +157,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 12,false,false,0825213e-1f3f-11e7-bf6b-3863bb334450,true,38.88397,166,-77.10783,Central Library / Quincy St & 10th St N,41,31025,166,classic
 15,false,false,082521d3-1f3f-11e7-bf6b-3863bb334450,true,38.884734,167,-77.093485,Washington Blvd & 10th St N,41,31026,167,classic
 23,false,false,08252260-1f3f-11e7-bf6b-3863bb334450,true,38.8885525,168,-77.032427,Jefferson Dr & 14th St SW,42,31247,168,classic
-23,false,false,082522f0-1f3f-11e7-bf6b-3863bb334450,true,38.888774,169,-77.028694,Smithsonian-National Mall / Jefferson Dr & 12th St SW,42,31248,169,classic
+35,false,false,082522f0-1f3f-11e7-bf6b-3863bb334450,true,38.888774,169,-77.028694,Smithsonian-National Mall / Jefferson Dr & 12th St SW,42,31248,169,classic
 15,false,false,08252387-1f3f-11e7-bf6b-3863bb334450,true,38.87887,170,-77.1207,George Mason Dr & Wilson Blvd,41,31036,170,classic
 19,false,false,08252414-1f3f-11e7-bf6b-3863bb334450,true,38.894573,171,-77.01994,6th St & Indiana Ave NW,42,31264,171,classic
 11,false,false,082524a2-1f3f-11e7-bf6b-3863bb334450,true,38.893237,172,-77.086063,N Veitch St & Key Blvd,41,31028,172,classic
@@ -551,7 +551,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,4f9000ec-e47e-494e-9b49-61e95b5a6f03,true,38.914173639930105,587,-77.02159523963928,7th & S St NW,42,31130,587,classic
 15,false,false,2a76806e-32b4-4ec6-a851-f73ba7dafda1,true,38.912524,588,-77.008798,North Capitol & R St NE,42,31527,588,classic
 19,false,false,72e7c396-11ad-4e88-bf4b-e60584f748fc,true,38.942146,589,-77.038684,17th & Upshur St NW,42,31420,589,classic
-19,false,false,4ae62d55-b4b3-47d7-ada9-79185e2be3b9,true,38.942024743273045,590,-77.01822102069855,Grant Circle,42,31421,590,classic
+12,false,false,4ae62d55-b4b3-47d7-ada9-79185e2be3b9,true,38.942024743273045,590,-77.01822102069855,Grant Circle,42,31421,590,classic
 27,false,false,2a43f4e2-4102-482e-8879-245cf7555c6b,true,38.934405,591,-77.032687,14th & Otis Pl NW,42,31131,591,classic
 19,false,false,8bbafd08-edb1-426d-94f4-c7b7d9be34dd,true,38.938889,592,-76.997226,John McCormack Rd NE,42,31528,592,classic
 17,false,false,cdaa435b-2b99-442a-a274-d6682067ad88,true,38.955349,593,-76.968084,West Hyattsville Metro,133,32418,593,classic
