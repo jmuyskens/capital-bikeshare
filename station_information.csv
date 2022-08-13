@@ -164,7 +164,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,08252530-1f3f-11e7-bf6b-3863bb334450,true,38.89593,173,-77.089006,Langston Blvd & N Adams St,41,31030,173,classic
 15,false,false,082525bb-1f3f-11e7-bf6b-3863bb334450,true,38.89054,174,-77.08095,15th St & N Scott St,41,31031,174,classic
 12,false,false,08252645-1f3f-11e7-bf6b-3863bb334450,true,38.88081,175,-77.090792,Washington Blvd & 7th St N,41,31032,175,classic
-23,false,false,082526d1-1f3f-11e7-bf6b-3863bb334450,true,38.881044,176,-77.111768,Ballston Metro / Stuart St & 9th St N,41,31037,176,classic
+22,false,false,082526d1-1f3f-11e7-bf6b-3863bb334450,true,38.881044,176,-77.111768,Ballston Metro / Stuart St & 9th St N,41,31037,176,classic
 15,false,false,0825275b-1f3f-11e7-bf6b-3863bb334450,true,38.882629,177,-77.109366,Fairfax Dr & N Randolph St,41,31034,177,classic
 23,false,false,082527e7-1f3f-11e7-bf6b-3863bb334450,true,38.879819,178,-77.037413,Jefferson Memorial,42,31249,178,classic
 15,false,false,08252874-1f3f-11e7-bf6b-3863bb334450,true,38.866611,179,-76.985238,Good Hope Rd & 14th St SE,42,31803,179,classic
@@ -684,3 +684,4 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,a41e5bd2-b599-4c47-a36f-31ffa2e2dd0b,true,38.87674677186661,736,-77.02094480395317,Maine Ave & Water St SW,42,31674,736,classic
 19,false,false,177f7198-8814-4068-b809-b6074346d2e9,true,38.911213594521456,737,-77.0022565126419,Tanner Park,42,31533,737,classic
 23,false,false,c7402dc0-b498-47b0-8977-2b9d671a62bb,true,38.939674172021654,738,-77.07527697086334,Wisconsin Ave & Rodman St NW,42,31333,738,classic
+19,false,false,7995da4d-4d99-4797-bb9f-37a51a28cc09,true,38.90244372501735,739,-77.00824588537216,North Capitol & K St NE,42,31675,739,classic

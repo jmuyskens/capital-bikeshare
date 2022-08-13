@@ -1724,7 +1724,11 @@
     {
         "capacity": 23,
         "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
+        "eightd_station_services": [
+            {
+                "name": "Valet Service"
+            }
+        ],
         "electric_bike_surcharge_waiver": false,
         "external_id": "0824a623-1f3f-11e7-bf6b-3863bb334450",
         "has_kiosk": true,
@@ -3465,7 +3469,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 23,
+        "capacity": 22,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -14381,6 +14385,27 @@
         "rental_uris": {},
         "short_name": "31333",
         "station_id": "738",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 19,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "7995da4d-4d99-4797-bb9f-37a51a28cc09",
+        "has_kiosk": true,
+        "lat": 38.90244372501735,
+        "legacy_id": "739",
+        "lon": -77.00824588537216,
+        "name": "North Capitol & K St NE",
+        "region_id": "42",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31675",
+        "station_id": "739",
         "station_type": "classic"
     }
 ]

@@ -2481,7 +2481,7 @@
             "properties": {
                 "name": "Ballston Metro / Stuart St & 9th St N",
                 "station_id": "176",
-                "capacity": 23
+                "capacity": 22
             },
             "geometry": {
                 "type": "Point",
@@ -10273,6 +10273,21 @@
                 "coordinates": [
                     -77.07527697086334,
                     38.939674172021654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "North Capitol & K St NE",
+                "station_id": "739",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.00824588537216,
+                    38.90244372501735
                 ]
             }
         }
