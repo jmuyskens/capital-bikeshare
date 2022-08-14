@@ -1671,7 +1671,7 @@
             "properties": {
                 "name": "14th & G St NW",
                 "station_id": "117",
-                "capacity": 23
+                "capacity": 22
             },
             "geometry": {
                 "type": "Point",
@@ -2481,7 +2481,7 @@
             "properties": {
                 "name": "Ballston Metro / Stuart St & 9th St N",
                 "station_id": "176",
-                "capacity": 22
+                "capacity": 23
             },
             "geometry": {
                 "type": "Point",
@@ -7446,7 +7446,7 @@
             "properties": {
                 "name": "Stanton Square SE",
                 "station_id": "531",
-                "capacity": 9
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -8286,7 +8286,7 @@
             "properties": {
                 "name": "Grant Circle",
                 "station_id": "590",
-                "capacity": 12
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
