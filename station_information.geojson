@@ -10290,6 +10290,21 @@
                     38.90244372501735
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "7th & Monroe St NE",
+                "station_id": "740",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.9961330294609,
+                    38.932242581555066
+                ]
+            }
         }
     ]
 }

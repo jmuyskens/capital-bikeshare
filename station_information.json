@@ -14403,5 +14403,26 @@
         "short_name": "31675",
         "station_id": "739",
         "station_type": "classic"
+    },
+    {
+        "capacity": 15,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "066fd95e-0d37-4eea-a027-88c04277bb9d",
+        "has_kiosk": true,
+        "lat": 38.932242581555066,
+        "legacy_id": "740",
+        "lon": -76.9961330294609,
+        "name": "7th & Monroe St NE",
+        "region_id": "42",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31534",
+        "station_id": "740",
+        "station_type": "classic"
     }
 ]
