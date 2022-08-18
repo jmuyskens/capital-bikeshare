@@ -1641,7 +1641,7 @@
             "properties": {
                 "name": "11th & M St NW",
                 "station_id": "115",
-                "capacity": 19
+                "capacity": 23
             },
             "geometry": {
                 "type": "Point",
@@ -7776,7 +7776,7 @@
             "properties": {
                 "name": "11th & C St SE",
                 "station_id": "553",
-                "capacity": 19
+                "capacity": 17
             },
             "geometry": {
                 "type": "Point",
