@@ -3889,7 +3889,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "10th & Florida Ave NW",
+                "name": "10th St & Florida Ave NW",
                 "station_id": "274",
                 "capacity": 19
             },
@@ -7776,7 +7776,7 @@
             "properties": {
                 "name": "11th & C St SE",
                 "station_id": "553",
-                "capacity": 17
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -10206,7 +10206,7 @@
             "properties": {
                 "name": "Fairfax Dr & N Taylor St",
                 "station_id": "734",
-                "capacity": 11
+                "capacity": 8
             },
             "geometry": {
                 "type": "Point",
@@ -10236,7 +10236,7 @@
             "properties": {
                 "name": "Maine Ave & Water St SW",
                 "station_id": "736",
-                "capacity": 19
+                "capacity": 18
             },
             "geometry": {
                 "type": "Point",
@@ -10303,6 +10303,21 @@
                 "coordinates": [
                     -76.9961330294609,
                     38.932242581555066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "10th St & Rhode Island Ave NE",
+                "station_id": "741",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.99267029762268,
+                    38.92248919793601
                 ]
             }
         }

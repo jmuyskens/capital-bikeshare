@@ -5448,7 +5448,7 @@
         "lat": 38.920387,
         "legacy_id": "274",
         "lon": -77.025672,
-        "name": "10th & Florida Ave NW",
+        "name": "10th St & Florida Ave NW",
         "region_id": "42",
         "rental_methods": [
             "CREDITCARD",
@@ -10878,7 +10878,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 17,
+        "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -14280,7 +14280,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 11,
+        "capacity": 8,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -14321,7 +14321,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 19,
+        "capacity": 18,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -14423,6 +14423,27 @@
         "rental_uris": {},
         "short_name": "31534",
         "station_id": "740",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 19,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "a62f9324-6f6e-4bdb-9206-3ca05517e607",
+        "has_kiosk": true,
+        "lat": 38.92248919793601,
+        "legacy_id": "741",
+        "lon": -76.99267029762268,
+        "name": "10th St & Rhode Island Ave NE",
+        "region_id": "42",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31535",
+        "station_id": "741",
         "station_type": "classic"
     }
 ]

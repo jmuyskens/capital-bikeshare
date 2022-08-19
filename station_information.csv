@@ -258,7 +258,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,08258b3f-1f3f-11e7-bf6b-3863bb334450,true,38.961763,271,-77.085998,Friendship Hts Metro / Wisconsin Ave & Wisconsin Cir,44,32014,271,classic
 15,false,false,08258d95-1f3f-11e7-bf6b-3863bb334450,true,38.921074,272,-77.031887,14th & Belmont St NW,42,31119,272,classic
 19,false,false,08258e2d-1f3f-11e7-bf6b-3863bb334450,true,38.87501,273,-77.0024,3rd & Tingey St SE,42,31634,273,classic
-19,false,false,08259009-1f3f-11e7-bf6b-3863bb334450,true,38.920387,274,-77.025672,10th & Florida Ave NW,42,31120,274,classic
+19,false,false,08259009-1f3f-11e7-bf6b-3863bb334450,true,38.920387,274,-77.025672,10th St & Florida Ave NW,42,31120,274,classic
 15,false,false,08259091-1f3f-11e7-bf6b-3863bb334450,true,38.876737,275,-76.994468,Potomac Ave & 8th St SE,42,31635,275,classic
 15,false,false,08259347-1f3f-11e7-bf6b-3863bb334450,true,39.099376,277,-77.188014,Fallsgrove Dr & W Montgomery Ave,43,32016,277,classic
 15,false,false,082595a1-1f3f-11e7-bf6b-3863bb334450,true,39.083673,278,-77.149162,Monroe St & Monroe Pl,43,32017,278,classic
@@ -517,7 +517,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,6ffb5d30-d3f4-462b-8182-c552bebc9310,true,38.92400207520182,550,-77.20812678337097,McLean Metro,104,32230,550,classic
 19,false,false,d0a82ee8-e718-4598-aa5e-dda9292c248c,true,38.906299,551,-76.983221,Trinidad Rec Center,42,31525,551,classic
 19,false,false,92dd5072-b877-45d6-ba24-c5acbe66733b,true,38.897808,552,-76.979634,Rosedale Rec Center,42,31658,552,classic
-17,false,false,3f1dfbbd-7b34-4efd-91a3-60acad4cf42f,true,38.885908,553,-76.991476,11th & C St SE,42,31659,553,classic
+19,false,false,3f1dfbbd-7b34-4efd-91a3-60acad4cf42f,true,38.885908,553,-76.991476,11th & C St SE,42,31659,553,classic
 19,false,false,89263cc9-13f6-4185-b315-5164c9bb930e,true,38.951596,554,-77.012808,New Hampshire & Gallatin St NW,42,31418,554,classic
 19,false,false,5f0f9566-90d4-431e-9b6d-994e26d20ec6,true,38.835737,555,-76.983144,United Medical Center,42,31823,555,classic
 19,false,false,101824b5-2dd0-464c-bc7e-30481e00e6d7,true,38.911268,556,-77.041829,18th & New Hampshire Ave NW,42,31324,556,classic
@@ -679,10 +679,11 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,71686e8c-9f47-4a65-8840-c7276be3786e,true,38.863508,730,-77.084259,Penrose Sq/Columbia Pike & S Barton St,41,31971,730,classic
 15,false,false,7af26d39-a3b4-4fb3-b5b2-3acd415b9bea,true,38.84404,731,-77.098093,S Wakefield St & 28th Rd S,41,31972,731,classic
 15,false,false,174fc644-1a5a-4923-a8b5-373e0ad04525,true,38.874248,732,-77.104784,N Pershing Dr & Quebec St,41,31973,732,classic
-11,false,false,8dfb34e2-7f75-4359-a374-5bf5e86c4793,true,38.882425,734,-77.112754,Fairfax Dr & N Taylor St,41,31974,734,classic
+8,false,false,8dfb34e2-7f75-4359-a374-5bf5e86c4793,true,38.882425,734,-77.112754,Fairfax Dr & N Taylor St,41,31974,734,classic
 19,false,false,94b1507c-7f76-483c-b06a-a4131e0b5970,true,38.874820772513424,735,-77.0207878947258,Waterfront Park,,31673,735,classic
-19,false,false,a41e5bd2-b599-4c47-a36f-31ffa2e2dd0b,true,38.87674677186661,736,-77.02094480395317,Maine Ave & Water St SW,42,31674,736,classic
+18,false,false,a41e5bd2-b599-4c47-a36f-31ffa2e2dd0b,true,38.87674677186661,736,-77.02094480395317,Maine Ave & Water St SW,42,31674,736,classic
 19,false,false,177f7198-8814-4068-b809-b6074346d2e9,true,38.911213594521456,737,-77.0022565126419,Tanner Park,42,31533,737,classic
 23,false,false,c7402dc0-b498-47b0-8977-2b9d671a62bb,true,38.939674172021654,738,-77.07527697086334,Wisconsin Ave & Rodman St NW,42,31333,738,classic
 19,false,false,7995da4d-4d99-4797-bb9f-37a51a28cc09,true,38.90244372501735,739,-77.00824588537216,North Capitol & K St NE,42,31675,739,classic
 15,false,false,066fd95e-0d37-4eea-a027-88c04277bb9d,true,38.932242581555066,740,-76.9961330294609,7th & Monroe St NE,42,31534,740,classic
+19,false,false,a62f9324-6f6e-4bdb-9206-3ca05517e607,true,38.92248919793601,741,-76.99267029762268,10th St & Rhode Island Ave NE,42,31535,741,classic
