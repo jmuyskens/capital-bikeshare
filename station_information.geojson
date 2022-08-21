@@ -1671,7 +1671,7 @@
             "properties": {
                 "name": "14th & G St NW",
                 "station_id": "117",
-                "capacity": 23
+                "capacity": 22
             },
             "geometry": {
                 "type": "Point",
@@ -8736,7 +8736,7 @@
             "properties": {
                 "name": "White Oak Transit Center",
                 "station_id": "621",
-                "capacity": 9
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -10206,7 +10206,7 @@
             "properties": {
                 "name": "Fairfax Dr & N Taylor St",
                 "station_id": "734",
-                "capacity": 8
+                "capacity": 11
             },
             "geometry": {
                 "type": "Point",
