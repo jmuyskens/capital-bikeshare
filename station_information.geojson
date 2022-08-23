@@ -1671,7 +1671,7 @@
             "properties": {
                 "name": "14th & G St NW",
                 "station_id": "117",
-                "capacity": 23
+                "capacity": 21
             },
             "geometry": {
                 "type": "Point",
@@ -10236,7 +10236,7 @@
             "properties": {
                 "name": "Maine Ave & Water St SW",
                 "station_id": "736",
-                "capacity": 18
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
