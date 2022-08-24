@@ -2331,7 +2331,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 21,
+        "capacity": 23,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -14444,6 +14444,27 @@
         "rental_uris": {},
         "short_name": "31535",
         "station_id": "741",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 19,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "5205f20c-ded8-4469-bafd-021bc7229295",
+        "has_kiosk": true,
+        "lat": 38.9223243445331,
+        "legacy_id": "742",
+        "lon": -77.02708572149277,
+        "name": "11th & Clifton St NW",
+        "region_id": "42",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31136",
+        "station_id": "742",
         "station_type": "classic"
     }
 ]

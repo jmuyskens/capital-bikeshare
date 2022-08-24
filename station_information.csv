@@ -110,7 +110,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 23,false,false,0824d140-1f3f-11e7-bf6b-3863bb334450,true,38.897446,114,-77.009888,North Capitol St & F St NW,42,31624,114,classic
 23,false,false,0824de05-1f3f-11e7-bf6b-3863bb334450,true,38.9055785,115,-77.027313,11th & M St NW,42,31266,115,classic
 15,false,false,0824e189-1f3f-11e7-bf6b-3863bb334450,true,38.922581,116,-77.070334,36th & Calvert St NW / Glover Park,42,31304,116,classic
-21,false,false,0824e24c-1f3f-11e7-bf6b-3863bb334450,true,38.89816396413188,117,-77.03189760446548,14th & G St NW,42,31238,117,classic
+23,false,false,0824e24c-1f3f-11e7-bf6b-3863bb334450,true,38.89816396413188,117,-77.03189760446548,14th & G St NW,42,31238,117,classic
 15,false,false,0824e2e3-1f3f-11e7-bf6b-3863bb334450,true,38.844015,118,-77.050537,Potomac Ave & 35th St S,41,31052,118,classic
 31,false,false,0824e68d-1f3f-11e7-bf6b-3863bb334450,true,38.88412,124,-77.04657,Ohio Dr & West Basin Dr SW / MLK & FDR Memorials,42,31240,124,classic
 15,false,false,0824e72a-1f3f-11e7-bf6b-3863bb334450,true,38.897857,125,-77.026975,11th & F St NW,42,31262,125,classic
@@ -687,3 +687,4 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,7995da4d-4d99-4797-bb9f-37a51a28cc09,true,38.90244372501735,739,-77.00824588537216,North Capitol & K St NE,42,31675,739,classic
 15,false,false,066fd95e-0d37-4eea-a027-88c04277bb9d,true,38.932242581555066,740,-76.9961330294609,7th & Monroe St NE,42,31534,740,classic
 19,false,false,a62f9324-6f6e-4bdb-9206-3ca05517e607,true,38.92248919793601,741,-76.99267029762268,10th St & Rhode Island Ave NE,42,31535,741,classic
+19,false,false,5205f20c-ded8-4469-bafd-021bc7229295,true,38.9223243445331,742,-77.02708572149277,11th & Clifton St NW,42,31136,742,classic

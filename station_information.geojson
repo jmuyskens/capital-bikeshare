@@ -1671,7 +1671,7 @@
             "properties": {
                 "name": "14th & G St NW",
                 "station_id": "117",
-                "capacity": 21
+                "capacity": 23
             },
             "geometry": {
                 "type": "Point",
@@ -10318,6 +10318,21 @@
                 "coordinates": [
                     -76.99267029762268,
                     38.92248919793601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "11th & Clifton St NW",
+                "station_id": "742",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.02708572149277,
+                    38.9223243445331
                 ]
             }
         }
