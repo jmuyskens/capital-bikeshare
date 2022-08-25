@@ -846,9 +846,9 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "0824844b-1f3f-11e7-bf6b-3863bb334450",
         "has_kiosk": true,
-        "lat": 38.9249,
+        "lat": 38.924784585266956,
         "legacy_id": "44",
-        "lon": -77.0222,
+        "lon": -77.02232748270035,
         "name": "Georgia Ave & Fairmont St NW",
         "region_id": "42",
         "rental_methods": [
@@ -909,9 +909,9 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "082485e8-1f3f-11e7-bf6b-3863bb334450",
         "has_kiosk": true,
-        "lat": 38.9156578945794,
+        "lat": 38.9156929,
         "legacy_id": "47",
-        "lon": -77.02221751213074,
+        "lon": -77.021703,
         "name": "7th & T St NW",
         "region_id": "42",
         "rental_methods": [
