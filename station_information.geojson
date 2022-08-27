@@ -7446,7 +7446,7 @@
             "properties": {
                 "name": "Stanton Square SE",
                 "station_id": "531",
-                "capacity": 19
+                "capacity": 17
             },
             "geometry": {
                 "type": "Point",
@@ -7551,7 +7551,7 @@
             "properties": {
                 "name": "11th & Park Rd NW",
                 "station_id": "538",
-                "capacity": 19
+                "capacity": 16
             },
             "geometry": {
                 "type": "Point",
