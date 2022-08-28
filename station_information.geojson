@@ -7551,7 +7551,7 @@
             "properties": {
                 "name": "11th & Park Rd NW",
                 "station_id": "538",
-                "capacity": 16
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
