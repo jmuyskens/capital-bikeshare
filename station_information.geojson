@@ -7731,7 +7731,7 @@
             "properties": {
                 "name": "McLean Metro",
                 "station_id": "550",
-                "capacity": 19
+                "capacity": 17
             },
             "geometry": {
                 "type": "Point",
