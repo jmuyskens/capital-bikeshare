@@ -72,7 +72,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,08249d44-1f3f-11e7-bf6b-3863bb334450,true,38.886266,75,-77.022241,L'Enfant Plaza / 7th & C St SW,42,31218,75,classic
 31,false,false,08249dad-1f3f-11e7-bf6b-3863bb334450,true,38.893028,76,-77.026013,10th St & Constitution Ave NW,42,31219,76,classic
 19,false,false,08249e19-1f3f-11e7-bf6b-3863bb334450,true,38.897293,77,-77.05557,Kennedy Center,42,31211,77,classic
-19,false,false,08249e81-1f3f-11e7-bf6b-3863bb334450,true,38.88409514578027,78,-76.99523448944092,Eastern Market Metro / Pennsylvania Ave & 8th St SE,42,31613,78,classic
+18,false,false,08249e81-1f3f-11e7-bf6b-3863bb334450,true,38.88409514578027,78,-76.99523448944092,Eastern Market Metro / Pennsylvania Ave & 8th St SE,42,31613,78,classic
 27,false,false,08249ef2-1f3f-11e7-bf6b-3863bb334450,true,38.90506687455313,79,-77.04177886247635,18th & M St NW,42,31221,79,classic
 15,false,false,08249f58-1f3f-11e7-bf6b-3863bb334450,true,38.947607,80,-77.079382,Tenleytown / Wisconsin Ave & Albemarle St NW,42,31303,80,classic
 27,false,false,08249fbc-1f3f-11e7-bf6b-3863bb334450,true,38.90042673988099,81,-76.98825001716614,13th & H St NE,42,31611,81,classic
@@ -495,7 +495,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,068e6359-1741-4240-9ed1-07a9038bc319,true,38.936213,525,-76.960054,Perry & 35th St,133,32404,525,classic
 23,false,false,21858490-7495-4942-b0eb-5e956db26b16,true,38.86968314861632,527,-77.01081544160843,Potomac Ave & Half St SW,42,31648,527,classic
 15,false,false,5945c731-a300-46e6-8e51-3236ad1f65f2,true,38.88994,530,-76.825535,Largo Rd & Campus Way / Prince Georges's Comm Col,133,32405,530,classic
-17,false,false,eab74a15-a9dd-4813-a6a9-c445782f6920,true,38.855004,531,-76.984512,Stanton Square SE,42,31822,531,classic
+18,false,false,eab74a15-a9dd-4813-a6a9-c445782f6920,true,38.855004,531,-76.984512,Stanton Square SE,42,31822,531,classic
 19,false,false,e9030e46-31bf-4def-befb-2e685ad48180,true,38.931991,532,-77.032956,14th & Newton St NW,42,31649,532,classic
 19,false,false,e07eed7c-2d2a-4f13-aff7-2be6500958f7,true,38.9170363119413,533,-77.0957824587822,48th Pl & MacArthur Blvd NW,42,31322,533,classic
 19,false,false,eda09ed8-ca5e-4187-938c-3260cabdf82d,true,38.969489,534,-77.033509,14th & Luzon St NW,42,31416,534,classic
@@ -514,7 +514,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,06a14329-dedb-4152-b237-e59afccd8d42,true,38.901935,547,-76.978627,Maryland Ave & 17th St NE,42,31656,547,classic
 19,false,false,880978b9-5084-4576-a206-8d94cdbf4427,true,38.892934,548,-76.998273,Massachusetts Ave & 6th St NE,42,31657,548,classic
 23,false,false,efe6a4e1-5900-46d6-9755-db074f87c5c2,true,38.923389,549,-77.051833,Woodley Park Metro / Calvert St & Connecticut Ave NW,42,31323,549,classic
-17,false,false,6ffb5d30-d3f4-462b-8182-c552bebc9310,true,38.92400207520182,550,-77.20812678337097,McLean Metro,104,32230,550,classic
+19,false,false,6ffb5d30-d3f4-462b-8182-c552bebc9310,true,38.92400207520182,550,-77.20812678337097,McLean Metro,104,32230,550,classic
 19,false,false,d0a82ee8-e718-4598-aa5e-dda9292c248c,true,38.906299,551,-76.983221,Trinidad Rec Center,42,31525,551,classic
 19,false,false,92dd5072-b877-45d6-ba24-c5acbe66733b,true,38.897808,552,-76.979634,Rosedale Rec Center,42,31658,552,classic
 19,false,false,3f1dfbbd-7b34-4efd-91a3-60acad4cf42f,true,38.885908,553,-76.991476,11th & C St SE,42,31659,553,classic
