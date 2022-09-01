@@ -10878,7 +10878,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 19,
+        "capacity": 18,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -14296,7 +14296,7 @@
             "KEY"
         ],
         "rental_uris": {},
-        "short_name": "31974",
+        "short_name": "31049",
         "station_id": "734",
         "station_type": "classic"
     },
