@@ -4316,8 +4316,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.05428,
-                    38.862753
+                    -77.05454081296921,
+                    38.86307336639078
                 ]
             }
         },
@@ -7776,7 +7776,7 @@
             "properties": {
                 "name": "11th & C St SE",
                 "station_id": "553",
-                "capacity": 18
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -10333,6 +10333,21 @@
                 "coordinates": [
                     -77.02708572149277,
                     38.9223243445331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1st & Q St SW",
+                "station_id": "743",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.01191514730453,
+                    38.870823939537914
                 ]
             }
         }

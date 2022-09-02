@@ -6033,9 +6033,9 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "0825bc56-1f3f-11e7-bf6b-3863bb334450",
         "has_kiosk": true,
-        "lat": 38.862753,
+        "lat": 38.86307336639078,
         "legacy_id": "307",
-        "lon": -77.05428,
+        "lon": -77.05454081296921,
         "name": "Eads St & 12th St S",
         "region_id": "41",
         "rental_methods": [
@@ -10878,7 +10878,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 18,
+        "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -14465,6 +14465,26 @@
         "rental_uris": {},
         "short_name": "31136",
         "station_id": "742",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 15,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "84a0159b-5f00-417a-8f06-6c7c8437049f",
+        "has_kiosk": true,
+        "lat": 38.870823939537914,
+        "legacy_id": "743",
+        "lon": -77.01191514730453,
+        "name": "1st & Q St SW",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31676",
+        "station_id": "743",
         "station_type": "classic"
     }
 ]
