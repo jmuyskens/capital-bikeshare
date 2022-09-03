@@ -1724,7 +1724,11 @@
     {
         "capacity": 23,
         "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
+        "eightd_station_services": [
+            {
+                "name": "Valet Service"
+            }
+        ],
         "electric_bike_surcharge_waiver": false,
         "external_id": "0824a623-1f3f-11e7-bf6b-3863bb334450",
         "has_kiosk": true,
@@ -2331,7 +2335,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 23,
+        "capacity": 20,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -10416,7 +10420,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 18,
+        "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -10488,7 +10492,7 @@
         "lat": 38.969489,
         "legacy_id": "534",
         "lon": -77.033509,
-        "name": "14th & Luzon St NW",
+        "name": "14th St & Luzon Ave NW",
         "region_id": "42",
         "rental_methods": [
             "CREDITCARD",
@@ -11592,7 +11596,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 19,
+        "capacity": 18,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -11853,7 +11857,7 @@
         "lat": 38.90046848783359,
         "legacy_id": "603",
         "lon": -76.9472873210907,
-        "name": "Kenilworth Terrace & Hayes St. NE",
+        "name": "Kenilworth Terr & Hayes St. NE",
         "region_id": "42",
         "rental_methods": [
             "CREDITCARD",
@@ -13008,7 +13012,7 @@
         "lat": 38.878771,
         "legacy_id": "665",
         "lon": -76.97093,
-        "name": "Anacostia Roller Skating Pavillion",
+        "name": "Anacostia Roller Skating Pavilion",
         "region_id": "42",
         "rental_methods": [
             "CREDITCARD",
@@ -13062,7 +13066,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 11,
+        "capacity": 10,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,

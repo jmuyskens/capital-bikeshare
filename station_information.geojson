@@ -1671,7 +1671,7 @@
             "properties": {
                 "name": "14th & G St NW",
                 "station_id": "117",
-                "capacity": 23
+                "capacity": 20
             },
             "geometry": {
                 "type": "Point",
@@ -7446,7 +7446,7 @@
             "properties": {
                 "name": "Stanton Square SE",
                 "station_id": "531",
-                "capacity": 18
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -7489,7 +7489,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "14th & Luzon St NW",
+                "name": "14th St & Luzon Ave NW",
                 "station_id": "534",
                 "capacity": 19
             },
@@ -8286,7 +8286,7 @@
             "properties": {
                 "name": "Grant Circle",
                 "station_id": "590",
-                "capacity": 19
+                "capacity": 18
             },
             "geometry": {
                 "type": "Point",
@@ -8464,7 +8464,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Kenilworth Terrace & Hayes St. NE",
+                "name": "Kenilworth Terr & Hayes St. NE",
                 "station_id": "603",
                 "capacity": 19
             },
@@ -9289,7 +9289,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Anacostia Roller Skating Pavillion",
+                "name": "Anacostia Roller Skating Pavilion",
                 "station_id": "665",
                 "capacity": 19
             },
@@ -9336,7 +9336,7 @@
             "properties": {
                 "name": "Kenmore Ave & Seminary Rd",
                 "station_id": "669",
-                "capacity": 11
+                "capacity": 10
             },
             "geometry": {
                 "type": "Point",
