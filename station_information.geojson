@@ -1101,7 +1101,7 @@
             "properties": {
                 "name": "Eastern Market Metro / Pennsylvania Ave & 8th St SE",
                 "station_id": "78",
-                "capacity": 18
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -1671,7 +1671,7 @@
             "properties": {
                 "name": "14th & G St NW",
                 "station_id": "117",
-                "capacity": 20
+                "capacity": 23
             },
             "geometry": {
                 "type": "Point",
@@ -8286,7 +8286,7 @@
             "properties": {
                 "name": "Grant Circle",
                 "station_id": "590",
-                "capacity": 18
+                "capacity": 12
             },
             "geometry": {
                 "type": "Point",
@@ -9336,7 +9336,7 @@
             "properties": {
                 "name": "Kenmore Ave & Seminary Rd",
                 "station_id": "669",
-                "capacity": 10
+                "capacity": 11
             },
             "geometry": {
                 "type": "Point",
