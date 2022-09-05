@@ -7776,7 +7776,7 @@
             "properties": {
                 "name": "11th & C St SE",
                 "station_id": "553",
-                "capacity": 19
+                "capacity": 14
             },
             "geometry": {
                 "type": "Point",
@@ -8286,7 +8286,7 @@
             "properties": {
                 "name": "Grant Circle",
                 "station_id": "590",
-                "capacity": 12
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
