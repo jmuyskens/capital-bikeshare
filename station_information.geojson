@@ -7776,7 +7776,7 @@
             "properties": {
                 "name": "11th & C St SE",
                 "station_id": "553",
-                "capacity": 14
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -10348,6 +10348,21 @@
                 "coordinates": [
                     -77.01191514730453,
                     38.870823939537914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "9th & Ingraham St NW",
+                "station_id": "744",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.02561318874359,
+                    38.95366314394005
                 ]
             }
         }

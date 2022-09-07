@@ -10878,7 +10878,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 14,
+        "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -14485,6 +14485,27 @@
         "rental_uris": {},
         "short_name": "31676",
         "station_id": "743",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 19,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "30b5e0c1-7ca6-4050-8566-3fccf0b60890",
+        "has_kiosk": true,
+        "lat": 38.95366314394005,
+        "legacy_id": "744",
+        "lon": -77.02561318874359,
+        "name": "9th & Ingraham St NW",
+        "region_id": "42",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31424",
+        "station_id": "744",
         "station_type": "classic"
     }
 ]
