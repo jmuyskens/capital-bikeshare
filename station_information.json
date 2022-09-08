@@ -14507,5 +14507,25 @@
         "short_name": "31424",
         "station_id": "744",
         "station_type": "classic"
+    },
+    {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "141766fa-fa3b-4c61-8e46-a8673c910a0c",
+        "has_kiosk": true,
+        "lat": 38.802893,
+        "legacy_id": "745",
+        "lon": -77.072558,
+        "name": "Mandeville Ln & Stovall St",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31974",
+        "station_id": "745",
+        "station_type": "classic"
     }
 ]

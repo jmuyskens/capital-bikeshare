@@ -10365,6 +10365,21 @@
                     38.95366314394005
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mandeville Ln & Stovall St",
+                "station_id": "745",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.072558,
+                    38.802893
+                ]
+            }
         }
     ]
 }
