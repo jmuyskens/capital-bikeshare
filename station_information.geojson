@@ -10380,6 +10380,21 @@
                     38.802893
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Park Pl & Rock Creek Church Rd NW",
+                "station_id": "746",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.01912492513657,
+                    38.93713516763736
+                ]
+            }
         }
     ]
 }

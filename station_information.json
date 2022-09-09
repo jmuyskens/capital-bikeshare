@@ -14527,5 +14527,26 @@
         "short_name": "31974",
         "station_id": "745",
         "station_type": "classic"
+    },
+    {
+        "capacity": 19,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "9b9156b3-51c3-44c8-af49-46e3f4dea30f",
+        "has_kiosk": true,
+        "lat": 38.93713516763736,
+        "legacy_id": "746",
+        "lon": -77.01912492513657,
+        "name": "Park Pl & Rock Creek Church Rd NW",
+        "region_id": "42",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31137",
+        "station_id": "746",
+        "station_type": "classic"
     }
 ]
