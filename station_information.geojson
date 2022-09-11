@@ -7131,7 +7131,7 @@
             "properties": {
                 "name": "Blueridge Ave & Elkin St",
                 "station_id": "507",
-                "capacity": 15
+                "capacity": 14
             },
             "geometry": {
                 "type": "Point",
