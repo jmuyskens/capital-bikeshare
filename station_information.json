@@ -1806,7 +1806,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 23,
+        "capacity": 1,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -10089,7 +10089,7 @@
         "lat": 39.04753,
         "legacy_id": "512",
         "lon": -77.11287,
-        "name": "White Flint Metro",
+        "name": "North Bethesda Metro",
         "region_id": "43",
         "rental_methods": [
             "CREDITCARD",
@@ -12327,7 +12327,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 17,
+        "capacity": 3,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -14547,6 +14547,26 @@
         "rental_uris": {},
         "short_name": "31137",
         "station_id": "746",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 19,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "5a3453ad-43af-495d-ba1f-e8be6b66e2e8",
+        "has_kiosk": true,
+        "lat": 38.890461,
+        "legacy_id": "748",
+        "lon": -76.96128,
+        "name": "Anacostia Ave & East Capitol St NE",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31721",
+        "station_id": "748",
         "station_type": "classic"
     }
 ]

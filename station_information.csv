@@ -85,7 +85,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,0824a68f-1f3f-11e7-bf6b-3863bb334450,true,38.878693599396954,88,-77.02305436134338,Maine Ave & 7th St SW,42,31609,88,classic
 23,false,false,0824a703-1f3f-11e7-bf6b-3863bb334450,true,38.89484064247075,89,-76.99591577053069,D St & Maryland Ave NE,42,31612,89,classic
 11,false,false,0824a988-1f3f-11e7-bf6b-3863bb334450,true,38.916442,90,-77.0682,34th St & Wisconsin Ave NW,42,31226,90,classic
-23,false,false,0824aa39-1f3f-11e7-bf6b-3863bb334450,true,38.900283,91,-77.029822,13th St & New York Ave NW,42,31227,91,classic
+1,false,false,0824aa39-1f3f-11e7-bf6b-3863bb334450,true,38.900283,91,-77.029822,13th St & New York Ave NW,42,31227,91,classic
 33,false,false,0824b9cc-1f3f-11e7-bf6b-3863bb334450,true,38.8997,92,-77.023086,8th & H St NW,42,31228,92,classic
 19,false,false,0824bb59-1f3f-11e7-bf6b-3863bb334450,true,38.932456900063606,93,-76.99353396892548,10th & Monroe St NE,42,31504,93,classic
 23,false,false,0824bc00-1f3f-11e7-bf6b-3863bb334450,true,38.910972,94,-77.00495,Eckington Pl & Q St NE,42,31505,94,classic
@@ -479,7 +479,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,7814989b-dc73-4a7e-bd23-f716b9abbbfe,true,38.89222,509,-76.99602,7th St & Massachusetts Ave NE,42,31647,509,classic
 19,false,false,5fdaa766-383e-4a92-b1bd-0e71138c6844,true,38.87335,510,-76.9834,Anacostia Park,42,31820,510,classic
 14,false,false,e581e0b6-51ea-416a-9ae7-6fe5219d7156,true,39.062041,511,-77.120776,Twinbrook Metro,43,32074,511,classic
-25,false,false,eda4c5ee-faf7-4dae-b135-3065deb46ffe,true,39.04753,512,-77.11287,White Flint Metro,43,32075,512,classic
+25,false,false,eda4c5ee-faf7-4dae-b135-3065deb46ffe,true,39.04753,512,-77.11287,North Bethesda Metro,43,32075,512,classic
 15,false,false,97506e92-1d23-4396-8ec8-e1901ccc22fa,true,39.049,513,-77.10933,Citadel Ave & McGrath Blvd,43,32076,513,classic
 15,false,false,68bb0313-ccdb-4930-98ba-96d77ec986ef,true,39.049765,514,-77.11368,Rockville Pike & Old Georgetown Rd,43,32077,514,classic
 16,false,false,f69c2ab2-8d2b-493a-9da4-3a76d0e34753,true,39.04317,515,-77.1135,Woodglen Dr & Executive Blvd,43,32078,515,classic
@@ -586,7 +586,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,54962348-19dd-47b8-a816-bce25eb658a1,true,38.8974996,623,-76.9695094,Oklahoma Ave & Benning Rd NE,42,31719,623,classic
 19,false,false,0541e06c-642c-4f31-9f24-19bfcbb8811d,true,38.8693365,624,-76.978519,Minnesota Ave & R St SE,42,31826,624,classic
 11,false,false,84223eb6-9964-4bd7-85f0-2b6a316c3ba1,true,38.949008,625,-77.355299,Vy Reston Heights,104,32236,625,classic
-17,false,false,b8b6903d-fabc-48aa-af9b-2c5fb29344b9,true,38.902386,626,-77.005649,1st & K St NE,42,31662,626,classic
+3,false,false,b8b6903d-fabc-48aa-af9b-2c5fb29344b9,true,38.902386,626,-77.005649,1st & K St NE,42,31662,626,classic
 12,false,false,8e3245e2-f310-4173-9c2d-9ad00587a23c,true,38.808161,628,-77.100796,Wheeler Ave & S. Floyd St.,40,31927,628,classic
 19,false,false,9f86df22-57d4-498a-ab35-2d3fb76e4723,true,38.84154815912996,629,-77.10773438215256,N. Beauregard St. & Berkley St.,40,31928,629,classic
 15,false,false,8d8a3add-40b4-41ba-bffe-5a754ebc1625,true,38.7930647,630,-77.049436,Mt Vernon Trail & S. Washington St.,40,31929,630,classic
@@ -692,3 +692,4 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,30b5e0c1-7ca6-4050-8566-3fccf0b60890,true,38.95366314394005,744,-77.02561318874359,9th & Ingraham St NW,42,31424,744,classic
 12,false,false,141766fa-fa3b-4c61-8e46-a8673c910a0c,true,38.802893,745,-77.072558,Mandeville Ln & Stovall St,,31974,745,classic
 19,false,false,9b9156b3-51c3-44c8-af49-46e3f4dea30f,true,38.93713516763736,746,-77.01912492513657,Park Pl & Rock Creek Church Rd NW,42,31137,746,classic
+19,false,false,5a3453ad-43af-495d-ba1f-e8be6b66e2e8,true,38.890461,748,-76.96128,Anacostia Ave & East Capitol St NE,,31721,748,classic

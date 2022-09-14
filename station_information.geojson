@@ -1296,7 +1296,7 @@
             "properties": {
                 "name": "13th St & New York Ave NW",
                 "station_id": "91",
-                "capacity": 23
+                "capacity": 1
             },
             "geometry": {
                 "type": "Point",
@@ -7204,7 +7204,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "White Flint Metro",
+                "name": "North Bethesda Metro",
                 "station_id": "512",
                 "capacity": 25
             },
@@ -8811,7 +8811,7 @@
             "properties": {
                 "name": "1st & K St NE",
                 "station_id": "626",
-                "capacity": 17
+                "capacity": 3
             },
             "geometry": {
                 "type": "Point",
@@ -10393,6 +10393,21 @@
                 "coordinates": [
                     -77.01912492513657,
                     38.93713516763736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Anacostia Ave & East Capitol St NE",
+                "station_id": "748",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.96128,
+                    38.890461
                 ]
             }
         }
