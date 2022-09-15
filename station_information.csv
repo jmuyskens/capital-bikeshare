@@ -85,7 +85,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,0824a68f-1f3f-11e7-bf6b-3863bb334450,true,38.878693599396954,88,-77.02305436134338,Maine Ave & 7th St SW,42,31609,88,classic
 23,false,false,0824a703-1f3f-11e7-bf6b-3863bb334450,true,38.89484064247075,89,-76.99591577053069,D St & Maryland Ave NE,42,31612,89,classic
 11,false,false,0824a988-1f3f-11e7-bf6b-3863bb334450,true,38.916442,90,-77.0682,34th St & Wisconsin Ave NW,42,31226,90,classic
-1,false,false,0824aa39-1f3f-11e7-bf6b-3863bb334450,true,38.900283,91,-77.029822,13th St & New York Ave NW,42,31227,91,classic
+23,false,false,0824aa39-1f3f-11e7-bf6b-3863bb334450,true,38.900283,91,-77.029822,13th St & New York Ave NW,42,31227,91,classic
 33,false,false,0824b9cc-1f3f-11e7-bf6b-3863bb334450,true,38.8997,92,-77.023086,8th & H St NW,42,31228,92,classic
 19,false,false,0824bb59-1f3f-11e7-bf6b-3863bb334450,true,38.932456900063606,93,-76.99353396892548,10th & Monroe St NE,42,31504,93,classic
 23,false,false,0824bc00-1f3f-11e7-bf6b-3863bb334450,true,38.910972,94,-77.00495,Eckington Pl & Q St NE,42,31505,94,classic
@@ -495,7 +495,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,068e6359-1741-4240-9ed1-07a9038bc319,true,38.936213,525,-76.960054,Perry & 35th St,133,32404,525,classic
 23,false,false,21858490-7495-4942-b0eb-5e956db26b16,true,38.86968314861632,527,-77.01081544160843,Potomac Ave & Half St SW,42,31648,527,classic
 15,false,false,5945c731-a300-46e6-8e51-3236ad1f65f2,true,38.88994,530,-76.825535,Largo Rd & Campus Way / Prince Georges's Comm Col,133,32405,530,classic
-19,false,false,eab74a15-a9dd-4813-a6a9-c445782f6920,true,38.855004,531,-76.984512,Stanton Square SE,42,31822,531,classic
+7,false,false,eab74a15-a9dd-4813-a6a9-c445782f6920,true,38.855004,531,-76.984512,Stanton Square SE,42,31822,531,classic
 19,false,false,e9030e46-31bf-4def-befb-2e685ad48180,true,38.931991,532,-77.032956,14th & Newton St NW,42,31649,532,classic
 19,false,false,e07eed7c-2d2a-4f13-aff7-2be6500958f7,true,38.9170363119413,533,-77.0957824587822,48th Pl & MacArthur Blvd NW,42,31322,533,classic
 19,false,false,eda09ed8-ca5e-4187-938c-3260cabdf82d,true,38.969489,534,-77.033509,14th St & Luzon Ave NW,42,31416,534,classic
@@ -586,7 +586,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,54962348-19dd-47b8-a816-bce25eb658a1,true,38.8974996,623,-76.9695094,Oklahoma Ave & Benning Rd NE,42,31719,623,classic
 19,false,false,0541e06c-642c-4f31-9f24-19bfcbb8811d,true,38.8693365,624,-76.978519,Minnesota Ave & R St SE,42,31826,624,classic
 11,false,false,84223eb6-9964-4bd7-85f0-2b6a316c3ba1,true,38.949008,625,-77.355299,Vy Reston Heights,104,32236,625,classic
-3,false,false,b8b6903d-fabc-48aa-af9b-2c5fb29344b9,true,38.902386,626,-77.005649,1st & K St NE,42,31662,626,classic
+17,false,false,b8b6903d-fabc-48aa-af9b-2c5fb29344b9,true,38.902386,626,-77.005649,1st & K St NE,42,31662,626,classic
 12,false,false,8e3245e2-f310-4173-9c2d-9ad00587a23c,true,38.808161,628,-77.100796,Wheeler Ave & S. Floyd St.,40,31927,628,classic
 19,false,false,9f86df22-57d4-498a-ab35-2d3fb76e4723,true,38.84154815912996,629,-77.10773438215256,N. Beauregard St. & Berkley St.,40,31928,629,classic
 15,false,false,8d8a3add-40b4-41ba-bffe-5a754ebc1625,true,38.7930647,630,-77.049436,Mt Vernon Trail & S. Washington St.,40,31929,630,classic
@@ -693,3 +693,4 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 12,false,false,141766fa-fa3b-4c61-8e46-a8673c910a0c,true,38.802893,745,-77.072558,Mandeville Ln & Stovall St,,31974,745,classic
 19,false,false,9b9156b3-51c3-44c8-af49-46e3f4dea30f,true,38.93713516763736,746,-77.01912492513657,Park Pl & Rock Creek Church Rd NW,42,31137,746,classic
 19,false,false,5a3453ad-43af-495d-ba1f-e8be6b66e2e8,true,38.890461,748,-76.96128,Anacostia Ave & East Capitol St NE,,31721,748,classic
+15,false,false,60b9672e-7668-431b-801b-affaccb680bb,true,38.92123296360907,749,-77.01813519001007,4th & College St NW,,31138,749,classic

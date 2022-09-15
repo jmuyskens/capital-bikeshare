@@ -1806,7 +1806,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 1,
+        "capacity": 23,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -10416,7 +10416,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 19,
+        "capacity": 7,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -12327,7 +12327,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 3,
+        "capacity": 17,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -14567,6 +14567,26 @@
         "rental_uris": {},
         "short_name": "31721",
         "station_id": "748",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 15,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "60b9672e-7668-431b-801b-affaccb680bb",
+        "has_kiosk": true,
+        "lat": 38.92123296360907,
+        "legacy_id": "749",
+        "lon": -77.01813519001007,
+        "name": "4th & College St NW",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31138",
+        "station_id": "749",
         "station_type": "classic"
     }
 ]

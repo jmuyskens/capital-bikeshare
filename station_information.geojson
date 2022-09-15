@@ -1296,7 +1296,7 @@
             "properties": {
                 "name": "13th St & New York Ave NW",
                 "station_id": "91",
-                "capacity": 1
+                "capacity": 23
             },
             "geometry": {
                 "type": "Point",
@@ -7446,7 +7446,7 @@
             "properties": {
                 "name": "Stanton Square SE",
                 "station_id": "531",
-                "capacity": 19
+                "capacity": 7
             },
             "geometry": {
                 "type": "Point",
@@ -8811,7 +8811,7 @@
             "properties": {
                 "name": "1st & K St NE",
                 "station_id": "626",
-                "capacity": 3
+                "capacity": 17
             },
             "geometry": {
                 "type": "Point",
@@ -10408,6 +10408,21 @@
                 "coordinates": [
                     -76.96128,
                     38.890461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "4th & College St NW",
+                "station_id": "749",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.01813519001007,
+                    38.92123296360907
                 ]
             }
         }
