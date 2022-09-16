@@ -7131,7 +7131,7 @@
             "properties": {
                 "name": "Blueridge Ave & Elkin St",
                 "station_id": "507",
-                "capacity": 14
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
@@ -7446,7 +7446,7 @@
             "properties": {
                 "name": "Stanton Square SE",
                 "station_id": "531",
-                "capacity": 7
+                "capacity": 16
             },
             "geometry": {
                 "type": "Point",
@@ -10393,6 +10393,21 @@
                 "coordinates": [
                     -77.01912492513657,
                     38.93713516763736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "New Jersey Ave & H St SE",
+                "station_id": "747",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.00574070215225,
+                    38.880760725950644
                 ]
             }
         },

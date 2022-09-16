@@ -9975,7 +9975,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 14,
+        "capacity": 15,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -10416,7 +10416,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 7,
+        "capacity": 16,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -14547,6 +14547,26 @@
         "rental_uris": {},
         "short_name": "31137",
         "station_id": "746",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 19,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "2574f980-163e-4b9b-8107-6145615815b3",
+        "has_kiosk": true,
+        "lat": 38.880760725950644,
+        "legacy_id": "747",
+        "lon": -77.00574070215225,
+        "name": "New Jersey Ave & H St SE",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31828",
+        "station_id": "747",
         "station_type": "classic"
     },
     {
