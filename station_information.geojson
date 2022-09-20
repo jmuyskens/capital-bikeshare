@@ -3066,7 +3066,7 @@
             "properties": {
                 "name": "14th St & Colorado Ave NW",
                 "station_id": "218",
-                "capacity": 18
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -7446,7 +7446,7 @@
             "properties": {
                 "name": "Stanton Square SE",
                 "station_id": "531",
-                "capacity": 16
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -7566,7 +7566,7 @@
             "properties": {
                 "name": "4th & M St SE",
                 "station_id": "539",
-                "capacity": 15
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
