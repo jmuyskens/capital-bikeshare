@@ -10500,7 +10500,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 19,
+        "capacity": 14,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -14607,6 +14607,27 @@
         "rental_uris": {},
         "short_name": "31138",
         "station_id": "749",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 19,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "79ae0ec5-9bbd-41ee-a9e9-7753233b5e77",
+        "has_kiosk": true,
+        "lat": 38.907286773254675,
+        "legacy_id": "750",
+        "lon": -76.99916660785675,
+        "name": "5th & Morse St NE",
+        "region_id": "42",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31536",
+        "station_id": "750",
         "station_type": "classic"
     }
 ]

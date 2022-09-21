@@ -7506,7 +7506,7 @@
             "properties": {
                 "name": "1st & M St SE",
                 "station_id": "535",
-                "capacity": 19
+                "capacity": 14
             },
             "geometry": {
                 "type": "Point",
@@ -10438,6 +10438,21 @@
                 "coordinates": [
                     -77.01813519001007,
                     38.92123296360907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "5th & Morse St NE",
+                "station_id": "750",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.99916660785675,
+                    38.907286773254675
                 ]
             }
         }
