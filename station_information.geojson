@@ -1566,13 +1566,13 @@
             "properties": {
                 "name": "19th St & Constitution Ave NW",
                 "station_id": "109",
-                "capacity": 35
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.0436,
-                    38.8923
+                    -77.04307436943054,
+                    38.89221235271478
                 ]
             }
         },
@@ -5029,7 +5029,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Langston Blvd & N Kirkwood St",
+                "name": "Langston Blvd & N Kirkwood Rd",
                 "station_id": "356",
                 "capacity": 15
             },
@@ -7506,7 +7506,7 @@
             "properties": {
                 "name": "1st & M St SE",
                 "station_id": "535",
-                "capacity": 14
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -7776,7 +7776,7 @@
             "properties": {
                 "name": "11th & C St SE",
                 "station_id": "553",
-                "capacity": 19
+                "capacity": 11
             },
             "geometry": {
                 "type": "Point",

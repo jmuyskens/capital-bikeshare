@@ -2184,15 +2184,15 @@
         "station_type": "classic"
     },
     {
-        "capacity": 35,
+        "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
         "external_id": "0824cd3d-1f3f-11e7-bf6b-3863bb334450",
         "has_kiosk": true,
-        "lat": 38.8923,
+        "lat": 38.89221235271478,
         "legacy_id": "109",
-        "lon": -77.0436,
+        "lon": -77.04307436943054,
         "name": "19th St & Constitution Ave NW",
         "region_id": "42",
         "rental_methods": [
@@ -7044,7 +7044,7 @@
         "lat": 38.895377,
         "legacy_id": "356",
         "lon": -77.09713,
-        "name": "Langston Blvd & N Kirkwood St",
+        "name": "Langston Blvd & N Kirkwood Rd",
         "region_id": "41",
         "rental_methods": [
             "CREDITCARD",
@@ -10500,7 +10500,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 14,
+        "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -10878,7 +10878,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 19,
+        "capacity": 11,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
