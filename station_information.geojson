@@ -1566,7 +1566,7 @@
             "properties": {
                 "name": "19th St & Constitution Ave NW",
                 "station_id": "109",
-                "capacity": 19
+                "capacity": 35
             },
             "geometry": {
                 "type": "Point",
@@ -1971,7 +1971,7 @@
             "properties": {
                 "name": "4th & C St SW",
                 "station_id": "142",
-                "capacity": 39
+                "capacity": 38
             },
             "geometry": {
                 "type": "Point",
@@ -7551,7 +7551,7 @@
             "properties": {
                 "name": "11th & Park Rd NW",
                 "station_id": "538",
-                "capacity": 19
+                "capacity": 14
             },
             "geometry": {
                 "type": "Point",
@@ -7776,7 +7776,7 @@
             "properties": {
                 "name": "11th & C St SE",
                 "station_id": "553",
-                "capacity": 11
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",

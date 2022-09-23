@@ -103,7 +103,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 35,false,false,0824c80d-1f3f-11e7-bf6b-3863bb334450,true,38.902061,106,-77.038322,17th & K St NW / Farragut Square,42,31233,106,classic
 19,false,false,0824c8d2-1f3f-11e7-bf6b-3863bb334450,true,38.908905,107,-77.04478,20th & O St NW / Dupont South,42,31234,107,classic
 15,false,false,0824cb9b-1f3f-11e7-bf6b-3863bb334450,true,38.895344,108,-77.016106,4th & D St NW / Judiciary Square,42,31621,108,classic
-19,false,false,0824cd3d-1f3f-11e7-bf6b-3863bb334450,true,38.89221235271478,109,-77.04307436943054,19th St & Constitution Ave NW,42,31235,109,classic
+35,false,false,0824cd3d-1f3f-11e7-bf6b-3863bb334450,true,38.89221235271478,109,-77.04307436943054,19th St & Constitution Ave NW,42,31235,109,classic
 23,false,false,0824cdb0-1f3f-11e7-bf6b-3863bb334450,true,38.90774,110,-77.071652,37th & O St NW / Georgetown University,42,31236,110,classic
 15,false,false,0824cfe7-1f3f-11e7-bf6b-3863bb334450,true,38.903827,112,-77.053485,25th St & Pennsylvania Ave NW,42,31237,112,classic
 55,false,false,0824d0c6-1f3f-11e7-bf6b-3863bb334450,true,38.89696,113,-77.00493,Columbus Circle / Union Station,42,31623,113,classic
@@ -130,7 +130,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,0824fd71-1f3f-11e7-bf6b-3863bb334450,true,38.8881,139,-77.09308,Clarendon Blvd & N Fillmore St,41,31021,139,classic
 21,false,false,0824ff6e-1f3f-11e7-bf6b-3863bb334450,true,38.88701007722296,140,-77.09525674581528,Clarendon Metro / Wilson Blvd & N Highland St,41,31022,140,classic
 27,false,false,08250172-1f3f-11e7-bf6b-3863bb334450,true,38.89968,141,-77.041539,18th St & Pennsylvania Ave NW,42,31242,141,classic
-39,false,false,08250371-1f3f-11e7-bf6b-3863bb334450,true,38.88637194054526,142,-77.01770067214966,4th & C St SW,42,31243,142,classic
+38,false,false,08250371-1f3f-11e7-bf6b-3863bb334450,true,38.88637194054526,142,-77.01770067214966,4th & C St SW,42,31243,142,classic
 19,false,false,082513a4-1f3f-11e7-bf6b-3863bb334450,true,38.88412,143,-77.017445,4th & E St SW,42,31244,143,classic
 19,false,false,08251448-1f3f-11e7-bf6b-3863bb334450,true,38.881185,144,-77.001828,3rd & G St SE,42,31625,144,classic
 15,false,false,082514b8-1f3f-11e7-bf6b-3863bb334450,true,38.912719,145,-77.022155,7th & R St NW / Shaw Library,42,31245,145,classic
@@ -502,7 +502,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,5f71434d-dc5c-45ff-8219-708a3d9a0691,true,38.876893,535,-77.006072,1st & M St SE,42,31650,535,classic
 15,false,false,d4e8307d-5fb2-4ece-a66a-1522b1ebf79c,true,38.782633,536,-77.016059,Fleet St & Waterfront St,133,32406,536,classic
 15,false,false,ccd82461-11b7-4553-b70b-6cb7e5e4f8c2,true,38.798749,537,-77.00103,Oxon Hill Park & Ride,133,32407,537,classic
-19,false,false,1e19ca16-ec12-48b9-bbbe-fe878745bb23,true,38.93132185874559,538,-77.02824711799622,11th & Park Rd NW,42,31651,538,classic
+14,false,false,1e19ca16-ec12-48b9-bbbe-fe878745bb23,true,38.93132185874559,538,-77.02824711799622,11th & Park Rd NW,42,31651,538,classic
 19,false,false,9a93cdb5-bd4e-43b8-87f3-81dc9063999f,true,38.876751,539,-77.000736,4th & M St SE,42,31652,539,classic
 19,false,false,c645ddde-0156-47ab-9616-3121f541a6f0,true,38.94796174822241,540,-77.02154964208603,Kansas Ave & Sherman Cr NW,42,31417,540,classic
 11,false,false,3c6a1bf0-3aac-4406-990d-966cc8edca52,true,38.944707,541,-77.335425,Campus Commons,104,32228,541,classic
@@ -517,7 +517,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,6ffb5d30-d3f4-462b-8182-c552bebc9310,true,38.92400207520182,550,-77.20812678337097,McLean Metro,104,32230,550,classic
 19,false,false,d0a82ee8-e718-4598-aa5e-dda9292c248c,true,38.906299,551,-76.983221,Trinidad Rec Center,42,31525,551,classic
 19,false,false,92dd5072-b877-45d6-ba24-c5acbe66733b,true,38.897808,552,-76.979634,Rosedale Rec Center,42,31658,552,classic
-11,false,false,3f1dfbbd-7b34-4efd-91a3-60acad4cf42f,true,38.885908,553,-76.991476,11th & C St SE,42,31659,553,classic
+19,false,false,3f1dfbbd-7b34-4efd-91a3-60acad4cf42f,true,38.885908,553,-76.991476,11th & C St SE,42,31659,553,classic
 19,false,false,89263cc9-13f6-4185-b315-5164c9bb930e,true,38.951596,554,-77.012808,New Hampshire & Gallatin St NW,42,31418,554,classic
 19,false,false,5f0f9566-90d4-431e-9b6d-994e26d20ec6,true,38.835737,555,-76.983144,United Medical Center,42,31823,555,classic
 19,false,false,101824b5-2dd0-464c-bc7e-30481e00e6d7,true,38.911268,556,-77.041829,18th & New Hampshire Ave NW,42,31324,556,classic
