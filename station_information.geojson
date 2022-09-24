@@ -1971,7 +1971,7 @@
             "properties": {
                 "name": "4th & C St SW",
                 "station_id": "142",
-                "capacity": 38
+                "capacity": 39
             },
             "geometry": {
                 "type": "Point",
@@ -3066,7 +3066,7 @@
             "properties": {
                 "name": "14th St & Colorado Ave NW",
                 "station_id": "218",
-                "capacity": 19
+                "capacity": 18
             },
             "geometry": {
                 "type": "Point",
@@ -7551,7 +7551,7 @@
             "properties": {
                 "name": "11th & Park Rd NW",
                 "station_id": "538",
-                "capacity": 14
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -9351,7 +9351,7 @@
             "properties": {
                 "name": "Rosslyn Metro / Wilson Blvd & N Moore St",
                 "station_id": "670",
-                "capacity": 21
+                "capacity": 20
             },
             "geometry": {
                 "type": "Point",
