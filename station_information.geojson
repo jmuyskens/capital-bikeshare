@@ -2481,7 +2481,7 @@
             "properties": {
                 "name": "Ballston Metro / Stuart St & 9th St N",
                 "station_id": "176",
-                "capacity": 23
+                "capacity": 22
             },
             "geometry": {
                 "type": "Point",
@@ -9351,7 +9351,7 @@
             "properties": {
                 "name": "Rosslyn Metro / Wilson Blvd & N Moore St",
                 "station_id": "670",
-                "capacity": 20
+                "capacity": 21
             },
             "geometry": {
                 "type": "Point",
