@@ -45,7 +45,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,082485e8-1f3f-11e7-bf6b-3863bb334450,true,38.9156929,47,-77.021703,7th & T St NW,42,31109,47,classic
 15,false,false,0824866e-1f3f-11e7-bf6b-3863bb334450,true,38.85438051517749,48,-77.05341160297394,Eads St & 22nd St S,41,31013,48,classic
 17,false,false,082486f0-1f3f-11e7-bf6b-3863bb334450,true,38.8763,49,-77.0037,M St & New Jersey Ave SE,42,31208,49,classic
-44,false,false,0824920a-1f3f-11e7-bf6b-3863bb334450,true,38.9101,51,-77.0444,Massachusetts Ave & Dupont Circle NW,42,31200,51,classic
+45,false,false,0824920a-1f3f-11e7-bf6b-3863bb334450,true,38.9101,51,-77.0444,Massachusetts Ave & Dupont Circle NW,42,31200,51,classic
 15,false,false,0824927c-1f3f-11e7-bf6b-3863bb334450,true,38.905697,52,-77.005483,1st & M St NE,42,31603,52,classic
 19,false,false,082492e1-1f3f-11e7-bf6b-3863bb334450,true,38.90571079190728,53,-77.0473176240921,New Hampshire Ave & Ward Pl NW,42,31212,53,classic
 23,false,false,08249345-1f3f-11e7-bf6b-3863bb334450,true,38.90276,54,-77.03863,17th & K St NW,42,31213,54,classic
@@ -203,7 +203,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,082547de-1f3f-11e7-bf6b-3863bb334450,true,38.956555547721955,215,-77.0198142528534,5th & Kennedy St NW,42,31403,215,classic
 19,false,false,082548ce-1f3f-11e7-bf6b-3863bb334450,true,38.949662,216,-77.027333,Georgia Ave & Emerson St NW,42,31405,216,classic
 19,false,false,08254943-1f3f-11e7-bf6b-3863bb334450,true,38.942475355602845,217,-77.03267812728882,14th & Upshur St NW,42,31406,217,classic
-18,false,false,082549b0-1f3f-11e7-bf6b-3863bb334450,true,38.956432,218,-77.032947,14th St & Colorado Ave NW,42,31407,218,classic
+19,false,false,082549b0-1f3f-11e7-bf6b-3863bb334450,true,38.956432,218,-77.032947,14th St & Colorado Ave NW,42,31407,218,classic
 11,false,false,08254a1e-1f3f-11e7-bf6b-3863bb334450,true,38.847977,219,-77.075104,Troy St & 26th St S,41,31056,219,classic
 11,false,false,08254a91-1f3f-11e7-bf6b-3863bb334450,true,38.8444,220,-77.085931,Four Mile Run Dr & S Shirlington Rd,41,31057,220,classic
 11,false,false,08254c82-1f3f-11e7-bf6b-3863bb334450,true,38.860343910937175,221,-77.09367156028748,Columbia Pike & Monroe St,41,31058,221,classic
@@ -495,7 +495,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,068e6359-1741-4240-9ed1-07a9038bc319,true,38.936213,525,-76.960054,Perry & 35th St,133,32404,525,classic
 23,false,false,21858490-7495-4942-b0eb-5e956db26b16,true,38.86968314861632,527,-77.01081544160843,Potomac Ave & Half St SW,42,31648,527,classic
 15,false,false,5945c731-a300-46e6-8e51-3236ad1f65f2,true,38.88994,530,-76.825535,Largo Rd & Campus Way / Prince Georges's Comm Col,133,32405,530,classic
-19,false,false,eab74a15-a9dd-4813-a6a9-c445782f6920,true,38.855004,531,-76.984512,Stanton Square SE,42,31822,531,classic
+4,false,false,eab74a15-a9dd-4813-a6a9-c445782f6920,true,38.855004,531,-76.984512,Stanton Square SE,42,31822,531,classic
 19,false,false,e9030e46-31bf-4def-befb-2e685ad48180,true,38.931991,532,-77.032956,14th & Newton St NW,42,31649,532,classic
 19,false,false,e07eed7c-2d2a-4f13-aff7-2be6500958f7,true,38.9170363119413,533,-77.0957824587822,48th Pl & MacArthur Blvd NW,42,31322,533,classic
 19,false,false,eda09ed8-ca5e-4187-938c-3260cabdf82d,true,38.969489,534,-77.033509,14th St & Luzon Ave NW,42,31416,534,classic

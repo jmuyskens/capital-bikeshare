@@ -696,7 +696,7 @@
             "properties": {
                 "name": "Massachusetts Ave & Dupont Circle NW",
                 "station_id": "51",
-                "capacity": 44
+                "capacity": 45
             },
             "geometry": {
                 "type": "Point",
@@ -3066,7 +3066,7 @@
             "properties": {
                 "name": "14th St & Colorado Ave NW",
                 "station_id": "218",
-                "capacity": 18
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -7446,7 +7446,7 @@
             "properties": {
                 "name": "Stanton Square SE",
                 "station_id": "531",
-                "capacity": 19
+                "capacity": 4
             },
             "geometry": {
                 "type": "Point",
