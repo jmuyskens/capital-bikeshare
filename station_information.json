@@ -2568,10 +2568,10 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "0824f16b-1f3f-11e7-bf6b-3863bb334450",
         "has_kiosk": true,
-        "lat": 38.892459,
+        "lat": 38.89388766381858,
         "legacy_id": "133",
-        "lon": -77.046567,
-        "name": "21st St & Constitution Ave NW",
+        "lon": -77.04439267516136,
+        "name": "Virginia Ave & C St NW",
         "region_id": "42",
         "rental_methods": [
             "CREDITCARD",

@@ -1834,15 +1834,15 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "21st St & Constitution Ave NW",
+                "name": "Virginia Ave & C St NW",
                 "station_id": "133",
                 "capacity": 15
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.046567,
-                    38.892459
+                    -77.04439267516136,
+                    38.89388766381858
                 ]
             }
         },
