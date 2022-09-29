@@ -10416,7 +10416,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 4,
+        "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -14628,6 +14628,27 @@
         "rental_uris": {},
         "short_name": "31536",
         "station_id": "750",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 15,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "5f060548-684b-469b-8825-66c80d77a874",
+        "has_kiosk": true,
+        "lat": 38.88791377249907,
+        "legacy_id": "751",
+        "lon": -77.12801456451415,
+        "name": "Virginia Hospital Center",
+        "region_id": "41",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31976",
+        "station_id": "751",
         "station_type": "classic"
     }
 ]
