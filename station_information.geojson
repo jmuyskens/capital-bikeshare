@@ -7506,7 +7506,7 @@
             "properties": {
                 "name": "1st & M St SE",
                 "station_id": "535",
-                "capacity": 19
+                "capacity": 12
             },
             "geometry": {
                 "type": "Point",
@@ -9844,7 +9844,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "11th & V st NW",
+                "name": "11th & V St NW",
                 "station_id": "707",
                 "capacity": 19
             },

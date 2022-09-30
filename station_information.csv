@@ -499,7 +499,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,e9030e46-31bf-4def-befb-2e685ad48180,true,38.931991,532,-77.032956,14th & Newton St NW,42,31649,532,classic
 19,false,false,e07eed7c-2d2a-4f13-aff7-2be6500958f7,true,38.9170363119413,533,-77.0957824587822,48th Pl & MacArthur Blvd NW,42,31322,533,classic
 19,false,false,eda09ed8-ca5e-4187-938c-3260cabdf82d,true,38.969489,534,-77.033509,14th St & Luzon Ave NW,42,31416,534,classic
-19,false,false,5f71434d-dc5c-45ff-8219-708a3d9a0691,true,38.876893,535,-77.006072,1st & M St SE,42,31650,535,classic
+12,false,false,5f71434d-dc5c-45ff-8219-708a3d9a0691,true,38.876893,535,-77.006072,1st & M St SE,42,31650,535,classic
 15,false,false,d4e8307d-5fb2-4ece-a66a-1522b1ebf79c,true,38.782633,536,-77.016059,Fleet St & Waterfront St,133,32406,536,classic
 15,false,false,ccd82461-11b7-4553-b70b-6cb7e5e4f8c2,true,38.798749,537,-77.00103,Oxon Hill Park & Ride,133,32407,537,classic
 19,false,false,1e19ca16-ec12-48b9-bbbe-fe878745bb23,true,38.93132185874559,538,-77.02824711799622,11th & Park Rd NW,42,31651,538,classic
@@ -655,7 +655,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,3900eddf-b06d-4763-af70-1126603508d0,true,38.917716,704,-77.022684,8th & V St NW,42,31134,704,classic
 19,false,false,5e828067-2fd6-4168-b150-5409754e734c,true,38.909858,705,-77.038566,17th & P St NW,42,31330,705,classic
 19,false,false,1b1fd2f7-bcbd-43a2-bed1-ddf8e3cc4614,true,38.927294,706,-77.103662,Arizona Ave & MacArthur Blvd NW,42,31331,706,classic
-19,false,false,c361d993-ebd8-4110-b10e-6bd2055fbe05,true,38.918199,707,-77.027171,11th & V st NW,42,31332,707,classic
+19,false,false,c361d993-ebd8-4110-b10e-6bd2055fbe05,true,38.918199,707,-77.027171,11th & V St NW,42,31332,707,classic
 19,false,false,21cdfe0d-71ad-4302-a003-3cfc0d355af9,true,38.90731645057457,708,-77.00069814920425,4th & Florida Ave NE,42,31532,708,classic
 15,false,false,2260574d-dbc6-4416-9f8c-3e1fcc0d9f5b,true,38.804486,709,-77.132334,S Pickett St & Shillings St,40,31953,709,classic
 15,false,false,599f7a69-823e-419a-b70e-8f9666dd4bd1,true,38.811361,710,-77.109975,S Jordan St & Venable St,40,31954,710,classic

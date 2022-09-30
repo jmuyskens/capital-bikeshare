@@ -10500,7 +10500,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 19,
+        "capacity": 12,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -13785,7 +13785,7 @@
         "lat": 38.918199,
         "legacy_id": "707",
         "lon": -77.027171,
-        "name": "11th & V st NW",
+        "name": "11th & V St NW",
         "region_id": "42",
         "rental_methods": [
             "CREDITCARD",
