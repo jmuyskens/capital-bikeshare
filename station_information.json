@@ -8661,7 +8661,7 @@
         "lat": 38.946607921214984,
         "legacy_id": "440",
         "lon": -77.3393914103508,
-        "name": "Wiehle Ave & Reston Station Blvd",
+        "name": "Wiehle-Reston Metro South",
         "region_id": "104",
         "rental_methods": [
             "CREDITCARD",
@@ -10500,7 +10500,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 12,
+        "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,

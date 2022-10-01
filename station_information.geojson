@@ -6184,7 +6184,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Wiehle Ave & Reston Station Blvd",
+                "name": "Wiehle-Reston Metro South",
                 "station_id": "440",
                 "capacity": 19
             },
@@ -7506,7 +7506,7 @@
             "properties": {
                 "name": "1st & M St SE",
                 "station_id": "535",
-                "capacity": 12
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
