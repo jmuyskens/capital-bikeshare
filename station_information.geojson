@@ -4039,21 +4039,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Carroll & Westmoreland Ave",
-                "station_id": "286",
-                "capacity": 15
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.01121,
-                    38.975
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Carroll & Ethan Allen Ave",
                 "station_id": "287",
                 "capacity": 15

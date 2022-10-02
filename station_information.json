@@ -5653,27 +5653,6 @@
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
-        "external_id": "0825b10b-1f3f-11e7-bf6b-3863bb334450",
-        "has_kiosk": true,
-        "lat": 38.975,
-        "legacy_id": "286",
-        "lon": -77.01121,
-        "name": "Carroll & Westmoreland Ave",
-        "region_id": "44",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "32025",
-        "station_id": "286",
-        "station_type": "classic"
-    },
-    {
-        "capacity": 15,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
         "external_id": "0825b1a2-1f3f-11e7-bf6b-3863bb334450",
         "has_kiosk": true,
         "lat": 38.977933,
