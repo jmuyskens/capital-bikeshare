@@ -4039,6 +4039,21 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Carroll & Westmoreland Ave",
+                "station_id": "286",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.01121,
+                    38.975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Carroll & Ethan Allen Ave",
                 "station_id": "287",
                 "capacity": 15
@@ -7416,7 +7431,7 @@
             "properties": {
                 "name": "Largo Rd & Campus Way / Prince Georges's Comm Col",
                 "station_id": "530",
-                "capacity": 15
+                "capacity": 0
             },
             "geometry": {
                 "type": "Point",

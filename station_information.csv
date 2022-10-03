@@ -268,6 +268,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,08259e6f-1f3f-11e7-bf6b-3863bb334450,true,39.02538719623632,283,-77.04456299543381,Dennis Ave & Amherst Ave,44,32022,283,classic
 21,false,false,0825aa94-1f3f-11e7-bf6b-3863bb334450,true,39.095661,284,-77.159048,Montgomery College / W Campus Dr & Mannakee St,43,32023,284,classic
 11,false,false,0825ac97-1f3f-11e7-bf6b-3863bb334450,true,38.989724,285,-77.023854,Fenton St & Gist Ave,44,32024,285,classic
+15,false,false,0825b10b-1f3f-11e7-bf6b-3863bb334450,true,38.975,286,-77.01121,Carroll & Westmoreland Ave,44,32025,286,classic
 15,false,false,0825b1a2-1f3f-11e7-bf6b-3863bb334450,true,38.977933,287,-77.006472,Carroll & Ethan Allen Ave,44,32026,287,classic
 15,false,false,0825b213-1f3f-11e7-bf6b-3863bb334450,true,38.992375,288,-77.100104,Battery Ln & Trolley Trail,44,32027,288,classic
 11,false,false,0825b27e-1f3f-11e7-bf6b-3863bb334450,true,38.990639,289,-77.100239,Norfolk & Rugby Ave,44,32028,289,classic
@@ -493,7 +494,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,5efd5ecc-a734-4e7b-9142-a500a317df60,true,38.95548,524,-76.940133,Baltimore Ave & Jefferson St,133,32403,524,classic
 15,false,false,068e6359-1741-4240-9ed1-07a9038bc319,true,38.936213,525,-76.960054,Perry & 35th St,133,32404,525,classic
 23,false,false,21858490-7495-4942-b0eb-5e956db26b16,true,38.86968314861632,527,-77.01081544160843,Potomac Ave & Half St SW,42,31648,527,classic
-15,false,false,5945c731-a300-46e6-8e51-3236ad1f65f2,true,38.88994,530,-76.825535,Largo Rd & Campus Way / Prince Georges's Comm Col,133,32405,530,classic
+0,false,false,5945c731-a300-46e6-8e51-3236ad1f65f2,true,38.88994,530,-76.825535,Largo Rd & Campus Way / Prince Georges's Comm Col,133,32405,530,classic
 19,false,false,eab74a15-a9dd-4813-a6a9-c445782f6920,true,38.855004,531,-76.984512,Stanton Square SE,42,31822,531,classic
 19,false,false,e9030e46-31bf-4def-befb-2e685ad48180,true,38.931991,532,-77.032956,14th & Newton St NW,42,31649,532,classic
 19,false,false,e07eed7c-2d2a-4f13-aff7-2be6500958f7,true,38.9170363119413,533,-77.0957824587822,48th Pl & MacArthur Blvd NW,42,31322,533,classic
