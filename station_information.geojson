@@ -7431,7 +7431,7 @@
             "properties": {
                 "name": "Largo Rd & Campus Way / Prince Georges's Comm Col",
                 "station_id": "530",
-                "capacity": 0
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
