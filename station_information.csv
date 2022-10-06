@@ -251,7 +251,6 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,082582ff-1f3f-11e7-bf6b-3863bb334450,true,39.084125,264,-77.151291,E Montgomery Ave & Maryland Ave,43,32007,264,classic
 11,false,false,08258395-1f3f-11e7-bf6b-3863bb334450,true,38.98954,265,-77.098029,Cordell & Norfolk Ave,44,32008,265,classic
 9,false,false,08258475-1f3f-11e7-bf6b-3863bb334450,true,39.094772,266,-77.145213,Frederick Ave & Horners Ln,43,32009,266,classic
-15,false,false,082586f1-1f3f-11e7-bf6b-3863bb334450,true,38.98128,267,-77.011336,Philadelphia & Maple Ave,44,32010,267,classic
 19,false,false,08258785-1f3f-11e7-bf6b-3863bb334450,true,38.983627,268,-77.006311,Maple & Ritchie Ave,44,32011,268,classic
 19,false,false,0825881b-1f3f-11e7-bf6b-3863bb334450,true,38.995256441231696,269,-77.02912420034409,Silver Spring Metro / Colesville Rd & Wayne Ave,44,32012,269,classic
 11,false,false,08258a6c-1f3f-11e7-bf6b-3863bb334450,true,38.983525,270,-77.095367,Montgomery & East Ln,44,32013,270,classic
@@ -506,7 +505,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,9a93cdb5-bd4e-43b8-87f3-81dc9063999f,true,38.876751,539,-77.000736,4th & M St SE,42,31652,539,classic
 19,false,false,c645ddde-0156-47ab-9616-3121f541a6f0,true,38.94796174822241,540,-77.02154964208603,Kansas Ave & Sherman Cr NW,42,31417,540,classic
 11,false,false,3c6a1bf0-3aac-4406-990d-966cc8edca52,true,38.944707,541,-77.335425,Campus Commons,104,32228,541,classic
-10,false,false,a826e5d0-8ee8-41a4-8c1d-1a2ad7212dec,true,38.92755,542,-77.226644,Park Run & Onyx Dr,104,32229,542,classic
+11,false,false,a826e5d0-8ee8-41a4-8c1d-1a2ad7212dec,true,38.92755,542,-77.226644,Park Run & Onyx Dr,104,32229,542,classic
 19,false,false,a0d0ec92-ebda-436a-b476-7ee9a7bdb67d,true,38.902674,543,-77.021392,7th & K St NW,42,31653,543,classic
 19,false,false,99ddcd49-1312-4d80-8030-9bc2732deb5c,true,38.876211,544,-77.012443,King Greenleaf Rec Center,42,31654,544,classic
 19,false,false,a07bd5e0-5136-4285-ae23-54a74124957e,true,38.907444,545,-76.986813,Montello Ave & Holbrook Terr NE,42,31524,545,classic

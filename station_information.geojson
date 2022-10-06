@@ -3784,21 +3784,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Philadelphia & Maple Ave",
-                "station_id": "267",
-                "capacity": 15
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.011336,
-                    38.98128
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Maple & Ritchie Ave",
                 "station_id": "268",
                 "capacity": 19
@@ -7611,7 +7596,7 @@
             "properties": {
                 "name": "Park Run & Onyx Dr",
                 "station_id": "542",
-                "capacity": 10
+                "capacity": 11
             },
             "geometry": {
                 "type": "Point",
