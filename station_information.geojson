@@ -1161,7 +1161,7 @@
             "properties": {
                 "name": "5th & F St NW",
                 "station_id": "82",
-                "capacity": 31
+                "capacity": 30
             },
             "geometry": {
                 "type": "Point",
@@ -1491,7 +1491,7 @@
             "properties": {
                 "name": "14th & D St NW / Ronald Reagan Building",
                 "station_id": "104",
-                "capacity": 25
+                "capacity": 24
             },
             "geometry": {
                 "type": "Point",
@@ -3081,7 +3081,7 @@
             "properties": {
                 "name": "Troy St & 26th St S",
                 "station_id": "219",
-                "capacity": 11
+                "capacity": 12
             },
             "geometry": {
                 "type": "Point",
@@ -8241,7 +8241,7 @@
             "properties": {
                 "name": "North Capitol & R St NE",
                 "station_id": "588",
-                "capacity": 15
+                "capacity": 11
             },
             "geometry": {
                 "type": "Point",
