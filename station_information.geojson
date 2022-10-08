@@ -7431,7 +7431,7 @@
             "properties": {
                 "name": "Stanton Square SE",
                 "station_id": "531",
-                "capacity": 0
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -8241,7 +8241,7 @@
             "properties": {
                 "name": "North Capitol & R St NE",
                 "station_id": "588",
-                "capacity": 11
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
