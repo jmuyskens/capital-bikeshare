@@ -1161,7 +1161,7 @@
             "properties": {
                 "name": "5th & F St NW",
                 "station_id": "82",
-                "capacity": 30
+                "capacity": 31
             },
             "geometry": {
                 "type": "Point",
@@ -1491,7 +1491,7 @@
             "properties": {
                 "name": "14th & D St NW / Ronald Reagan Building",
                 "station_id": "104",
-                "capacity": 24
+                "capacity": 25
             },
             "geometry": {
                 "type": "Point",
@@ -6321,7 +6321,7 @@
             "properties": {
                 "name": "Greensboro & International Dr",
                 "station_id": "450",
-                "capacity": 11
+                "capacity": 10
             },
             "geometry": {
                 "type": "Point",

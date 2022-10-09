@@ -76,7 +76,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 27,false,false,08249ef2-1f3f-11e7-bf6b-3863bb334450,true,38.90506687455313,79,-77.04177886247635,18th & M St NW,42,31221,79,classic
 15,false,false,08249f58-1f3f-11e7-bf6b-3863bb334450,true,38.947607,80,-77.079382,Tenleytown / Wisconsin Ave & Albemarle St NW,42,31303,80,classic
 27,false,false,08249fbc-1f3f-11e7-bf6b-3863bb334450,true,38.90042673988099,81,-76.98825001716614,13th & H St NE,42,31611,81,classic
-30,false,false,0824a28b-1f3f-11e7-bf6b-3863bb334450,true,38.897222,82,-77.019347,5th & F St NW,42,31620,82,classic
+31,false,false,0824a28b-1f3f-11e7-bf6b-3863bb334450,true,38.897222,82,-77.019347,5th & F St NW,42,31620,82,classic
 19,false,false,0824a43b-1f3f-11e7-bf6b-3863bb334450,true,38.89903234416315,83,-77.03335404396057,New York Ave & 15th St NW,42,31222,83,classic
 23,false,false,0824a4ce-1f3f-11e7-bf6b-3863bb334450,true,38.905737,84,-77.02227,Convention Center / 7th & M St NW,42,31223,84,classic
 15,false,false,0824a53f-1f3f-11e7-bf6b-3863bb334450,true,38.927872,85,-77.043358,Harvard St & Adams Mill Rd NW,42,31112,85,classic
@@ -98,7 +98,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 31,false,false,0824c309-1f3f-11e7-bf6b-3863bb334450,true,38.894832,101,-76.987633,13th & D St NE,42,31622,101,classic
 23,false,false,0824c376-1f3f-11e7-bf6b-3863bb334450,true,38.915544,102,-77.038252,New Hampshire Ave & T St NW,42,31229,102,classic
 39,false,false,0824c604-1f3f-11e7-bf6b-3863bb334450,true,38.89832574246664,103,-77.02795878052711,Metro Center / 12th & G St NW,42,31230,103,classic
-24,false,false,0824c69b-1f3f-11e7-bf6b-3863bb334450,true,38.894514,104,-77.031617,14th & D St NW / Ronald Reagan Building,42,31231,104,classic
+25,false,false,0824c69b-1f3f-11e7-bf6b-3863bb334450,true,38.894514,104,-77.031617,14th & D St NW / Ronald Reagan Building,42,31231,104,classic
 27,false,false,0824c772-1f3f-11e7-bf6b-3863bb334450,true,38.89728304853854,105,-77.02219069004059,7th & F St NW / National Portrait Gallery,42,31232,105,classic
 35,false,false,0824c80d-1f3f-11e7-bf6b-3863bb334450,true,38.902061,106,-77.038322,17th & K St NW / Farragut Square,42,31233,106,classic
 19,false,false,0824c8d2-1f3f-11e7-bf6b-3863bb334450,true,38.908905,107,-77.04478,20th & O St NW / Dupont South,42,31234,107,classic
@@ -420,7 +420,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 11,false,false,08263fbd-1f3f-11e7-bf6b-3863bb334450,true,38.951443,447,-77.340377,Sunset Hills Rd & Isaac Newton Square,104,32220,447,classic
 15,false,false,0826402c-1f3f-11e7-bf6b-3863bb334450,true,38.89386,448,-77.070862,N Lynn St & Fairfax Dr,41,31917,448,classic
 15,false,false,08264097-1f3f-11e7-bf6b-3863bb334450,true,38.967505,449,-77.027976,Georgia Ave & Piney Branch Rd NW,42,31414,449,classic
-11,false,false,0826410b-1f3f-11e7-bf6b-3863bb334450,true,38.923083,450,-77.227417,Greensboro & International Dr,104,32221,450,classic
+10,false,false,0826410b-1f3f-11e7-bf6b-3863bb334450,true,38.923083,450,-77.227417,Greensboro & International Dr,104,32221,450,classic
 15,false,false,08264173-1f3f-11e7-bf6b-3863bb334450,true,38.812351,451,-77.040691,Madison St & Fairfax St,40,31918,451,classic
 15,false,false,082641e3-1f3f-11e7-bf6b-3863bb334450,true,38.990874,452,-77.016311,Sligo Ave & Carroll Ln,44,32058,452,classic
 19,false,false,08264250-1f3f-11e7-bf6b-3863bb334450,true,38.9190185,453,-77.034449,15th & W St NW,42,31125,453,classic
