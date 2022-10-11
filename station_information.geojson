@@ -6321,7 +6321,7 @@
             "properties": {
                 "name": "Greensboro & International Dr",
                 "station_id": "450",
-                "capacity": 10
+                "capacity": 11
             },
             "geometry": {
                 "type": "Point",
