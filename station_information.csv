@@ -40,7 +40,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,0824833c-1f3f-11e7-bf6b-3863bb334450,true,38.919077,42,-77.000648,4th & W St NE,42,31500,42,classic
 15,false,false,082483c2-1f3f-11e7-bf6b-3863bb334450,true,38.9172,43,-77.0259,10th & U St NW,42,31111,43,classic
 15,false,false,0824844b-1f3f-11e7-bf6b-3863bb334450,true,38.924784585266956,44,-77.02232748270035,Georgia Ave & Fairmont St NW,42,31207,44,classic
-39,false,false,082484cf-1f3f-11e7-bf6b-3863bb334450,true,38.874101857715736,45,-77.00579434633255,1st & N St SE,42,31209,45,classic
+19,false,false,082484cf-1f3f-11e7-bf6b-3863bb334450,true,38.874101857715736,45,-77.00579434633255,1st & N St SE,42,31209,45,classic
 15,false,false,0824854e-1f3f-11e7-bf6b-3863bb334450,true,38.9154,46,-77.0446,20th St & Florida Ave NW,42,31110,46,classic
 15,false,false,082485e8-1f3f-11e7-bf6b-3863bb334450,true,38.9156929,47,-77.021703,7th & T St NW,42,31109,47,classic
 15,false,false,0824866e-1f3f-11e7-bf6b-3863bb334450,true,38.85438051517749,48,-77.05341160297394,Eads St & 22nd St S,41,31013,48,classic
@@ -128,7 +128,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 33,false,false,0824f8a2-1f3f-11e7-bf6b-3863bb334450,true,38.9059,137,-77.0325,Thomas Circle,42,31241,137,classic
 12,false,false,0824fb6c-1f3f-11e7-bf6b-3863bb334450,true,38.8904,138,-77.0889,Wilson Blvd & N Franklin Rd,41,31020,138,classic
 15,false,false,0824fd71-1f3f-11e7-bf6b-3863bb334450,true,38.8881,139,-77.09308,Clarendon Blvd & N Fillmore St,41,31021,139,classic
-21,false,false,0824ff6e-1f3f-11e7-bf6b-3863bb334450,true,38.88701007722296,140,-77.09525674581528,Clarendon Metro / Wilson Blvd & N Highland St,41,31022,140,classic
+20,false,false,0824ff6e-1f3f-11e7-bf6b-3863bb334450,true,38.88701007722296,140,-77.09525674581528,Clarendon Metro / Wilson Blvd & N Highland St,41,31022,140,classic
 27,false,false,08250172-1f3f-11e7-bf6b-3863bb334450,true,38.89968,141,-77.041539,18th St & Pennsylvania Ave NW,42,31242,141,classic
 39,false,false,08250371-1f3f-11e7-bf6b-3863bb334450,true,38.88637194054526,142,-77.01770067214966,4th & C St SW,42,31243,142,classic
 19,false,false,082513a4-1f3f-11e7-bf6b-3863bb334450,true,38.88412,143,-77.017445,4th & E St SW,42,31244,143,classic

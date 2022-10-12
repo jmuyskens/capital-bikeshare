@@ -621,7 +621,7 @@
             "properties": {
                 "name": "1st & N St SE",
                 "station_id": "45",
-                "capacity": 39
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -1941,7 +1941,7 @@
             "properties": {
                 "name": "Clarendon Metro / Wilson Blvd & N Highland St",
                 "station_id": "140",
-                "capacity": 21
+                "capacity": 20
             },
             "geometry": {
                 "type": "Point",
