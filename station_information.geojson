@@ -2721,7 +2721,7 @@
             "properties": {
                 "name": "15th & K St NW",
                 "station_id": "193",
-                "capacity": 27
+                "capacity": 23
             },
             "geometry": {
                 "type": "Point",
