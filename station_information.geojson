@@ -2721,7 +2721,7 @@
             "properties": {
                 "name": "15th & K St NW",
                 "station_id": "193",
-                "capacity": 23
+                "capacity": 27
             },
             "geometry": {
                 "type": "Point",
@@ -10453,6 +10453,21 @@
                 "coordinates": [
                     -77.12801456451415,
                     38.88791377249907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Marymount University / Yorktown Blvd & 26th St N",
+                "station_id": "752",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.127776,
+                    38.904252
                 ]
             }
         }

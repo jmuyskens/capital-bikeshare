@@ -3801,7 +3801,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 23,
+        "capacity": 27,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -14632,6 +14632,26 @@
         "rental_uris": {},
         "short_name": "31976",
         "station_id": "751",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 15,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "5eb5b5a7-db69-4d8a-a16a-604678a544b7",
+        "has_kiosk": true,
+        "lat": 38.904252,
+        "legacy_id": "752",
+        "lon": -77.127776,
+        "name": "Marymount University / Yorktown Blvd & 26th St N",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31977",
+        "station_id": "752",
         "station_type": "classic"
     }
 ]
