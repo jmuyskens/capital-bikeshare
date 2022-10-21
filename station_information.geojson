@@ -3156,7 +3156,7 @@
             "properties": {
                 "name": "Kenmore St & 24th St S",
                 "station_id": "224",
-                "capacity": 11
+                "capacity": 12
             },
             "geometry": {
                 "type": "Point",
@@ -8511,7 +8511,7 @@
             "properties": {
                 "name": "Fort Stanton Rec Center",
                 "station_id": "607",
-                "capacity": 19
+                "capacity": 9
             },
             "geometry": {
                 "type": "Point",
