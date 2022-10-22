@@ -8511,7 +8511,7 @@
             "properties": {
                 "name": "Fort Stanton Rec Center",
                 "station_id": "607",
-                "capacity": 9
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
