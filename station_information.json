@@ -13719,7 +13719,11 @@
     {
         "capacity": 19,
         "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
+        "eightd_station_services": [
+            {
+                "name": "Valet Service"
+            }
+        ],
         "electric_bike_surcharge_waiver": false,
         "external_id": "5e828067-2fd6-4168-b150-5409754e734c",
         "has_kiosk": true,
