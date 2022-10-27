@@ -13297,16 +13297,16 @@
         "station_type": "classic"
     },
     {
-        "capacity": 12,
+        "capacity": 11,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
         "external_id": "e823318f-8406-4230-8072-1667f5de78d4",
         "has_kiosk": true,
-        "lat": 38.963314,
+        "lat": 38.953691,
         "legacy_id": "681",
-        "lon": -77.342546,
-        "name": "Fairway Dr & Hook Rd",
+        "lon": -77.359717,
+        "name": "Reston Town Center Metro North",
         "region_id": "104",
         "rental_methods": [
             "CREDITCARD",
@@ -13719,11 +13719,7 @@
     {
         "capacity": 19,
         "eightd_has_key_dispenser": false,
-        "eightd_station_services": [
-            {
-                "name": "Valet Service"
-            }
-        ],
+        "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
         "external_id": "5e828067-2fd6-4168-b150-5409754e734c",
         "has_kiosk": true,
