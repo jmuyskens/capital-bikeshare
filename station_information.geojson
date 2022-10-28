@@ -10470,6 +10470,21 @@
                     38.904252
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Reston Town Center Metro South",
+                "station_id": "753",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.361466,
+                    38.9523
+                ]
+            }
         }
     ]
 }

@@ -14653,5 +14653,25 @@
         "short_name": "31977",
         "station_id": "752",
         "station_type": "classic"
+    },
+    {
+        "capacity": 19,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "5dfab137-f65a-41c0-99ef-d58f29a735b2",
+        "has_kiosk": true,
+        "lat": 38.9523,
+        "legacy_id": "753",
+        "lon": -77.361466,
+        "name": "Reston Town Center Metro South",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32258",
+        "station_id": "753",
+        "station_type": "classic"
     }
 ]
