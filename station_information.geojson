@@ -5136,7 +5136,7 @@
             "properties": {
                 "name": "2nd & G St NE",
                 "station_id": "369",
-                "capacity": 23
+                "capacity": 22
             },
             "geometry": {
                 "type": "Point",
@@ -5196,7 +5196,7 @@
             "properties": {
                 "name": "Maryland Ave & E St NE",
                 "station_id": "374",
-                "capacity": 19
+                "capacity": 14
             },
             "geometry": {
                 "type": "Point",
@@ -8511,7 +8511,7 @@
             "properties": {
                 "name": "Fort Stanton Rec Center",
                 "station_id": "607",
-                "capacity": 19
+                "capacity": 9
             },
             "geometry": {
                 "type": "Point",
