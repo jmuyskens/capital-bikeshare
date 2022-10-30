@@ -345,7 +345,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,08260549-1f3f-11e7-bf6b-3863bb334450,true,38.90864,370,-77.02277,8th & O St NW,42,31281,370,classic
 19,false,false,082605b0-1f3f-11e7-bf6b-3863bb334450,true,38.961339,371,-77.027855,Georgia & Missouri Ave NW,42,31411,371,classic
 19,false,false,08261245-1f3f-11e7-bf6b-3863bb334450,true,38.894474,373,-76.974828,Oklahoma Ave & D St NE,42,31712,373,classic
-14,false,false,082612c1-1f3f-11e7-bf6b-3863bb334450,true,38.8962260397813,374,-76.99278563261032,Maryland Ave & E St NE,42,31640,374,classic
+19,false,false,082612c1-1f3f-11e7-bf6b-3863bb334450,true,38.8962260397813,374,-76.99278563261032,Maryland Ave & E St NE,42,31640,374,classic
 23,false,false,0826132d-1f3f-11e7-bf6b-3863bb334450,true,38.915604,375,-76.983683,New York Ave & Hecht Ave NE,42,31518,375,classic
 19,false,false,0826139b-1f3f-11e7-bf6b-3863bb334450,true,38.946182,376,-77.08059,Yuma St & Tenley Circle NW,42,31316,376,classic
 15,false,false,08261407-1f3f-11e7-bf6b-3863bb334450,true,38.994113,377,-77.076986,Connecticut Ave & Chevy Chase Lake Dr,44,32051,377,classic
@@ -418,7 +418,6 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,08263d19-1f3f-11e7-bf6b-3863bb334450,true,38.960084,445,-77.353414,Temporary Rd & Old Reston Ave,104,32218,445,classic
 15,false,false,08263f4a-1f3f-11e7-bf6b-3863bb334450,true,38.955314,446,-77.368416,Reston YMCA,104,32219,446,classic
 11,false,false,08263fbd-1f3f-11e7-bf6b-3863bb334450,true,38.951443,447,-77.340377,Sunset Hills Rd & Isaac Newton Square,104,32220,447,classic
-15,false,false,0826402c-1f3f-11e7-bf6b-3863bb334450,true,38.89386,448,-77.070862,N Lynn St & Fairfax Dr,41,31917,448,classic
 15,false,false,08264097-1f3f-11e7-bf6b-3863bb334450,true,38.967505,449,-77.027976,Georgia Ave & Piney Branch Rd NW,42,31414,449,classic
 11,false,false,0826410b-1f3f-11e7-bf6b-3863bb334450,true,38.923083,450,-77.227417,Greensboro & International Dr,104,32221,450,classic
 15,false,false,08264173-1f3f-11e7-bf6b-3863bb334450,true,38.812351,451,-77.040691,Madison St & Fairfax St,40,31918,451,classic
@@ -604,7 +603,6 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,3f177fa3-6267-4138-82b3-6b528d71d3b2,true,38.881116725009335,646,-77.01769933104515,4th & G St SW,42,31666,646,classic
 19,false,false,d1fd7121-67e3-46a9-b415-e84a565394f2,true,38.958098,647,-77.013821,Kansas Ave & Longfellow St NW,42,31423,647,classic
 19,false,false,0248fa3b-6df4-4fdc-ae31-ee2e4d177da8,true,38.852903,648,-77.045916,National Airport,41,31935,648,classic
-15,false,false,0a5dbbe0-1325-49af-9fca-f0748ca06dc0,true,38.864838,649,-77.056873,Fern St & Army Navy Dr,41,31936,649,classic
 15,false,false,199ecf43-3fcc-446e-8b91-e151e7ad617f,true,38.890863,650,-77.074893,Arlington Blvd & Ft Myer Dr,41,31937,650,classic
 15,false,false,99644655-ef85-4e13-a331-a344d88ded32,true,38.853002,651,-77.059496,23rd St S & Hayes St,41,31938,651,classic
 17,false,false,83c9bc80-bc42-4e5d-9f5e-6c24812e6e37,true,38.895068,652,-77.07386,Wilson Blvd & N Oak St,41,31939,652,classic

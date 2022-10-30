@@ -7266,7 +7266,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 14,
+        "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -8796,27 +8796,6 @@
         "rental_uris": {},
         "short_name": "32220",
         "station_id": "447",
-        "station_type": "classic"
-    },
-    {
-        "capacity": 15,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "0826402c-1f3f-11e7-bf6b-3863bb334450",
-        "has_kiosk": true,
-        "lat": 38.89386,
-        "legacy_id": "448",
-        "lon": -77.070862,
-        "name": "N Lynn St & Fairfax Dr",
-        "region_id": "41",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "31917",
-        "station_id": "448",
         "station_type": "classic"
     },
     {
@@ -12706,27 +12685,6 @@
         "rental_uris": {},
         "short_name": "31935",
         "station_id": "648",
-        "station_type": "classic"
-    },
-    {
-        "capacity": 15,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "0a5dbbe0-1325-49af-9fca-f0748ca06dc0",
-        "has_kiosk": true,
-        "lat": 38.864838,
-        "legacy_id": "649",
-        "lon": -77.056873,
-        "name": "Fern St & Army Navy Dr",
-        "region_id": "41",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "31936",
-        "station_id": "649",
         "station_type": "classic"
     },
     {
