@@ -341,7 +341,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,0826030a-1f3f-11e7-bf6b-3863bb334450,true,38.902826,365,-77.060173,Thomas Jefferson St NW & Water/K St NW,42,31293,365,classic
 23,false,false,082603fc-1f3f-11e7-bf6b-3863bb334450,true,38.913761,367,-77.027025,11th & S St NW,42,31280,367,classic
 15,false,false,08260472-1f3f-11e7-bf6b-3863bb334450,true,38.86612,368,-77.08787,Walter Reed Dr & 8th St S,41,31096,368,classic
-22,false,false,082604dd-1f3f-11e7-bf6b-3863bb334450,true,38.89967,369,-77.003666,2nd & G St NE,42,31639,369,classic
+23,false,false,082604dd-1f3f-11e7-bf6b-3863bb334450,true,38.89967,369,-77.003666,2nd & G St NE,42,31639,369,classic
 19,false,false,08260549-1f3f-11e7-bf6b-3863bb334450,true,38.90864,370,-77.02277,8th & O St NW,42,31281,370,classic
 19,false,false,082605b0-1f3f-11e7-bf6b-3863bb334450,true,38.961339,371,-77.027855,Georgia & Missouri Ave NW,42,31411,371,classic
 19,false,false,08261245-1f3f-11e7-bf6b-3863bb334450,true,38.894474,373,-76.974828,Oklahoma Ave & D St NE,42,31712,373,classic
@@ -418,6 +418,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,08263d19-1f3f-11e7-bf6b-3863bb334450,true,38.960084,445,-77.353414,Temporary Rd & Old Reston Ave,104,32218,445,classic
 15,false,false,08263f4a-1f3f-11e7-bf6b-3863bb334450,true,38.955314,446,-77.368416,Reston YMCA,104,32219,446,classic
 11,false,false,08263fbd-1f3f-11e7-bf6b-3863bb334450,true,38.951443,447,-77.340377,Sunset Hills Rd & Isaac Newton Square,104,32220,447,classic
+15,false,false,0826402c-1f3f-11e7-bf6b-3863bb334450,true,38.89386,448,-77.070862,N Lynn St & Fairfax Dr,41,31917,448,classic
 15,false,false,08264097-1f3f-11e7-bf6b-3863bb334450,true,38.967505,449,-77.027976,Georgia Ave & Piney Branch Rd NW,42,31414,449,classic
 11,false,false,0826410b-1f3f-11e7-bf6b-3863bb334450,true,38.923083,450,-77.227417,Greensboro & International Dr,104,32221,450,classic
 15,false,false,08264173-1f3f-11e7-bf6b-3863bb334450,true,38.812351,451,-77.040691,Madison St & Fairfax St,40,31918,451,classic
@@ -565,7 +566,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,55d3b43f-4ad3-4d65-889a-560ebe6126bf,true,38.7859,604,-77.0167,National Harbor Carousel,133,32423,604,classic
 19,false,false,0cabc1c7-cf6f-4afd-9242-c011b77f6330,true,38.83664578175751,605,-76.99358886515256,Valley Ave & Wheeler Rd SE,42,31824,605,classic
 19,false,false,db81ad06-aad3-4e23-b2b9-05b39b41f8fc,true,38.876227445751475,606,-76.94098126958124,Ridge Rd Community Center,42,31718,606,classic
-9,false,false,7641069c-42a6-4e3e-9769-7df51da6978d,true,38.85736903758752,607,-76.97768801437633,Fort Stanton Rec Center,42,31825,607,classic
+19,false,false,7641069c-42a6-4e3e-9769-7df51da6978d,true,38.85736903758752,607,-76.97768801437633,Fort Stanton Rec Center,42,31825,607,classic
 19,false,false,7a19d0e7-2b3c-4805-b843-1aec84a05bfe,true,38.91261359469192,608,-77.07432264076488,Reservoir Rd & 38th St NW,42,31325,608,classic
 17,false,false,d325a449-32d7-488d-b746-9455ad003834,true,38.89892546716842,609,-77.04885238395946,22nd & H St NW,42,31127,609,classic
 19,false,false,fbbeab20-556d-4275-98a9-f84d316c157f,true,38.899941626884754,610,-76.99489653110504,8th & H St NE,42,31661,610,classic
@@ -603,6 +604,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,3f177fa3-6267-4138-82b3-6b528d71d3b2,true,38.881116725009335,646,-77.01769933104515,4th & G St SW,42,31666,646,classic
 19,false,false,d1fd7121-67e3-46a9-b415-e84a565394f2,true,38.958098,647,-77.013821,Kansas Ave & Longfellow St NW,42,31423,647,classic
 19,false,false,0248fa3b-6df4-4fdc-ae31-ee2e4d177da8,true,38.852903,648,-77.045916,National Airport,41,31935,648,classic
+15,false,false,0a5dbbe0-1325-49af-9fca-f0748ca06dc0,true,38.864838,649,-77.056873,Fern St & Army Navy Dr,41,31936,649,classic
 15,false,false,199ecf43-3fcc-446e-8b91-e151e7ad617f,true,38.890863,650,-77.074893,Arlington Blvd & Ft Myer Dr,41,31937,650,classic
 15,false,false,99644655-ef85-4e13-a331-a344d88ded32,true,38.853002,651,-77.059496,23rd St S & Hayes St,41,31938,651,classic
 17,false,false,83c9bc80-bc42-4e5d-9f5e-6c24812e6e37,true,38.895068,652,-77.07386,Wilson Blvd & N Oak St,41,31939,652,classic

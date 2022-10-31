@@ -5136,7 +5136,7 @@
             "properties": {
                 "name": "2nd & G St NE",
                 "station_id": "369",
-                "capacity": 22
+                "capacity": 23
             },
             "geometry": {
                 "type": "Point",
@@ -6283,6 +6283,21 @@
                 "coordinates": [
                     -77.340377,
                     38.951443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "N Lynn St & Fairfax Dr",
+                "station_id": "448",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.070862,
+                    38.89386
                 ]
             }
         },
@@ -8496,7 +8511,7 @@
             "properties": {
                 "name": "Fort Stanton Rec Center",
                 "station_id": "607",
-                "capacity": 9
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -9058,6 +9073,21 @@
                 "coordinates": [
                     -77.045916,
                     38.852903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fern St & Army Navy Dr",
+                "station_id": "649",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.056873,
+                    38.864838
                 ]
             }
         },
