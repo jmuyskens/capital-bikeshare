@@ -9501,7 +9501,7 @@
             "properties": {
                 "name": "Reston Town Center Metro North",
                 "station_id": "681",
-                "capacity": 11
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
