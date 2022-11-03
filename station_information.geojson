@@ -3126,7 +3126,7 @@
             "properties": {
                 "name": "Four Mile Run Dr & S Walter Reed Dr",
                 "station_id": "222",
-                "capacity": 11
+                "capacity": 12
             },
             "geometry": {
                 "type": "Point",
