@@ -3096,7 +3096,7 @@
             "properties": {
                 "name": "Four Mile Run Dr & S Shirlington Rd",
                 "station_id": "220",
-                "capacity": 11
+                "capacity": 12
             },
             "geometry": {
                 "type": "Point",
