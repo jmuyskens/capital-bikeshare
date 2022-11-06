@@ -3321,7 +3321,7 @@
             "properties": {
                 "name": "18th St & Rhode Island Ave NE",
                 "station_id": "235",
-                "capacity": 14
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
