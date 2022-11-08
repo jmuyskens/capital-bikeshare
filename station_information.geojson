@@ -8241,7 +8241,7 @@
             "properties": {
                 "name": "North Capitol & R St NE",
                 "station_id": "588",
-                "capacity": 9
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
