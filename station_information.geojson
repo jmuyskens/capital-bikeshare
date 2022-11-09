@@ -4911,7 +4911,7 @@
             "properties": {
                 "name": "17th & G St NW",
                 "station_id": "349",
-                "capacity": 31
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
