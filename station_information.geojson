@@ -2481,7 +2481,7 @@
             "properties": {
                 "name": "Ballston Metro / Stuart St & 9th St N",
                 "station_id": "176",
-                "capacity": 23
+                "capacity": 22
             },
             "geometry": {
                 "type": "Point",
@@ -4911,7 +4911,7 @@
             "properties": {
                 "name": "17th & G St NW",
                 "station_id": "349",
-                "capacity": 19
+                "capacity": 31
             },
             "geometry": {
                 "type": "Point",
