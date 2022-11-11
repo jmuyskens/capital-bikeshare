@@ -2481,7 +2481,7 @@
             "properties": {
                 "name": "Ballston Metro / Stuart St & 9th St N",
                 "station_id": "176",
-                "capacity": 22
+                "capacity": 23
             },
             "geometry": {
                 "type": "Point",
@@ -3111,7 +3111,7 @@
             "properties": {
                 "name": "Columbia Pike & Monroe St",
                 "station_id": "221",
-                "capacity": 11
+                "capacity": 12
             },
             "geometry": {
                 "type": "Point",
@@ -4911,13 +4911,13 @@
             "properties": {
                 "name": "17th & G St NW",
                 "station_id": "349",
-                "capacity": 31
+                "capacity": 35
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.03973233699799,
-                    38.898282949523605
+                    -77.039643,
+                    38.898301
                 ]
             }
         },
@@ -8256,7 +8256,7 @@
             "properties": {
                 "name": "17th & Upshur St NW",
                 "station_id": "589",
-                "capacity": 19
+                "capacity": 18
             },
             "geometry": {
                 "type": "Point",
