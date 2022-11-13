@@ -6771,7 +6771,7 @@
             "properties": {
                 "name": "Reston Pkwy & Spectrum Dr",
                 "station_id": "480",
-                "capacity": 15
+                "capacity": 14
             },
             "geometry": {
                 "type": "Point",
@@ -8256,7 +8256,7 @@
             "properties": {
                 "name": "17th & Upshur St NW",
                 "station_id": "589",
-                "capacity": 18
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
