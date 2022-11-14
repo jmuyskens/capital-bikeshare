@@ -570,7 +570,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,7a19d0e7-2b3c-4805-b843-1aec84a05bfe,true,38.91261359469192,608,-77.07432264076488,Reservoir Rd & 38th St NW,42,31325,608,classic
 17,false,false,d325a449-32d7-488d-b746-9455ad003834,true,38.89892546716842,609,-77.04885238395946,22nd & H St NW,42,31127,609,classic
 19,false,false,fbbeab20-556d-4275-98a9-f84d316c157f,true,38.899941626884754,610,-76.99489653110504,8th & H St NE,42,31661,610,classic
-17,false,false,d8a01502-8d6c-449f-852d-d6b409e56e11,true,38.90970086204467,611,-77.08564639091492,Hardy Rec Center,42,31326,611,classic
+0,false,false,d8a01502-8d6c-449f-852d-d6b409e56e11,true,38.90970086204467,611,-77.08564639091492,Hardy Rec Center,42,31326,611,classic
 19,false,false,44b6aaca-6a97-425c-9d95-93a1d836c22d,true,39.0313141,612,-77.0041217,The Shoppes @ Burnt Mills,44,32085,612,classic
 19,false,false,5075ddc9-7546-44a6-9445-0a48a53267df,true,39.081638,613,-76.945495,Briggs Chaney & Castle Dr,44,32086,613,classic
 15,false,false,2213781a-5c69-43eb-9b33-346d61e7e1ba,true,39.0461435,614,-76.9757228,White Oak Rec Center,44,32087,614,classic
