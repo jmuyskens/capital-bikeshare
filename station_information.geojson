@@ -8571,7 +8571,7 @@
             "properties": {
                 "name": "Hardy Rec Center",
                 "station_id": "611",
-                "capacity": 0
+                "capacity": 17
             },
             "geometry": {
                 "type": "Point",
