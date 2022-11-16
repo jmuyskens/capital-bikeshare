@@ -1746,7 +1746,7 @@
             "properties": {
                 "name": "Lynn St & 19th St North",
                 "station_id": "127",
-                "capacity": 27
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
