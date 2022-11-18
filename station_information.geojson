@@ -2421,7 +2421,7 @@
             "properties": {
                 "name": "N Veitch St & Key Blvd",
                 "station_id": "172",
-                "capacity": 11
+                "capacity": 12
             },
             "geometry": {
                 "type": "Point",
@@ -2481,7 +2481,7 @@
             "properties": {
                 "name": "Ballston Metro / Stuart St & 9th St N",
                 "station_id": "176",
-                "capacity": 23
+                "capacity": 22
             },
             "geometry": {
                 "type": "Point",
