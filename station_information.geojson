@@ -1744,15 +1744,15 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Lynn St & 19th St North",
+                "name": "19th St N & Ft Myer Dr",
                 "station_id": "127",
                 "capacity": 15
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.070993,
-                    38.897315
+                    -77.072143,
+                    38.897218
                 ]
             }
         },

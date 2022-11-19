@@ -2442,10 +2442,10 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "0824ea2c-1f3f-11e7-bf6b-3863bb334450",
         "has_kiosk": true,
-        "lat": 38.897315,
+        "lat": 38.897218,
         "legacy_id": "127",
-        "lon": -77.070993,
-        "name": "Lynn St & 19th St North",
+        "lon": -77.072143,
+        "name": "19th St N & Ft Myer Dr",
         "region_id": "41",
         "rental_methods": [
             "CREDITCARD",
