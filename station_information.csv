@@ -450,7 +450,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,7a00f0f5-f757-4715-9e89-58253ac36de0,true,38.859305619982344,477,-77.10201859474182,Columbia Pike & George Mason Dr,41,31923,477,classic
 11,false,false,9029233f-84db-4f28-895d-8ecf727fb6d2,true,39.12582811177034,478,-77.16705948114395,Columbus Ave & Tribeca St,43,32068,478,classic
 11,false,false,de5bd592-0f48-4c6a-b7fc-8ff687c6e1a5,true,39.12333,479,-77.16486,Columbus Ave & Gramercy Blvd,43,32069,479,classic
-14,false,false,686c82c2-23fe-4c15-9c75-708f61de98c7,true,38.964207741006206,480,-77.35428035259247,Reston Pkwy & Spectrum Dr,104,32225,480,classic
+15,false,false,686c82c2-23fe-4c15-9c75-708f61de98c7,true,38.964207741006206,480,-77.35428035259247,Reston Pkwy & Spectrum Dr,104,32225,480,classic
 11,false,false,1b55b8fa-73d6-4076-98e5-9f177d22958e,true,39.105642,481,-77.20386,Key West Ave & Great Seneca Hwy,43,32070,481,classic
 19,false,false,bce02846-6f5e-466a-a643-50534a119533,true,38.89846038350939,482,-77.05305218696594,Virginia Ave & 25th St NW,42,31297,482,classic
 19,false,false,7fcbf92d-a257-4973-828b-181d5602eee5,true,38.905424,483,-77.034674,15th & M St NW,42,31298,483,classic

@@ -6771,7 +6771,7 @@
             "properties": {
                 "name": "Reston Pkwy & Spectrum Dr",
                 "station_id": "480",
-                "capacity": 14
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
