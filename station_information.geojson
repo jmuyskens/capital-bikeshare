@@ -786,7 +786,7 @@
             "properties": {
                 "name": "Potomac & Pennsylvania Ave SE",
                 "station_id": "57",
-                "capacity": 15
+                "capacity": 14
             },
             "geometry": {
                 "type": "Point",
