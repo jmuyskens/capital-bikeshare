@@ -7959,7 +7959,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 5,
+        "capacity": 6,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -11178,10 +11178,10 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "37ea9197-6332-4bf7-8940-d3641f288869",
         "has_kiosk": true,
-        "lat": 38.89641882214797,
+        "lat": 38.8901554,
         "legacy_id": "571",
-        "lon": -77.19268798828125,
-        "name": "Meridian High School / Haycock Rd & Leesburg Pike",
+        "lon": -77.183178,
+        "name": "Founders Row/W Broad St & West St",
         "region_id": "152",
         "rental_methods": [
             "CREDITCARD",

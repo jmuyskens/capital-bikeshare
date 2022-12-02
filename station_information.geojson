@@ -5691,7 +5691,7 @@
             "properties": {
                 "name": "Commonwealth Ave & E Monroe Ave",
                 "station_id": "407",
-                "capacity": 5
+                "capacity": 6
             },
             "geometry": {
                 "type": "Point",
@@ -7984,15 +7984,15 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Meridian High School / Haycock Rd & Leesburg Pike",
+                "name": "Founders Row/W Broad St & West St",
                 "station_id": "571",
                 "capacity": 12
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.19268798828125,
-                    38.89641882214797
+                    -77.183178,
+                    38.8901554
                 ]
             }
         },
