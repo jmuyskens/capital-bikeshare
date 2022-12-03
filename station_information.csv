@@ -130,7 +130,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,0824fd71-1f3f-11e7-bf6b-3863bb334450,true,38.8881,139,-77.09308,Clarendon Blvd & N Fillmore St,41,31021,139,classic
 21,false,false,0824ff6e-1f3f-11e7-bf6b-3863bb334450,true,38.88701007722296,140,-77.09525674581528,Clarendon Metro / Wilson Blvd & N Highland St,41,31022,140,classic
 27,false,false,08250172-1f3f-11e7-bf6b-3863bb334450,true,38.89968,141,-77.041539,18th St & Pennsylvania Ave NW,42,31242,141,classic
-39,false,false,08250371-1f3f-11e7-bf6b-3863bb334450,true,38.88637194054526,142,-77.01770067214966,4th & C St SW,42,31243,142,classic
+38,false,false,08250371-1f3f-11e7-bf6b-3863bb334450,true,38.88637194054526,142,-77.01770067214966,4th & C St SW,42,31243,142,classic
 19,false,false,082513a4-1f3f-11e7-bf6b-3863bb334450,true,38.88412,143,-77.017445,4th & E St SW,42,31244,143,classic
 19,false,false,08251448-1f3f-11e7-bf6b-3863bb334450,true,38.881185,144,-77.001828,3rd & G St SE,42,31625,144,classic
 15,false,false,082514b8-1f3f-11e7-bf6b-3863bb334450,true,38.912719,145,-77.022155,7th & R St NW / Shaw Library,42,31245,145,classic
@@ -378,7 +378,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,08261f4b-1f3f-11e7-bf6b-3863bb334450,true,38.88532071975074,404,-77.15642720460892,East Falls Church Metro / Sycamore St & 19th St N,41,31904,404,classic
 15,false,false,08261fb3-1f3f-11e7-bf6b-3863bb334450,true,38.880992,405,-77.135271,Kennebec St & 11th St N,41,31905,405,classic
 15,false,false,08262027-1f3f-11e7-bf6b-3863bb334450,true,38.812711,406,-77.061715,Commonwealth Ave & Oak St,40,31906,406,classic
-6,false,false,08262094-1f3f-11e7-bf6b-3863bb334450,true,38.82005823354218,407,-77.06282079219818,Commonwealth Ave & E Monroe Ave,40,31913,407,classic
+15,false,false,08262094-1f3f-11e7-bf6b-3863bb334450,true,38.82005823354218,407,-77.06282079219818,Commonwealth Ave & E Monroe Ave,40,31913,407,classic
 31,false,false,082620fc-1f3f-11e7-bf6b-3863bb334450,true,38.8904955,408,-77.0172465,4th St & Madison Dr NW,42,31288,408,classic
 19,false,false,0826233f-1f3f-11e7-bf6b-3863bb334450,true,38.890539,409,-77.049383,Henry Bacon Dr & Lincoln Memorial Circle NW,42,31289,409,classic
 19,false,false,082623bf-1f3f-11e7-bf6b-3863bb334450,true,38.888097,410,-77.038325,17th St & Independence Ave SW,42,31290,410,classic
@@ -405,7 +405,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 11,false,false,082637a5-1f3f-11e7-bf6b-3863bb334450,true,38.932636,432,-77.231825,Tysons West Transit Center,104,32208,432,classic
 11,false,false,0826380c-1f3f-11e7-bf6b-3863bb334450,true,38.970046,433,-77.338686,North Shore & Cameron Crescent Dr/Crescent Apartments,104,32209,433,classic
 15,false,false,08263885-1f3f-11e7-bf6b-3863bb334450,true,38.962524,434,-77.361902,Town Center Pkwy & Bowman Towne Dr,104,32210,434,classic
-15,false,false,082638f2-1f3f-11e7-bf6b-3863bb334450,true,38.962095,435,-77.358815,Reston Regional Library,104,32211,435,classic
+14,false,false,082638f2-1f3f-11e7-bf6b-3863bb334450,true,38.962095,435,-77.358815,Reston Regional Library,104,32211,435,classic
 15,false,false,08263959-1f3f-11e7-bf6b-3863bb334450,true,38.960574,436,-77.356324,New Dominion Pkwy & Fountain Dr,104,32212,436,classic
 15,false,false,082639c8-1f3f-11e7-bf6b-3863bb334450,true,38.955079,437,-77.351649,Sunset Hills & Old Reston Ave,104,32213,437,classic
 17,false,false,08263a37-1f3f-11e7-bf6b-3863bb334450,true,38.957037,438,-77.359718,Reston Town Center Transit Station,104,32214,438,classic
