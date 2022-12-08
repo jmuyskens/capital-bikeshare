@@ -483,7 +483,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,68bb0313-ccdb-4930-98ba-96d77ec986ef,true,39.049765,514,-77.11368,Rockville Pike & Old Georgetown Rd,43,32077,514,classic
 16,false,false,f69c2ab2-8d2b-493a-9da4-3a76d0e34753,true,39.04317,515,-77.1135,Woodglen Dr & Executive Blvd,43,32078,515,classic
 15,false,false,3ced143d-294e-4050-80a7-b40d76c42c0d,true,39.04873,516,-77.1257,Executive Blvd & E Jefferson St,43,32079,516,classic
-15,false,false,66cac629-904e-4186-8431-44983be40985,true,39.0629,517,-77.113454,Fishers Ln & Rock Creek Mill Rd,43,32080,517,classic
+14,false,false,66cac629-904e-4186-8431-44983be40985,true,39.0629,517,-77.113454,Fishers Ln & Rock Creek Mill Rd,43,32080,517,classic
 15,false,false,305ce636-23c1-42f3-a28b-8be4feca2e05,true,39.06219,518,-77.129235,Congressional Ln & E Jefferson St,43,32081,518,classic
 15,false,false,a3761e59-db36-4b61-8bb3-8d523af69b96,true,39.00048,519,-77.00077,Garland Ave & Walden Rd,44,32082,519,classic
 13,false,false,730f282a-2f5b-4fda-b82f-5c94b3d5a2a6,true,38.92245,520,-77.23034,Greensboro & Pinnacle Dr,104,32227,520,classic
@@ -548,7 +548,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 11,false,false,65c9578a-8bda-4908-b626-06371c09338b,true,38.870093,585,-77.22997,Merrifield Cinema & Merrifield Town Center,104,32235,585,classic
 19,false,false,30c5787e-6fdb-421d-8eaf-32e652dbeae2,true,38.9243,586,-76.9859,Rhode Island & Montana Ave NE,42,31526,586,classic
 19,false,false,4f9000ec-e47e-494e-9b49-61e95b5a6f03,true,38.914173639930105,587,-77.02159523963928,7th & S St NW,42,31130,587,classic
-15,false,false,2a76806e-32b4-4ec6-a851-f73ba7dafda1,true,38.912524,588,-77.008798,North Capitol & R St NE,42,31527,588,classic
+15,false,false,2a76806e-32b4-4ec6-a851-f73ba7dafda1,true,38.912912458206925,588,-77.00891107320786,North Capitol & R St NE,42,31527,588,classic
 19,false,false,72e7c396-11ad-4e88-bf4b-e60584f748fc,true,38.942146,589,-77.038684,17th & Upshur St NW,42,31420,589,classic
 19,false,false,4ae62d55-b4b3-47d7-ada9-79185e2be3b9,true,38.942024743273045,590,-77.01822102069855,Grant Circle,42,31421,590,classic
 27,false,false,2a43f4e2-4102-482e-8879-245cf7555c6b,true,38.934405,591,-77.032687,14th & Otis Pl NW,42,31131,591,classic

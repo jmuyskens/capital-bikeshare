@@ -7266,7 +7266,7 @@
             "properties": {
                 "name": "Fishers Ln & Rock Creek Mill Rd",
                 "station_id": "517",
-                "capacity": 15
+                "capacity": 14
             },
             "geometry": {
                 "type": "Point",
@@ -8246,8 +8246,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.008798,
-                    38.912524
+                    -77.00891107320786,
+                    38.912912458206925
                 ]
             }
         },

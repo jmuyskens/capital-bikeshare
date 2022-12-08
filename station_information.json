@@ -10164,7 +10164,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 15,
+        "capacity": 14,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -11535,9 +11535,9 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "2a76806e-32b4-4ec6-a851-f73ba7dafda1",
         "has_kiosk": true,
-        "lat": 38.912524,
+        "lat": 38.912912458206925,
         "legacy_id": "588",
-        "lon": -77.008798,
+        "lon": -77.00891107320786,
         "name": "North Capitol & R St NE",
         "region_id": "42",
         "rental_methods": [
