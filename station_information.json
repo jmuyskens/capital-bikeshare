@@ -1,5 +1,110 @@
 [
     {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
+        "has_kiosk": true,
+        "lat": 38.944013,
+        "legacy_id": "685",
+        "lon": -77.353552,
+        "name": "Golf Course Sq and Golf Course Dr",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32246",
+        "station_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 19,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "e823318f-8406-4230-8072-1667f5de78d4",
+        "has_kiosk": true,
+        "lat": 38.953691,
+        "legacy_id": "681",
+        "lon": -77.359717,
+        "name": "Reston Town Center Metro North",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32243",
+        "station_id": "e823318f-8406-4230-8072-1667f5de78d4",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
+        "has_kiosk": true,
+        "lat": 38.966848,
+        "legacy_id": "677",
+        "lon": -77.329282,
+        "name": "Becontree Ln & Goldenrain Ct",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32239",
+        "station_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 11,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "3c6a1bf0-3aac-4406-990d-966cc8edca52",
+        "has_kiosk": true,
+        "lat": 38.944707,
+        "legacy_id": "541",
+        "lon": -77.335425,
+        "name": "Campus Commons",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32228",
+        "station_id": "3c6a1bf0-3aac-4406-990d-966cc8edca52",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "8aa43882-2e93-41fb-b55d-a6a15b5b446b",
+        "has_kiosk": true,
+        "lat": 38.966344,
+        "legacy_id": "675",
+        "lon": -77.359341,
+        "name": "Baron Cameron Ave & North Hampton Ave",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32237",
+        "station_id": "8aa43882-2e93-41fb-b55d-a6a15b5b446b",
+        "station_type": "classic"
+    },
+    {
         "capacity": 15,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -9246,9 +9351,9 @@
         "electric_bike_surcharge_waiver": false,
         "external_id": "0826540e-1f3f-11e7-bf6b-3863bb334450",
         "has_kiosk": true,
-        "lat": 38.968834,
+        "lat": 38.969903,
         "legacy_id": "469",
-        "lon": -77.016258,
+        "lon": -77.016574,
         "name": "3rd & Underwood St NW",
         "region_id": "42",
         "rental_methods": [
@@ -10602,27 +10707,6 @@
         "rental_uris": {},
         "short_name": "31417",
         "station_id": "540",
-        "station_type": "classic"
-    },
-    {
-        "capacity": 11,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "3c6a1bf0-3aac-4406-990d-966cc8edca52",
-        "has_kiosk": true,
-        "lat": 38.944707,
-        "legacy_id": "541",
-        "lon": -77.335425,
-        "name": "Campus Commons",
-        "region_id": "104",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "32228",
-        "station_id": "541",
         "station_type": "classic"
     },
     {
@@ -13171,27 +13255,6 @@
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
-        "external_id": "8aa43882-2e93-41fb-b55d-a6a15b5b446b",
-        "has_kiosk": true,
-        "lat": 38.966344,
-        "legacy_id": "675",
-        "lon": -77.359341,
-        "name": "Baron Cameron Ave & North Hampton Ave",
-        "region_id": "104",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "32237",
-        "station_id": "675",
-        "station_type": "classic"
-    },
-    {
-        "capacity": 12,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
         "external_id": "071dcbf5-3f1e-45e0-a4a5-8717adb8743f",
         "has_kiosk": true,
         "lat": 38.936061,
@@ -13206,27 +13269,6 @@
         "rental_uris": {},
         "short_name": "32238",
         "station_id": "676",
-        "station_type": "classic"
-    },
-    {
-        "capacity": 12,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
-        "has_kiosk": true,
-        "lat": 38.966848,
-        "legacy_id": "677",
-        "lon": -77.329282,
-        "name": "Becontree Ln & Goldenrain Ct",
-        "region_id": "104",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "32239",
-        "station_id": "677",
         "station_type": "classic"
     },
     {
@@ -13293,27 +13335,6 @@
         "station_type": "classic"
     },
     {
-        "capacity": 19,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "e823318f-8406-4230-8072-1667f5de78d4",
-        "has_kiosk": true,
-        "lat": 38.953691,
-        "legacy_id": "681",
-        "lon": -77.359717,
-        "name": "Reston Town Center Metro North",
-        "region_id": "104",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "32243",
-        "station_id": "681",
-        "station_type": "classic"
-    },
-    {
         "capacity": 12,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -13353,27 +13374,6 @@
         "rental_uris": {},
         "short_name": "32245",
         "station_id": "684",
-        "station_type": "classic"
-    },
-    {
-        "capacity": 12,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
-        "has_kiosk": true,
-        "lat": 38.944013,
-        "legacy_id": "685",
-        "lon": -77.353552,
-        "name": "Golf Course Sq and Golf Course Dr",
-        "region_id": "104",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "32246",
-        "station_id": "685",
         "station_type": "classic"
     },
     {

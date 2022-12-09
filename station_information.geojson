@@ -4,6 +4,81 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Golf Course Sq and Golf Course Dr",
+                "station_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.353552,
+                    38.944013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Reston Town Center Metro North",
+                "station_id": "e823318f-8406-4230-8072-1667f5de78d4",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.359717,
+                    38.953691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Becontree Ln & Goldenrain Ct",
+                "station_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.329282,
+                    38.966848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Campus Commons",
+                "station_id": "3c6a1bf0-3aac-4406-990d-966cc8edca52",
+                "capacity": 11
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.335425,
+                    38.944707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Baron Cameron Ave & North Hampton Ave",
+                "station_id": "8aa43882-2e93-41fb-b55d-a6a15b5b446b",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.359341,
+                    38.966344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Eads St & 15th St S",
                 "station_id": "1",
                 "capacity": 15
@@ -6611,8 +6686,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.016258,
-                    38.968834
+                    -77.016574,
+                    38.969903
                 ]
             }
         },
@@ -7573,21 +7648,6 @@
                 "coordinates": [
                     -77.02154964208603,
                     38.94796174822241
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Campus Commons",
-                "station_id": "541",
-                "capacity": 11
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.335425,
-                    38.944707
                 ]
             }
         },
@@ -9409,21 +9469,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Baron Cameron Ave & North Hampton Ave",
-                "station_id": "675",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.359341,
-                    38.966344
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Ridge Heights Rd & Seahawks Dr",
                 "station_id": "676",
                 "capacity": 12
@@ -9433,21 +9478,6 @@
                 "coordinates": [
                     -77.337775,
                     38.936061
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Becontree Ln & Goldenrain Ct",
-                "station_id": "677",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.329282,
-                    38.966848
                 ]
             }
         },
@@ -9499,21 +9529,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Reston Town Center Metro North",
-                "station_id": "681",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.359717,
-                    38.953691
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Vantage Hill Rd & Wainwright Dr",
                 "station_id": "682",
                 "capacity": 12
@@ -9538,21 +9553,6 @@
                 "coordinates": [
                     -77.339295,
                     38.959025
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Golf Course Sq and Golf Course Dr",
-                "station_id": "685",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.353552,
-                    38.944013
                 ]
             }
         },

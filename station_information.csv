@@ -1,4 +1,9 @@
 capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has_kiosk,lat,legacy_id,lon,name,region_id,short_name,station_id,station_type
+12,false,false,13c42471-96ab-441d-9a4c-bc57f7af6f9b,true,38.944013,685,-77.353552,Golf Course Sq and Golf Course Dr,104,32246,13c42471-96ab-441d-9a4c-bc57f7af6f9b,classic
+19,false,false,e823318f-8406-4230-8072-1667f5de78d4,true,38.953691,681,-77.359717,Reston Town Center Metro North,104,32243,e823318f-8406-4230-8072-1667f5de78d4,classic
+12,false,false,e976c0ab-bc21-42b3-a2c2-b90def6f54f4,true,38.966848,677,-77.329282,Becontree Ln & Goldenrain Ct,104,32239,e976c0ab-bc21-42b3-a2c2-b90def6f54f4,classic
+11,false,false,3c6a1bf0-3aac-4406-990d-966cc8edca52,true,38.944707,541,-77.335425,Campus Commons,104,32228,3c6a1bf0-3aac-4406-990d-966cc8edca52,classic
+12,false,false,8aa43882-2e93-41fb-b55d-a6a15b5b446b,true,38.966344,675,-77.359341,Baron Cameron Ave & North Hampton Ave,104,32237,8aa43882-2e93-41fb-b55d-a6a15b5b446b,classic
 15,false,false,082469cc-1f3f-11e7-bf6b-3863bb334450,true,38.858971,1,-77.05323,Eads St & 15th St S,41,31000,1,classic
 17,false,false,08246c35-1f3f-11e7-bf6b-3863bb334450,true,38.856425,3,-77.049232,Crystal Dr & 20th St S,41,31002,3,classic
 16,false,false,08246cd5-1f3f-11e7-bf6b-3863bb334450,true,38.861056,4,-77.049417,Crystal Dr & 15th St S,41,31003,4,classic
@@ -439,7 +444,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,082652d2-1f3f-11e7-bf6b-3863bb334450,true,39.032029,466,-77.04735,Windham Ln & Amherst Ave,44,32066,466,classic
 11,false,false,0826533b-1f3f-11e7-bf6b-3863bb334450,true,38.970412,467,-77.340787,North Shore Dr & Village Rd,104,32223,467,classic
 11,false,false,082653a6-1f3f-11e7-bf6b-3863bb334450,true,38.955170598044894,468,-77.3630940914154,Town Center Pkwy & Sunset Hills Rd,104,32224,468,classic
-19,false,false,0826540e-1f3f-11e7-bf6b-3863bb334450,true,38.968834,469,-77.016258,3rd & Underwood St NW,42,31413,469,classic
+19,false,false,0826540e-1f3f-11e7-bf6b-3863bb334450,true,38.969903,469,-77.016574,3rd & Underwood St NW,42,31413,469,classic
 19,false,false,0826547e-1f3f-11e7-bf6b-3863bb334450,true,38.93293,470,-76.979517,18th & Monroe St NE,42,31521,470,classic
 19,false,false,082654f4-1f3f-11e7-bf6b-3863bb334450,true,38.88345,471,-77.021741,7th & E St SW,42,31294,471,classic
 19,false,false,08265563-1f3f-11e7-bf6b-3863bb334450,true,39.121327,472,-77.164969,Shady Grove Metro East,43,32067,472,classic
@@ -504,7 +509,6 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,1e19ca16-ec12-48b9-bbbe-fe878745bb23,true,38.93132185874559,538,-77.02824711799622,11th & Park Rd NW,42,31651,538,classic
 19,false,false,9a93cdb5-bd4e-43b8-87f3-81dc9063999f,true,38.876751,539,-77.000736,4th & M St SE,42,31652,539,classic
 19,false,false,c645ddde-0156-47ab-9616-3121f541a6f0,true,38.94796174822241,540,-77.02154964208603,Kansas Ave & Sherman Cr NW,42,31417,540,classic
-11,false,false,3c6a1bf0-3aac-4406-990d-966cc8edca52,true,38.944707,541,-77.335425,Campus Commons,104,32228,541,classic
 11,false,false,a826e5d0-8ee8-41a4-8c1d-1a2ad7212dec,true,38.92755,542,-77.226644,Park Run & Onyx Dr,104,32229,542,classic
 19,false,false,a0d0ec92-ebda-436a-b476-7ee9a7bdb67d,true,38.902674,543,-77.021392,7th & K St NW,42,31653,543,classic
 19,false,false,99ddcd49-1312-4d80-8030-9bc2732deb5c,true,38.876211,544,-77.012443,King Greenleaf Rec Center,42,31654,544,classic
@@ -626,16 +630,12 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,6922a398-ec20-493d-a832-5e337cf335f5,true,39.00031,672,-76.878005,Roosevelt Center & Crescent Rd,133,32424,672,classic
 15,false,false,10d57c0d-6f3c-45d1-8a12-eda5665e213c,true,39.006191,673,-76.891247,Crescent Rd & Ridge Rd,133,32425,673,classic
 11,false,false,cec05512-b9d1-4671-bc76-8b168079db93,true,39.002459,674,-76.916243,Greenbelt Station Parkway,133,32426,674,classic
-12,false,false,8aa43882-2e93-41fb-b55d-a6a15b5b446b,true,38.966344,675,-77.359341,Baron Cameron Ave & North Hampton Ave,104,32237,675,classic
 12,false,false,071dcbf5-3f1e-45e0-a4a5-8717adb8743f,true,38.936061,676,-77.337775,Ridge Heights Rd & Seahawks Dr,104,32238,676,classic
-12,false,false,e976c0ab-bc21-42b3-a2c2-b90def6f54f4,true,38.966848,677,-77.329282,Becontree Ln & Goldenrain Ct,104,32239,677,classic
 12,false,false,bc5c6cf3-1c33-457f-a13d-f358c9909dc2,true,38.970807,678,-77.326761,Ring Rd & North Shore Dr,104,32240,678,classic
 12,false,false,a0121df5-4df5-425f-afb8-77dc94dc6d1b,true,38.973625,679,-77.351837,Reston Pkwy & Bennington Woods Rd,104,32241,679,classic
 12,false,false,0136af02-2670-4042-b5cd-18b46c15c0c1,true,38.965979,680,-77.334359,Inlet Ct & Wiehle Dr,104,32242,680,classic
-19,false,false,e823318f-8406-4230-8072-1667f5de78d4,true,38.953691,681,-77.359717,Reston Town Center Metro North,104,32243,681,classic
 12,false,false,8d68e4db-0bc9-440a-9b27-5d34ed1b93c9,true,38.9667,682,-77.348487,Vantage Hill Rd & Wainwright Dr,104,32244,682,classic
 12,false,false,9f03d90d-a7ff-433e-9718-b8066c82c5f1,true,38.959025,684,-77.339295,Links Dr & Wedge Dr,104,32245,684,classic
-12,false,false,13c42471-96ab-441d-9a4c-bc57f7af6f9b,true,38.944013,685,-77.353552,Golf Course Sq and Golf Course Dr,104,32246,685,classic
 12,false,false,d3cf2811-ca2e-4d2c-9843-8a90049b7b80,true,38.94335,686,-77.362304,South Lakes Dr and Reston Pkwy,104,32247,686,classic
 12,false,false,bc4fc3e2-2050-4571-851b-47f062319f95,true,38.938797,687,-77.354067,Olde Crafts Dr and Cartwright Pl,104,32248,687,classic
 12,false,false,0eae33bc-0b63-4120-ac4d-1e4ac729d524,true,38.93714618600706,688,-77.36786842346191,Green Range Dr and Glade Dr,104,32249,688,classic
