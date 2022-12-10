@@ -4,6 +4,27 @@
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
+        "external_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
+        "has_kiosk": true,
+        "lat": 38.966848,
+        "legacy_id": "677",
+        "lon": -77.329282,
+        "name": "Becontree Ln & Goldenrain Ct",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32239",
+        "station_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
         "external_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
         "has_kiosk": true,
         "lat": 38.944013,
@@ -39,27 +60,6 @@
         "rental_uris": {},
         "short_name": "32243",
         "station_id": "e823318f-8406-4230-8072-1667f5de78d4",
-        "station_type": "classic"
-    },
-    {
-        "capacity": 12,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
-        "has_kiosk": true,
-        "lat": 38.966848,
-        "legacy_id": "677",
-        "lon": -77.329282,
-        "name": "Becontree Ln & Goldenrain Ct",
-        "region_id": "104",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "32239",
-        "station_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
         "station_type": "classic"
     },
     {
@@ -219,7 +219,7 @@
         "lat": 38.86331354301248,
         "legacy_id": "7",
         "lon": -77.06341624259947,
-        "name": "Army Navy Dr & S Joyce St",
+        "name": "Pentagon Row Plaza / Army Navy Dr & Joyce St",
         "region_id": "41",
         "rental_methods": [
             "CREDITCARD",
@@ -4419,7 +4419,7 @@
         "lat": 38.847977,
         "legacy_id": "219",
         "lon": -77.075104,
-        "name": "Troy St & 26th St S",
+        "name": "S Troy St & 26th St S",
         "region_id": "41",
         "rental_methods": [
             "CREDITCARD",
@@ -4440,7 +4440,7 @@
         "lat": 38.8444,
         "legacy_id": "220",
         "lon": -77.085931,
-        "name": "Four Mile Run Dr & S Shirlington Rd",
+        "name": "S Four Mile Run Dr & Shirlington Rd",
         "region_id": "41",
         "rental_methods": [
             "CREDITCARD",
@@ -4482,7 +4482,7 @@
         "lat": 38.84736,
         "legacy_id": "222",
         "lon": -77.095431,
-        "name": "Four Mile Run Dr & S Walter Reed Dr",
+        "name": "S Four Mile Run Dr & Walter Reed Dr",
         "region_id": "41",
         "rental_methods": [
             "CREDITCARD",
@@ -4524,7 +4524,7 @@
         "lat": 38.848454,
         "legacy_id": "224",
         "lon": -77.084918,
-        "name": "Kenmore St & 24th St S",
+        "name": "S Kenmore St & 24th St S",
         "region_id": "41",
         "rental_methods": [
             "CREDITCARD",
@@ -4902,7 +4902,7 @@
         "lat": 38.852248,
         "legacy_id": "243",
         "lon": -77.105022,
-        "name": "S George Mason & Four Mile Run Dr",
+        "name": "S George Mason Dr & S Four Mile Run Dr",
         "region_id": "41",
         "rental_methods": [
             "CREDITCARD",
@@ -4944,7 +4944,7 @@
         "lat": 38.880705,
         "legacy_id": "245",
         "lon": -77.08596,
-        "name": "Pershing Dr & Wayne St",
+        "name": "N Pershing Dr & N Wayne St",
         "region_id": "41",
         "rental_methods": [
             "CREDITCARD",
@@ -5196,7 +5196,7 @@
         "lat": 38.871822,
         "legacy_id": "257",
         "lon": -77.107906,
-        "name": "Pershing Dr & N George Mason Dr",
+        "name": "N Pershing Dr & N George Mason Dr",
         "region_id": "41",
         "rental_methods": [
             "CREDITCARD",
@@ -6339,6 +6339,27 @@
         "rental_uris": {},
         "short_name": "32043",
         "station_id": "317",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 13,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "0825e147-1f3f-11e7-bf6b-3863bb334450",
+        "has_kiosk": true,
+        "lat": 39.085394,
+        "legacy_id": "318",
+        "lon": -77.145803,
+        "name": "Rockville Metro East",
+        "region_id": "43",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32044",
+        "station_id": "318",
         "station_type": "classic"
     },
     {
@@ -8631,7 +8652,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 14,
+        "capacity": 15,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -9522,7 +9543,7 @@
         "lat": 38.859305619982344,
         "legacy_id": "477",
         "lon": -77.10201859474182,
-        "name": "Columbia Pike & George Mason Dr",
+        "name": "Columbia Pike & S George Mason Dr",
         "region_id": "41",
         "rental_methods": [
             "CREDITCARD",
@@ -12315,7 +12336,7 @@
         "lat": 38.87947660895433,
         "legacy_id": "622",
         "lon": -77.11456328630447,
-        "name": "Wilson Blvd. & N. Vermont St.",
+        "name": "Wilson Blvd & N Vermont St",
         "region_id": "41",
         "rental_methods": [
             "CREDITCARD",
@@ -12798,7 +12819,7 @@
         "lat": 38.864838,
         "legacy_id": "649",
         "lon": -77.056873,
-        "name": "Fern St & Army Navy Dr",
+        "name": "Army Navy Dr & Fern St",
         "region_id": "41",
         "rental_methods": [
             "CREDITCARD",
@@ -14226,7 +14247,7 @@
         "lat": 38.84404,
         "legacy_id": "731",
         "lon": -77.098093,
-        "name": "S Wakefield St & 28th Rd S",
+        "name": "S Wakefield St & 28th St S",
         "region_id": "41",
         "rental_methods": [
             "CREDITCARD",
@@ -14247,7 +14268,7 @@
         "lat": 38.874248,
         "legacy_id": "732",
         "lon": -77.104784,
-        "name": "N Pershing Dr & Quebec St",
+        "name": "N Pershing Dr & N Quebec St",
         "region_id": "41",
         "rental_methods": [
             "CREDITCARD",

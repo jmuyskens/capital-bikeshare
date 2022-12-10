@@ -1,7 +1,7 @@
 capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has_kiosk,lat,legacy_id,lon,name,region_id,short_name,station_id,station_type
+12,false,false,e976c0ab-bc21-42b3-a2c2-b90def6f54f4,true,38.966848,677,-77.329282,Becontree Ln & Goldenrain Ct,104,32239,e976c0ab-bc21-42b3-a2c2-b90def6f54f4,classic
 12,false,false,13c42471-96ab-441d-9a4c-bc57f7af6f9b,true,38.944013,685,-77.353552,Golf Course Sq and Golf Course Dr,104,32246,13c42471-96ab-441d-9a4c-bc57f7af6f9b,classic
 19,false,false,e823318f-8406-4230-8072-1667f5de78d4,true,38.953691,681,-77.359717,Reston Town Center Metro North,104,32243,e823318f-8406-4230-8072-1667f5de78d4,classic
-12,false,false,e976c0ab-bc21-42b3-a2c2-b90def6f54f4,true,38.966848,677,-77.329282,Becontree Ln & Goldenrain Ct,104,32239,e976c0ab-bc21-42b3-a2c2-b90def6f54f4,classic
 11,false,false,3c6a1bf0-3aac-4406-990d-966cc8edca52,true,38.944707,541,-77.335425,Campus Commons,104,32228,3c6a1bf0-3aac-4406-990d-966cc8edca52,classic
 12,false,false,8aa43882-2e93-41fb-b55d-a6a15b5b446b,true,38.966344,675,-77.359341,Baron Cameron Ave & North Hampton Ave,104,32237,8aa43882-2e93-41fb-b55d-a6a15b5b446b,classic
 15,false,false,082469cc-1f3f-11e7-bf6b-3863bb334450,true,38.858971,1,-77.05323,Eads St & 15th St S,41,31000,1,classic
@@ -9,7 +9,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 16,false,false,08246cd5-1f3f-11e7-bf6b-3863bb334450,true,38.861056,4,-77.049417,Crystal Dr & 15th St S,41,31003,4,classic
 12,false,false,08246d68-1f3f-11e7-bf6b-3863bb334450,true,38.857866,5,-77.05949,Aurora Hills Cmty Ctr / 18th St & S Hayes St,41,31004,5,classic
 19,false,false,08246df5-1f3f-11e7-bf6b-3863bb334450,true,38.862303,6,-77.059936,Pentagon City Metro / 12th St & S Hayes St,41,31005,6,classic
-16,false,false,08246e8c-1f3f-11e7-bf6b-3863bb334450,true,38.86331354301248,7,-77.06341624259947,Army Navy Dr & S Joyce St,41,31006,7,classic
+16,false,false,08246e8c-1f3f-11e7-bf6b-3863bb334450,true,38.86331354301248,7,-77.06341624259947,Pentagon Row Plaza / Army Navy Dr & Joyce St,41,31006,7,classic
 19,false,false,08246f1f-1f3f-11e7-bf6b-3863bb334450,true,38.85778509815245,8,-77.05169767141342,Crystal City Metro / 18th St & S Bell St,41,31007,8,classic
 12,false,false,08247052-1f3f-11e7-bf6b-3863bb334450,true,38.848466,10,-77.051514,Crystal Dr & 27th St S,41,31009,10,classic
 11,false,false,08247269-1f3f-11e7-bf6b-3863bb334450,true,38.8426,11,-77.0502,S Glebe Rd & Potomac Ave,41,31010,11,classic
@@ -209,12 +209,12 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,082548ce-1f3f-11e7-bf6b-3863bb334450,true,38.949662,216,-77.027333,Georgia Ave & Emerson St NW,42,31405,216,classic
 19,false,false,08254943-1f3f-11e7-bf6b-3863bb334450,true,38.942475355602845,217,-77.03267812728882,14th & Upshur St NW,42,31406,217,classic
 19,false,false,082549b0-1f3f-11e7-bf6b-3863bb334450,true,38.956432,218,-77.032947,14th St & Colorado Ave NW,42,31407,218,classic
-12,false,false,08254a1e-1f3f-11e7-bf6b-3863bb334450,true,38.847977,219,-77.075104,Troy St & 26th St S,41,31056,219,classic
-12,false,false,08254a91-1f3f-11e7-bf6b-3863bb334450,true,38.8444,220,-77.085931,Four Mile Run Dr & S Shirlington Rd,41,31057,220,classic
+12,false,false,08254a1e-1f3f-11e7-bf6b-3863bb334450,true,38.847977,219,-77.075104,S Troy St & 26th St S,41,31056,219,classic
+12,false,false,08254a91-1f3f-11e7-bf6b-3863bb334450,true,38.8444,220,-77.085931,S Four Mile Run Dr & Shirlington Rd,41,31057,220,classic
 12,false,false,08254c82-1f3f-11e7-bf6b-3863bb334450,true,38.860343910937175,221,-77.09367156028748,Columbia Pike & Monroe St,41,31058,221,classic
-12,false,false,08254d7e-1f3f-11e7-bf6b-3863bb334450,true,38.84736,222,-77.095431,Four Mile Run Dr & S Walter Reed Dr,41,31059,222,classic
+12,false,false,08254d7e-1f3f-11e7-bf6b-3863bb334450,true,38.84736,222,-77.095431,S Four Mile Run Dr & Walter Reed Dr,41,31059,222,classic
 15,false,false,08254dee-1f3f-11e7-bf6b-3863bb334450,true,38.84232,223,-77.089555,S Arlington Mill Dr & Campbell Ave,41,31060,223,classic
-12,false,false,08254e55-1f3f-11e7-bf6b-3863bb334450,true,38.848454,224,-77.084918,Kenmore St & 24th St S,41,31061,224,classic
+12,false,false,08254e55-1f3f-11e7-bf6b-3863bb334450,true,38.848454,224,-77.084918,S Kenmore St & 24th St S,41,31061,224,classic
 15,false,false,08254ebb-1f3f-11e7-bf6b-3863bb334450,true,38.987,225,-77.029417,13th St & Eastern Ave,44,32006,225,classic
 19,false,false,08254f20-1f3f-11e7-bf6b-3863bb334450,true,38.90849,226,-77.063586,Wisconsin Ave & O St NW,42,31312,226,classic
 17,false,false,08254f8e-1f3f-11e7-bf6b-3863bb334450,true,38.896553,227,-77.06714,Roosevelt Island,41,31062,227,classic
@@ -232,9 +232,9 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 11,false,false,08256549-1f3f-11e7-bf6b-3863bb334450,true,38.863897,240,-76.990037,Pleasant St & MLK Ave SE,42,31807,240,classic
 15,false,false,082565f9-1f3f-11e7-bf6b-3863bb334450,true,38.903732,241,-76.987211,Neal St & Trinidad Ave NE,42,31512,241,classic
 31,false,false,08256670-1f3f-11e7-bf6b-3863bb334450,true,38.916787,242,-77.028139,12th & U St NW,42,31268,242,classic
-11,false,false,082566d7-1f3f-11e7-bf6b-3863bb334450,true,38.852248,243,-77.105022,S George Mason & Four Mile Run Dr,41,31063,243,classic
+11,false,false,082566d7-1f3f-11e7-bf6b-3863bb334450,true,38.852248,243,-77.105022,S George Mason Dr & S Four Mile Run Dr,41,31063,243,classic
 17,false,false,08256742-1f3f-11e7-bf6b-3863bb334450,true,38.865029,244,-77.039511,Gravelly Point,41,31064,244,classic
-11,false,false,0825697c-1f3f-11e7-bf6b-3863bb334450,true,38.880705,245,-77.08596,Pershing Dr & Wayne St,41,31065,245,classic
+11,false,false,0825697c-1f3f-11e7-bf6b-3863bb334450,true,38.880705,245,-77.08596,N Pershing Dr & N Wayne St,41,31065,245,classic
 11,false,false,082569e6-1f3f-11e7-bf6b-3863bb334450,true,38.867262,246,-77.072315,Columbia Pike & S Orme St,41,31066,246,classic
 15,false,false,08256a59-1f3f-11e7-bf6b-3863bb334450,true,38.887378,247,-77.001955,3rd St & Pennsylvania Ave SE,42,31269,247,classic
 15,false,false,08256ac9-1f3f-11e7-bf6b-3863bb334450,true,38.894851,248,-77.02324,8th & D St NW,42,31270,248,classic
@@ -246,7 +246,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,08256ee8-1f3f-11e7-bf6b-3863bb334450,true,38.927497,254,-76.997194,Hamlin & 7th St NE,42,31514,254,classic
 12,false,false,08256fcd-1f3f-11e7-bf6b-3863bb334450,true,38.862478,255,-77.086599,Columbia Pike & S Walter Reed Dr,41,31067,255,classic
 15,false,false,08257239-1f3f-11e7-bf6b-3863bb334450,true,38.856319,256,-77.11153,Arlington Mill Cmty Center / Columbia Pike & S Dinwiddie St,41,31068,256,classic
-11,false,false,082572b6-1f3f-11e7-bf6b-3863bb334450,true,38.871822,257,-77.107906,Pershing Dr & N George Mason Dr,41,31069,257,classic
+11,false,false,082572b6-1f3f-11e7-bf6b-3863bb334450,true,38.871822,257,-77.107906,N Pershing Dr & N George Mason Dr,41,31069,257,classic
 15,false,false,08257325-1f3f-11e7-bf6b-3863bb334450,true,38.985404,258,-77.023082,Fenton St & New York Ave ,44,32001,258,classic
 19,false,false,0825738d-1f3f-11e7-bf6b-3863bb334450,true,38.981103,259,-77.097426,Bethesda Ave & Arlington Rd,44,32002,259,classic
 11,false,false,0825756e-1f3f-11e7-bf6b-3863bb334450,true,38.983838,260,-77.09221,Montgomery Ave & Waverly St ,44,32003,260,classic
@@ -301,6 +301,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,0825df01-1f3f-11e7-bf6b-3863bb334450,true,39.103091,315,-77.196442,Medical Center Dr & Key West Ave,43,32041,315,classic
 19,false,false,0825dffc-1f3f-11e7-bf6b-3863bb334450,true,39.097636,316,-77.196636,Shady Grove Hospital,43,32042,316,classic
 11,false,false,0825e0a1-1f3f-11e7-bf6b-3863bb334450,true,38.997445,317,-77.023894,Veterans Pl & Pershing Dr ,44,32043,317,classic
+13,false,false,0825e147-1f3f-11e7-bf6b-3863bb334450,true,39.085394,318,-77.145803,Rockville Metro East,43,32044,318,classic
 15,false,false,0825e1e5-1f3f-11e7-bf6b-3863bb334450,true,38.900358,319,-77.012108,1st & H St NW,42,31638,319,classic
 19,false,false,0825e27a-1f3f-11e7-bf6b-3863bb334450,true,38.952369,320,-77.002721,Fort Totten Metro,42,31515,320,classic
 19,false,false,0825e31a-1f3f-11e7-bf6b-3863bb334450,true,38.975219,321,-77.016855,Takoma Metro,42,31408,321,classic
@@ -410,7 +411,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 11,false,false,082637a5-1f3f-11e7-bf6b-3863bb334450,true,38.932636,432,-77.231825,Tysons West Transit Center,104,32208,432,classic
 11,false,false,0826380c-1f3f-11e7-bf6b-3863bb334450,true,38.970046,433,-77.338686,North Shore & Cameron Crescent Dr/Crescent Apartments,104,32209,433,classic
 15,false,false,08263885-1f3f-11e7-bf6b-3863bb334450,true,38.962524,434,-77.361902,Town Center Pkwy & Bowman Towne Dr,104,32210,434,classic
-14,false,false,082638f2-1f3f-11e7-bf6b-3863bb334450,true,38.962095,435,-77.358815,Reston Regional Library,104,32211,435,classic
+15,false,false,082638f2-1f3f-11e7-bf6b-3863bb334450,true,38.962095,435,-77.358815,Reston Regional Library,104,32211,435,classic
 15,false,false,08263959-1f3f-11e7-bf6b-3863bb334450,true,38.960574,436,-77.356324,New Dominion Pkwy & Fountain Dr,104,32212,436,classic
 15,false,false,082639c8-1f3f-11e7-bf6b-3863bb334450,true,38.955079,437,-77.351649,Sunset Hills & Old Reston Ave,104,32213,437,classic
 17,false,false,08263a37-1f3f-11e7-bf6b-3863bb334450,true,38.957037,438,-77.359718,Reston Town Center Transit Station,104,32214,438,classic
@@ -452,7 +453,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 23,false,false,08265638-1f3f-11e7-bf6b-3863bb334450,true,38.924088,474,-77.040787,Columbia & Ontario Rd NW,42,31296,474,classic
 15,false,false,32a59636-02e5-4c53-a437-020986923dca,true,38.888282,475,-77.111066,Washington-Liberty High School / N Stafford St & Generals Way,41,31920,475,classic
 15,false,false,ce3db0b4-8c4f-4c6c-a059-73fff08c1edf,true,38.886048,476,-77.142317,Westover Library / Washington Blvd & N McKinley Rd,41,31921,476,classic
-15,false,false,7a00f0f5-f757-4715-9e89-58253ac36de0,true,38.859305619982344,477,-77.10201859474182,Columbia Pike & George Mason Dr,41,31923,477,classic
+15,false,false,7a00f0f5-f757-4715-9e89-58253ac36de0,true,38.859305619982344,477,-77.10201859474182,Columbia Pike & S George Mason Dr,41,31923,477,classic
 11,false,false,9029233f-84db-4f28-895d-8ecf727fb6d2,true,39.12582811177034,478,-77.16705948114395,Columbus Ave & Tribeca St,43,32068,478,classic
 11,false,false,de5bd592-0f48-4c6a-b7fc-8ff687c6e1a5,true,39.12333,479,-77.16486,Columbus Ave & Gramercy Blvd,43,32069,479,classic
 15,false,false,686c82c2-23fe-4c15-9c75-708f61de98c7,true,38.964207741006206,480,-77.35428035259247,Reston Pkwy & Spectrum Dr,104,32225,480,classic
@@ -585,7 +586,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,804fb759-1127-4059-a67a-c1fdd5d98082,true,39.085314,619,-76.940547,Castle Blvd & Castle Ln,44,32092,619,classic
 19,false,false,90682a3e-9cb2-43d1-b104-61c50043d35b,true,39.0379809,620,-76.9945391,Oak Leaf & Lockwood,44,32094,620,classic
 19,false,false,6edca550-d78f-4c5d-ad2c-79d1ce88c48d,true,39.04104,621,-76.987125,White Oak Transit Center,44,32093,621,classic
-12,false,false,72c402d9-63d9-4025-95a9-1577a34e5f52,true,38.87947660895433,622,-77.11456328630447,Wilson Blvd. & N. Vermont St.,41,31926,622,classic
+12,false,false,72c402d9-63d9-4025-95a9-1577a34e5f52,true,38.87947660895433,622,-77.11456328630447,Wilson Blvd & N Vermont St,41,31926,622,classic
 19,false,false,54962348-19dd-47b8-a816-bce25eb658a1,true,38.8974996,623,-76.9695094,Oklahoma Ave & Benning Rd NE,42,31719,623,classic
 19,false,false,0541e06c-642c-4f31-9f24-19bfcbb8811d,true,38.8693365,624,-76.978519,Minnesota Ave & R St SE,42,31826,624,classic
 11,false,false,84223eb6-9964-4bd7-85f0-2b6a316c3ba1,true,38.949008,625,-77.355299,Vy Reston Heights,104,32236,625,classic
@@ -608,7 +609,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,3f177fa3-6267-4138-82b3-6b528d71d3b2,true,38.881116725009335,646,-77.01769933104515,4th & G St SW,42,31666,646,classic
 19,false,false,d1fd7121-67e3-46a9-b415-e84a565394f2,true,38.958098,647,-77.013821,Kansas Ave & Longfellow St NW,42,31423,647,classic
 19,false,false,0248fa3b-6df4-4fdc-ae31-ee2e4d177da8,true,38.852903,648,-77.045916,National Airport,41,31935,648,classic
-15,false,false,0a5dbbe0-1325-49af-9fca-f0748ca06dc0,true,38.864838,649,-77.056873,Fern St & Army Navy Dr,41,31936,649,classic
+15,false,false,0a5dbbe0-1325-49af-9fca-f0748ca06dc0,true,38.864838,649,-77.056873,Army Navy Dr & Fern St,41,31936,649,classic
 15,false,false,199ecf43-3fcc-446e-8b91-e151e7ad617f,true,38.890863,650,-77.074893,Arlington Blvd & Ft Myer Dr,41,31937,650,classic
 15,false,false,99644655-ef85-4e13-a331-a344d88ded32,true,38.853002,651,-77.059496,23rd St S & Hayes St,41,31938,651,classic
 17,false,false,83c9bc80-bc42-4e5d-9f5e-6c24812e6e37,true,38.895068,652,-77.07386,Wilson Blvd & N Oak St,41,31939,652,classic
@@ -676,8 +677,8 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,ae007456-14ad-4619-a92e-e3a40f93a412,true,38.926102,728,-77.03665,16th & Harvard St NW,42,31135,728,classic
 16,false,false,889571f8-5774-4097-a31f-4b6e3f5b4381,true,38.817019,729,-77.050105,First St & Fayette St,40,31970,729,classic
 15,false,false,71686e8c-9f47-4a65-8840-c7276be3786e,true,38.863508,730,-77.084259,Penrose Sq/Columbia Pike & S Barton St,41,31971,730,classic
-15,false,false,7af26d39-a3b4-4fb3-b5b2-3acd415b9bea,true,38.84404,731,-77.098093,S Wakefield St & 28th Rd S,41,31972,731,classic
-15,false,false,174fc644-1a5a-4923-a8b5-373e0ad04525,true,38.874248,732,-77.104784,N Pershing Dr & Quebec St,41,31973,732,classic
+15,false,false,7af26d39-a3b4-4fb3-b5b2-3acd415b9bea,true,38.84404,731,-77.098093,S Wakefield St & 28th St S,41,31972,731,classic
+15,false,false,174fc644-1a5a-4923-a8b5-373e0ad04525,true,38.874248,732,-77.104784,N Pershing Dr & N Quebec St,41,31973,732,classic
 11,false,false,8dfb34e2-7f75-4359-a374-5bf5e86c4793,true,38.882425,734,-77.112754,Fairfax Dr & N Taylor St,41,31049,734,classic
 19,false,false,94b1507c-7f76-483c-b06a-a4131e0b5970,true,38.874820772513424,735,-77.0207878947258,Waterfront Park,,31673,735,classic
 19,false,false,a41e5bd2-b599-4c47-a36f-31ffa2e2dd0b,true,38.87674677186661,736,-77.02094480395317,Maine Ave & Water St SW,42,31674,736,classic

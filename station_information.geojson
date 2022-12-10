@@ -4,6 +4,21 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Becontree Ln & Goldenrain Ct",
+                "station_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.329282,
+                    38.966848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Golf Course Sq and Golf Course Dr",
                 "station_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
                 "capacity": 12
@@ -28,21 +43,6 @@
                 "coordinates": [
                     -77.359717,
                     38.953691
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Becontree Ln & Goldenrain Ct",
-                "station_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.329282,
-                    38.966848
                 ]
             }
         },
@@ -154,7 +154,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Army Navy Dr & S Joyce St",
+                "name": "Pentagon Row Plaza / Army Navy Dr & Joyce St",
                 "station_id": "7",
                 "capacity": 16
             },
@@ -3154,7 +3154,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Troy St & 26th St S",
+                "name": "S Troy St & 26th St S",
                 "station_id": "219",
                 "capacity": 12
             },
@@ -3169,7 +3169,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Four Mile Run Dr & S Shirlington Rd",
+                "name": "S Four Mile Run Dr & Shirlington Rd",
                 "station_id": "220",
                 "capacity": 12
             },
@@ -3199,7 +3199,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Four Mile Run Dr & S Walter Reed Dr",
+                "name": "S Four Mile Run Dr & Walter Reed Dr",
                 "station_id": "222",
                 "capacity": 12
             },
@@ -3229,7 +3229,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Kenmore St & 24th St S",
+                "name": "S Kenmore St & 24th St S",
                 "station_id": "224",
                 "capacity": 12
             },
@@ -3499,7 +3499,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "S George Mason & Four Mile Run Dr",
+                "name": "S George Mason Dr & S Four Mile Run Dr",
                 "station_id": "243",
                 "capacity": 11
             },
@@ -3529,7 +3529,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Pershing Dr & Wayne St",
+                "name": "N Pershing Dr & N Wayne St",
                 "station_id": "245",
                 "capacity": 11
             },
@@ -3709,7 +3709,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Pershing Dr & N George Mason Dr",
+                "name": "N Pershing Dr & N George Mason Dr",
                 "station_id": "257",
                 "capacity": 11
             },
@@ -4528,6 +4528,21 @@
                 "coordinates": [
                     -77.023894,
                     38.997445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rockville Metro East",
+                "station_id": "318",
+                "capacity": 13
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.145803,
+                    39.085394
                 ]
             }
         },
@@ -6171,7 +6186,7 @@
             "properties": {
                 "name": "Reston Regional Library",
                 "station_id": "435",
-                "capacity": 14
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
@@ -6799,7 +6814,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Columbia Pike & George Mason Dr",
+                "name": "Columbia Pike & S George Mason Dr",
                 "station_id": "477",
                 "capacity": 15
             },
@@ -8794,7 +8809,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Wilson Blvd. & N. Vermont St.",
+                "name": "Wilson Blvd & N Vermont St",
                 "station_id": "622",
                 "capacity": 12
             },
@@ -9139,7 +9154,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Fern St & Army Navy Dr",
+                "name": "Army Navy Dr & Fern St",
                 "station_id": "649",
                 "capacity": 15
             },
@@ -10159,7 +10174,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "S Wakefield St & 28th Rd S",
+                "name": "S Wakefield St & 28th St S",
                 "station_id": "731",
                 "capacity": 15
             },
@@ -10174,7 +10189,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "N Pershing Dr & Quebec St",
+                "name": "N Pershing Dr & N Quebec St",
                 "station_id": "732",
                 "capacity": 15
             },
