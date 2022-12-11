@@ -4,27 +4,6 @@
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
-        "external_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
-        "has_kiosk": true,
-        "lat": 38.966848,
-        "legacy_id": "677",
-        "lon": -77.329282,
-        "name": "Becontree Ln & Goldenrain Ct",
-        "region_id": "104",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "32239",
-        "station_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
-        "station_type": "classic"
-    },
-    {
-        "capacity": 12,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
         "external_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
         "has_kiosk": true,
         "lat": 38.944013,
@@ -39,6 +18,27 @@
         "rental_uris": {},
         "short_name": "32246",
         "station_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
+        "has_kiosk": true,
+        "lat": 38.966848,
+        "legacy_id": "677",
+        "lon": -77.329282,
+        "name": "Becontree Ln & Goldenrain Ct",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32239",
+        "station_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
         "station_type": "classic"
     },
     {
