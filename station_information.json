@@ -1,26 +1,5 @@
 [
     {
-        "capacity": 12,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
-        "has_kiosk": true,
-        "lat": 38.944013,
-        "legacy_id": "685",
-        "lon": -77.353552,
-        "name": "Golf Course Sq and Golf Course Dr",
-        "region_id": "104",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "32246",
-        "station_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
-        "station_type": "classic"
-    },
-    {
         "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -60,6 +39,27 @@
         "rental_uris": {},
         "short_name": "32239",
         "station_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
+        "has_kiosk": true,
+        "lat": 38.944013,
+        "legacy_id": "685",
+        "lon": -77.353552,
+        "name": "Golf Course Sq and Golf Course Dr",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32246",
+        "station_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
         "station_type": "classic"
     },
     {
@@ -14689,6 +14689,46 @@
         "rental_uris": {},
         "short_name": "32258",
         "station_id": "753",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 15,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "c9760156-83bd-4a7d-9dfa-85d7ee463f62",
+        "has_kiosk": true,
+        "lat": 38.9216413,
+        "legacy_id": "755",
+        "lon": -76.9556866,
+        "name": "Fort Lincoln Dr & 33rd Pl NE",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31537",
+        "station_id": "755",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "183f8ffb-756c-4271-8d9a-a5cde3f13116",
+        "has_kiosk": false,
+        "lat": 38.9252,
+        "legacy_id": "756",
+        "lon": -76.964896,
+        "name": "South Dakota Ave & Bladensburg Rd NE",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31538",
+        "station_id": "756",
         "station_type": "classic"
     }
 ]

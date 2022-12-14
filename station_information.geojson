@@ -4,21 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Golf Course Sq and Golf Course Dr",
-                "station_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.353552,
-                    38.944013
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Reston Town Center Metro North",
                 "station_id": "e823318f-8406-4230-8072-1667f5de78d4",
                 "capacity": 19
@@ -43,6 +28,21 @@
                 "coordinates": [
                     -77.329282,
                     38.966848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Golf Course Sq and Golf Course Dr",
+                "station_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.353552,
+                    38.944013
                 ]
             }
         },
@@ -10498,6 +10498,36 @@
                 "coordinates": [
                     -77.361466,
                     38.9523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fort Lincoln Dr & 33rd Pl NE",
+                "station_id": "755",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.9556866,
+                    38.9216413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "South Dakota Ave & Bladensburg Rd NE",
+                "station_id": "756",
+                "capacity": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.964896,
+                    38.9252
                 ]
             }
         }

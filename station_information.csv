@@ -1,7 +1,7 @@
 capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has_kiosk,lat,legacy_id,lon,name,region_id,short_name,station_id,station_type
-12,false,false,13c42471-96ab-441d-9a4c-bc57f7af6f9b,true,38.944013,685,-77.353552,Golf Course Sq and Golf Course Dr,104,32246,13c42471-96ab-441d-9a4c-bc57f7af6f9b,classic
 19,false,false,e823318f-8406-4230-8072-1667f5de78d4,true,38.953691,681,-77.359717,Reston Town Center Metro North,104,32243,e823318f-8406-4230-8072-1667f5de78d4,classic
 12,false,false,e976c0ab-bc21-42b3-a2c2-b90def6f54f4,true,38.966848,677,-77.329282,Becontree Ln & Goldenrain Ct,104,32239,e976c0ab-bc21-42b3-a2c2-b90def6f54f4,classic
+12,false,false,13c42471-96ab-441d-9a4c-bc57f7af6f9b,true,38.944013,685,-77.353552,Golf Course Sq and Golf Course Dr,104,32246,13c42471-96ab-441d-9a4c-bc57f7af6f9b,classic
 11,false,false,3c6a1bf0-3aac-4406-990d-966cc8edca52,true,38.944707,541,-77.335425,Campus Commons,104,32228,3c6a1bf0-3aac-4406-990d-966cc8edca52,classic
 12,false,false,8aa43882-2e93-41fb-b55d-a6a15b5b446b,true,38.966344,675,-77.359341,Baron Cameron Ave & North Hampton Ave,104,32237,8aa43882-2e93-41fb-b55d-a6a15b5b446b,classic
 15,false,false,082469cc-1f3f-11e7-bf6b-3863bb334450,true,38.858971,1,-77.05323,Eads St & 15th St S,41,31000,1,classic
@@ -699,3 +699,5 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,5f060548-684b-469b-8825-66c80d77a874,true,38.88791377249907,751,-77.12801456451415,Virginia Hospital Center,41,31976,751,classic
 15,false,false,5eb5b5a7-db69-4d8a-a16a-604678a544b7,true,38.904252,752,-77.127776,Marymount University / Yorktown Blvd & 26th St N,,31977,752,classic
 19,false,false,5dfab137-f65a-41c0-99ef-d58f29a735b2,true,38.9523,753,-77.361466,Reston Town Center Metro South,,32258,753,classic
+15,false,false,c9760156-83bd-4a7d-9dfa-85d7ee463f62,true,38.9216413,755,-76.9556866,Fort Lincoln Dr & 33rd Pl NE,,31537,755,classic
+0,false,false,183f8ffb-756c-4271-8d9a-a5cde3f13116,false,38.9252,756,-76.964896,South Dakota Ave & Bladensburg Rd NE,,31538,756,classic
