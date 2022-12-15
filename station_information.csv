@@ -1,7 +1,7 @@
 capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has_kiosk,lat,legacy_id,lon,name,region_id,short_name,station_id,station_type
-19,false,false,e823318f-8406-4230-8072-1667f5de78d4,true,38.953691,681,-77.359717,Reston Town Center Metro North,104,32243,e823318f-8406-4230-8072-1667f5de78d4,classic
 12,false,false,e976c0ab-bc21-42b3-a2c2-b90def6f54f4,true,38.966848,677,-77.329282,Becontree Ln & Goldenrain Ct,104,32239,e976c0ab-bc21-42b3-a2c2-b90def6f54f4,classic
 12,false,false,13c42471-96ab-441d-9a4c-bc57f7af6f9b,true,38.944013,685,-77.353552,Golf Course Sq and Golf Course Dr,104,32246,13c42471-96ab-441d-9a4c-bc57f7af6f9b,classic
+19,false,false,e823318f-8406-4230-8072-1667f5de78d4,true,38.953691,681,-77.359717,Reston Town Center Metro North,104,32243,e823318f-8406-4230-8072-1667f5de78d4,classic
 11,false,false,3c6a1bf0-3aac-4406-990d-966cc8edca52,true,38.944707,541,-77.335425,Campus Commons,104,32228,3c6a1bf0-3aac-4406-990d-966cc8edca52,classic
 12,false,false,8aa43882-2e93-41fb-b55d-a6a15b5b446b,true,38.966344,675,-77.359341,Baron Cameron Ave & North Hampton Ave,104,32237,8aa43882-2e93-41fb-b55d-a6a15b5b446b,classic
 15,false,false,082469cc-1f3f-11e7-bf6b-3863bb334450,true,38.858971,1,-77.05323,Eads St & 15th St S,41,31000,1,classic
@@ -401,7 +401,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,08263311-1f3f-11e7-bf6b-3863bb334450,true,38.91263,421,-76.971923,24th & R St NE / National Arboretum,42,31520,421,classic
 15,false,false,0826337e-1f3f-11e7-bf6b-3863bb334450,true,38.897407,422,-76.925907,Division Ave & Foote St NE,42,31713,422,classic
 23,false,false,082633ec-1f3f-11e7-bf6b-3863bb334450,true,38.870695,423,-76.982359,16th & Q St SE / Anacostia HS,42,31812,423,classic
-15,false,false,0826345e-1f3f-11e7-bf6b-3863bb334450,true,38.929261,424,-77.240654,Spring Hill Metro,104,32200,424,classic
+14,false,false,0826345e-1f3f-11e7-bf6b-3863bb334450,true,38.929261,424,-77.240654,Spring Hill Metro,104,32200,424,classic
 11,false,false,082634c6-1f3f-11e7-bf6b-3863bb334450,true,38.92403,425,-77.235955,Westpark Dr & Leesburg Pike,104,32201,425,classic
 11,false,false,0826359a-1f3f-11e7-bf6b-3863bb334450,true,38.919475,427,-77.221179,Tysons One Pl & Chain Bridge Rd,104,32203,427,classic
 11,false,false,08263601-1f3f-11e7-bf6b-3863bb334450,true,38.920939,428,-77.222115,Tysons Corner Station,104,32204,428,classic
@@ -413,7 +413,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,08263885-1f3f-11e7-bf6b-3863bb334450,true,38.962524,434,-77.361902,Town Center Pkwy & Bowman Towne Dr,104,32210,434,classic
 15,false,false,082638f2-1f3f-11e7-bf6b-3863bb334450,true,38.962095,435,-77.358815,Reston Regional Library,104,32211,435,classic
 15,false,false,08263959-1f3f-11e7-bf6b-3863bb334450,true,38.960574,436,-77.356324,New Dominion Pkwy & Fountain Dr,104,32212,436,classic
-15,false,false,082639c8-1f3f-11e7-bf6b-3863bb334450,true,38.955079,437,-77.351649,Sunset Hills & Old Reston Ave,104,32213,437,classic
+14,false,false,082639c8-1f3f-11e7-bf6b-3863bb334450,true,38.955079,437,-77.351649,Sunset Hills & Old Reston Ave,104,32213,437,classic
 17,false,false,08263a37-1f3f-11e7-bf6b-3863bb334450,true,38.957037,438,-77.359718,Reston Town Center Transit Station,104,32214,438,classic
 19,false,false,08263aa1-1f3f-11e7-bf6b-3863bb334450,true,38.884916,439,-77.005965,1st & D St SE,42,31643,439,classic
 19,false,false,08263b08-1f3f-11e7-bf6b-3863bb334450,true,38.946607921214984,440,-77.3393914103508,Wiehle-Reston Metro South,104,32215,440,classic
@@ -700,4 +700,4 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,5eb5b5a7-db69-4d8a-a16a-604678a544b7,true,38.904252,752,-77.127776,Marymount University / Yorktown Blvd & 26th St N,,31977,752,classic
 19,false,false,5dfab137-f65a-41c0-99ef-d58f29a735b2,true,38.9523,753,-77.361466,Reston Town Center Metro South,,32258,753,classic
 15,false,false,c9760156-83bd-4a7d-9dfa-85d7ee463f62,true,38.9216413,755,-76.9556866,Fort Lincoln Dr & 33rd Pl NE,,31537,755,classic
-0,false,false,183f8ffb-756c-4271-8d9a-a5cde3f13116,false,38.9252,756,-76.964896,South Dakota Ave & Bladensburg Rd NE,,31538,756,classic
+15,false,false,183f8ffb-756c-4271-8d9a-a5cde3f13116,true,38.9252,756,-76.964896,South Dakota Ave & Bladensburg Rd NE,,31538,756,classic

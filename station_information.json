@@ -1,26 +1,5 @@
 [
     {
-        "capacity": 19,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "e823318f-8406-4230-8072-1667f5de78d4",
-        "has_kiosk": true,
-        "lat": 38.953691,
-        "legacy_id": "681",
-        "lon": -77.359717,
-        "name": "Reston Town Center Metro North",
-        "region_id": "104",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "32243",
-        "station_id": "e823318f-8406-4230-8072-1667f5de78d4",
-        "station_type": "classic"
-    },
-    {
         "capacity": 12,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -60,6 +39,27 @@
         "rental_uris": {},
         "short_name": "32246",
         "station_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 19,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "e823318f-8406-4230-8072-1667f5de78d4",
+        "has_kiosk": true,
+        "lat": 38.953691,
+        "legacy_id": "681",
+        "lon": -77.359717,
+        "name": "Reston Town Center Metro North",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32243",
+        "station_id": "e823318f-8406-4230-8072-1667f5de78d4",
         "station_type": "classic"
     },
     {
@@ -8442,7 +8442,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 15,
+        "capacity": 14,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -8694,7 +8694,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 15,
+        "capacity": 14,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -14712,12 +14712,12 @@
         "station_type": "classic"
     },
     {
-        "capacity": 0,
+        "capacity": 15,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
         "external_id": "183f8ffb-756c-4271-8d9a-a5cde3f13116",
-        "has_kiosk": false,
+        "has_kiosk": true,
         "lat": 38.9252,
         "legacy_id": "756",
         "lon": -76.964896,
