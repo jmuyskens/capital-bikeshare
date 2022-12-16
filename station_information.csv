@@ -1,7 +1,7 @@
 capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has_kiosk,lat,legacy_id,lon,name,region_id,short_name,station_id,station_type
-12,false,false,e976c0ab-bc21-42b3-a2c2-b90def6f54f4,true,38.966848,677,-77.329282,Becontree Ln & Goldenrain Ct,104,32239,e976c0ab-bc21-42b3-a2c2-b90def6f54f4,classic
 12,false,false,13c42471-96ab-441d-9a4c-bc57f7af6f9b,true,38.944013,685,-77.353552,Golf Course Sq and Golf Course Dr,104,32246,13c42471-96ab-441d-9a4c-bc57f7af6f9b,classic
 19,false,false,e823318f-8406-4230-8072-1667f5de78d4,true,38.953691,681,-77.359717,Reston Town Center Metro North,104,32243,e823318f-8406-4230-8072-1667f5de78d4,classic
+12,false,false,e976c0ab-bc21-42b3-a2c2-b90def6f54f4,true,38.966848,677,-77.329282,Becontree Ln & Goldenrain Ct,104,32239,e976c0ab-bc21-42b3-a2c2-b90def6f54f4,classic
 11,false,false,3c6a1bf0-3aac-4406-990d-966cc8edca52,true,38.944707,541,-77.335425,Campus Commons,104,32228,3c6a1bf0-3aac-4406-990d-966cc8edca52,classic
 12,false,false,8aa43882-2e93-41fb-b55d-a6a15b5b446b,true,38.966344,675,-77.359341,Baron Cameron Ave & North Hampton Ave,104,32237,8aa43882-2e93-41fb-b55d-a6a15b5b446b,classic
 15,false,false,082469cc-1f3f-11e7-bf6b-3863bb334450,true,38.858971,1,-77.05323,Eads St & 15th St S,41,31000,1,classic
@@ -401,7 +401,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,08263311-1f3f-11e7-bf6b-3863bb334450,true,38.91263,421,-76.971923,24th & R St NE / National Arboretum,42,31520,421,classic
 15,false,false,0826337e-1f3f-11e7-bf6b-3863bb334450,true,38.897407,422,-76.925907,Division Ave & Foote St NE,42,31713,422,classic
 23,false,false,082633ec-1f3f-11e7-bf6b-3863bb334450,true,38.870695,423,-76.982359,16th & Q St SE / Anacostia HS,42,31812,423,classic
-14,false,false,0826345e-1f3f-11e7-bf6b-3863bb334450,true,38.929261,424,-77.240654,Spring Hill Metro,104,32200,424,classic
+15,false,false,0826345e-1f3f-11e7-bf6b-3863bb334450,true,38.929261,424,-77.240654,Spring Hill Metro,104,32200,424,classic
 11,false,false,082634c6-1f3f-11e7-bf6b-3863bb334450,true,38.92403,425,-77.235955,Westpark Dr & Leesburg Pike,104,32201,425,classic
 11,false,false,0826359a-1f3f-11e7-bf6b-3863bb334450,true,38.919475,427,-77.221179,Tysons One Pl & Chain Bridge Rd,104,32203,427,classic
 11,false,false,08263601-1f3f-11e7-bf6b-3863bb334450,true,38.920939,428,-77.222115,Tysons Corner Station,104,32204,428,classic
@@ -680,7 +680,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,7af26d39-a3b4-4fb3-b5b2-3acd415b9bea,true,38.84404,731,-77.098093,S Wakefield St & 28th St S,41,31972,731,classic
 15,false,false,174fc644-1a5a-4923-a8b5-373e0ad04525,true,38.874248,732,-77.104784,N Pershing Dr & N Quebec St,41,31973,732,classic
 11,false,false,8dfb34e2-7f75-4359-a374-5bf5e86c4793,true,38.882425,734,-77.112754,Fairfax Dr & N Taylor St,41,31049,734,classic
-19,false,false,94b1507c-7f76-483c-b06a-a4131e0b5970,true,38.874820772513424,735,-77.0207878947258,Waterfront Park,,31673,735,classic
+19,false,false,94b1507c-7f76-483c-b06a-a4131e0b5970,true,38.874820772513424,735,-77.0207878947258,Waterfront Park,42,31673,735,classic
 19,false,false,a41e5bd2-b599-4c47-a36f-31ffa2e2dd0b,true,38.87674677186661,736,-77.02094480395317,Maine Ave & Water St SW,42,31674,736,classic
 19,false,false,177f7198-8814-4068-b809-b6074346d2e9,true,38.911213594521456,737,-77.0022565126419,Tanner Park,42,31533,737,classic
 23,false,false,c7402dc0-b498-47b0-8977-2b9d671a62bb,true,38.939674172021654,738,-77.07527697086334,Wisconsin Ave & Rodman St NW,42,31333,738,classic
@@ -688,16 +688,17 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,066fd95e-0d37-4eea-a027-88c04277bb9d,true,38.932242581555066,740,-76.9961330294609,7th & Monroe St NE,42,31534,740,classic
 19,false,false,a62f9324-6f6e-4bdb-9206-3ca05517e607,true,38.92248919793601,741,-76.99267029762268,10th St & Rhode Island Ave NE,42,31535,741,classic
 19,false,false,5205f20c-ded8-4469-bafd-021bc7229295,true,38.9223243445331,742,-77.02708572149277,11th & Clifton St NW,42,31136,742,classic
-15,false,false,84a0159b-5f00-417a-8f06-6c7c8437049f,true,38.870823939537914,743,-77.01191514730453,1st & Q St SW,,31676,743,classic
+15,false,false,84a0159b-5f00-417a-8f06-6c7c8437049f,true,38.870823939537914,743,-77.01191514730453,1st & Q St SW,42,31676,743,classic
 19,false,false,30b5e0c1-7ca6-4050-8566-3fccf0b60890,true,38.95366314394005,744,-77.02561318874359,9th & Ingraham St NW,42,31424,744,classic
-12,false,false,141766fa-fa3b-4c61-8e46-a8673c910a0c,true,38.802893,745,-77.072558,Mandeville Ln & Stovall St,,31974,745,classic
+12,false,false,141766fa-fa3b-4c61-8e46-a8673c910a0c,true,38.802893,745,-77.072558,Mandeville Ln & Stovall St,40,31974,745,classic
 19,false,false,9b9156b3-51c3-44c8-af49-46e3f4dea30f,true,38.93713516763736,746,-77.01912492513657,Park Pl & Rock Creek Church Rd NW,42,31137,746,classic
-19,false,false,2574f980-163e-4b9b-8107-6145615815b3,true,38.880760725950644,747,-77.00574070215225,New Jersey Ave & H St SE,,31828,747,classic
-19,false,false,5a3453ad-43af-495d-ba1f-e8be6b66e2e8,true,38.890461,748,-76.96128,Anacostia Ave & East Capitol St NE,,31721,748,classic
-15,false,false,60b9672e-7668-431b-801b-affaccb680bb,true,38.92123296360907,749,-77.01813519001007,4th & College St NW,,31138,749,classic
+19,false,false,2574f980-163e-4b9b-8107-6145615815b3,true,38.880760725950644,747,-77.00574070215225,New Jersey Ave & H St SE,42,31828,747,classic
+19,false,false,5a3453ad-43af-495d-ba1f-e8be6b66e2e8,true,38.890461,748,-76.96128,Anacostia Ave & East Capitol St NE,42,31721,748,classic
+15,false,false,60b9672e-7668-431b-801b-affaccb680bb,true,38.92123296360907,749,-77.01813519001007,4th & College St NW,42,31138,749,classic
 19,false,false,79ae0ec5-9bbd-41ee-a9e9-7753233b5e77,true,38.907286773254675,750,-76.99916660785675,5th & Morse St NE,42,31536,750,classic
 15,false,false,5f060548-684b-469b-8825-66c80d77a874,true,38.88791377249907,751,-77.12801456451415,Virginia Hospital Center,41,31976,751,classic
-15,false,false,5eb5b5a7-db69-4d8a-a16a-604678a544b7,true,38.904252,752,-77.127776,Marymount University / Yorktown Blvd & 26th St N,,31977,752,classic
-19,false,false,5dfab137-f65a-41c0-99ef-d58f29a735b2,true,38.9523,753,-77.361466,Reston Town Center Metro South,,32258,753,classic
-15,false,false,c9760156-83bd-4a7d-9dfa-85d7ee463f62,true,38.9216413,755,-76.9556866,Fort Lincoln Dr & 33rd Pl NE,,31537,755,classic
-15,false,false,183f8ffb-756c-4271-8d9a-a5cde3f13116,true,38.9252,756,-76.964896,South Dakota Ave & Bladensburg Rd NE,,31538,756,classic
+15,false,false,5eb5b5a7-db69-4d8a-a16a-604678a544b7,true,38.904252,752,-77.127776,Marymount University / Yorktown Blvd & 26th St N,41,31977,752,classic
+19,false,false,5dfab137-f65a-41c0-99ef-d58f29a735b2,true,38.9523,753,-77.361466,Reston Town Center Metro South,104,32258,753,classic
+15,false,false,c9760156-83bd-4a7d-9dfa-85d7ee463f62,true,38.9216413,755,-76.9556866,Fort Lincoln Dr & 33rd Pl NE,42,31537,755,classic
+15,false,false,183f8ffb-756c-4271-8d9a-a5cde3f13116,true,38.9252,756,-76.964896,South Dakota Ave & Bladensburg Rd NE,42,31538,756,classic
+15,false,false,115f58ec-eddc-40cf-a789-13517d5df2a4,true,38.921986,757,-76.960696,South Dakota Ave & 33rd St NE,42,31539,757,classic

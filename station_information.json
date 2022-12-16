@@ -4,27 +4,6 @@
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
-        "external_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
-        "has_kiosk": true,
-        "lat": 38.966848,
-        "legacy_id": "677",
-        "lon": -77.329282,
-        "name": "Becontree Ln & Goldenrain Ct",
-        "region_id": "104",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "32239",
-        "station_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
-        "station_type": "classic"
-    },
-    {
-        "capacity": 12,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
         "external_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
         "has_kiosk": true,
         "lat": 38.944013,
@@ -60,6 +39,27 @@
         "rental_uris": {},
         "short_name": "32243",
         "station_id": "e823318f-8406-4230-8072-1667f5de78d4",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
+        "has_kiosk": true,
+        "lat": 38.966848,
+        "legacy_id": "677",
+        "lon": -77.329282,
+        "name": "Becontree Ln & Goldenrain Ct",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32239",
+        "station_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
         "station_type": "classic"
     },
     {
@@ -8442,7 +8442,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 14,
+        "capacity": 15,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -14311,6 +14311,7 @@
         "legacy_id": "735",
         "lon": -77.0207878947258,
         "name": "Waterfront Park",
+        "region_id": "42",
         "rental_methods": [
             "CREDITCARD",
             "KEY"
@@ -14478,6 +14479,7 @@
         "legacy_id": "743",
         "lon": -77.01191514730453,
         "name": "1st & Q St SW",
+        "region_id": "42",
         "rental_methods": [
             "CREDITCARD",
             "KEY"
@@ -14519,6 +14521,7 @@
         "legacy_id": "745",
         "lon": -77.072558,
         "name": "Mandeville Ln & Stovall St",
+        "region_id": "40",
         "rental_methods": [
             "CREDITCARD",
             "KEY"
@@ -14560,6 +14563,7 @@
         "legacy_id": "747",
         "lon": -77.00574070215225,
         "name": "New Jersey Ave & H St SE",
+        "region_id": "42",
         "rental_methods": [
             "CREDITCARD",
             "KEY"
@@ -14580,6 +14584,7 @@
         "legacy_id": "748",
         "lon": -76.96128,
         "name": "Anacostia Ave & East Capitol St NE",
+        "region_id": "42",
         "rental_methods": [
             "CREDITCARD",
             "KEY"
@@ -14600,6 +14605,7 @@
         "legacy_id": "749",
         "lon": -77.01813519001007,
         "name": "4th & College St NW",
+        "region_id": "42",
         "rental_methods": [
             "CREDITCARD",
             "KEY"
@@ -14662,6 +14668,7 @@
         "legacy_id": "752",
         "lon": -77.127776,
         "name": "Marymount University / Yorktown Blvd & 26th St N",
+        "region_id": "41",
         "rental_methods": [
             "CREDITCARD",
             "KEY"
@@ -14682,6 +14689,7 @@
         "legacy_id": "753",
         "lon": -77.361466,
         "name": "Reston Town Center Metro South",
+        "region_id": "104",
         "rental_methods": [
             "CREDITCARD",
             "KEY"
@@ -14702,6 +14710,7 @@
         "legacy_id": "755",
         "lon": -76.9556866,
         "name": "Fort Lincoln Dr & 33rd Pl NE",
+        "region_id": "42",
         "rental_methods": [
             "CREDITCARD",
             "KEY"
@@ -14722,6 +14731,7 @@
         "legacy_id": "756",
         "lon": -76.964896,
         "name": "South Dakota Ave & Bladensburg Rd NE",
+        "region_id": "42",
         "rental_methods": [
             "CREDITCARD",
             "KEY"
@@ -14729,6 +14739,27 @@
         "rental_uris": {},
         "short_name": "31538",
         "station_id": "756",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 15,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "115f58ec-eddc-40cf-a789-13517d5df2a4",
+        "has_kiosk": true,
+        "lat": 38.921986,
+        "legacy_id": "757",
+        "lon": -76.960696,
+        "name": "South Dakota Ave & 33rd St NE",
+        "region_id": "42",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31539",
+        "station_id": "757",
         "station_type": "classic"
     }
 ]
