@@ -4,6 +4,21 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Becontree Ln & Goldenrain Ct",
+                "station_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.329282,
+                    38.966848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Golf Course Sq and Golf Course Dr",
                 "station_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
                 "capacity": 12
@@ -28,21 +43,6 @@
                 "coordinates": [
                     -77.359717,
                     38.953691
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Becontree Ln & Goldenrain Ct",
-                "station_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.329282,
-                    38.966848
                 ]
             }
         },
@@ -5666,8 +5666,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.02714,
-                    38.90843
+                    -77.026975,
+                    38.908094
                 ]
             }
         },
