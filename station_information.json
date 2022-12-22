@@ -4,6 +4,27 @@
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
+        "external_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
+        "has_kiosk": true,
+        "lat": 38.944013,
+        "legacy_id": "685",
+        "lon": -77.353552,
+        "name": "Golf Course Sq and Golf Course Dr",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32246",
+        "station_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
         "external_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
         "has_kiosk": true,
         "lat": 38.966848,
@@ -39,27 +60,6 @@
         "rental_uris": {},
         "short_name": "32243",
         "station_id": "e823318f-8406-4230-8072-1667f5de78d4",
-        "station_type": "classic"
-    },
-    {
-        "capacity": 12,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
-        "has_kiosk": true,
-        "lat": 38.944013,
-        "legacy_id": "685",
-        "lon": -77.353552,
-        "name": "Golf Course Sq and Golf Course Dr",
-        "region_id": "104",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "32246",
-        "station_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
         "station_type": "classic"
     },
     {
