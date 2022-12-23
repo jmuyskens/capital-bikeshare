@@ -1,6 +1,6 @@
 capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has_kiosk,lat,legacy_id,lon,name,region_id,short_name,station_id,station_type
-12,false,false,13c42471-96ab-441d-9a4c-bc57f7af6f9b,true,38.944013,685,-77.353552,Golf Course Sq and Golf Course Dr,104,32246,13c42471-96ab-441d-9a4c-bc57f7af6f9b,classic
 12,false,false,e976c0ab-bc21-42b3-a2c2-b90def6f54f4,true,38.966848,677,-77.329282,Becontree Ln & Goldenrain Ct,104,32239,e976c0ab-bc21-42b3-a2c2-b90def6f54f4,classic
+12,false,false,13c42471-96ab-441d-9a4c-bc57f7af6f9b,true,38.944013,685,-77.353552,Golf Course Sq and Golf Course Dr,104,32246,13c42471-96ab-441d-9a4c-bc57f7af6f9b,classic
 19,false,false,e823318f-8406-4230-8072-1667f5de78d4,true,38.953691,681,-77.359717,Reston Town Center Metro North,104,32243,e823318f-8406-4230-8072-1667f5de78d4,classic
 11,false,false,3c6a1bf0-3aac-4406-990d-966cc8edca52,true,38.944707,541,-77.335425,Campus Commons,104,32228,3c6a1bf0-3aac-4406-990d-966cc8edca52,classic
 12,false,false,8aa43882-2e93-41fb-b55d-a6a15b5b446b,true,38.966344,675,-77.359341,Baron Cameron Ave & North Hampton Ave,104,32237,8aa43882-2e93-41fb-b55d-a6a15b5b446b,classic
@@ -109,7 +109,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,0824c8d2-1f3f-11e7-bf6b-3863bb334450,true,38.908905,107,-77.04478,20th & O St NW / Dupont South,42,31234,107,classic
 15,false,false,0824cb9b-1f3f-11e7-bf6b-3863bb334450,true,38.895344,108,-77.016106,4th & D St NW / Judiciary Square,42,31621,108,classic
 35,false,false,0824cd3d-1f3f-11e7-bf6b-3863bb334450,true,38.89221235271478,109,-77.04307436943054,19th St & Constitution Ave NW,42,31235,109,classic
-23,false,false,0824cdb0-1f3f-11e7-bf6b-3863bb334450,true,38.90774,110,-77.071652,37th & O St NW / Georgetown University,42,31236,110,classic
+23,false,false,0824cdb0-1f3f-11e7-bf6b-3863bb334450,true,38.90769260137618,110,-77.07151249051093,37th & O St NW / Georgetown University,42,31236,110,classic
 15,false,false,0824cfe7-1f3f-11e7-bf6b-3863bb334450,true,38.903827,112,-77.053485,25th St & Pennsylvania Ave NW,42,31237,112,classic
 55,false,false,0824d0c6-1f3f-11e7-bf6b-3863bb334450,true,38.89696,113,-77.00493,Columbus Circle / Union Station,42,31623,113,classic
 23,false,false,0824d140-1f3f-11e7-bf6b-3863bb334450,true,38.897446,114,-77.009888,North Capitol St & F St NW,42,31624,114,classic
