@@ -4,6 +4,21 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Reston Town Center Metro North",
+                "station_id": "e823318f-8406-4230-8072-1667f5de78d4",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.359717,
+                    38.953691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Becontree Ln & Goldenrain Ct",
                 "station_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
                 "capacity": 12
@@ -28,21 +43,6 @@
                 "coordinates": [
                     -77.353552,
                     38.944013
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Reston Town Center Metro North",
-                "station_id": "e823318f-8406-4230-8072-1667f5de78d4",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.359717,
-                    38.953691
                 ]
             }
         },
