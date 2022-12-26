@@ -4,21 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Reston Town Center Metro North",
-                "station_id": "e823318f-8406-4230-8072-1667f5de78d4",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.359717,
-                    38.953691
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Golf Course Sq and Golf Course Dr",
                 "station_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
                 "capacity": 12
@@ -28,6 +13,21 @@
                 "coordinates": [
                     -77.353552,
                     38.944013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Reston Town Center Metro North",
+                "station_id": "e823318f-8406-4230-8072-1667f5de78d4",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.359717,
+                    38.953691
                 ]
             }
         },
@@ -2046,7 +2046,7 @@
             "properties": {
                 "name": "4th & C St SW",
                 "station_id": "142",
-                "capacity": 39
+                "capacity": 38
             },
             "geometry": {
                 "type": "Point",
@@ -6516,7 +6516,7 @@
             "properties": {
                 "name": "Towers Crescent Dr & Tysons One Pl",
                 "station_id": "457",
-                "capacity": 11
+                "capacity": 10
             },
             "geometry": {
                 "type": "Point",
