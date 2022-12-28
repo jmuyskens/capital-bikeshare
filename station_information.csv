@@ -1,7 +1,7 @@
 capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has_kiosk,lat,legacy_id,lon,name,region_id,short_name,station_id,station_type
-19,false,false,e823318f-8406-4230-8072-1667f5de78d4,true,38.953691,681,-77.359717,Reston Town Center Metro North,104,32243,e823318f-8406-4230-8072-1667f5de78d4,classic
-12,false,false,13c42471-96ab-441d-9a4c-bc57f7af6f9b,true,38.944013,685,-77.353552,Golf Course Sq and Golf Course Dr,104,32246,13c42471-96ab-441d-9a4c-bc57f7af6f9b,classic
 12,false,false,e976c0ab-bc21-42b3-a2c2-b90def6f54f4,true,38.966848,677,-77.329282,Becontree Ln & Goldenrain Ct,104,32239,e976c0ab-bc21-42b3-a2c2-b90def6f54f4,classic
+12,false,false,13c42471-96ab-441d-9a4c-bc57f7af6f9b,true,38.944013,685,-77.353552,Golf Course Sq and Golf Course Dr,104,32246,13c42471-96ab-441d-9a4c-bc57f7af6f9b,classic
+19,false,false,e823318f-8406-4230-8072-1667f5de78d4,true,38.953691,681,-77.359717,Reston Town Center Metro North,104,32243,e823318f-8406-4230-8072-1667f5de78d4,classic
 11,false,false,3c6a1bf0-3aac-4406-990d-966cc8edca52,true,38.944707,541,-77.335425,Campus Commons,104,32228,3c6a1bf0-3aac-4406-990d-966cc8edca52,classic
 12,false,false,8aa43882-2e93-41fb-b55d-a6a15b5b446b,true,38.966344,675,-77.359341,Baron Cameron Ave & North Hampton Ave,104,32237,8aa43882-2e93-41fb-b55d-a6a15b5b446b,classic
 15,false,false,082469cc-1f3f-11e7-bf6b-3863bb334450,true,38.858971,1,-77.05323,Eads St & 15th St S,41,31000,1,classic
@@ -351,7 +351,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,08260549-1f3f-11e7-bf6b-3863bb334450,true,38.90864,370,-77.02277,8th & O St NW,42,31281,370,classic
 19,false,false,082605b0-1f3f-11e7-bf6b-3863bb334450,true,38.961339,371,-77.027855,Georgia & Missouri Ave NW,42,31411,371,classic
 19,false,false,08261245-1f3f-11e7-bf6b-3863bb334450,true,38.894474,373,-76.974828,Oklahoma Ave & D St NE,42,31712,373,classic
-19,false,false,082612c1-1f3f-11e7-bf6b-3863bb334450,true,38.8962260397813,374,-76.99278563261032,Maryland Ave & E St NE,42,31640,374,classic
+27,false,false,082612c1-1f3f-11e7-bf6b-3863bb334450,true,38.8962260397813,374,-76.99278563261032,Maryland Ave & E St NE,42,31640,374,classic
 23,false,false,0826132d-1f3f-11e7-bf6b-3863bb334450,true,38.915604,375,-76.983683,New York Ave & Hecht Ave NE,42,31518,375,classic
 19,false,false,0826139b-1f3f-11e7-bf6b-3863bb334450,true,38.946182,376,-77.08059,Yuma St & Tenley Circle NW,42,31316,376,classic
 15,false,false,08261407-1f3f-11e7-bf6b-3863bb334450,true,38.994113,377,-77.076986,Connecticut Ave & Chevy Chase Lake Dr,44,32051,377,classic
@@ -433,7 +433,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,082642bd-1f3f-11e7-bf6b-3863bb334450,true,38.882489,454,-76.990121,12th St & Pennsylvania Ave SE,42,31644,454,classic
 15,false,false,08264325-1f3f-11e7-bf6b-3863bb334450,true,38.957463,455,-77.002239,3rd St & Riggs Rd NE,42,31412,455,classic
 15,false,false,08264392-1f3f-11e7-bf6b-3863bb334450,true,38.876695,456,-77.112982,Carlin Springs Rd & N Thomas St,41,31919,456,classic
-10,false,false,0826444d-1f3f-11e7-bf6b-3863bb334450,true,38.915246,457,-77.220157,Towers Crescent Dr & Tysons One Pl,104,32222,457,classic
+11,false,false,0826444d-1f3f-11e7-bf6b-3863bb334450,true,38.915246,457,-77.220157,Towers Crescent Dr & Tysons One Pl,104,32222,457,classic
 19,false,false,082644bc-1f3f-11e7-bf6b-3863bb334450,true,38.90293157359119,458,-76.99840486049652,6th & K St NE,42,31645,458,classic
 15,false,false,08264525-1f3f-11e7-bf6b-3863bb334450,true,39.014716,459,-77.107143,Pooks Hill Rd & Linden Ave,44,32057,459,classic
 15,false,false,0826502d-1f3f-11e7-bf6b-3863bb334450,true,38.98265,460,-76.988311,Takoma Park Rec Center,44,32059,460,classic

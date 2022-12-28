@@ -4,15 +4,15 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Reston Town Center Metro North",
-                "station_id": "e823318f-8406-4230-8072-1667f5de78d4",
-                "capacity": 19
+                "name": "Becontree Ln & Goldenrain Ct",
+                "station_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
+                "capacity": 12
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.359717,
-                    38.953691
+                    -77.329282,
+                    38.966848
                 ]
             }
         },
@@ -34,15 +34,15 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Becontree Ln & Goldenrain Ct",
-                "station_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
-                "capacity": 12
+                "name": "Reston Town Center Metro North",
+                "station_id": "e823318f-8406-4230-8072-1667f5de78d4",
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.329282,
-                    38.966848
+                    -77.359717,
+                    38.953691
                 ]
             }
         },
@@ -5286,7 +5286,7 @@
             "properties": {
                 "name": "Maryland Ave & E St NE",
                 "station_id": "374",
-                "capacity": 19
+                "capacity": 27
             },
             "geometry": {
                 "type": "Point",
@@ -6516,7 +6516,7 @@
             "properties": {
                 "name": "Towers Crescent Dr & Tysons One Pl",
                 "station_id": "457",
-                "capacity": 10
+                "capacity": 11
             },
             "geometry": {
                 "type": "Point",
