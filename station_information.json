@@ -1,26 +1,5 @@
 [
     {
-        "capacity": 19,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "e823318f-8406-4230-8072-1667f5de78d4",
-        "has_kiosk": true,
-        "lat": 38.953691,
-        "legacy_id": "681",
-        "lon": -77.359717,
-        "name": "Reston Town Center Metro North",
-        "region_id": "104",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "32243",
-        "station_id": "e823318f-8406-4230-8072-1667f5de78d4",
-        "station_type": "classic"
-    },
-    {
         "capacity": 12,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -39,6 +18,27 @@
         "rental_uris": {},
         "short_name": "32239",
         "station_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 19,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "e823318f-8406-4230-8072-1667f5de78d4",
+        "has_kiosk": true,
+        "lat": 38.953691,
+        "legacy_id": "681",
+        "lon": -77.359717,
+        "name": "Reston Town Center Metro North",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32243",
+        "station_id": "e823318f-8406-4230-8072-1667f5de78d4",
         "station_type": "classic"
     },
     {
@@ -2856,7 +2856,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 39,
+        "capacity": 38,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
