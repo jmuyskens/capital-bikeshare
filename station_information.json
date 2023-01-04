@@ -21,27 +21,6 @@
         "station_type": "classic"
     },
     {
-        "capacity": 19,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "e823318f-8406-4230-8072-1667f5de78d4",
-        "has_kiosk": true,
-        "lat": 38.953691,
-        "legacy_id": "681",
-        "lon": -77.359717,
-        "name": "Reston Town Center Metro North",
-        "region_id": "104",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "32243",
-        "station_id": "e823318f-8406-4230-8072-1667f5de78d4",
-        "station_type": "classic"
-    },
-    {
         "capacity": 12,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -60,6 +39,27 @@
         "rental_uris": {},
         "short_name": "32246",
         "station_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 19,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "e823318f-8406-4230-8072-1667f5de78d4",
+        "has_kiosk": true,
+        "lat": 38.953691,
+        "legacy_id": "681",
+        "lon": -77.359717,
+        "name": "Reston Town Center Metro North",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32243",
+        "station_id": "e823318f-8406-4230-8072-1667f5de78d4",
         "station_type": "classic"
     },
     {
@@ -14760,6 +14760,46 @@
         "rental_uris": {},
         "short_name": "31539",
         "station_id": "757",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 11,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "197e33c5-30cf-4007-b7a8-b9b1dfd064e3",
+        "has_kiosk": true,
+        "lat": 38.907073,
+        "legacy_id": "758",
+        "lon": -77.002109,
+        "name": "3rd & N St NE",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31540",
+        "station_id": "758",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "c51f0090-a4f9-416d-a18b-6e0505b1dca1",
+        "has_kiosk": false,
+        "lat": 38.879575,
+        "legacy_id": "759",
+        "lon": -76.926596,
+        "name": "Woody Ward Rec Center",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "31722",
+        "station_id": "759",
         "station_type": "classic"
     }
 ]
