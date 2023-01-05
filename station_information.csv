@@ -135,7 +135,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,0824fd71-1f3f-11e7-bf6b-3863bb334450,true,38.8881,139,-77.09308,Clarendon Blvd & N Fillmore St,41,31021,139,classic
 21,false,false,0824ff6e-1f3f-11e7-bf6b-3863bb334450,true,38.88701007722296,140,-77.09525674581528,Clarendon Metro / Wilson Blvd & N Highland St,41,31022,140,classic
 27,false,false,08250172-1f3f-11e7-bf6b-3863bb334450,true,38.89968,141,-77.041539,18th St & Pennsylvania Ave NW,42,31242,141,classic
-38,false,false,08250371-1f3f-11e7-bf6b-3863bb334450,true,38.88637194054526,142,-77.01770067214966,4th & C St SW,42,31243,142,classic
+39,false,false,08250371-1f3f-11e7-bf6b-3863bb334450,true,38.88637194054526,142,-77.01770067214966,4th & C St SW,42,31243,142,classic
 19,false,false,082513a4-1f3f-11e7-bf6b-3863bb334450,true,38.88412,143,-77.017445,4th & E St SW,42,31244,143,classic
 19,false,false,08251448-1f3f-11e7-bf6b-3863bb334450,true,38.881185,144,-77.001828,3rd & G St SE,42,31625,144,classic
 15,false,false,082514b8-1f3f-11e7-bf6b-3863bb334450,true,38.912719,145,-77.022155,7th & R St NW / Shaw Library,42,31245,145,classic
@@ -575,7 +575,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,7a19d0e7-2b3c-4805-b843-1aec84a05bfe,true,38.91261359469192,608,-77.07432264076488,Reservoir Rd & 38th St NW,42,31325,608,classic
 17,false,false,d325a449-32d7-488d-b746-9455ad003834,true,38.89892546716842,609,-77.04885238395946,22nd & H St NW,42,31127,609,classic
 19,false,false,fbbeab20-556d-4275-98a9-f84d316c157f,true,38.899941626884754,610,-76.99489653110504,8th & H St NE,42,31661,610,classic
-17,false,false,d8a01502-8d6c-449f-852d-d6b409e56e11,true,38.90970086204467,611,-77.08564639091492,Hardy Rec Center,42,31326,611,classic
+0,false,false,d8a01502-8d6c-449f-852d-d6b409e56e11,true,38.90970086204467,611,-77.08564639091492,Hardy Rec Center,42,31326,611,classic
 19,false,false,44b6aaca-6a97-425c-9d95-93a1d836c22d,true,39.0313141,612,-77.0041217,The Shoppes @ Burnt Mills,44,32085,612,classic
 19,false,false,5075ddc9-7546-44a6-9445-0a48a53267df,true,39.081638,613,-76.945495,Briggs Chaney & Castle Dr,44,32086,613,classic
 15,false,false,2213781a-5c69-43eb-9b33-346d61e7e1ba,true,39.0461435,614,-76.9757228,White Oak Rec Center,44,32087,614,classic
@@ -703,4 +703,4 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,183f8ffb-756c-4271-8d9a-a5cde3f13116,true,38.9252,756,-76.964896,South Dakota Ave & Bladensburg Rd NE,42,31538,756,classic
 15,false,false,115f58ec-eddc-40cf-a789-13517d5df2a4,true,38.921986,757,-76.960696,South Dakota Ave & 33rd St NE,42,31539,757,classic
 11,false,false,197e33c5-30cf-4007-b7a8-b9b1dfd064e3,true,38.907073,758,-77.002109,3rd & N St NE,,31540,758,classic
-0,false,false,c51f0090-a4f9-416d-a18b-6e0505b1dca1,false,38.879575,759,-76.926596,Woody Ward Rec Center,,31722,759,classic
+15,false,false,c51f0090-a4f9-416d-a18b-6e0505b1dca1,true,38.879575,759,-76.926596,Woody Ward Rec Center,,31722,759,classic

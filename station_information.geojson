@@ -2046,7 +2046,7 @@
             "properties": {
                 "name": "4th & C St SW",
                 "station_id": "142",
-                "capacity": 38
+                "capacity": 39
             },
             "geometry": {
                 "type": "Point",
@@ -8646,7 +8646,7 @@
             "properties": {
                 "name": "Hardy Rec Center",
                 "station_id": "611",
-                "capacity": 17
+                "capacity": 0
             },
             "geometry": {
                 "type": "Point",
@@ -10566,7 +10566,7 @@
             "properties": {
                 "name": "Woody Ward Rec Center",
                 "station_id": "759",
-                "capacity": 0
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
