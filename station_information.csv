@@ -472,7 +472,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,72b359a7-f70e-4b97-aaf6-2b26f09f19b1,true,38.84377,494,-76.97557,Mississippi Ave & 19th St SE / THEARC,42,31814,494,classic
 11,false,false,d61b3881-e324-4c6d-aa92-849716c70b04,true,38.84623,495,-76.97703,19th & Savannah St SE,42,31815,495,classic
 19,false,false,8083cb0d-c3a4-417e-b46e-afe6cf1a7e67,true,38.836,496,-77.0009,4th St & Mississippi Ave SE,42,31816,496,classic
-19,false,false,c778c501-ba47-479b-b652-831432ffd74f,true,38.824481,497,-77.005497,1st & S Capitol St SE / Oxon Run Trail,42,31817,497,classic
+0,false,false,c778c501-ba47-479b-b652-831432ffd74f,true,38.824481,497,-77.005497,1st & S Capitol St SE / Oxon Run Trail,42,31817,497,classic
 15,false,false,d72b1790-0fea-4af8-9d2a-fd4d4db24d1a,true,38.82373,498,-77.00223,Livingston Rd & 3rd St SE,42,31818,498,classic
 19,false,false,7c46ff05-4fca-44e6-a50b-acbc57e8100b,true,38.81909,499,-77.01033,Joliet St & MLK Ave SW/Bald Eagle Rec Ctr,42,31819,499,classic
 15,false,false,ee2cb739-9118-4069-b4f7-435ef53db537,true,38.883011,500,-76.949709,37th & Ely Pl SE,42,31715,500,classic
