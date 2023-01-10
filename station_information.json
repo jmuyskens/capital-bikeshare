@@ -1,26 +1,5 @@
 [
     {
-        "capacity": 12,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
-        "has_kiosk": true,
-        "lat": 38.944013,
-        "legacy_id": "685",
-        "lon": -77.353552,
-        "name": "Golf Course Sq and Golf Course Dr",
-        "region_id": "104",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "32246",
-        "station_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
-        "station_type": "classic"
-    },
-    {
         "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -60,6 +39,27 @@
         "rental_uris": {},
         "short_name": "32239",
         "station_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
+        "has_kiosk": true,
+        "lat": 38.944013,
+        "legacy_id": "685",
+        "lon": -77.353552,
+        "name": "Golf Course Sq and Golf Course Dr",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32246",
+        "station_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
         "station_type": "classic"
     },
     {
@@ -9933,7 +9933,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 0,
+        "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -14773,6 +14773,7 @@
         "legacy_id": "758",
         "lon": -77.002109,
         "name": "3rd & N St NE",
+        "region_id": "42",
         "rental_methods": [
             "CREDITCARD",
             "KEY"
@@ -14793,6 +14794,7 @@
         "legacy_id": "759",
         "lon": -76.926596,
         "name": "Woody Ward Rec Center",
+        "region_id": "42",
         "rental_methods": [
             "CREDITCARD",
             "KEY"

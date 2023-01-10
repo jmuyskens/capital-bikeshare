@@ -4,21 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Golf Course Sq and Golf Course Dr",
-                "station_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.353552,
-                    38.944013
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Reston Town Center Metro North",
                 "station_id": "e823318f-8406-4230-8072-1667f5de78d4",
                 "capacity": 19
@@ -43,6 +28,21 @@
                 "coordinates": [
                     -77.329282,
                     38.966848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Golf Course Sq and Golf Course Dr",
+                "station_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.353552,
+                    38.944013
                 ]
             }
         },
@@ -7101,7 +7101,7 @@
             "properties": {
                 "name": "1st & S Capitol St SE / Oxon Run Trail",
                 "station_id": "497",
-                "capacity": 0
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
