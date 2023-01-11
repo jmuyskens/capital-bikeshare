@@ -19,21 +19,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Becontree Ln & Goldenrain Ct",
-                "station_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.329282,
-                    38.966848
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Golf Course Sq and Golf Course Dr",
                 "station_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
                 "capacity": 12
@@ -43,6 +28,21 @@
                 "coordinates": [
                     -77.353552,
                     38.944013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Becontree Ln & Goldenrain Ct",
+                "station_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.329282,
+                    38.966848
                 ]
             }
         },
@@ -6756,7 +6756,7 @@
             "properties": {
                 "name": "Potomac & M St NW",
                 "station_id": "473",
-                "capacity": 19
+                "capacity": 0
             },
             "geometry": {
                 "type": "Point",
@@ -8256,7 +8256,7 @@
             "properties": {
                 "name": "Merrilee Dr & Lauren Elizabeth Lane",
                 "station_id": "584",
-                "capacity": 11
+                "capacity": 0
             },
             "geometry": {
                 "type": "Point",
@@ -10573,6 +10573,21 @@
                 "coordinates": [
                     -76.926596,
                     38.879575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ridge Rd & Southern Ave SE",
+                "station_id": "760",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.935246,
+                    38.872976
                 ]
             }
         }
