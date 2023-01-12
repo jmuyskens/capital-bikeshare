@@ -1,6 +1,6 @@
 capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has_kiosk,lat,legacy_id,lon,name,region_id,short_name,station_id,station_type
-19,false,false,e823318f-8406-4230-8072-1667f5de78d4,true,38.953691,681,-77.359717,Reston Town Center Metro North,104,32243,e823318f-8406-4230-8072-1667f5de78d4,classic
 12,false,false,13c42471-96ab-441d-9a4c-bc57f7af6f9b,true,38.944013,685,-77.353552,Golf Course Sq and Golf Course Dr,104,32246,13c42471-96ab-441d-9a4c-bc57f7af6f9b,classic
+19,false,false,e823318f-8406-4230-8072-1667f5de78d4,true,38.953691,681,-77.359717,Reston Town Center Metro North,104,32243,e823318f-8406-4230-8072-1667f5de78d4,classic
 12,false,false,e976c0ab-bc21-42b3-a2c2-b90def6f54f4,true,38.966848,677,-77.329282,Becontree Ln & Goldenrain Ct,104,32239,e976c0ab-bc21-42b3-a2c2-b90def6f54f4,classic
 11,false,false,3c6a1bf0-3aac-4406-990d-966cc8edca52,true,38.944707,541,-77.335425,Campus Commons,104,32228,3c6a1bf0-3aac-4406-990d-966cc8edca52,classic
 12,false,false,8aa43882-2e93-41fb-b55d-a6a15b5b446b,true,38.966344,675,-77.359341,Baron Cameron Ave & North Hampton Ave,104,32237,8aa43882-2e93-41fb-b55d-a6a15b5b446b,classic
@@ -449,7 +449,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 19,false,false,0826547e-1f3f-11e7-bf6b-3863bb334450,true,38.93293,470,-76.979517,18th & Monroe St NE,42,31521,470,classic
 19,false,false,082654f4-1f3f-11e7-bf6b-3863bb334450,true,38.88345,471,-77.021741,7th & E St SW,42,31294,471,classic
 19,false,false,08265563-1f3f-11e7-bf6b-3863bb334450,true,39.121327,472,-77.164969,Shady Grove Metro East,43,32067,472,classic
-0,false,false,082655cc-1f3f-11e7-bf6b-3863bb334450,true,38.905509,473,-77.065246,Potomac & M St NW,42,31295,473,classic
+19,false,false,082655cc-1f3f-11e7-bf6b-3863bb334450,true,38.905509,473,-77.065246,Potomac & M St NW,42,31295,473,classic
 23,false,false,08265638-1f3f-11e7-bf6b-3863bb334450,true,38.924088,474,-77.040787,Columbia & Ontario Rd NW,42,31296,474,classic
 15,false,false,32a59636-02e5-4c53-a437-020986923dca,true,38.888282,475,-77.111066,Washington-Liberty High School / N Stafford St & Generals Way,41,31920,475,classic
 15,false,false,ce3db0b4-8c4f-4c6c-a059-73fff08c1edf,true,38.886048,476,-77.142317,Westover Library / Washington Blvd & N McKinley Rd,41,31921,476,classic
@@ -705,3 +705,4 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 11,false,false,197e33c5-30cf-4007-b7a8-b9b1dfd064e3,true,38.907073,758,-77.002109,3rd & N St NE,42,31540,758,classic
 15,false,false,c51f0090-a4f9-416d-a18b-6e0505b1dca1,true,38.879575,759,-76.926596,Woody Ward Rec Center,42,31722,759,classic
 15,false,false,5d8d5182-ea42-49ec-8cae-8891759f5751,true,38.872976,760,-76.935246,Ridge Rd & Southern Ave SE,42,31723,760,classic
+19,false,false,314fc12d-7275-4936-a245-a1febd3c95df,true,38.903819,761,-77.011987,1st & L St NW,42,31677,761,classic

@@ -4,21 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Reston Town Center Metro North",
-                "station_id": "e823318f-8406-4230-8072-1667f5de78d4",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.359717,
-                    38.953691
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Golf Course Sq and Golf Course Dr",
                 "station_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
                 "capacity": 12
@@ -28,6 +13,21 @@
                 "coordinates": [
                     -77.353552,
                     38.944013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Reston Town Center Metro North",
+                "station_id": "e823318f-8406-4230-8072-1667f5de78d4",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.359717,
+                    38.953691
                 ]
             }
         },
@@ -6756,7 +6756,7 @@
             "properties": {
                 "name": "Potomac & M St NW",
                 "station_id": "473",
-                "capacity": 0
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
@@ -10588,6 +10588,21 @@
                 "coordinates": [
                     -76.935246,
                     38.872976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1st & L St NW",
+                "station_id": "761",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.011987,
+                    38.903819
                 ]
             }
         }
