@@ -4,45 +4,15 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "North Shore & Cameron Crescent Dr/Crescent Apartments",
-                "station_id": "0826380c-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 11
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.338686,
-                    38.970046
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Soapstone Dr Convenience Center",
-                "station_id": "85c2fb24-d241-4550-8968-2cdf85462af7",
+                "name": "Becontree Ln & Goldenrain Ct",
+                "station_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
                 "capacity": 12
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.345874,
-                    38.93051
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "North Village and Park Garden",
-                "station_id": "c0ec45a3-ec59-4c82-9671-13d9c122be30",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.341823,
-                    38.983199
+                    -77.329282,
+                    38.966848
                 ]
             }
         },
@@ -64,15 +34,30 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Inlet Ct & Wiehle Dr",
-                "station_id": "0136af02-2670-4042-b5cd-18b46c15c0c1",
+                "name": "Soapstone Dr Convenience Center",
+                "station_id": "85c2fb24-d241-4550-8968-2cdf85462af7",
                 "capacity": 12
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.334359,
-                    38.965979
+                    -77.345874,
+                    38.93051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sunset Hills Rd & Isaac Newton Square",
+                "station_id": "08263fbd-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 11
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.340377,
+                    38.951443
                 ]
             }
         },
@@ -94,15 +79,45 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Sunset Hills Rd & Isaac Newton Square",
-                "station_id": "08263fbd-1f3f-11e7-bf6b-3863bb334450",
+                "name": "North Village and Park Garden",
+                "station_id": "c0ec45a3-ec59-4c82-9671-13d9c122be30",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.341823,
+                    38.983199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "North Shore & Cameron Crescent Dr/Crescent Apartments",
+                "station_id": "0826380c-1f3f-11e7-bf6b-3863bb334450",
                 "capacity": 11
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.340377,
-                    38.951443
+                    -77.338686,
+                    38.970046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Inlet Ct & Wiehle Dr",
+                "station_id": "0136af02-2670-4042-b5cd-18b46c15c0c1",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.334359,
+                    38.965979
                 ]
             }
         },
@@ -133,21 +148,6 @@
                 "coordinates": [
                     -77.359717,
                     38.953691
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Becontree Ln & Goldenrain Ct",
-                "station_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.329282,
-                    38.966848
                 ]
             }
         },
@@ -259,21 +259,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Campus Commons",
-                "station_id": "3c6a1bf0-3aac-4406-990d-966cc8edca52",
-                "capacity": 11
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.335425,
-                    38.944707
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Town Center Pkwy & Sunset Hills Rd",
                 "station_id": "082653a6-1f3f-11e7-bf6b-3863bb334450",
                 "capacity": 11
@@ -289,15 +274,15 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Sunset Hills Rd & Discovery Square",
-                "station_id": "08263bd6-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 15
+                "name": "Campus Commons",
+                "station_id": "3c6a1bf0-3aac-4406-990d-966cc8edca52",
+                "capacity": 11
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.357611,
-                    38.95534
+                    -77.335425,
+                    38.944707
                 ]
             }
         },
@@ -319,15 +304,30 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Baron Cameron Ave & North Hampton Ave",
-                "station_id": "8aa43882-2e93-41fb-b55d-a6a15b5b446b",
-                "capacity": 12
+                "name": "Sunset Hills Rd & Discovery Square",
+                "station_id": "08263bd6-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.359341,
-                    38.966344
+                    -77.357611,
+                    38.95534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Reston Town Center Transit Station",
+                "station_id": "08263a37-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 17
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.359718,
+                    38.957037
                 ]
             }
         },
@@ -349,6 +349,21 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Baron Cameron Ave & North Hampton Ave",
+                "station_id": "8aa43882-2e93-41fb-b55d-a6a15b5b446b",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.359341,
+                    38.966344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Town Center Pkwy & Bowman Towne Dr",
                 "station_id": "08263885-1f3f-11e7-bf6b-3863bb334450",
                 "capacity": 15
@@ -364,15 +379,15 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Reston Town Center Transit Station",
-                "station_id": "08263a37-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 17
+                "name": "Reston Pkwy & Spectrum Dr",
+                "station_id": "686c82c2-23fe-4c15-9c75-708f61de98c7",
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.359718,
-                    38.957037
+                    -77.35428035259247,
+                    38.964207741006206
                 ]
             }
         },
@@ -409,45 +424,15 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Reston Pkwy & Spectrum Dr",
-                "station_id": "686c82c2-23fe-4c15-9c75-708f61de98c7",
-                "capacity": 15
+                "name": "Wiehle-Reston Metro South",
+                "station_id": "08263b08-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.35428035259247,
-                    38.964207741006206
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Ring Rd & North Shore Dr",
-                "station_id": "bc5c6cf3-1c33-457f-a13d-f358c9909dc2",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.326761,
-                    38.970807
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Olde Crafts Dr and Cartwright Pl",
-                "station_id": "bc4fc3e2-2050-4571-851b-47f062319f95",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.354067,
-                    38.938797
+                    -77.3393914103508,
+                    38.946607921214984
                 ]
             }
         },
@@ -469,30 +454,15 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "South Gate Community Center",
-                "station_id": "9c8b35b2-fcab-4142-957d-5bb845374685",
+                "name": "Ring Rd & North Shore Dr",
+                "station_id": "bc5c6cf3-1c33-457f-a13d-f358c9909dc2",
                 "capacity": 12
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.366499,
-                    38.941496
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Wiehle-Reston Metro South",
-                "station_id": "08263b08-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.3393914103508,
-                    38.946607921214984
+                    -77.326761,
+                    38.970807
                 ]
             }
         },
@@ -508,6 +478,36 @@
                 "coordinates": [
                     -77.351837,
                     38.973625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Olde Crafts Dr and Cartwright Pl",
+                "station_id": "bc4fc3e2-2050-4571-851b-47f062319f95",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.354067,
+                    38.938797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "South Gate Community Center",
+                "station_id": "9c8b35b2-fcab-4142-957d-5bb845374685",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.366499,
+                    38.941496
                 ]
             }
         },
