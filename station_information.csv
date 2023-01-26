@@ -1,38 +1,39 @@
 capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has_kiosk,lat,legacy_id,lon,name,region_id,short_name,station_id,station_type
-12,false,false,0136af02-2670-4042-b5cd-18b46c15c0c1,true,38.965979,680,-77.334359,Inlet Ct & Wiehle Dr,104,32242,0136af02-2670-4042-b5cd-18b46c15c0c1,classic
-19,false,false,e823318f-8406-4230-8072-1667f5de78d4,true,38.953691,681,-77.359717,Reston Town Center Metro North,104,32243,e823318f-8406-4230-8072-1667f5de78d4,classic
+12,false,false,13c42471-96ab-441d-9a4c-bc57f7af6f9b,true,38.944013,685,-77.353552,Golf Course Sq and Golf Course Dr,104,32246,13c42471-96ab-441d-9a4c-bc57f7af6f9b,classic
 11,false,false,08263fbd-1f3f-11e7-bf6b-3863bb334450,true,38.951443,447,-77.340377,Sunset Hills Rd & Isaac Newton Square,104,32220,08263fbd-1f3f-11e7-bf6b-3863bb334450,classic
+12,false,false,c0ec45a3-ec59-4c82-9671-13d9c122be30,true,38.983199,702,-77.341823,North Village and Park Garden,104,32256,c0ec45a3-ec59-4c82-9671-13d9c122be30,classic
+19,false,false,e823318f-8406-4230-8072-1667f5de78d4,true,38.953691,681,-77.359717,Reston Town Center Metro North,104,32243,e823318f-8406-4230-8072-1667f5de78d4,classic
+11,false,false,0826380c-1f3f-11e7-bf6b-3863bb334450,true,38.970046,433,-77.338686,North Shore & Cameron Crescent Dr/Crescent Apartments,104,32209,0826380c-1f3f-11e7-bf6b-3863bb334450,classic
+12,false,false,0136af02-2670-4042-b5cd-18b46c15c0c1,true,38.965979,680,-77.334359,Inlet Ct & Wiehle Dr,104,32242,0136af02-2670-4042-b5cd-18b46c15c0c1,classic
+12,false,false,8d68e4db-0bc9-440a-9b27-5d34ed1b93c9,true,38.9667,682,-77.348487,Vantage Hill Rd & Wainwright Dr,104,32244,8d68e4db-0bc9-440a-9b27-5d34ed1b93c9,classic
+12,false,false,85c2fb24-d241-4550-8968-2cdf85462af7,true,38.93051,692,-77.345874,Soapstone Dr Convenience Center,104,32253,85c2fb24-d241-4550-8968-2cdf85462af7,classic
 12,false,false,e976c0ab-bc21-42b3-a2c2-b90def6f54f4,true,38.966848,677,-77.329282,Becontree Ln & Goldenrain Ct,104,32239,e976c0ab-bc21-42b3-a2c2-b90def6f54f4,classic
 15,false,false,08263959-1f3f-11e7-bf6b-3863bb334450,true,38.960574,436,-77.356324,New Dominion Pkwy & Fountain Dr,104,32212,08263959-1f3f-11e7-bf6b-3863bb334450,classic
-12,false,false,85c2fb24-d241-4550-8968-2cdf85462af7,true,38.93051,692,-77.345874,Soapstone Dr Convenience Center,104,32253,85c2fb24-d241-4550-8968-2cdf85462af7,classic
-12,false,false,13c42471-96ab-441d-9a4c-bc57f7af6f9b,true,38.944013,685,-77.353552,Golf Course Sq and Golf Course Dr,104,32246,13c42471-96ab-441d-9a4c-bc57f7af6f9b,classic
-11,false,false,0826380c-1f3f-11e7-bf6b-3863bb334450,true,38.970046,433,-77.338686,North Shore & Cameron Crescent Dr/Crescent Apartments,104,32209,0826380c-1f3f-11e7-bf6b-3863bb334450,classic
-12,false,false,c0ec45a3-ec59-4c82-9671-13d9c122be30,true,38.983199,702,-77.341823,North Village and Park Garden,104,32256,c0ec45a3-ec59-4c82-9671-13d9c122be30,classic
-12,false,false,8d68e4db-0bc9-440a-9b27-5d34ed1b93c9,true,38.9667,682,-77.348487,Vantage Hill Rd & Wainwright Dr,104,32244,8d68e4db-0bc9-440a-9b27-5d34ed1b93c9,classic
-15,false,false,082639c8-1f3f-11e7-bf6b-3863bb334450,true,38.955079,437,-77.351649,Sunset Hills & Old Reston Ave,104,32213,082639c8-1f3f-11e7-bf6b-3863bb334450,classic
-19,false,false,08263b6d-1f3f-11e7-bf6b-3863bb334450,true,38.959633,441,-77.358741,Library St & Freedom Dr,104,32216,08263b6d-1f3f-11e7-bf6b-3863bb334450,classic
-15,false,false,08263f4a-1f3f-11e7-bf6b-3863bb334450,true,38.955314,446,-77.368416,Reston YMCA,104,32219,08263f4a-1f3f-11e7-bf6b-3863bb334450,classic
-12,false,false,d3cf2811-ca2e-4d2c-9843-8a90049b7b80,true,38.94335,686,-77.362304,South Lakes Dr and Reston Pkwy,104,32247,d3cf2811-ca2e-4d2c-9843-8a90049b7b80,classic
 12,false,false,29f174dd-e7bc-4329-a570-0220f0d1be84,true,38.97850255151454,690,-77.35345423221588,Lake Newport Rd and Autumn Ridge Cir,104,32251,29f174dd-e7bc-4329-a570-0220f0d1be84,classic
 11,false,false,0826533b-1f3f-11e7-bf6b-3863bb334450,true,38.970412,467,-77.340787,North Shore Dr & Village Rd,104,32223,0826533b-1f3f-11e7-bf6b-3863bb334450,classic
+15,false,false,082639c8-1f3f-11e7-bf6b-3863bb334450,true,38.955079,437,-77.351649,Sunset Hills & Old Reston Ave,104,32213,082639c8-1f3f-11e7-bf6b-3863bb334450,classic
+15,false,false,08263f4a-1f3f-11e7-bf6b-3863bb334450,true,38.955314,446,-77.368416,Reston YMCA,104,32219,08263f4a-1f3f-11e7-bf6b-3863bb334450,classic
+19,false,false,08263b6d-1f3f-11e7-bf6b-3863bb334450,true,38.959633,441,-77.358741,Library St & Freedom Dr,104,32216,08263b6d-1f3f-11e7-bf6b-3863bb334450,classic
+12,false,false,d3cf2811-ca2e-4d2c-9843-8a90049b7b80,true,38.94335,686,-77.362304,South Lakes Dr and Reston Pkwy,104,32247,d3cf2811-ca2e-4d2c-9843-8a90049b7b80,classic
 12,false,false,9f03d90d-a7ff-433e-9718-b8066c82c5f1,true,38.959025,684,-77.339295,Links Dr & Wedge Dr,104,32245,9f03d90d-a7ff-433e-9718-b8066c82c5f1,classic
-15,false,false,08263d19-1f3f-11e7-bf6b-3863bb334450,true,38.960084,445,-77.353414,Temporary Rd & Old Reston Ave,104,32218,08263d19-1f3f-11e7-bf6b-3863bb334450,classic
-15,false,false,08263bd6-1f3f-11e7-bf6b-3863bb334450,true,38.95534,442,-77.357611,Sunset Hills Rd & Discovery Square,104,32217,08263bd6-1f3f-11e7-bf6b-3863bb334450,classic
 11,false,false,082653a6-1f3f-11e7-bf6b-3863bb334450,true,38.955170598044894,468,-77.3630940914154,Town Center Pkwy & Sunset Hills Rd,104,32224,082653a6-1f3f-11e7-bf6b-3863bb334450,classic
+15,false,false,08263bd6-1f3f-11e7-bf6b-3863bb334450,true,38.95534,442,-77.357611,Sunset Hills Rd & Discovery Square,104,32217,08263bd6-1f3f-11e7-bf6b-3863bb334450,classic
 11,false,false,3c6a1bf0-3aac-4406-990d-966cc8edca52,true,38.944707,541,-77.335425,Campus Commons,104,32228,3c6a1bf0-3aac-4406-990d-966cc8edca52,classic
-15,false,false,08263885-1f3f-11e7-bf6b-3863bb334450,true,38.962524,434,-77.361902,Town Center Pkwy & Bowman Towne Dr,104,32210,08263885-1f3f-11e7-bf6b-3863bb334450,classic
-15,false,false,686c82c2-23fe-4c15-9c75-708f61de98c7,true,38.964207741006206,480,-77.35428035259247,Reston Pkwy & Spectrum Dr,104,32225,686c82c2-23fe-4c15-9c75-708f61de98c7,classic
-12,false,false,8aa43882-2e93-41fb-b55d-a6a15b5b446b,true,38.966344,675,-77.359341,Baron Cameron Ave & North Hampton Ave,104,32237,8aa43882-2e93-41fb-b55d-a6a15b5b446b,classic
+15,false,false,08263d19-1f3f-11e7-bf6b-3863bb334450,true,38.960084,445,-77.353414,Temporary Rd & Old Reston Ave,104,32218,08263d19-1f3f-11e7-bf6b-3863bb334450,classic
 12,false,false,0eae33bc-0b63-4120-ac4d-1e4ac729d524,true,38.93714618600706,688,-77.36786842346191,Green Range Dr and Glade Dr,104,32249,0eae33bc-0b63-4120-ac4d-1e4ac729d524,classic
+15,false,false,08263885-1f3f-11e7-bf6b-3863bb334450,true,38.962524,434,-77.361902,Town Center Pkwy & Bowman Towne Dr,104,32210,08263885-1f3f-11e7-bf6b-3863bb334450,classic
+12,false,false,f75a76bb-34fc-4ee3-81d9-f23d9867017d,true,38.933923,691,-77.331653,Ridge Heights and Owl Cove Ln,104,32252,f75a76bb-34fc-4ee3-81d9-f23d9867017d,classic
 17,false,false,08263a37-1f3f-11e7-bf6b-3863bb334450,true,38.957037,438,-77.359718,Reston Town Center Transit Station,104,32214,08263a37-1f3f-11e7-bf6b-3863bb334450,classic
 12,false,false,071dcbf5-3f1e-45e0-a4a5-8717adb8743f,true,38.936061,676,-77.337775,Ridge Heights Rd & Seahawks Dr,104,32238,071dcbf5-3f1e-45e0-a4a5-8717adb8743f,classic
-12,false,false,f75a76bb-34fc-4ee3-81d9-f23d9867017d,true,38.933923,691,-77.331653,Ridge Heights and Owl Cove Ln,104,32252,f75a76bb-34fc-4ee3-81d9-f23d9867017d,classic
+12,false,false,8aa43882-2e93-41fb-b55d-a6a15b5b446b,true,38.966344,675,-77.359341,Baron Cameron Ave & North Hampton Ave,104,32237,8aa43882-2e93-41fb-b55d-a6a15b5b446b,classic
+15,false,false,686c82c2-23fe-4c15-9c75-708f61de98c7,true,38.964207741006206,480,-77.35428035259247,Reston Pkwy & Spectrum Dr,104,32225,686c82c2-23fe-4c15-9c75-708f61de98c7,classic
 12,false,false,bc4fc3e2-2050-4571-851b-47f062319f95,true,38.938797,687,-77.354067,Olde Crafts Dr and Cartwright Pl,104,32248,bc4fc3e2-2050-4571-851b-47f062319f95,classic
+12,false,false,bc5c6cf3-1c33-457f-a13d-f358c9909dc2,true,38.970807,678,-77.326761,Ring Rd & North Shore Dr,104,32240,bc5c6cf3-1c33-457f-a13d-f358c9909dc2,classic
+19,false,false,08263b08-1f3f-11e7-bf6b-3863bb334450,true,38.946607921214984,440,-77.3393914103508,Wiehle-Reston Metro South,104,32215,08263b08-1f3f-11e7-bf6b-3863bb334450,classic
 12,false,false,a0121df5-4df5-425f-afb8-77dc94dc6d1b,true,38.973625,679,-77.351837,Reston Pkwy & Bennington Woods Rd,104,32241,a0121df5-4df5-425f-afb8-77dc94dc6d1b,classic
 12,false,false,9c8b35b2-fcab-4142-957d-5bb845374685,true,38.941496,689,-77.366499,South Gate Community Center,104,32250,9c8b35b2-fcab-4142-957d-5bb845374685,classic
-12,false,false,bc5c6cf3-1c33-457f-a13d-f358c9909dc2,true,38.970807,678,-77.326761,Ring Rd & North Shore Dr,104,32240,bc5c6cf3-1c33-457f-a13d-f358c9909dc2,classic
 11,false,false,84223eb6-9964-4bd7-85f0-2b6a316c3ba1,true,38.949008,625,-77.355299,Vy Reston Heights,104,32236,84223eb6-9964-4bd7-85f0-2b6a316c3ba1,classic
-19,false,false,08263b08-1f3f-11e7-bf6b-3863bb334450,true,38.946607921214984,440,-77.3393914103508,Wiehle-Reston Metro South,104,32215,08263b08-1f3f-11e7-bf6b-3863bb334450,classic
+15,false,false,082638f2-1f3f-11e7-bf6b-3863bb334450,true,38.920687266851736,435,-77.233165204525,Greensboro Metro East,104,32211,082638f2-1f3f-11e7-bf6b-3863bb334450,classic
 15,false,false,082469cc-1f3f-11e7-bf6b-3863bb334450,true,38.858971,1,-77.05323,Eads St & 15th St S,41,31000,1,classic
 17,false,false,08246c35-1f3f-11e7-bf6b-3863bb334450,true,38.856425,3,-77.049232,Crystal Dr & 20th St S,41,31002,3,classic
 16,false,false,08246cd5-1f3f-11e7-bf6b-3863bb334450,true,38.861056,4,-77.049417,Crystal Dr & 15th St S,41,31003,4,classic
@@ -438,7 +439,6 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 13,false,false,082636d5-1f3f-11e7-bf6b-3863bb334450,true,38.931911,430,-77.219261,Jones Branch & Westbranch Dr,104,32206,430,classic
 11,false,false,0826373c-1f3f-11e7-bf6b-3863bb334450,true,38.928919,431,-77.225394,Westpark & Park Run Dr,104,32207,431,classic
 11,false,false,082637a5-1f3f-11e7-bf6b-3863bb334450,true,38.932636,432,-77.231825,Tysons West Transit Center,104,32208,432,classic
-15,false,false,082638f2-1f3f-11e7-bf6b-3863bb334450,true,38.920687266851736,435,-77.233165204525,Greensboro Metro East,104,32211,435,classic
 19,false,false,08263aa1-1f3f-11e7-bf6b-3863bb334450,true,38.884916,439,-77.005965,1st & D St SE,42,31643,439,classic
 23,false,false,08263c43-1f3f-11e7-bf6b-3863bb334450,true,38.892441,443,-77.048947,22nd St & Constitution Ave NW,42,31292,443,classic
 19,false,false,08263cab-1f3f-11e7-bf6b-3863bb334450,true,38.891805,444,-76.913563,61st St & Banks Pl NE,42,31714,444,classic
@@ -563,7 +563,7 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 12,false,false,33efb11b-052f-437e-ab74-2e6b4661822d,true,38.885621,580,-77.166917,W Columbia St & N Washington St,152,32609,580,classic
 19,false,false,825f1146-bd56-4b4a-acfa-ff9d95472723,true,38.9001,581,-77.1887,West Falls Church Metro,104,32232,581,classic
 11,false,false,b6ea8d82-3226-4aef-a1d2-78076110e718,true,38.928502,582,-77.215624,Jones Branch Drive & Scotts Crossing Rd,104,32233,582,classic
-19,false,false,461df1a0-fac6-4a11-ac4c-ff795e6299c9,true,38.932128,583,-77.0235,Georgia Ave & Morton St NW,42,31419,583,classic
+15,false,false,461df1a0-fac6-4a11-ac4c-ff795e6299c9,true,38.932128,583,-77.0235,Georgia Ave & Morton St NW,42,31419,583,classic
 11,false,false,a77b8993-6d68-425e-a37a-0e613a7cb17a,true,38.879355,584,-77.230681,Merrilee Dr & Lauren Elizabeth Lane,104,32234,584,classic
 11,false,false,65c9578a-8bda-4908-b626-06371c09338b,true,38.870093,585,-77.22997,Merrifield Cinema & Merrifield Town Center,104,32235,585,classic
 19,false,false,30c5787e-6fdb-421d-8eaf-32e652dbeae2,true,38.9243,586,-76.9859,Rhode Island & Montana Ave NE,42,31526,586,classic
@@ -709,3 +709,4 @@ capacity,eightd_has_key_dispenser,electric_bike_surcharge_waiver,external_id,has
 15,false,false,7c790f6e-7889-4c3c-97d6-ffd37e68bb2d,true,38.86044,762,-76.983585,16th & Bangor St SE,42,31829,762,classic
 15,false,false,9973e0f4-23dd-4b50-9ef4-8408fa8a1105,true,38.821563,763,-77.001095,South Capitol St and Southern Ave SE,42,31830,763,classic
 15,false,false,0099b016-32c9-4536-ac4c-dcc1a117bd95,true,38.870353,764,-76.945283,41st St & Alabama Ave SE / Fort Davis Rec,42,31724,764,classic
+12,false,false,c98241f4-a3c0-4eb8-86bd-dd057baa0192,true,38.963782,765,-77.349764,N Shore Dr & Wainwright Dr,,32259,765,classic
