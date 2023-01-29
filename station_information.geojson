@@ -4,36 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "North Village and Park Garden",
-                "station_id": "c0ec45a3-ec59-4c82-9671-13d9c122be30",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.341823,
-                    38.983199
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "North Shore & Cameron Crescent Dr/Crescent Apartments",
-                "station_id": "0826380c-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 11
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.338686,
-                    38.970046
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Reston Town Center Metro North",
                 "station_id": "e823318f-8406-4230-8072-1667f5de78d4",
                 "capacity": 19
@@ -43,66 +13,6 @@
                 "coordinates": [
                     -77.359717,
                     38.953691
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Becontree Ln & Goldenrain Ct",
-                "station_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.329282,
-                    38.966848
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Soapstone Dr Convenience Center",
-                "station_id": "85c2fb24-d241-4550-8968-2cdf85462af7",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.345874,
-                    38.93051
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Vantage Hill Rd & Wainwright Dr",
-                "station_id": "8d68e4db-0bc9-440a-9b27-5d34ed1b93c9",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.348487,
-                    38.9667
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Golf Course Sq and Golf Course Dr",
-                "station_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.353552,
-                    38.944013
                 ]
             }
         },
@@ -124,15 +34,30 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Inlet Ct & Wiehle Dr",
-                "station_id": "0136af02-2670-4042-b5cd-18b46c15c0c1",
+                "name": "North Village and Park Garden",
+                "station_id": "c0ec45a3-ec59-4c82-9671-13d9c122be30",
                 "capacity": 12
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.334359,
-                    38.965979
+                    -77.341823,
+                    38.983199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Soapstone Dr Convenience Center",
+                "station_id": "85c2fb24-d241-4550-8968-2cdf85462af7",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.345874,
+                    38.93051
                 ]
             }
         },
@@ -154,6 +79,81 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Becontree Ln & Goldenrain Ct",
+                "station_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.329282,
+                    38.966848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Golf Course Sq and Golf Course Dr",
+                "station_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.353552,
+                    38.944013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vantage Hill Rd & Wainwright Dr",
+                "station_id": "8d68e4db-0bc9-440a-9b27-5d34ed1b93c9",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.348487,
+                    38.9667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Inlet Ct & Wiehle Dr",
+                "station_id": "0136af02-2670-4042-b5cd-18b46c15c0c1",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.334359,
+                    38.965979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "North Shore & Cameron Crescent Dr/Crescent Apartments",
+                "station_id": "0826380c-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 11
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.338686,
+                    38.970046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "North Shore Dr & Village Rd",
                 "station_id": "0826533b-1f3f-11e7-bf6b-3863bb334450",
                 "capacity": 11
@@ -163,21 +163,6 @@
                 "coordinates": [
                     -77.340787,
                     38.970412
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Lake Newport Rd and Autumn Ridge Cir",
-                "station_id": "29f174dd-e7bc-4329-a570-0220f0d1be84",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.35345423221588,
-                    38.97850255151454
                 ]
             }
         },
@@ -214,21 +199,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Library St & Freedom Dr",
-                "station_id": "08263b6d-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.358741,
-                    38.959633
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "South Lakes Dr and Reston Pkwy",
                 "station_id": "d3cf2811-ca2e-4d2c-9843-8a90049b7b80",
                 "capacity": 12
@@ -238,6 +208,36 @@
                 "coordinates": [
                     -77.362304,
                     38.94335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lake Newport Rd and Autumn Ridge Cir",
+                "station_id": "29f174dd-e7bc-4329-a570-0220f0d1be84",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.35345423221588,
+                    38.97850255151454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Library St & Freedom Dr",
+                "station_id": "08263b6d-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.358741,
+                    38.959633
                 ]
             }
         },
@@ -274,15 +274,15 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Links Dr & Wedge Dr",
-                "station_id": "9f03d90d-a7ff-433e-9718-b8066c82c5f1",
-                "capacity": 12
+                "name": "Sunset Hills Rd & Discovery Square",
+                "station_id": "08263bd6-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.339295,
-                    38.959025
+                    -77.357611,
+                    38.95534
                 ]
             }
         },
@@ -304,90 +304,15 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Sunset Hills Rd & Discovery Square",
-                "station_id": "08263bd6-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 15
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.357611,
-                    38.95534
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Town Center Pkwy & Bowman Towne Dr",
-                "station_id": "08263885-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 15
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.361902,
-                    38.962524
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Baron Cameron Ave & North Hampton Ave",
-                "station_id": "8aa43882-2e93-41fb-b55d-a6a15b5b446b",
+                "name": "Links Dr & Wedge Dr",
+                "station_id": "9f03d90d-a7ff-433e-9718-b8066c82c5f1",
                 "capacity": 12
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.359341,
-                    38.966344
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Green Range Dr and Glade Dr",
-                "station_id": "0eae33bc-0b63-4120-ac4d-1e4ac729d524",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.36786842346191,
-                    38.93714618600706
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Ridge Heights and Owl Cove Ln",
-                "station_id": "f75a76bb-34fc-4ee3-81d9-f23d9867017d",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.331653,
-                    38.933923
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Ridge Heights Rd & Seahawks Dr",
-                "station_id": "071dcbf5-3f1e-45e0-a4a5-8717adb8743f",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.337775,
-                    38.936061
+                    -77.339295,
+                    38.959025
                 ]
             }
         },
@@ -409,6 +334,21 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Baron Cameron Ave & North Hampton Ave",
+                "station_id": "8aa43882-2e93-41fb-b55d-a6a15b5b446b",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.359341,
+                    38.966344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Reston Town Center Transit Station",
                 "station_id": "08263a37-1f3f-11e7-bf6b-3863bb334450",
                 "capacity": 17
@@ -424,15 +364,60 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Greensboro Metro East",
-                "station_id": "082638f2-1f3f-11e7-bf6b-3863bb334450",
+                "name": "Ridge Heights Rd & Seahawks Dr",
+                "station_id": "071dcbf5-3f1e-45e0-a4a5-8717adb8743f",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.337775,
+                    38.936061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Town Center Pkwy & Bowman Towne Dr",
+                "station_id": "08263885-1f3f-11e7-bf6b-3863bb334450",
                 "capacity": 15
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.233165204525,
-                    38.920687266851736
+                    -77.361902,
+                    38.962524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ridge Heights and Owl Cove Ln",
+                "station_id": "f75a76bb-34fc-4ee3-81d9-f23d9867017d",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.331653,
+                    38.933923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Green Range Dr and Glade Dr",
+                "station_id": "0eae33bc-0b63-4120-ac4d-1e4ac729d524",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.36786842346191,
+                    38.93714618600706
                 ]
             }
         },
@@ -454,30 +439,15 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Wiehle-Reston Metro South",
-                "station_id": "08263b08-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 19
+                "name": "Greensboro Metro East",
+                "station_id": "082638f2-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.3393914103508,
-                    38.946607921214984
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Olde Crafts Dr and Cartwright Pl",
-                "station_id": "bc4fc3e2-2050-4571-851b-47f062319f95",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.354067,
-                    38.938797
+                    -77.233165204525,
+                    38.920687266851736
                 ]
             }
         },
@@ -499,6 +469,36 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Ring Rd & North Shore Dr",
+                "station_id": "bc5c6cf3-1c33-457f-a13d-f358c9909dc2",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.326761,
+                    38.970807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wiehle-Reston Metro South",
+                "station_id": "08263b08-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3393914103508,
+                    38.946607921214984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Vy Reston Heights",
                 "station_id": "84223eb6-9964-4bd7-85f0-2b6a316c3ba1",
                 "capacity": 11
@@ -514,15 +514,15 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Ring Rd & North Shore Dr",
-                "station_id": "bc5c6cf3-1c33-457f-a13d-f358c9909dc2",
+                "name": "Olde Crafts Dr and Cartwright Pl",
+                "station_id": "bc4fc3e2-2050-4571-851b-47f062319f95",
                 "capacity": 12
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.326761,
-                    38.970807
+                    -77.354067,
+                    38.938797
                 ]
             }
         },
