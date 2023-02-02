@@ -1,5 +1,47 @@
 [
     {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "c0ec45a3-ec59-4c82-9671-13d9c122be30",
+        "has_kiosk": true,
+        "lat": 38.983199,
+        "legacy_id": "702",
+        "lon": -77.341823,
+        "name": "North Village and Park Garden",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32256",
+        "station_id": "c0ec45a3-ec59-4c82-9671-13d9c122be30",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
+        "has_kiosk": true,
+        "lat": 38.966848,
+        "legacy_id": "677",
+        "lon": -77.329282,
+        "name": "Becontree Ln & Goldenrain Ct",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32239",
+        "station_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
+        "station_type": "classic"
+    },
+    {
         "capacity": 11,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -21,24 +63,24 @@
         "station_type": "classic"
     },
     {
-        "capacity": 12,
+        "capacity": 11,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
-        "external_id": "0136af02-2670-4042-b5cd-18b46c15c0c1",
+        "external_id": "0826380c-1f3f-11e7-bf6b-3863bb334450",
         "has_kiosk": true,
-        "lat": 38.965979,
-        "legacy_id": "680",
-        "lon": -77.334359,
-        "name": "Inlet Ct & Wiehle Dr",
+        "lat": 38.970046,
+        "legacy_id": "433",
+        "lon": -77.338686,
+        "name": "North Shore & Cameron Crescent Dr/Crescent Apartments",
         "region_id": "104",
         "rental_methods": [
             "CREDITCARD",
             "KEY"
         ],
         "rental_uris": {},
-        "short_name": "32242",
-        "station_id": "0136af02-2670-4042-b5cd-18b46c15c0c1",
+        "short_name": "32209",
+        "station_id": "0826380c-1f3f-11e7-bf6b-3863bb334450",
         "station_type": "classic"
     },
     {
@@ -67,20 +109,20 @@
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
-        "external_id": "c0ec45a3-ec59-4c82-9671-13d9c122be30",
+        "external_id": "0136af02-2670-4042-b5cd-18b46c15c0c1",
         "has_kiosk": true,
-        "lat": 38.983199,
-        "legacy_id": "702",
-        "lon": -77.341823,
-        "name": "North Village and Park Garden",
+        "lat": 38.965979,
+        "legacy_id": "680",
+        "lon": -77.334359,
+        "name": "Inlet Ct & Wiehle Dr",
         "region_id": "104",
         "rental_methods": [
             "CREDITCARD",
             "KEY"
         ],
         "rental_uris": {},
-        "short_name": "32256",
-        "station_id": "c0ec45a3-ec59-4c82-9671-13d9c122be30",
+        "short_name": "32242",
+        "station_id": "0136af02-2670-4042-b5cd-18b46c15c0c1",
         "station_type": "classic"
     },
     {
@@ -105,45 +147,24 @@
         "station_type": "classic"
     },
     {
-        "capacity": 19,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "e823318f-8406-4230-8072-1667f5de78d4",
-        "has_kiosk": true,
-        "lat": 38.953691,
-        "legacy_id": "681",
-        "lon": -77.359717,
-        "name": "Reston Town Center Metro North",
-        "region_id": "104",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "32243",
-        "station_id": "e823318f-8406-4230-8072-1667f5de78d4",
-        "station_type": "classic"
-    },
-    {
         "capacity": 12,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
-        "external_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
+        "external_id": "8d68e4db-0bc9-440a-9b27-5d34ed1b93c9",
         "has_kiosk": true,
-        "lat": 38.966848,
-        "legacy_id": "677",
-        "lon": -77.329282,
-        "name": "Becontree Ln & Goldenrain Ct",
+        "lat": 38.9667,
+        "legacy_id": "682",
+        "lon": -77.348487,
+        "name": "Vantage Hill Rd & Wainwright Dr",
         "region_id": "104",
         "rental_methods": [
             "CREDITCARD",
             "KEY"
         ],
         "rental_uris": {},
-        "short_name": "32239",
-        "station_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
+        "short_name": "32244",
+        "station_id": "8d68e4db-0bc9-440a-9b27-5d34ed1b93c9",
         "station_type": "classic"
     },
     {
@@ -168,45 +189,45 @@
         "station_type": "classic"
     },
     {
-        "capacity": 12,
+        "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
-        "external_id": "8d68e4db-0bc9-440a-9b27-5d34ed1b93c9",
+        "external_id": "e823318f-8406-4230-8072-1667f5de78d4",
         "has_kiosk": true,
-        "lat": 38.9667,
-        "legacy_id": "682",
-        "lon": -77.348487,
-        "name": "Vantage Hill Rd & Wainwright Dr",
+        "lat": 38.953691,
+        "legacy_id": "681",
+        "lon": -77.359717,
+        "name": "Reston Town Center Metro North",
         "region_id": "104",
         "rental_methods": [
             "CREDITCARD",
             "KEY"
         ],
         "rental_uris": {},
-        "short_name": "32244",
-        "station_id": "8d68e4db-0bc9-440a-9b27-5d34ed1b93c9",
+        "short_name": "32243",
+        "station_id": "e823318f-8406-4230-8072-1667f5de78d4",
         "station_type": "classic"
     },
     {
-        "capacity": 11,
+        "capacity": 15,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
-        "external_id": "0826380c-1f3f-11e7-bf6b-3863bb334450",
+        "external_id": "08263f4a-1f3f-11e7-bf6b-3863bb334450",
         "has_kiosk": true,
-        "lat": 38.970046,
-        "legacy_id": "433",
-        "lon": -77.338686,
-        "name": "North Shore & Cameron Crescent Dr/Crescent Apartments",
+        "lat": 38.955314,
+        "legacy_id": "446",
+        "lon": -77.368416,
+        "name": "Reston YMCA",
         "region_id": "104",
         "rental_methods": [
             "CREDITCARD",
             "KEY"
         ],
         "rental_uris": {},
-        "short_name": "32209",
-        "station_id": "0826380c-1f3f-11e7-bf6b-3863bb334450",
+        "short_name": "32219",
+        "station_id": "08263f4a-1f3f-11e7-bf6b-3863bb334450",
         "station_type": "classic"
     },
     {
@@ -256,6 +277,27 @@
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
+        "external_id": "29f174dd-e7bc-4329-a570-0220f0d1be84",
+        "has_kiosk": true,
+        "lat": 38.97850255151454,
+        "legacy_id": "690",
+        "lon": -77.35345423221588,
+        "name": "Lake Newport Rd and Autumn Ridge Cir",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32251",
+        "station_id": "29f174dd-e7bc-4329-a570-0220f0d1be84",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
         "external_id": "d3cf2811-ca2e-4d2c-9843-8a90049b7b80",
         "has_kiosk": true,
         "lat": 38.94335,
@@ -270,27 +312,6 @@
         "rental_uris": {},
         "short_name": "32247",
         "station_id": "d3cf2811-ca2e-4d2c-9843-8a90049b7b80",
-        "station_type": "classic"
-    },
-    {
-        "capacity": 15,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "08263f4a-1f3f-11e7-bf6b-3863bb334450",
-        "has_kiosk": true,
-        "lat": 38.955314,
-        "legacy_id": "446",
-        "lon": -77.368416,
-        "name": "Reston YMCA",
-        "region_id": "104",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "32219",
-        "station_id": "08263f4a-1f3f-11e7-bf6b-3863bb334450",
         "station_type": "classic"
     },
     {
@@ -315,24 +336,66 @@
         "station_type": "classic"
     },
     {
-        "capacity": 12,
+        "capacity": 11,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
-        "external_id": "29f174dd-e7bc-4329-a570-0220f0d1be84",
+        "external_id": "3c6a1bf0-3aac-4406-990d-966cc8edca52",
         "has_kiosk": true,
-        "lat": 38.97850255151454,
-        "legacy_id": "690",
-        "lon": -77.35345423221588,
-        "name": "Lake Newport Rd and Autumn Ridge Cir",
+        "lat": 38.944707,
+        "legacy_id": "541",
+        "lon": -77.335425,
+        "name": "Campus Commons",
         "region_id": "104",
         "rental_methods": [
             "CREDITCARD",
             "KEY"
         ],
         "rental_uris": {},
-        "short_name": "32251",
-        "station_id": "29f174dd-e7bc-4329-a570-0220f0d1be84",
+        "short_name": "32228",
+        "station_id": "3c6a1bf0-3aac-4406-990d-966cc8edca52",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 15,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "08263d19-1f3f-11e7-bf6b-3863bb334450",
+        "has_kiosk": true,
+        "lat": 38.960084,
+        "legacy_id": "445",
+        "lon": -77.353414,
+        "name": "Temporary Rd & Old Reston Ave",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32218",
+        "station_id": "08263d19-1f3f-11e7-bf6b-3863bb334450",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "9f03d90d-a7ff-433e-9718-b8066c82c5f1",
+        "has_kiosk": true,
+        "lat": 38.959025,
+        "legacy_id": "684",
+        "lon": -77.339295,
+        "name": "Links Dr & Wedge Dr",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32245",
+        "station_id": "9f03d90d-a7ff-433e-9718-b8066c82c5f1",
         "station_type": "classic"
     },
     {
@@ -361,27 +424,6 @@
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
-        "external_id": "08263d19-1f3f-11e7-bf6b-3863bb334450",
-        "has_kiosk": true,
-        "lat": 38.960084,
-        "legacy_id": "445",
-        "lon": -77.353414,
-        "name": "Temporary Rd & Old Reston Ave",
-        "region_id": "104",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "32218",
-        "station_id": "08263d19-1f3f-11e7-bf6b-3863bb334450",
-        "station_type": "classic"
-    },
-    {
-        "capacity": 15,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
         "external_id": "08263bd6-1f3f-11e7-bf6b-3863bb334450",
         "has_kiosk": true,
         "lat": 38.95534,
@@ -399,45 +441,24 @@
         "station_type": "classic"
     },
     {
-        "capacity": 11,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "3c6a1bf0-3aac-4406-990d-966cc8edca52",
-        "has_kiosk": true,
-        "lat": 38.944707,
-        "legacy_id": "541",
-        "lon": -77.335425,
-        "name": "Campus Commons",
-        "region_id": "104",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "32228",
-        "station_id": "3c6a1bf0-3aac-4406-990d-966cc8edca52",
-        "station_type": "classic"
-    },
-    {
         "capacity": 12,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
-        "external_id": "9f03d90d-a7ff-433e-9718-b8066c82c5f1",
+        "external_id": "0eae33bc-0b63-4120-ac4d-1e4ac729d524",
         "has_kiosk": true,
-        "lat": 38.959025,
-        "legacy_id": "684",
-        "lon": -77.339295,
-        "name": "Links Dr & Wedge Dr",
+        "lat": 38.93714618600706,
+        "legacy_id": "688",
+        "lon": -77.36786842346191,
+        "name": "Green Range Dr and Glade Dr",
         "region_id": "104",
         "rental_methods": [
             "CREDITCARD",
             "KEY"
         ],
         "rental_uris": {},
-        "short_name": "32245",
-        "station_id": "9f03d90d-a7ff-433e-9718-b8066c82c5f1",
+        "short_name": "32249",
+        "station_id": "0eae33bc-0b63-4120-ac4d-1e4ac729d524",
         "station_type": "classic"
     },
     {
@@ -459,48 +480,6 @@
         "rental_uris": {},
         "short_name": "32225",
         "station_id": "686c82c2-23fe-4c15-9c75-708f61de98c7",
-        "station_type": "classic"
-    },
-    {
-        "capacity": 12,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "f75a76bb-34fc-4ee3-81d9-f23d9867017d",
-        "has_kiosk": true,
-        "lat": 38.933923,
-        "legacy_id": "691",
-        "lon": -77.331653,
-        "name": "Ridge Heights and Owl Cove Ln",
-        "region_id": "104",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "32252",
-        "station_id": "f75a76bb-34fc-4ee3-81d9-f23d9867017d",
-        "station_type": "classic"
-    },
-    {
-        "capacity": 15,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "08263885-1f3f-11e7-bf6b-3863bb334450",
-        "has_kiosk": true,
-        "lat": 38.962524,
-        "legacy_id": "434",
-        "lon": -77.361902,
-        "name": "Town Center Pkwy & Bowman Towne Dr",
-        "region_id": "104",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "32210",
-        "station_id": "08263885-1f3f-11e7-bf6b-3863bb334450",
         "station_type": "classic"
     },
     {
@@ -550,27 +529,6 @@
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
-        "external_id": "0eae33bc-0b63-4120-ac4d-1e4ac729d524",
-        "has_kiosk": true,
-        "lat": 38.93714618600706,
-        "legacy_id": "688",
-        "lon": -77.36786842346191,
-        "name": "Green Range Dr and Glade Dr",
-        "region_id": "104",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "32249",
-        "station_id": "0eae33bc-0b63-4120-ac4d-1e4ac729d524",
-        "station_type": "classic"
-    },
-    {
-        "capacity": 12,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
         "external_id": "071dcbf5-3f1e-45e0-a4a5-8717adb8743f",
         "has_kiosk": true,
         "lat": 38.936061,
@@ -585,6 +543,111 @@
         "rental_uris": {},
         "short_name": "32238",
         "station_id": "071dcbf5-3f1e-45e0-a4a5-8717adb8743f",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "f75a76bb-34fc-4ee3-81d9-f23d9867017d",
+        "has_kiosk": true,
+        "lat": 38.933923,
+        "legacy_id": "691",
+        "lon": -77.331653,
+        "name": "Ridge Heights and Owl Cove Ln",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32252",
+        "station_id": "f75a76bb-34fc-4ee3-81d9-f23d9867017d",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 15,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "08263885-1f3f-11e7-bf6b-3863bb334450",
+        "has_kiosk": true,
+        "lat": 38.962524,
+        "legacy_id": "434",
+        "lon": -77.361902,
+        "name": "Town Center Pkwy & Bowman Towne Dr",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32210",
+        "station_id": "08263885-1f3f-11e7-bf6b-3863bb334450",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 11,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "84223eb6-9964-4bd7-85f0-2b6a316c3ba1",
+        "has_kiosk": true,
+        "lat": 38.949008,
+        "legacy_id": "625",
+        "lon": -77.355299,
+        "name": "Vy Reston Heights",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32236",
+        "station_id": "84223eb6-9964-4bd7-85f0-2b6a316c3ba1",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "bc5c6cf3-1c33-457f-a13d-f358c9909dc2",
+        "has_kiosk": true,
+        "lat": 38.970807,
+        "legacy_id": "678",
+        "lon": -77.326761,
+        "name": "Ring Rd & North Shore Dr",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32240",
+        "station_id": "bc5c6cf3-1c33-457f-a13d-f358c9909dc2",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 12,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "9c8b35b2-fcab-4142-957d-5bb845374685",
+        "has_kiosk": true,
+        "lat": 38.941496,
+        "legacy_id": "689",
+        "lon": -77.366499,
+        "name": "South Gate Community Center",
+        "region_id": "104",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "32250",
+        "station_id": "9c8b35b2-fcab-4142-957d-5bb845374685",
         "station_type": "classic"
     },
     {
@@ -630,48 +693,6 @@
         "station_type": "classic"
     },
     {
-        "capacity": 11,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "84223eb6-9964-4bd7-85f0-2b6a316c3ba1",
-        "has_kiosk": true,
-        "lat": 38.949008,
-        "legacy_id": "625",
-        "lon": -77.355299,
-        "name": "Vy Reston Heights",
-        "region_id": "104",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "32236",
-        "station_id": "84223eb6-9964-4bd7-85f0-2b6a316c3ba1",
-        "station_type": "classic"
-    },
-    {
-        "capacity": 15,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "082638f2-1f3f-11e7-bf6b-3863bb334450",
-        "has_kiosk": true,
-        "lat": 38.920687266851736,
-        "legacy_id": "435",
-        "lon": -77.233165204525,
-        "name": "Greensboro Metro East",
-        "region_id": "104",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "32211",
-        "station_id": "082638f2-1f3f-11e7-bf6b-3863bb334450",
-        "station_type": "classic"
-    },
-    {
         "capacity": 19,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
@@ -693,45 +714,24 @@
         "station_type": "classic"
     },
     {
-        "capacity": 12,
+        "capacity": 15,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
-        "external_id": "9c8b35b2-fcab-4142-957d-5bb845374685",
+        "external_id": "082638f2-1f3f-11e7-bf6b-3863bb334450",
         "has_kiosk": true,
-        "lat": 38.941496,
-        "legacy_id": "689",
-        "lon": -77.366499,
-        "name": "South Gate Community Center",
+        "lat": 38.920687266851736,
+        "legacy_id": "435",
+        "lon": -77.233165204525,
+        "name": "Greensboro Metro East",
         "region_id": "104",
         "rental_methods": [
             "CREDITCARD",
             "KEY"
         ],
         "rental_uris": {},
-        "short_name": "32250",
-        "station_id": "9c8b35b2-fcab-4142-957d-5bb845374685",
-        "station_type": "classic"
-    },
-    {
-        "capacity": 12,
-        "eightd_has_key_dispenser": false,
-        "eightd_station_services": [],
-        "electric_bike_surcharge_waiver": false,
-        "external_id": "bc5c6cf3-1c33-457f-a13d-f358c9909dc2",
-        "has_kiosk": true,
-        "lat": 38.970807,
-        "legacy_id": "678",
-        "lon": -77.326761,
-        "name": "Ring Rd & North Shore Dr",
-        "region_id": "104",
-        "rental_methods": [
-            "CREDITCARD",
-            "KEY"
-        ],
-        "rental_uris": {},
-        "short_name": "32240",
-        "station_id": "bc5c6cf3-1c33-457f-a13d-f358c9909dc2",
+        "short_name": "32211",
+        "station_id": "082638f2-1f3f-11e7-bf6b-3863bb334450",
         "station_type": "classic"
     },
     {
@@ -10521,7 +10521,7 @@
         "station_type": "classic"
     },
     {
-        "capacity": 0,
+        "capacity": 15,
         "eightd_has_key_dispenser": false,
         "eightd_station_services": [],
         "electric_bike_surcharge_waiver": false,
@@ -14969,6 +14969,46 @@
         "rental_uris": {},
         "short_name": "31334",
         "station_id": "767",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 19,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "5d8b76d9-ae82-464b-87f1-37553a9fec6c",
+        "has_kiosk": true,
+        "lat": 38.89428,
+        "legacy_id": "768",
+        "lon": -77.023979,
+        "name": "9th St & Pennsylvania Ave NW",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "30200",
+        "station_id": "768",
+        "station_type": "classic"
+    },
+    {
+        "capacity": 0,
+        "eightd_has_key_dispenser": false,
+        "eightd_station_services": [],
+        "electric_bike_surcharge_waiver": false,
+        "external_id": "a10f8bfa-1324-411c-b358-3fbd94eff32b",
+        "has_kiosk": false,
+        "lat": 38.898097,
+        "legacy_id": "769",
+        "lon": -77.023924,
+        "name": "9th & G St NW",
+        "rental_methods": [
+            "CREDITCARD",
+            "KEY"
+        ],
+        "rental_uris": {},
+        "short_name": "30201",
+        "station_id": "769",
         "station_type": "classic"
     }
 ]
