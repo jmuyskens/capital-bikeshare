@@ -4,81 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Vantage Hill Rd & Wainwright Dr",
-                "station_id": "8d68e4db-0bc9-440a-9b27-5d34ed1b93c9",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.348487,
-                    38.9667
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "North Village and Park Garden",
-                "station_id": "c0ec45a3-ec59-4c82-9671-13d9c122be30",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.341823,
-                    38.983199
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "New Dominion Pkwy & Fountain Dr",
-                "station_id": "08263959-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 14
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.356324,
-                    38.960574
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Sunset Hills Rd & Isaac Newton Square",
-                "station_id": "08263fbd-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 11
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.340377,
-                    38.951443
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Golf Course Sq and Golf Course Dr",
-                "station_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.353552,
-                    38.944013
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Becontree Ln & Goldenrain Ct",
                 "station_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
                 "capacity": 12
@@ -109,21 +34,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "North Shore & Cameron Crescent Dr/Crescent Apartments",
-                "station_id": "0826380c-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 11
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.338686,
-                    38.970046
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Inlet Ct & Wiehle Dr",
                 "station_id": "0136af02-2670-4042-b5cd-18b46c15c0c1",
                 "capacity": 12
@@ -133,6 +43,66 @@
                 "coordinates": [
                     -77.334359,
                     38.965979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sunset Hills Rd & Isaac Newton Square",
+                "station_id": "08263fbd-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 11
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.340377,
+                    38.951443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vantage Hill Rd & Wainwright Dr",
+                "station_id": "8d68e4db-0bc9-440a-9b27-5d34ed1b93c9",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.348487,
+                    38.9667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "New Dominion Pkwy & Fountain Dr",
+                "station_id": "08263959-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 14
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.356324,
+                    38.960574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Golf Course Sq and Golf Course Dr",
+                "station_id": "13c42471-96ab-441d-9a4c-bc57f7af6f9b",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.353552,
+                    38.944013
                 ]
             }
         },
@@ -154,45 +124,45 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Lake Newport Rd and Autumn Ridge Cir",
-                "station_id": "29f174dd-e7bc-4329-a570-0220f0d1be84",
+                "name": "North Village and Park Garden",
+                "station_id": "c0ec45a3-ec59-4c82-9671-13d9c122be30",
                 "capacity": 12
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.35345423221588,
-                    38.97850255151454
+                    -77.341823,
+                    38.983199
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "North Shore Dr & Village Rd",
-                "station_id": "0826533b-1f3f-11e7-bf6b-3863bb334450",
+                "name": "North Shore & Cameron Crescent Dr/Crescent Apartments",
+                "station_id": "0826380c-1f3f-11e7-bf6b-3863bb334450",
                 "capacity": 11
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.340787,
-                    38.970412
+                    -77.338686,
+                    38.970046
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Sunset Hills & Old Reston Ave",
-                "station_id": "082639c8-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 15
+                "name": "South Lakes Dr and Reston Pkwy",
+                "station_id": "d3cf2811-ca2e-4d2c-9843-8a90049b7b80",
+                "capacity": 12
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.351649,
-                    38.955079
+                    -77.362304,
+                    38.94335
                 ]
             }
         },
@@ -229,30 +199,45 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "South Lakes Dr and Reston Pkwy",
-                "station_id": "d3cf2811-ca2e-4d2c-9843-8a90049b7b80",
-                "capacity": 12
+                "name": "Sunset Hills & Old Reston Ave",
+                "station_id": "082639c8-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.362304,
-                    38.94335
+                    -77.351649,
+                    38.955079
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Sunset Hills Rd & Discovery Square",
-                "station_id": "08263bd6-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 15
+                "name": "North Shore Dr & Village Rd",
+                "station_id": "0826533b-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 11
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.357611,
-                    38.95534
+                    -77.340787,
+                    38.970412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lake Newport Rd and Autumn Ridge Cir",
+                "station_id": "29f174dd-e7bc-4329-a570-0220f0d1be84",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.35345423221588,
+                    38.97850255151454
                 ]
             }
         },
@@ -268,6 +253,21 @@
                 "coordinates": [
                     -77.335425,
                     38.944707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sunset Hills Rd & Discovery Square",
+                "station_id": "08263bd6-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.357611,
+                    38.95534
                 ]
             }
         },
@@ -319,21 +319,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Ridge Heights Rd & Seahawks Dr",
-                "station_id": "071dcbf5-3f1e-45e0-a4a5-8717adb8743f",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.337775,
-                    38.936061
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Ridge Heights and Owl Cove Ln",
                 "station_id": "f75a76bb-34fc-4ee3-81d9-f23d9867017d",
                 "capacity": 12
@@ -379,15 +364,15 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Green Range Dr and Glade Dr",
-                "station_id": "0eae33bc-0b63-4120-ac4d-1e4ac729d524",
-                "capacity": 12
+                "name": "Town Center Pkwy & Bowman Towne Dr",
+                "station_id": "08263885-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.36786842346191,
-                    38.93714618600706
+                    -77.361902,
+                    38.962524
                 ]
             }
         },
@@ -409,15 +394,30 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Town Center Pkwy & Bowman Towne Dr",
-                "station_id": "08263885-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 15
+                "name": "Ridge Heights Rd & Seahawks Dr",
+                "station_id": "071dcbf5-3f1e-45e0-a4a5-8717adb8743f",
+                "capacity": 12
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.361902,
-                    38.962524
+                    -77.337775,
+                    38.936061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Green Range Dr and Glade Dr",
+                "station_id": "0eae33bc-0b63-4120-ac4d-1e4ac729d524",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.36786842346191,
+                    38.93714618600706
                 ]
             }
         },
@@ -439,6 +439,21 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Greensboro Metro East",
+                "station_id": "082638f2-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.233165204525,
+                    38.920687266851736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Vy Reston Heights",
                 "station_id": "84223eb6-9964-4bd7-85f0-2b6a316c3ba1",
                 "capacity": 11
@@ -448,36 +463,6 @@
                 "coordinates": [
                     -77.355299,
                     38.949008
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "South Gate Community Center",
-                "station_id": "9c8b35b2-fcab-4142-957d-5bb845374685",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.366499,
-                    38.941496
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Reston Pkwy & Bennington Woods Rd",
-                "station_id": "a0121df5-4df5-425f-afb8-77dc94dc6d1b",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.351837,
-                    38.973625
                 ]
             }
         },
@@ -499,15 +484,15 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Greensboro Metro East",
-                "station_id": "082638f2-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 15
+                "name": "South Gate Community Center",
+                "station_id": "9c8b35b2-fcab-4142-957d-5bb845374685",
+                "capacity": 12
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.233165204525,
-                    38.920687266851736
+                    -77.366499,
+                    38.941496
                 ]
             }
         },
@@ -523,6 +508,21 @@
                 "coordinates": [
                     -77.354067,
                     38.938797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Reston Pkwy & Bennington Woods Rd",
+                "station_id": "a0121df5-4df5-425f-afb8-77dc94dc6d1b",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.351837,
+                    38.973625
                 ]
             }
         },
@@ -10738,6 +10738,21 @@
                 "coordinates": [
                     -77.023924,
                     38.898097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "17th St & Rhode Island Ave NW",
+                "station_id": "770",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.03862726688385,
+                    38.906767059408295
                 ]
             }
         }
