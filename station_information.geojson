@@ -4,75 +4,15 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Columbia Rd & Georgia Ave NW",
-                "station_id": "0825164b-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 27
+                "name": "Sunset Hills Rd & Isaac Newton Square",
+                "station_id": "08263fbd-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 11
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.0237946510315,
-                    38.92812111132096
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Vantage Hill Rd & Wainwright Dr",
-                "station_id": "8d68e4db-0bc9-440a-9b27-5d34ed1b93c9",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.348487,
-                    38.9667
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Reservoir Rd & 38th St NW",
-                "station_id": "7a19d0e7-2b3c-4805-b843-1aec84a05bfe",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.07432264076488,
-                    38.91261359469192
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Joliet St & MLK Ave SW/Bald Eagle Rec Ctr",
-                "station_id": "7c46ff05-4fca-44e6-a50b-acbc57e8100b",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.01033,
-                    38.81909
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "North Village and Park Garden",
-                "station_id": "c0ec45a3-ec59-4c82-9671-13d9c122be30",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.341823,
-                    38.983199
+                    -77.340377,
+                    38.951443
                 ]
             }
         },
@@ -94,15 +34,15 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "8th & H St NE",
-                "station_id": "fbbeab20-556d-4275-98a9-f84d316c157f",
-                "capacity": 19
+                "name": "North Village and Park Garden",
+                "station_id": "c0ec45a3-ec59-4c82-9671-13d9c122be30",
+                "capacity": 12
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.99489653110504,
-                    38.899941626884754
+                    -77.341823,
+                    38.983199
                 ]
             }
         },
@@ -124,21 +64,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Kingman Island/The Fields at RFK",
-                "station_id": "bed9b757-0df2-4a97-a6ac-415db00e82c8",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.9678448436025,
-                    38.89595455700754
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Reston Town Center Metro North",
                 "station_id": "e823318f-8406-4230-8072-1667f5de78d4",
                 "capacity": 19
@@ -154,90 +79,15 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Sunset Hills Rd & Isaac Newton Square",
-                "station_id": "08263fbd-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 11
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.340377,
-                    38.951443
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Inlet Ct & Wiehle Dr",
-                "station_id": "0136af02-2670-4042-b5cd-18b46c15c0c1",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.334359,
-                    38.965979
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "4th & Florida Ave NE",
-                "station_id": "21cdfe0d-71ad-4302-a003-3cfc0d355af9",
+                "name": "8th & H St NE",
+                "station_id": "fbbeab20-556d-4275-98a9-f84d316c157f",
                 "capacity": 19
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.00069814920425,
-                    38.90731645057457
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "John McCormack Rd NE",
-                "station_id": "8bbafd08-edb1-426d-94f4-c7b7d9be34dd",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.997226,
-                    38.938889
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "37th & Ely Pl SE",
-                "station_id": "ee2cb739-9118-4069-b4f7-435ef53db537",
-                "capacity": 15
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.949709,
-                    38.883011
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Waterfront Park",
-                "station_id": "94b1507c-7f76-483c-b06a-a4131e0b5970",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.0207878947258,
-                    38.874820772513424
+                    -76.99489653110504,
+                    38.899941626884754
                 ]
             }
         },
@@ -259,150 +109,45 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "53rd & D St SE/C.W. Harris Elementary",
-                "station_id": "12b1c990-90e7-4fef-a5b9-c78d4c81af96",
+                "name": "Columbia Rd & Georgia Ave NW",
+                "station_id": "0825164b-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 27
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0237946510315,
+                    38.92812111132096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "4th & Florida Ave NE",
+                "station_id": "21cdfe0d-71ad-4302-a003-3cfc0d355af9",
                 "capacity": 19
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.925315,
-                    38.883318
+                    -77.00069814920425,
+                    38.90731645057457
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Broad Branch Rd & Northampton St NW",
-                "station_id": "68eaf9f5-7b2d-4f60-9f02-9f5ba1103f80",
+                "name": "Kingman Island/The Fields at RFK",
+                "station_id": "bed9b757-0df2-4a97-a6ac-415db00e82c8",
                 "capacity": 19
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.06862643361092,
-                    38.96577499342219
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Soapstone Dr Convenience Center",
-                "station_id": "85c2fb24-d241-4550-8968-2cdf85462af7",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.345874,
-                    38.93051
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Lincoln Rd & Seaton Pl NE/Harry Thomas Rec Center",
-                "station_id": "6d5ad96d-a704-4fa6-8b65-3ac643c5aa93",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.0078,
-                    38.915
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Livingston Rd & 3rd St SE",
-                "station_id": "d72b1790-0fea-4af8-9d2a-fd4d4db24d1a",
-                "capacity": 15
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.00223,
-                    38.82373
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Montello Ave & Holbrook Terr NE",
-                "station_id": "a07bd5e0-5136-4285-ae23-54a74124957e",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.986813,
-                    38.907444
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Columbus Circle / Union Station",
-                "station_id": "0824d0c6-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 55
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.00493,
-                    38.89696
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Becontree Ln & Goldenrain Ct",
-                "station_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.329282,
-                    38.966848
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Smithsonian-National Mall / Jefferson Dr & 12th St SW",
-                "station_id": "082522f0-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 35
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.028694,
-                    38.888774
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "New Dominion Pkwy & Fountain Dr",
-                "station_id": "08263959-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 14
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.356324,
-                    38.960574
+                    -76.9678448436025,
+                    38.89595455700754
                 ]
             }
         },
@@ -439,6 +184,201 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Vantage Hill Rd & Wainwright Dr",
+                "station_id": "8d68e4db-0bc9-440a-9b27-5d34ed1b93c9",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.348487,
+                    38.9667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Waterfront Park",
+                "station_id": "94b1507c-7f76-483c-b06a-a4131e0b5970",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0207878947258,
+                    38.874820772513424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "53rd & D St SE/C.W. Harris Elementary",
+                "station_id": "12b1c990-90e7-4fef-a5b9-c78d4c81af96",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.925315,
+                    38.883318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Joliet St & MLK Ave SW/Bald Eagle Rec Ctr",
+                "station_id": "7c46ff05-4fca-44e6-a50b-acbc57e8100b",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.01033,
+                    38.81909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Livingston Rd & 3rd St SE",
+                "station_id": "d72b1790-0fea-4af8-9d2a-fd4d4db24d1a",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.00223,
+                    38.82373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "37th & Ely Pl SE",
+                "station_id": "ee2cb739-9118-4069-b4f7-435ef53db537",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.949709,
+                    38.883011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Inlet Ct & Wiehle Dr",
+                "station_id": "0136af02-2670-4042-b5cd-18b46c15c0c1",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.334359,
+                    38.965979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Soapstone Dr Convenience Center",
+                "station_id": "85c2fb24-d241-4550-8968-2cdf85462af7",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.345874,
+                    38.93051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "John McCormack Rd NE",
+                "station_id": "8bbafd08-edb1-426d-94f4-c7b7d9be34dd",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.997226,
+                    38.938889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "New Dominion Pkwy & Fountain Dr",
+                "station_id": "08263959-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 14
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.356324,
+                    38.960574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Becontree Ln & Goldenrain Ct",
+                "station_id": "e976c0ab-bc21-42b3-a2c2-b90def6f54f4",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.329282,
+                    38.966848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Columbus Circle / Union Station",
+                "station_id": "0824d0c6-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 55
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.00493,
+                    38.89696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Montello Ave & Holbrook Terr NE",
+                "station_id": "a07bd5e0-5136-4285-ae23-54a74124957e",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.986813,
+                    38.907444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Lincoln Memorial",
                 "station_id": "08254284-1f3f-11e7-bf6b-3863bb334450",
                 "capacity": 25
@@ -448,6 +388,51 @@
                 "coordinates": [
                     -77.0494365,
                     38.888255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Smithsonian-National Mall / Jefferson Dr & 12th St SW",
+                "station_id": "082522f0-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 35
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.028694,
+                    38.888774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Broad Branch Rd & Northampton St NW",
+                "station_id": "68eaf9f5-7b2d-4f60-9f02-9f5ba1103f80",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.06862643361092,
+                    38.96577499342219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Reservoir Rd & 38th St NW",
+                "station_id": "7a19d0e7-2b3c-4805-b843-1aec84a05bfe",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.07432264076488,
+                    38.91261359469192
                 ]
             }
         },
@@ -469,240 +454,15 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Ohio Dr & West Basin Dr SW / MLK & FDR Memorials",
-                "station_id": "0824e68d-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 31
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.04657,
-                    38.88412
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Lake Newport Rd and Autumn Ridge Cir",
-                "station_id": "29f174dd-e7bc-4329-a570-0220f0d1be84",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.35345423221588,
-                    38.97850255151454
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "North Shore Dr & Village Rd",
-                "station_id": "0826533b-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 11
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.340787,
-                    38.970412
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "48th Pl & MacArthur Blvd NW",
-                "station_id": "e07eed7c-2d2a-4f13-aff7-2be6500958f7",
+                "name": "Lincoln Rd & Seaton Pl NE/Harry Thomas Rec Center",
+                "station_id": "6d5ad96d-a704-4fa6-8b65-3ac643c5aa93",
                 "capacity": 19
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.0957824587822,
-                    38.9170363119413
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "South Lakes Dr and Reston Pkwy",
-                "station_id": "d3cf2811-ca2e-4d2c-9843-8a90049b7b80",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.362304,
-                    38.94335
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Reston YMCA",
-                "station_id": "08263f4a-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 15
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.368416,
-                    38.955314
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "16th & Harvard St NW",
-                "station_id": "ae007456-14ad-4619-a92e-e3a40f93a412",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.03665,
-                    38.926102
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "15th & P St NW",
-                "station_id": "0824791a-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.03442692756653,
-                    38.90980062655191
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Kansas Ave & Longfellow St NW",
-                "station_id": "d1fd7121-67e3-46a9-b415-e84a565394f2",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.013821,
-                    38.958098
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "23rd & M St NW",
-                "station_id": "5b745524-d0d3-4197-8c69-0ad4e5761883",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.050264,
-                    38.905303
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "10th & Monroe St NE",
-                "station_id": "0824bb59-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.99353396892548,
-                    38.932456900063606
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Maine Ave & Water St SW",
-                "station_id": "a41e5bd2-b599-4c47-a36f-31ffa2e2dd0b",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.02094480395317,
-                    38.87674677186661
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "7th & K St NW",
-                "station_id": "a0d0ec92-ebda-436a-b476-7ee9a7bdb67d",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.021392,
-                    38.902674
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "North Capitol & R St NE",
-                "station_id": "2a76806e-32b4-4ec6-a851-f73ba7dafda1",
-                "capacity": 15
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.00891107320786,
-                    38.912912458206925
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Georgia Ave & Fairmont St NW",
-                "station_id": "0824844b-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 15
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.02232748270035,
-                    38.924784585266956
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Sunset Hills & Old Reston Ave",
-                "station_id": "082639c8-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 15
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.351649,
-                    38.955079
+                    -77.0078,
+                    38.915
                 ]
             }
         },
@@ -724,330 +484,45 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "MBT & Bryant St NE",
-                "station_id": "0627dc3c-5c62-4ab1-a6f0-3635c6f80d23",
+                "name": "10th & Monroe St NE",
+                "station_id": "0824bb59-1f3f-11e7-bf6b-3863bb334450",
                 "capacity": 19
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.9960230588913,
-                    38.92240364115446
+                    -76.99353396892548,
+                    38.932456900063606
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "New Jersey Ave & H St SE",
-                "station_id": "2574f980-163e-4b9b-8107-6145615815b3",
-                "capacity": 19
+                "name": "Reston YMCA",
+                "station_id": "08263f4a-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.00574070215225,
-                    38.880760725950644
+                    -77.368416,
+                    38.955314
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "United Medical Center",
-                "station_id": "5f0f9566-90d4-431e-9b6d-994e26d20ec6",
-                "capacity": 19
+                "name": "Georgia Ave & Fairmont St NW",
+                "station_id": "0824844b-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.983144,
-                    38.835737
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Georgia Ave & Morton St NW",
-                "station_id": "461df1a0-fac6-4a11-ac4c-ff795e6299c9",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.0235,
-                    38.932128
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Library St & Freedom Dr",
-                "station_id": "08263b6d-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.358741,
-                    38.959633
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "10th & G St NW",
-                "station_id": "0825f622-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 23
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.02623546123505,
-                    38.89824328774852
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "7th & S St NW",
-                "station_id": "4f9000ec-e47e-494e-9b49-61e95b5a6f03",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.02159523963928,
-                    38.914173639930105
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "New Hampshire & Gallatin St NW",
-                "station_id": "89263cc9-13f6-4185-b315-5164c9bb930e",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.012808,
-                    38.951596
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "37th & O St NW / Georgetown University",
-                "station_id": "0824cdb0-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 23
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.07151249051093,
-                    38.90769260137618
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "17th & Upshur St NW",
-                "station_id": "72e7c396-11ad-4e88-bf4b-e60584f748fc",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.038684,
-                    38.942146
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "18th St & Pennsylvania Ave NW",
-                "station_id": "08250172-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 27
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.041539,
-                    38.89968
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "American University East Campus",
-                "station_id": "ad6ec1ce-db22-47c1-acf3-507897d40725",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.087128,
-                    38.936298
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "1st & N St SE",
-                "station_id": "082484cf-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 39
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.00575411319733,
-                    38.875022735559995
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "22nd & H St NW",
-                "station_id": "d325a449-32d7-488d-b746-9455ad003834",
-                "capacity": 17
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.04885238395946,
-                    38.89892546716842
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Kenilworth Terr & Hayes St. NE",
-                "station_id": "07a453e5-2e14-4276-85df-49e0d6144e54",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.9472873210907,
-                    38.90046848783359
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "1st St & Potomac Ave SE",
-                "station_id": "66c82803-70e3-496f-9942-30e0936de3f5",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.00591,
-                    38.871841
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "20th & Columbia Rd NW",
-                "station_id": "7346145e-f487-4f07-acb8-ed3e0b8b56bb",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.045487,
-                    38.918036
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Oklahoma Ave & Benning Rd NE",
-                "station_id": "54962348-19dd-47b8-a816-bce25eb658a1",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.9695094,
-                    38.8974996
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "13th & U St NW",
-                "station_id": "732103a1-eedd-4044-afa6-67b2d192ff22",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.0296311378479,
-                    38.91693645323652
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "9th & Ingraham St NW",
-                "station_id": "30b5e0c1-7ca6-4050-8566-3fccf0b60890",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.02561318874359,
-                    38.95366314394005
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "M St & Pennsylvania Ave NW",
-                "station_id": "08251984-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.056887,
-                    38.905126
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Jefferson Dr & 14th St SW",
-                "station_id": "08252260-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 23
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.032427,
-                    38.8885525
+                    -77.02232748270035,
+                    38.924784585266956
                 ]
             }
         },
@@ -1069,15 +544,90 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "14th & D St SE",
-                "station_id": "55fc40ce-5be9-4e45-9c84-daacced3c852",
+                "name": "7th & K St NW",
+                "station_id": "a0d0ec92-ebda-436a-b476-7ee9a7bdb67d",
                 "capacity": 19
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.9863852,
-                    38.8840581
+                    -77.021392,
+                    38.902674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "South Lakes Dr and Reston Pkwy",
+                "station_id": "d3cf2811-ca2e-4d2c-9843-8a90049b7b80",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.362304,
+                    38.94335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "New Hampshire & Gallatin St NW",
+                "station_id": "89263cc9-13f6-4185-b315-5164c9bb930e",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.012808,
+                    38.951596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sunset Hills & Old Reston Ave",
+                "station_id": "082639c8-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.351649,
+                    38.955079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "18th St & Pennsylvania Ave NW",
+                "station_id": "08250172-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 27
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.041539,
+                    38.89968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Maine Ave & Water St SW",
+                "station_id": "a41e5bd2-b599-4c47-a36f-31ffa2e2dd0b",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.02094480395317,
+                    38.87674677186661
                 ]
             }
         },
@@ -1099,90 +649,450 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Campus Commons",
-                "station_id": "3c6a1bf0-3aac-4406-990d-966cc8edca52",
-                "capacity": 11
+                "name": "20th & Columbia Rd NW",
+                "station_id": "7346145e-f487-4f07-acb8-ed3e0b8b56bb",
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.335425,
-                    38.944707
+                    -77.045487,
+                    38.918036
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Sunset Hills Rd & Discovery Square",
-                "station_id": "08263bd6-1f3f-11e7-bf6b-3863bb334450",
+                "name": "Library St & Freedom Dr",
+                "station_id": "08263b6d-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.358741,
+                    38.959633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16th & Harvard St NW",
+                "station_id": "ae007456-14ad-4619-a92e-e3a40f93a412",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.03665,
+                    38.926102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "United Medical Center",
+                "station_id": "5f0f9566-90d4-431e-9b6d-994e26d20ec6",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.983144,
+                    38.835737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "17th & Upshur St NW",
+                "station_id": "72e7c396-11ad-4e88-bf4b-e60584f748fc",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.038684,
+                    38.942146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MBT & Bryant St NE",
+                "station_id": "0627dc3c-5c62-4ab1-a6f0-3635c6f80d23",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.9960230588913,
+                    38.92240364115446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "North Capitol & R St NE",
+                "station_id": "2a76806e-32b4-4ec6-a851-f73ba7dafda1",
                 "capacity": 15
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.357611,
-                    38.95534
+                    -77.00891107320786,
+                    38.912912458206925
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Anacostia Roller Skating Pavilion",
-                "station_id": "d2a6b8ef-0d6d-4037-84e4-b905142031fa",
+                "name": "13th & U St NW",
+                "station_id": "732103a1-eedd-4044-afa6-67b2d192ff22",
                 "capacity": 19
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.97093,
-                    38.878771
+                    -77.0296311378479,
+                    38.91693645323652
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "15th & M St NW",
-                "station_id": "7fcbf92d-a257-4973-828b-181d5602eee5",
+                "name": "New Jersey Ave & H St SE",
+                "station_id": "2574f980-163e-4b9b-8107-6145615815b3",
                 "capacity": 19
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.034674,
-                    38.905424
+                    -77.00574070215225,
+                    38.880760725950644
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Kansas Ave & Sherman Cr NW",
-                "station_id": "c645ddde-0156-47ab-9616-3121f541a6f0",
+                "name": "1st St & Potomac Ave SE",
+                "station_id": "66c82803-70e3-496f-9942-30e0936de3f5",
                 "capacity": 19
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.02154964208603,
-                    38.94796174822241
+                    -77.00591,
+                    38.871841
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "15th St & Constitution Ave NW",
-                "station_id": "99e66f13-6f03-4872-9f34-bcd92fe519fd",
+                "name": "48th Pl & MacArthur Blvd NW",
+                "station_id": "e07eed7c-2d2a-4f13-aff7-2be6500958f7",
                 "capacity": 19
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.033234,
-                    38.892244
+                    -77.0957824587822,
+                    38.9170363119413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "M St & Pennsylvania Ave NW",
+                "station_id": "08251984-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.056887,
+                    38.905126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "10th & G St NW",
+                "station_id": "0825f622-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.02623546123505,
+                    38.89824328774852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23rd & M St NW",
+                "station_id": "5b745524-d0d3-4197-8c69-0ad4e5761883",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.050264,
+                    38.905303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "37th & O St NW / Georgetown University",
+                "station_id": "0824cdb0-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.07151249051093,
+                    38.90769260137618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "North Shore Dr & Village Rd",
+                "station_id": "0826533b-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 11
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.340787,
+                    38.970412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kansas Ave & Longfellow St NW",
+                "station_id": "d1fd7121-67e3-46a9-b415-e84a565394f2",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.013821,
+                    38.958098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "14th & D St SE",
+                "station_id": "55fc40ce-5be9-4e45-9c84-daacced3c852",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.9863852,
+                    38.8840581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Georgia Ave & Morton St NW",
+                "station_id": "461df1a0-fac6-4a11-ac4c-ff795e6299c9",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0235,
+                    38.932128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22nd & H St NW",
+                "station_id": "d325a449-32d7-488d-b746-9455ad003834",
+                "capacity": 17
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.04885238395946,
+                    38.89892546716842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "7th & S St NW",
+                "station_id": "4f9000ec-e47e-494e-9b49-61e95b5a6f03",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.02159523963928,
+                    38.914173639930105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lake Newport Rd and Autumn Ridge Cir",
+                "station_id": "29f174dd-e7bc-4329-a570-0220f0d1be84",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.35345423221588,
+                    38.97850255151454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ohio Dr & West Basin Dr SW / MLK & FDR Memorials",
+                "station_id": "0824e68d-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 31
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.04657,
+                    38.88412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oklahoma Ave & Benning Rd NE",
+                "station_id": "54962348-19dd-47b8-a816-bce25eb658a1",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.9695094,
+                    38.8974996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "American University East Campus",
+                "station_id": "ad6ec1ce-db22-47c1-acf3-507897d40725",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.087128,
+                    38.936298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kenilworth Terr & Hayes St. NE",
+                "station_id": "07a453e5-2e14-4276-85df-49e0d6144e54",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.9472873210907,
+                    38.90046848783359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1st & N St SE",
+                "station_id": "082484cf-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 39
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.00575411319733,
+                    38.875022735559995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jefferson Dr & 14th St SW",
+                "station_id": "08252260-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.032427,
+                    38.8885525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15th & P St NW",
+                "station_id": "0824791a-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.03442692756653,
+                    38.90980062655191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "9th & Ingraham St NW",
+                "station_id": "30b5e0c1-7ca6-4050-8566-3fccf0b60890",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.02561318874359,
+                    38.95366314394005
                 ]
             }
         },
@@ -1204,15 +1114,60 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "18th & New Hampshire Ave NW",
-                "station_id": "101824b5-2dd0-464c-bc7e-30481e00e6d7",
+                "name": "Stadium Armory Metro",
+                "station_id": "e9611824-0245-4482-bc8b-970c0eface40",
                 "capacity": 19
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.041829,
-                    38.911268
+                    -76.97718724608421,
+                    38.88548252734069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "19th & Savannah St SE",
+                "station_id": "d61b3881-e324-4c6d-aa92-849716c70b04",
+                "capacity": 11
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.97703,
+                    38.84623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "New Hampshire Ave & T St NW",
+                "station_id": "0824c376-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.038252,
+                    38.915544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "17th & G St NW",
+                "station_id": "0825fca2-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 35
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.039643,
+                    38.898301
                 ]
             }
         },
@@ -1249,21 +1204,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "19th & Savannah St SE",
-                "station_id": "d61b3881-e324-4c6d-aa92-849716c70b04",
-                "capacity": 11
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.97703,
-                    38.84623
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Capitol Ave & Kendall St NE",
                 "station_id": "336a1fe2-8e92-49ad-ab6a-c6c392d3edcd",
                 "capacity": 19
@@ -1279,15 +1219,45 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "20th & E St NW",
-                "station_id": "08247aa4-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 15
+                "name": "Campus Commons",
+                "station_id": "3c6a1bf0-3aac-4406-990d-966cc8edca52",
+                "capacity": 11
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.045,
-                    38.8963
+                    -77.335425,
+                    38.944707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15th St & Pennsylvania Ave NW",
+                "station_id": "3d461075-4edb-497f-89d7-b7beb7595b20",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0333808660507,
+                    38.89646474748647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kansas Ave & Sherman Cr NW",
+                "station_id": "c645ddde-0156-47ab-9616-3121f541a6f0",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.02154964208603,
+                    38.94796174822241
                 ]
             }
         },
@@ -1309,21 +1279,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "14th & Newton St NW",
-                "station_id": "e9030e46-31bf-4def-befb-2e685ad48180",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.032956,
-                    38.931991
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Links Dr & Wedge Dr",
                 "station_id": "9f03d90d-a7ff-433e-9718-b8066c82c5f1",
                 "capacity": 12
@@ -1339,45 +1294,45 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "New Hampshire Ave & T St NW",
-                "station_id": "0824c376-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 23
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.038252,
-                    38.915544
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Arizona Ave & MacArthur Blvd NW",
-                "station_id": "1b1fd2f7-bcbd-43a2-bed1-ddf8e3cc4614",
+                "name": "14th & Newton St NW",
+                "station_id": "e9030e46-31bf-4def-befb-2e685ad48180",
                 "capacity": 19
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.103662,
-                    38.927294
+                    -77.032956,
+                    38.931991
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Connecticut Ave & Macomb St NW / Cleveland Park",
-                "station_id": "08247f59-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 11
+                "name": "14th & G St NW",
+                "station_id": "0824e24c-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 23
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.0575301349163,
-                    38.93362634918731
+                    -77.03189760446548,
+                    38.89816396413188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15th St & Constitution Ave NW",
+                "station_id": "99e66f13-6f03-4872-9f34-bcd92fe519fd",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.033234,
+                    38.892244
                 ]
             }
         },
@@ -1414,51 +1369,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "15th St & Pennsylvania Ave NW",
-                "station_id": "3d461075-4edb-497f-89d7-b7beb7595b20",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.0333808660507,
-                    38.89646474748647
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "11th & V St NW",
-                "station_id": "c361d993-ebd8-4110-b10e-6bd2055fbe05",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.027171,
-                    38.918199
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "South Dakota Ave & Bladensburg Rd NE",
-                "station_id": "183f8ffb-756c-4271-8d9a-a5cde3f13116",
-                "capacity": 15
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.964896,
-                    38.9252
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Woody Ward Rec Center",
                 "station_id": "c51f0090-a4f9-416d-a18b-6e0505b1dca1",
                 "capacity": 15
@@ -1474,30 +1384,45 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Temporary Rd & Old Reston Ave",
-                "station_id": "08263d19-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 15
+                "name": "15th & M St NW",
+                "station_id": "7fcbf92d-a257-4973-828b-181d5602eee5",
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.353414,
-                    38.960084
+                    -77.034674,
+                    38.905424
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "3rd & M St SE",
-                "station_id": "60e5f9b2-611b-4713-b34a-8ce2c2ee8ac8",
-                "capacity": 23
+                "name": "Arizona Ave & MacArthur Blvd NW",
+                "station_id": "1b1fd2f7-bcbd-43a2-bed1-ddf8e3cc4614",
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.002161,
-                    38.876823
+                    -77.103662,
+                    38.927294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Connecticut Ave & Macomb St NW / Cleveland Park",
+                "station_id": "08247f59-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 11
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0575301349163,
+                    38.93362634918731
                 ]
             }
         },
@@ -1519,15 +1444,75 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "2nd & V St SW / James Creek Marina",
-                "station_id": "4784f152-5012-49fc-b1bb-723a6d73aa09",
+                "name": "Temporary Rd & Old Reston Ave",
+                "station_id": "08263d19-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.353414,
+                    38.960084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "South Dakota Ave & Bladensburg Rd NE",
+                "station_id": "183f8ffb-756c-4271-8d9a-a5cde3f13116",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.964896,
+                    38.9252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "11th & V St NW",
+                "station_id": "c361d993-ebd8-4110-b10e-6bd2055fbe05",
                 "capacity": 19
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.013814,
-                    38.863743
+                    -77.027171,
+                    38.918199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "20th & E St NW",
+                "station_id": "08247aa4-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.045,
+                    38.8963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Anacostia Roller Skating Pavilion",
+                "station_id": "d2a6b8ef-0d6d-4037-84e4-b905142031fa",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.97093,
+                    38.878771
                 ]
             }
         },
@@ -1549,45 +1534,45 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "17th & G St NW",
-                "station_id": "0825fca2-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 35
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.039643,
-                    38.898301
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Stadium Armory Metro",
-                "station_id": "e9611824-0245-4482-bc8b-970c0eface40",
+                "name": "18th & New Hampshire Ave NW",
+                "station_id": "101824b5-2dd0-464c-bc7e-30481e00e6d7",
                 "capacity": 19
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.97718724608421,
-                    38.88548252734069
+                    -77.041829,
+                    38.911268
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "14th & G St NW",
-                "station_id": "0824e24c-1f3f-11e7-bf6b-3863bb334450",
+                "name": "3rd & M St SE",
+                "station_id": "60e5f9b2-611b-4713-b34a-8ce2c2ee8ac8",
                 "capacity": 23
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.03189760446548,
-                    38.89816396413188
+                    -77.002161,
+                    38.876823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sunset Hills Rd & Discovery Square",
+                "station_id": "08263bd6-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.357611,
+                    38.95534
                 ]
             }
         },
@@ -1609,255 +1594,45 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Half & Water St SW",
-                "station_id": "d49c5d1b-d02b-4c35-b60d-ed3cc6d51479",
-                "capacity": 15
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.010551,
-                    38.866277
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Ridge Heights Rd & Seahawks Dr",
-                "station_id": "071dcbf5-3f1e-45e0-a4a5-8717adb8743f",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.337775,
-                    38.936061
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Massachusetts Ave & 6th St NE",
-                "station_id": "880978b9-5084-4576-a206-8d94cdbf4427",
+                "name": "2nd & V St SW / James Creek Marina",
+                "station_id": "4784f152-5012-49fc-b1bb-723a6d73aa09",
                 "capacity": 19
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.998273,
-                    38.892934
+                    -77.013814,
+                    38.863743
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Reston Town Center Transit Station",
-                "station_id": "08263a37-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 17
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.359718,
-                    38.957037
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Adams Mill & Columbia Rd NW",
-                "station_id": "08247632-1f3f-11e7-bf6b-3863bb334450",
+                "name": "Minnesota Ave & R St SE",
+                "station_id": "0541e06c-642c-4f31-9f24-19bfcbb8811d",
                 "capacity": 19
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.04252451658249,
-                    38.9228491613136
+                    -76.978519,
+                    38.8693365
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Virginia Ave & C St NW",
-                "station_id": "0824f16b-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 15
+                "name": "11th & Kenyon St NW",
+                "station_id": "08247522-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 39
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.04439267516136,
-                    38.89388766381858
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "10th St & Rhode Island Ave NE",
-                "station_id": "a62f9324-6f6e-4bdb-9206-3ca05517e607",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.99267029762268,
-                    38.92248919793601
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "1st & S Capitol St SE / Oxon Run Trail",
-                "station_id": "c778c501-ba47-479b-b652-831432ffd74f",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.005497,
-                    38.824481
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Baron Cameron Ave & North Hampton Ave",
-                "station_id": "8aa43882-2e93-41fb-b55d-a6a15b5b446b",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.359341,
-                    38.966344
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Ridge Rd Community Center",
-                "station_id": "db81ad06-aad3-4e23-b2b9-05b39b41f8fc",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.94098126958124,
-                    38.876227445751475
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Green Range Dr and Glade Dr",
-                "station_id": "0eae33bc-0b63-4120-ac4d-1e4ac729d524",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.36786842346191,
-                    38.93714618600706
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Thomas Circle",
-                "station_id": "0824f8a2-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 33
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.0325,
-                    38.9059
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "14th & V St NW",
-                "station_id": "0824749f-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 31
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.032096,
-                    38.9177645
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Ridge Rd & Southern Ave SE",
-                "station_id": "5d8d5182-ea42-49ec-8cae-8891759f5751",
-                "capacity": 15
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.935246,
-                    38.872976
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "14th St & Luzon Ave NW",
-                "station_id": "eda09ed8-ca5e-4187-938c-3260cabdf82d",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.033509,
-                    38.969489
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Reston Pkwy & Spectrum Dr",
-                "station_id": "686c82c2-23fe-4c15-9c75-708f61de98c7",
-                "capacity": 15
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.35428035259247,
-                    38.964207741006206
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "10th & H St NE",
-                "station_id": "fe755eaf-7f1f-48df-bc40-f51d2af775d1",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.992725,
-                    38.899984
+                    -77.027822,
+                    38.929464
                 ]
             }
         },
@@ -1894,105 +1669,45 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Minnesota Ave & R St SE",
-                "station_id": "0541e06c-642c-4f31-9f24-19bfcbb8811d",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.978519,
-                    38.8693365
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Valley Ave & Wheeler Rd SE",
-                "station_id": "0cabc1c7-cf6f-4afd-9242-c011b77f6330",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.99358886515256,
-                    38.83664578175751
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "4th & G St SW",
-                "station_id": "3f177fa3-6267-4138-82b3-6b528d71d3b2",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.01769933104515,
-                    38.881116725009335
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "11th & Girard St NW",
-                "station_id": "cd1394fa-9d06-4665-bd1c-d7580d97a550",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.027112,
-                    38.925636
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Tanner Park",
-                "station_id": "177f7198-8814-4068-b809-b6074346d2e9",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.0022565126419,
-                    38.911213594521456
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Ridge Heights and Owl Cove Ln",
-                "station_id": "f75a76bb-34fc-4ee3-81d9-f23d9867017d",
+                "name": "Green Range Dr and Glade Dr",
+                "station_id": "0eae33bc-0b63-4120-ac4d-1e4ac729d524",
                 "capacity": 12
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.331653,
-                    38.933923
+                    -77.36786842346191,
+                    38.93714618600706
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "11th & Kenyon St NW",
-                "station_id": "08247522-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 39
+                "name": "New Jersey Ave & F St NW",
+                "station_id": "96ce48cf-5d98-4dfb-86b1-f461230cd193",
+                "capacity": 33
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.027822,
-                    38.929464
+                    -77.011616,
+                    38.897108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ridge Rd Community Center",
+                "station_id": "db81ad06-aad3-4e23-b2b9-05b39b41f8fc",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.94098126958124,
+                    38.876227445751475
                 ]
             }
         },
@@ -2014,15 +1729,240 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "11th & C St SE",
-                "station_id": "3f1dfbbd-7b34-4efd-91a3-60acad4cf42f",
+                "name": "14th St & Luzon Ave NW",
+                "station_id": "eda09ed8-ca5e-4187-938c-3260cabdf82d",
                 "capacity": 19
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.991476,
-                    38.885908
+                    -77.033509,
+                    38.969489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Valley Ave & Wheeler Rd SE",
+                "station_id": "0cabc1c7-cf6f-4afd-9242-c011b77f6330",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.99358886515256,
+                    38.83664578175751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Adams Mill & Columbia Rd NW",
+                "station_id": "08247632-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.04252451658249,
+                    38.9228491613136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ridge Heights and Owl Cove Ln",
+                "station_id": "f75a76bb-34fc-4ee3-81d9-f23d9867017d",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.331653,
+                    38.933923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "10th St & Rhode Island Ave NE",
+                "station_id": "a62f9324-6f6e-4bdb-9206-3ca05517e607",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.99267029762268,
+                    38.92248919793601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "14th & V St NW",
+                "station_id": "0824749f-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 31
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.032096,
+                    38.9177645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ridge Rd & Southern Ave SE",
+                "station_id": "5d8d5182-ea42-49ec-8cae-8891759f5751",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.935246,
+                    38.872976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Thomas Circle",
+                "station_id": "0824f8a2-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 33
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0325,
+                    38.9059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Virginia Ave & C St NW",
+                "station_id": "0824f16b-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.04439267516136,
+                    38.89388766381858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Massachusetts Ave & 6th St NE",
+                "station_id": "880978b9-5084-4576-a206-8d94cdbf4427",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.998273,
+                    38.892934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "7th St & Florida Ave NW",
+                "station_id": "082485e8-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.02200293540955,
+                    38.91613684808331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Reston Town Center Transit Station",
+                "station_id": "08263a37-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 17
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.359718,
+                    38.957037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tanner Park",
+                "station_id": "177f7198-8814-4068-b809-b6074346d2e9",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0022565126419,
+                    38.911213594521456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "4th & G St SW",
+                "station_id": "3f177fa3-6267-4138-82b3-6b528d71d3b2",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.01769933104515,
+                    38.881116725009335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Woodley Park Metro / Calvert St & Connecticut Ave NW",
+                "station_id": "efe6a4e1-5900-46d6-9755-db074f87c5c2",
+                "capacity": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.051833,
+                    38.923389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Half & Water St SW",
+                "station_id": "d49c5d1b-d02b-4c35-b60d-ed3cc6d51479",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.010551,
+                    38.866277
                 ]
             }
         },
@@ -2044,30 +1984,45 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "8th & V St NW",
-                "station_id": "3900eddf-b06d-4763-af70-1126603508d0",
-                "capacity": 19
+                "name": "Fort Lincoln Dr & 33rd Pl NE",
+                "station_id": "c9760156-83bd-4a7d-9dfa-85d7ee463f62",
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.022684,
-                    38.917716
+                    -76.9556866,
+                    38.9216413
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "1st & M St SE",
-                "station_id": "5f71434d-dc5c-45ff-8219-708a3d9a0691",
-                "capacity": 19
+                "name": "Ridge Heights Rd & Seahawks Dr",
+                "station_id": "071dcbf5-3f1e-45e0-a4a5-8717adb8743f",
+                "capacity": 12
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.006072,
-                    38.876893
+                    -77.337775,
+                    38.936061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Baron Cameron Ave & North Hampton Ave",
+                "station_id": "8aa43882-2e93-41fb-b55d-a6a15b5b446b",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.359341,
+                    38.966344
                 ]
             }
         },
@@ -2089,15 +2044,105 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Fort Lincoln Dr & 33rd Pl NE",
-                "station_id": "c9760156-83bd-4a7d-9dfa-85d7ee463f62",
+                "name": "10th & H St NE",
+                "station_id": "fe755eaf-7f1f-48df-bc40-f51d2af775d1",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.992725,
+                    38.899984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "11th & C St SE",
+                "station_id": "3f1dfbbd-7b34-4efd-91a3-60acad4cf42f",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.991476,
+                    38.885908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Reston Pkwy & Spectrum Dr",
+                "station_id": "686c82c2-23fe-4c15-9c75-708f61de98c7",
                 "capacity": 15
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.9556866,
-                    38.9216413
+                    -77.35428035259247,
+                    38.964207741006206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1st & M St SE",
+                "station_id": "5f71434d-dc5c-45ff-8219-708a3d9a0691",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.006072,
+                    38.876893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "8th & V St NW",
+                "station_id": "3900eddf-b06d-4763-af70-1126603508d0",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.022684,
+                    38.917716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1st & S Capitol St SE / Oxon Run Trail",
+                "station_id": "c778c501-ba47-479b-b652-831432ffd74f",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.005497,
+                    38.824481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "11th & Girard St NW",
+                "station_id": "cd1394fa-9d06-4665-bd1c-d7580d97a550",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.027112,
+                    38.925636
                 ]
             }
         },
@@ -2134,186 +2179,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Woodley Park Metro / Calvert St & Connecticut Ave NW",
-                "station_id": "efe6a4e1-5900-46d6-9755-db074f87c5c2",
-                "capacity": 23
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.051833,
-                    38.923389
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "7th St & Florida Ave NW",
-                "station_id": "082485e8-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 15
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.02200293540955,
-                    38.91613684808331
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "New Jersey Ave & F St NW",
-                "station_id": "96ce48cf-5d98-4dfb-86b1-f461230cd193",
-                "capacity": 33
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.011616,
-                    38.897108
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "3rd & N St NE",
-                "station_id": "197e33c5-30cf-4007-b7a8-b9b1dfd064e3",
-                "capacity": 11
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.002109,
-                    38.907073
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Park Rd & Holmead Pl NW",
-                "station_id": "08247e59-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 35
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.0315,
-                    38.9308
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Wisconsin Ave & Rodman St NW",
-                "station_id": "c7402dc0-b498-47b0-8977-2b9d671a62bb",
-                "capacity": 23
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.07527697086334,
-                    38.939674172021654
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "4th St & Mississippi Ave SE",
-                "station_id": "8083cb0d-c3a4-417e-b46e-afe6cf1a7e67",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.0009,
-                    38.836
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "1st & L St NW",
-                "station_id": "314fc12d-7275-4936-a245-a1febd3c95df",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.011987,
-                    38.903819
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Good Hope Rd & MLK Ave SE",
-                "station_id": "0824821f-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 11
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.988039,
-                    38.867373
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "11th & Clifton St NW",
-                "station_id": "5205f20c-ded8-4469-bafd-021bc7229295",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.02708572149277,
-                    38.9223243445331
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Reston Pkwy & Bennington Woods Rd",
-                "station_id": "a0121df5-4df5-425f-afb8-77dc94dc6d1b",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.351837,
-                    38.973625
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Olde Crafts Dr and Cartwright Pl",
-                "station_id": "bc4fc3e2-2050-4571-851b-47f062319f95",
-                "capacity": 12
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.354067,
-                    38.938797
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "1st & K St NE",
                 "station_id": "b8b6903d-fabc-48aa-af9b-2c5fb29344b9",
                 "capacity": 17
@@ -2323,156 +2188,6 @@
                 "coordinates": [
                     -77.005649,
                     38.902386
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Vy Reston Heights",
-                "station_id": "84223eb6-9964-4bd7-85f0-2b6a316c3ba1",
-                "capacity": 11
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.355299,
-                    38.949008
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Hardy Rec Center",
-                "station_id": "d8a01502-8d6c-449f-852d-d6b409e56e11",
-                "capacity": 17
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.08564639091492,
-                    38.90970086204467
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "8th & K St NE",
-                "station_id": "3d88e01e-e071-4638-829c-543410cded50",
-                "capacity": 15
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.99514991079923,
-                    38.90273216425078
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "17th & P St NW",
-                "station_id": "5e828067-2fd6-4168-b150-5409754e734c",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.038566,
-                    38.909858
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Rhode Island & Montana Ave NE",
-                "station_id": "30c5787e-6fdb-421d-8eaf-32e652dbeae2",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.9859,
-                    38.9243
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Maine Ave & 9th St SW",
-                "station_id": "f33b7c9d-11ff-4059-94e4-4a1206acd7a6",
-                "capacity": 15
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.025236,
-                    38.88044
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Anacostia Ave & East Capitol St NE",
-                "station_id": "5a3453ad-43af-495d-ba1f-e8be6b66e2e8",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.96128,
-                    38.890461
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Wiehle-Reston Metro South",
-                "station_id": "08263b08-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 19
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.3393914103508,
-                    38.946607921214984
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "11th & M St NW",
-                "station_id": "0824de05-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 23
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.027313,
-                    38.9055785
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Greensboro Metro East",
-                "station_id": "082638f2-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 15
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.233165204525,
-                    38.920687266851736
                 ]
             }
         },
@@ -2494,60 +2209,60 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "11th & Park Rd NW",
-                "station_id": "1e19ca16-ec12-48b9-bbbe-fe878745bb23",
-                "capacity": 19
+                "name": "Reston Pkwy & Bennington Woods Rd",
+                "station_id": "a0121df5-4df5-425f-afb8-77dc94dc6d1b",
+                "capacity": 12
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.02824711799622,
-                    38.93132185874559
+                    -77.351837,
+                    38.973625
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Mississippi Ave & 19th St SE / THEARC",
-                "station_id": "72b359a7-f70e-4b97-aaf6-2b26f09f19b1",
+                "name": "11th & Clifton St NW",
+                "station_id": "5205f20c-ded8-4469-bafd-021bc7229295",
                 "capacity": 19
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.97557,
-                    38.84377
+                    -77.02708572149277,
+                    38.9223243445331
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Benning Rd & East Capitol St NE / Benning Rd Metro",
-                "station_id": "0825176c-1f3f-11e7-bf6b-3863bb334450",
+                "name": "Anacostia Ave & East Capitol St NE",
+                "station_id": "5a3453ad-43af-495d-ba1f-e8be6b66e2e8",
                 "capacity": 19
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.93723,
-                    38.889935
+                    -76.96128,
+                    38.890461
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Anacostia Metro",
-                "station_id": "08248172-1f3f-11e7-bf6b-3863bb334450",
-                "capacity": 19
+                "name": "Maine Ave & 9th St SW",
+                "station_id": "f33b7c9d-11ff-4059-94e4-4a1206acd7a6",
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.994637,
-                    38.862669
+                    -77.025236,
+                    38.88044
                 ]
             }
         },
@@ -2569,45 +2284,45 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Potomac Ave & Half St SW",
-                "station_id": "21858490-7495-4942-b0eb-5e956db26b16",
-                "capacity": 23
+                "name": "4th St & Mississippi Ave SE",
+                "station_id": "8083cb0d-c3a4-417e-b46e-afe6cf1a7e67",
+                "capacity": 19
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.01081544160843,
-                    38.86968314861632
+                    -77.0009,
+                    38.836
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "4th & M St SE",
-                "station_id": "9a93cdb5-bd4e-43b8-87f3-81dc9063999f",
-                "capacity": 19
+                "name": "3rd & N St NE",
+                "station_id": "197e33c5-30cf-4007-b7a8-b9b1dfd064e3",
+                "capacity": 11
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.000736,
-                    38.876751
+                    -77.002109,
+                    38.907073
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Stanton Square SE",
-                "station_id": "eab74a15-a9dd-4813-a6a9-c445782f6920",
-                "capacity": 19
+                "name": "Good Hope Rd & MLK Ave SE",
+                "station_id": "0824821f-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 11
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.984512,
-                    38.855004
+                    -76.988039,
+                    38.867373
                 ]
             }
         },
@@ -2629,45 +2344,75 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Ring Rd & North Shore Dr",
-                "station_id": "bc5c6cf3-1c33-457f-a13d-f358c9909dc2",
-                "capacity": 12
+                "name": "Greensboro Metro East",
+                "station_id": "082638f2-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 15
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.326761,
-                    38.970807
+                    -77.233165204525,
+                    38.920687266851736
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Rosedale Rec Center",
-                "station_id": "92dd5072-b877-45d6-ba24-c5acbe66733b",
-                "capacity": 19
+                "name": "11th & M St NW",
+                "station_id": "0824de05-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 23
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.979634,
-                    38.897808
+                    -77.027313,
+                    38.9055785
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Fort Stanton Rec Center",
-                "station_id": "7641069c-42a6-4e3e-9769-7df51da6978d",
+                "name": "17th & P St NW",
+                "station_id": "5e828067-2fd6-4168-b150-5409754e734c",
                 "capacity": 19
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.97768801437633,
-                    38.85736903758752
+                    -77.038566,
+                    38.909858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "4th & M St SE",
+                "station_id": "9a93cdb5-bd4e-43b8-87f3-81dc9063999f",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.000736,
+                    38.876751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Park Rd & Holmead Pl NW",
+                "station_id": "08247e59-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 35
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0315,
+                    38.9308
                 ]
             }
         },
@@ -2689,6 +2434,171 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Mississippi Ave & 19th St SE / THEARC",
+                "station_id": "72b359a7-f70e-4b97-aaf6-2b26f09f19b1",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.97557,
+                    38.84377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wisconsin Ave & Rodman St NW",
+                "station_id": "c7402dc0-b498-47b0-8977-2b9d671a62bb",
+                "capacity": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.07527697086334,
+                    38.939674172021654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vy Reston Heights",
+                "station_id": "84223eb6-9964-4bd7-85f0-2b6a316c3ba1",
+                "capacity": 11
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.355299,
+                    38.949008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rhode Island & Montana Ave NE",
+                "station_id": "30c5787e-6fdb-421d-8eaf-32e652dbeae2",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.9859,
+                    38.9243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Olde Crafts Dr and Cartwright Pl",
+                "station_id": "bc4fc3e2-2050-4571-851b-47f062319f95",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.354067,
+                    38.938797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stanton Square SE",
+                "station_id": "eab74a15-a9dd-4813-a6a9-c445782f6920",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.984512,
+                    38.855004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "8th & K St NE",
+                "station_id": "3d88e01e-e071-4638-829c-543410cded50",
+                "capacity": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.99514991079923,
+                    38.90273216425078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hardy Rec Center",
+                "station_id": "d8a01502-8d6c-449f-852d-d6b409e56e11",
+                "capacity": 17
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.08564639091492,
+                    38.90970086204467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fort Stanton Rec Center",
+                "station_id": "7641069c-42a6-4e3e-9769-7df51da6978d",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.97768801437633,
+                    38.85736903758752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Anacostia Metro",
+                "station_id": "08248172-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.994637,
+                    38.862669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rosedale Rec Center",
+                "station_id": "92dd5072-b877-45d6-ba24-c5acbe66733b",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.979634,
+                    38.897808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "21st St & G st NW",
                 "station_id": "8429af9f-3adc-4db6-b96a-7fd9c75fe3a3",
                 "capacity": 19
@@ -2698,6 +2608,96 @@
                 "coordinates": [
                     -77.04691261053085,
                     38.89830173667249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "11th & Park Rd NW",
+                "station_id": "1e19ca16-ec12-48b9-bbbe-fe878745bb23",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.02824711799622,
+                    38.93132185874559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Benning Rd & East Capitol St NE / Benning Rd Metro",
+                "station_id": "0825176c-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.93723,
+                    38.889935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Potomac Ave & Half St SW",
+                "station_id": "21858490-7495-4942-b0eb-5e956db26b16",
+                "capacity": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.01081544160843,
+                    38.86968314861632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wiehle-Reston Metro South",
+                "station_id": "08263b08-1f3f-11e7-bf6b-3863bb334450",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3393914103508,
+                    38.946607921214984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ring Rd & North Shore Dr",
+                "station_id": "bc5c6cf3-1c33-457f-a13d-f358c9909dc2",
+                "capacity": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.326761,
+                    38.970807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1st & L St NW",
+                "station_id": "314fc12d-7275-4936-a245-a1febd3c95df",
+                "capacity": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.011987,
+                    38.903819
                 ]
             }
         },
